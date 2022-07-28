@@ -17,7 +17,7 @@ jobs:
         with:
           repo: maxdeviant/pluck
           platform: linux
-          arch: x86-64
+          arch: x86_64
 
       - name: Checkout
         uses: actions/checkout@v3
