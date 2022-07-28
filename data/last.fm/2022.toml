@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Starstruck'
+artist = 'Ben Gold'
+album = 'Starstruck'
+listened_at = '2022-07-28T01:00:11Z'
+
+[[tracks]]
+name = 'The Launch'
+artist = 'Cosmic Gate'
+album = 'The Launch'
+listened_at = '2022-07-28T00:56:17Z'
+
+[[tracks]]
+name = 'United Nation'
+artist = 'Megara vs DJ Lee'
+album = 'United Nation'
+listened_at = '2022-07-28T00:53:23Z'
+
+[[tracks]]
+name = 'White Dolphins'
+artist = 'Richard Durand'
+album = 'White Dolphins'
+listened_at = '2022-07-28T00:48:36Z'
+
+[[tracks]]
 name = 'Blue Hour'
 artist = 'The Blizzard'
 album = 'Blue Hour'
