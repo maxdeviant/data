@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Body Language'
+artist = 'Anberlin'
+album = 'Silverline'
+listened_at = '2022-07-31T16:43:42Z'
+
+[[tracks]]
+name = 'Nothing Lost'
+artist = 'Anberlin'
+album = 'Silverline'
+listened_at = '2022-07-31T16:39:58Z'
+
+[[tracks]]
+name = 'Two Graves'
+artist = 'Anberlin'
+album = 'Silverline'
+listened_at = '2022-07-31T16:36:06Z'
+
+[[tracks]]
 name = 'Nothing For Free'
 artist = 'Pendulum'
 album = 'Nothing For Free'
