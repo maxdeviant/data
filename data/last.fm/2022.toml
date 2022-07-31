@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Nothing For Free'
+artist = 'Pendulum'
+album = 'Nothing For Free'
+listened_at = '2022-07-30T23:39:03Z'
+
+[[tracks]]
+name = 'Without You'
+artist = 'Kill the Noise'
+album = 'Without You'
+listened_at = '2022-07-30T20:05:36Z'
+
+[[tracks]]
+name = 'Din Of Consciousness'
+artist = 'Vukari'
+album = 'EN TO PAN'
+listened_at = '2022-07-30T20:01:57Z'
+
+[[tracks]]
 name = 'When The Summer Dies'
 artist = 'deadmau5'
 album = 'When The Summer Dies'
