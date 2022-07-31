@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Make War'
+artist = 'From First to Last'
+album = 'Make War'
+listened_at = '2022-07-31T19:11:57Z'
+
+[[tracks]]
+name = 'Actin Different'
+artist = 'Belly'
+album = 'Inzombia'
+listened_at = '2022-07-31T19:09:19Z'
+
+[[tracks]]
+name = 'Keep Trying'
+artist = 'Paul Cook and The Chronicles'
+album = 'Until I Fall Asleep'
+listened_at = '2022-07-31T19:06:11Z'
+
+[[tracks]]
+name = 'Bad Behavior'
+artist = 'The Maine'
+album = 'Bad Behavior'
+listened_at = '2022-07-31T19:02:03Z'
+
+[[tracks]]
+name = 'Kennedy Curse'
+artist = 'The Maine'
+album = 'Forever Halloween'
+listened_at = '2022-07-31T18:58:15Z'
+
+[[tracks]]
+name = 'Asking'
+artist = 'Anberlin'
+album = 'Silverline'
+listened_at = '2022-07-31T16:49:09Z'
+
+[[tracks]]
 name = 'Body Language'
 artist = 'Anberlin'
 album = 'Silverline'
