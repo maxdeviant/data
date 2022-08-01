@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Firebird'
+artist = 'Dance With The Dead'
+album = 'Driven to Madness'
+listened_at = '2022-08-01T14:59:05Z'
+
+[[tracks]]
+name = 'Hazer'
+artist = 'Palence'
+album = 'Hazer'
+listened_at = '2022-08-01T14:55:37Z'
+
+[[tracks]]
+name = 'Open Mind'
+artist = 'Gonima'
+album = 'Strands'
+listened_at = '2022-08-01T14:53:00Z'
+
+[[tracks]]
+name = 'Rauch'
+artist = 'sparr00w'
+album = 'Rauch'
+listened_at = '2022-08-01T14:50:21Z'
+
+[[tracks]]
+name = 'On the Shore of Eternity'
+artist = 'Hanging Garden'
+album = 'Neither Moth nor Rust'
+listened_at = '2022-08-01T14:46:06Z'
+
+[[tracks]]
+name = 'Automata'
+artist = 'Olivier Orand'
+album = 'H+'
+listened_at = '2022-08-01T14:40:01Z'
+
+[[tracks]]
+name = 'griefling'
+artist = 'Essenger'
+album = 'griefling'
+listened_at = '2022-08-01T14:37:08Z'
+
+[[tracks]]
+name = 'Migrate'
+artist = 'Bow Church'
+album = 'The Spirits In This Forest Are Older Than Your Gods'
+listened_at = '2022-08-01T13:51:21Z'
+
+[[tracks]]
 name = 'Make War'
 artist = 'From First to Last'
 album = 'Make War'
