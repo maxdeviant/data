@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'The Drone Kingdom'
+artist = 'The Moth Gatherer'
+album = 'Esoteric Oppression'
+listened_at = '2022-08-02T14:53:09Z'
+
+[[tracks]]
+name = 'Winterreise'
+artist = 'ColdWorld'
+album = 'Melancholie²'
+listened_at = '2022-08-02T13:47:50Z'
+
+[[tracks]]
+name = 'Lake Fantasy'
+artist = 'Lantlôs'
+album = 'Wildhund'
+listened_at = '2022-08-02T13:43:36Z'
+
+[[tracks]]
+name = 'Golden Dust'
+artist = 'Heretoir'
+album = 'The Circle'
+listened_at = '2022-08-02T13:37:09Z'
+
+[[tracks]]
+name = 'Torn Beyond Reason'
+artist = 'Woods of Desolation'
+album = 'Torn Beyond Reason'
+listened_at = '2022-08-02T13:30:46Z'
+
+[[tracks]]
 name = 'Torn Beyond Reason'
 artist = 'Woods of Desolation'
 album = 'Torn Beyond Reason'
