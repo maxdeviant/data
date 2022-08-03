@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'My Eyes are the Atoms of the Sun'
+artist = 'Dystopia Nå!'
+album = 'Dweller on the Threshold'
+listened_at = '2022-08-02T22:01:09Z'
+
+[[tracks]]
+name = 'Sometimes'
+artist = 'Chrome Waves'
+album = 'The Rain Will Cleanse'
+listened_at = '2022-08-02T21:55:19Z'
+
+[[tracks]]
+name = 'We Are Gathering Dust'
+artist = 'Falloch'
+album = 'Where Distant Spirits Remain'
+listened_at = '2022-08-02T21:46:30Z'
+
+[[tracks]]
+name = 'Nothing Important Happened Today, Pt. II'
+artist = 'Apocynthion'
+album = 'Sidereus Nuncius'
+listened_at = '2022-08-02T21:25:40Z'
+
+[[tracks]]
+name = 'Fire, Walk with Me'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-08-02T21:16:32Z'
+
+[[tracks]]
+name = 'Gem Of The Ocean'
+artist = 'Aves'
+album = 'Gem of the Ocean'
+listened_at = '2022-08-02T20:23:24Z'
+
+[[tracks]]
 name = 'Along the Waves'
 artist = 'Skyforest'
 album = 'A New Dawn'
