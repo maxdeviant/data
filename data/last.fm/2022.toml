@@ -1,4 +1,94 @@
 [[tracks]]
+name = 'Saltito'
+artist = 'Blue Crystal Star'
+album = 'Vir Fortis'
+listened_at = '2022-08-03T20:45:56Z'
+
+[[tracks]]
+name = 'Traditum'
+artist = 'Blue Crystal Star'
+album = 'Vir Fortis'
+listened_at = '2022-08-03T20:41:57Z'
+
+[[tracks]]
+name = 'Somnium'
+artist = 'Blue Crystal Star'
+album = 'Vir Fortis'
+listened_at = '2022-08-03T20:37:22Z'
+
+[[tracks]]
+name = 'Vir Fortis'
+artist = 'Blue Crystal Star'
+album = 'Vir Fortis'
+listened_at = '2022-08-03T20:33:45Z'
+
+[[tracks]]
+name = 'Oraculum'
+artist = 'Blue Crystal Star'
+album = 'Vir Fortis'
+listened_at = '2022-08-03T20:28:59Z'
+
+[[tracks]]
+name = 'Legends'
+artist = 'Blue Crystal Star'
+album = 'Vir Fortis'
+listened_at = '2022-08-03T20:24:12Z'
+
+[[tracks]]
+name = 'Myth'
+artist = 'Blue Crystal Star'
+album = 'Vir Fortis'
+listened_at = '2022-08-03T20:15:56Z'
+
+[[tracks]]
+name = 'Sortis'
+artist = 'Blue Crystal Star'
+album = 'Vir Fortis'
+listened_at = '2022-08-03T20:11:30Z'
+
+[[tracks]]
+name = 'Elegy'
+artist = 'Tycho'
+album = 'Dive'
+listened_at = '2022-08-03T20:06:06Z'
+
+[[tracks]]
+name = 'Epigram'
+artist = 'Tycho'
+album = 'Dive'
+listened_at = '2022-08-03T20:03:37Z'
+
+[[tracks]]
+name = 'Adrift'
+artist = 'Tycho'
+album = 'Dive'
+listened_at = '2022-08-03T19:57:35Z'
+
+[[tracks]]
+name = 'Melanine'
+artist = 'Tycho'
+album = 'Dive'
+listened_at = '2022-08-03T19:54:42Z'
+
+[[tracks]]
+name = 'Ascension'
+artist = 'Tycho'
+album = 'Dive'
+listened_at = '2022-08-03T19:44:28Z'
+
+[[tracks]]
+name = 'Coastal Brake'
+artist = 'Tycho'
+album = 'Dive'
+listened_at = '2022-08-03T19:37:40Z'
+
+[[tracks]]
+name = 'Dive'
+artist = 'Tycho'
+album = 'Dive'
+listened_at = '2022-08-03T17:55:11Z'
+
+[[tracks]]
 name = 'Daydream'
 artist = 'Tycho'
 album = 'Dive'
