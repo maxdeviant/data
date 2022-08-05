@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Strepitus Mundi'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2022-08-04T22:14:26Z'
+
+[[tracks]]
+name = 'Forever Always Comes To An End'
+artist = 'Ultha'
+album = 'Floors Of Heaven'
+listened_at = '2022-08-04T22:09:42Z'
+
+[[tracks]]
+name = 'Monolog eines Berges'
+artist = 'Aara'
+album = 'So fallen alle Tempel'
+listened_at = '2022-08-04T20:59:02Z'
+
+[[tracks]]
 name = 'The Dwindling Spiral'
 artist = 'Sarastus'
 album = 'The Deceased Dwell In Darkness'
