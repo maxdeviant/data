@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Space Funeral'
+artist = 'Violet Cold'
+album = 'kOsmik'
+listened_at = '2022-08-09T14:57:04Z'
+
+[[tracks]]
+name = 'Mamihlapinatapai'
+artist = 'Violet Cold'
+album = 'kOsmik'
+listened_at = '2022-08-09T14:50:37Z'
+
+[[tracks]]
+name = 'Black Sun'
+artist = 'Violet Cold'
+album = 'kOsmik'
+listened_at = '2022-08-09T14:44:45Z'
+
+[[tracks]]
+name = 'Contact'
+artist = 'Violet Cold'
+album = 'kOsmik'
+listened_at = '2022-08-09T14:41:13Z'
+
+[[tracks]]
+name = 'Thirst'
+artist = 'Numenorean'
+album = 'Home'
+listened_at = '2022-08-09T13:45:01Z'
+
+[[tracks]]
+name = 'Home'
+artist = 'Numenorean'
+album = 'Home'
+listened_at = '2022-08-09T13:35:48Z'
+
+[[tracks]]
+name = 'Birth'
+artist = 'Unreqvited'
+album = 'Disquiet'
+listened_at = '2022-08-09T13:30:17Z'
+
+[[tracks]]
 name = 'Sleepless Wake'
 artist = 'Alexandra Hamilton-Ayres'
 album = 'Sleepless Wake'
