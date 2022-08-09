@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Sleepless Wake'
+artist = 'Alexandra Hamilton-Ayres'
+album = 'Sleepless Wake'
+listened_at = '2022-08-08T21:20:33Z'
+
+[[tracks]]
+name = 'Flipfrown'
+artist = 'Ambleside'
+album = 'Flipfrown'
+listened_at = '2022-08-08T21:18:20Z'
+
+[[tracks]]
+name = 'Feel Your Noise - TriS Remix Instrumental'
+artist = 'Mechanical Vein'
+album = 'Feel Your Noise (TriS Remix)'
+listened_at = '2022-08-08T21:14:44Z'
+
+[[tracks]]
+name = 'Trammel'
+artist = 'Grivo'
+album = 'Omit'
+listened_at = '2022-08-08T21:08:22Z'
+
+[[tracks]]
+name = 'Shrinking Violet'
+artist = 'Wear Your Wounds'
+album = 'Rust on the Gates of Heaven'
+listened_at = '2022-08-08T21:02:51Z'
+
+[[tracks]]
 name = 'The Sun Has Set on the Age of Man'
 artist = 'Karl Sanders'
 album = 'Saurian Apocalypse'
