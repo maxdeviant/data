@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'EARTHRISE'
+artist = 'Starset'
+album = 'HORIZONS'
+listened_at = '2022-08-10T19:55:08Z'
+
+[[tracks]]
+name = 'ICARUS'
+artist = 'Starset'
+album = 'HORIZONS'
+listened_at = '2022-08-10T19:50:20Z'
+
+[[tracks]]
+name = 'OTHERWORLDLY'
+artist = 'Starset'
+album = 'HORIZONS'
+listened_at = '2022-08-10T19:45:17Z'
+
+[[tracks]]
+name = 'THE BREACH'
+artist = 'Starset'
+album = 'HORIZONS'
+listened_at = '2022-08-10T19:40:57Z'
+
+[[tracks]]
+name = 'UNVEILING THE ARCHITECTURE'
+artist = 'Starset'
+album = 'HORIZONS'
+listened_at = '2022-08-10T19:39:13Z'
+
+[[tracks]]
+name = 'walking stick enigma_'
+artist = 'Dark'
+album = 'dark_2'
+listened_at = '2022-08-10T19:37:13Z'
+
+[[tracks]]
+name = 'neural_'
+artist = 'Dark'
+album = 'dark_2'
+listened_at = '2022-08-10T19:34:07Z'
+
+[[tracks]]
 name = 'Red River'
 artist = 'Show Me a Dinosaur'
 album = 'Plantgazer'
