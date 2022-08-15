@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'kaleidoscope'
+artist = 'Exit Dream'
+album = 'kaleidoscope'
+listened_at = '2022-08-15T15:01:54Z'
+
+[[tracks]]
+name = 'The Sun'
+artist = 'Errrilaz'
+album = 'The Sun'
+listened_at = '2022-08-15T14:51:55Z'
+
+[[tracks]]
+name = 'Lost Generation - Corvad Remix'
+artist = 'Christine'
+album = 'Lost Generation (Corvad Remix)'
+listened_at = '2022-08-15T14:47:25Z'
+
+[[tracks]]
+name = 'Blood Moon'
+artist = 'Project Silence'
+album = 'Blood Moon'
+listened_at = '2022-08-15T14:44:56Z'
+
+[[tracks]]
+name = 'The Cost'
+artist = 'Moxy The Band'
+album = 'The Cost'
+listened_at = '2022-08-15T14:41:41Z'
+
+[[tracks]]
+name = 'Breakdown (The End of Chemical Romance)'
+artist = 'Tentacle'
+album = 'Dark Noise'
+listened_at = '2022-08-15T14:34:13Z'
+
+[[tracks]]
+name = 'Foresight'
+artist = 'Nuven'
+album = 'Foresight'
+listened_at = '2022-08-15T14:29:53Z'
+
+[[tracks]]
+name = 'Anyone Else'
+artist = 'PVRIS'
+album = 'All We Know of Heaven, All We Need of Hell'
+listened_at = '2022-08-13T13:49:05Z'
+
+[[tracks]]
 name = 'Winter'
 artist = 'PVRIS'
 album = 'All We Know of Heaven, All We Need of Hell'
