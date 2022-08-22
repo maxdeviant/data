@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'TEKKEN'
+artist = 'Magnavolt'
+album = 'GEN ONE'
+listened_at = '2022-08-22T18:07:15Z'
+
+[[tracks]]
+name = 'Concrete Fluid - Demo'
+artist = 'Soft Kill'
+album = 'Press Play'
+listened_at = '2022-08-22T18:03:42Z'
+
+[[tracks]]
 name = 'The Lovely Wounded'
 artist = 'Traitrs'
 album = '''Butcher's Coin'''
