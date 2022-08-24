@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Reflection'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2022-08-24T14:35:16Z'
+
+[[tracks]]
+name = 'Mirror'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2022-08-24T14:12:46Z'
+
+[[tracks]]
 name = 'Forlist'
 artist = 'Sunken'
 album = 'Livslede'
