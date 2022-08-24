@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Neon'
+artist = 'Lantlôs'
+album = '.neon'
+listened_at = '2022-08-24T16:16:41Z'
+
+[[tracks]]
+name = 'Gas in Veins'
+artist = 'Amesoeurs'
+album = 'Amesoeurs'
+listened_at = '2022-08-24T16:11:30Z'
+
+[[tracks]]
+name = 'Oiseaux de proie'
+artist = 'Alcest'
+album = 'Kodama'
+listened_at = '2022-08-24T16:03:44Z'
+
+[[tracks]]
+name = 'Reflection'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2022-08-24T15:54:23Z'
+
+[[tracks]]
+name = 'Mirror'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2022-08-24T15:31:52Z'
+
+[[tracks]]
+name = 'Reborn II'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2022-08-24T15:15:45Z'
+
+[[tracks]]
+name = 'Reborn I'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2022-08-24T14:57:43Z'
+
+[[tracks]]
 name = 'Reflection'
 artist = 'Olhava'
 album = 'Reborn'
