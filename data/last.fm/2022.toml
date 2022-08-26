@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Tyson vs Douglas'
+artist = 'The Killers'
+album = 'Wonderful Wonderful (Deluxe)'
+listened_at = '2022-08-26T02:57:19Z'
+
+[[tracks]]
+name = 'Strobe'
+artist = 'deadmau5'
+album = 'For Lack of a Better Name (The Extended Mixes)'
+listened_at = '2022-08-26T01:53:04Z'
+
+[[tracks]]
+name = 'bombay'
+artist = 'Blvck Ceiling'
+album = 'bombay'
+listened_at = '2022-08-26T01:38:29Z'
+
+[[tracks]]
+name = 'Autumn Again'
+artist = 'An Autumn for Crippled Children'
+album = 'Try Not to Destroy Everything You Love'
+listened_at = '2022-08-26T01:19:59Z'
+
+[[tracks]]
+name = '1981'
+artist = 'Simina Grigoriu'
+album = '1981'
+listened_at = '2022-08-26T01:13:47Z'
+
+[[tracks]]
+name = 'Rock Star (feat. MNOGOZNAAL)'
+artist = 'Novo'
+album = 'RAПISDEAЦ'
+listened_at = '2022-08-26T01:08:35Z'
+
+[[tracks]]
+name = 'Nothing Lost'
+artist = 'Anberlin'
+album = 'Silverline'
+listened_at = '2022-08-25T22:12:48Z'
+
+[[tracks]]
 name = 'Torn Beyond Reason'
 artist = 'Woods of Desolation'
 album = 'Torn Beyond Reason'
