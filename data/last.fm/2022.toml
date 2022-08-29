@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Shed My Skin (feat. Annisokay)'
+artist = 'Within Temptation'
+album = '''Don't Pray For Me'''
+listened_at = '2022-08-28T22:36:07Z'
+
+[[tracks]]
+name = 'Dawn FM - OPN Remix'
+artist = 'The Weeknd'
+album = 'Dawn FM (OPN Remix)'
+listened_at = '2022-08-28T22:34:29Z'
+
+[[tracks]]
+name = 'Mirror'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2022-08-28T22:07:31Z'
+
+[[tracks]]
+name = 'Saturday Night'
+artist = 'The New Division'
+album = 'Shadows'
+listened_at = '2022-08-28T20:34:43Z'
+
+[[tracks]]
 name = 'Kaputt Finker'
 artist = 'Kokomo'
 album = 'Kokomo'
