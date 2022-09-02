@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Lunar Caustic'
+artist = 'Obscure Sphinx'
+album = 'Thaumaturgy I'
+listened_at = '2022-09-02T17:42:02Z'
+
+[[tracks]]
+name = 'Nastiez'
+artist = 'Obscure Sphinx'
+album = 'Thaumaturgy I'
+listened_at = '2022-09-02T16:55:02Z'
+
+[[tracks]]
+name = 'AIR'
+artist = 'Obscure Sphinx'
+album = 'Thaumaturgy I'
+listened_at = '2022-09-02T16:49:39Z'
+
+[[tracks]]
+name = 'Presence of Goddess'
+artist = 'Obscure Sphinx'
+album = 'Thaumaturgy I'
+listened_at = '2022-09-02T15:46:13Z'
+
+[[tracks]]
+name = 'Nothing Left'
+artist = 'Obscure Sphinx'
+album = 'Thaumaturgy I'
+listened_at = '2022-09-02T15:32:07Z'
+
+[[tracks]]
+name = 'Limbo'
+artist = 'Obscure Sphinx'
+album = 'Thaumaturgy II'
+listened_at = '2022-09-02T15:20:20Z'
+
+[[tracks]]
+name = 'Hope'
+artist = 'Obscure Sphinx'
+album = 'Thaumaturgy II'
+listened_at = '2022-09-02T15:05:36Z'
+
+[[tracks]]
+name = 'Cold Waters'
+artist = 'Obscure Sphinx'
+album = 'Thaumaturgy II'
+listened_at = '2022-09-02T14:46:17Z'
+
+[[tracks]]
 name = 'XYZ - NERO Remix'
 artist = 'deadmau5'
 album = 'XYZ (NERO remix)'
