@@ -2,6 +2,12 @@
 name = 'XYZ - NERO Remix'
 artist = 'deadmau5'
 album = 'XYZ (NERO remix)'
+listened_at = '2022-09-01T23:27:51Z'
+
+[[tracks]]
+name = 'XYZ - NERO Remix'
+artist = 'deadmau5'
+album = 'XYZ (NERO remix)'
 listened_at = '2022-09-01T23:22:28Z'
 
 [[tracks]]
