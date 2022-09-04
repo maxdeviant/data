@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'CONFIG.SYS'
+artist = 'Mnqn'
+album = 'MNQN'
+listened_at = '2022-09-04T14:13:33Z'
+
+[[tracks]]
+name = 'SLO'
+artist = 'VUKOVI'
+album = 'I EXIST'
+listened_at = '2022-09-04T14:08:56Z'
+
+[[tracks]]
+name = 'KILL IT'
+artist = 'VUKOVI'
+album = 'I EXIST'
+listened_at = '2022-09-04T14:05:24Z'
+
+[[tracks]]
+name = 'Hurt'
+artist = 'VUKOVI'
+album = 'I EXIST'
+listened_at = '2022-09-04T14:02:01Z'
+
+[[tracks]]
+name = 'LASSO'
+artist = 'VUKOVI'
+album = 'I EXIST'
+listened_at = '2022-09-04T13:59:03Z'
+
+[[tracks]]
+name = 'HADES'
+artist = 'VUKOVI'
+album = 'I EXIST'
+listened_at = '2022-09-04T13:56:15Z'
+
+[[tracks]]
+name = 'I EXIST'
+artist = 'VUKOVI'
+album = 'I EXIST'
+listened_at = '2022-09-04T13:51:48Z'
+
+[[tracks]]
+name = 'SLO'
+artist = 'VUKOVI'
+album = 'I EXIST'
+listened_at = '2022-09-03T13:52:45Z'
+
+[[tracks]]
 name = 'KILL IT'
 artist = 'VUKOVI'
 album = 'I EXIST'
