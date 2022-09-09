@@ -1,4 +1,184 @@
 [[tracks]]
+name = 'Chinese Satellite'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T20:58:00Z'
+
+[[tracks]]
+name = 'Halloween'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T20:53:28Z'
+
+[[tracks]]
+name = 'Punisher'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T20:50:19Z'
+
+[[tracks]]
+name = 'Kyoto'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T20:47:14Z'
+
+[[tracks]]
+name = 'Garden Song'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T20:43:34Z'
+
+[[tracks]]
+name = 'DVD Menu'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T20:42:26Z'
+
+[[tracks]]
+name = 'Golden'
+artist = 'We Came as Romans'
+album = 'Golden'
+listened_at = '2022-09-09T20:38:45Z'
+
+[[tracks]]
+name = 'Golden'
+artist = 'We Came as Romans'
+album = 'Golden'
+listened_at = '2022-09-09T20:35:03Z'
+
+[[tracks]]
+name = 'Golden'
+artist = 'We Came as Romans'
+album = 'Golden'
+listened_at = '2022-09-09T20:31:24Z'
+
+[[tracks]]
+name = 'You and Ai'
+artist = 'Violet Cold'
+album = 'You and Ai'
+listened_at = '2022-09-09T20:28:17Z'
+
+[[tracks]]
+name = 'You and Ai'
+artist = 'Violet Cold'
+album = 'You and Ai'
+listened_at = '2022-09-09T20:25:52Z'
+
+[[tracks]]
+name = 'Never Say Never'
+artist = 'ΛΔΛΜ'
+album = 'SUN'
+listened_at = '2022-09-09T20:20:45Z'
+
+[[tracks]]
+name = 'Super Silver Haze'
+artist = 'ΛΔΛΜ'
+album = 'SUN'
+listened_at = '2022-09-09T20:16:03Z'
+
+[[tracks]]
+name = '...And then there was Light'
+artist = 'ΛΔΛΜ'
+album = 'SUN'
+listened_at = '2022-09-09T20:10:33Z'
+
+[[tracks]]
+name = 'Funeral'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T20:07:35Z'
+
+[[tracks]]
+name = 'Motion Sickness'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T20:03:45Z'
+
+[[tracks]]
+name = 'Smoke Signals'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T19:58:20Z'
+
+[[tracks]]
+name = 'Smoke Signals (Reprise)'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T19:57:46Z'
+
+[[tracks]]
+name = 'You Missed My Heart'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T19:50:48Z'
+
+[[tracks]]
+name = 'Would You Rather'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T19:47:29Z'
+
+[[tracks]]
+name = 'Chelsea'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T19:42:48Z'
+
+[[tracks]]
+name = 'Georgia'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T19:38:41Z'
+
+[[tracks]]
+name = 'Killer'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T19:35:31Z'
+
+[[tracks]]
+name = 'Scott Street'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T19:30:26Z'
+
+[[tracks]]
+name = 'Demi Moore'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T19:27:07Z'
+
+[[tracks]]
+name = 'Funeral'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T19:23:15Z'
+
+[[tracks]]
+name = 'Motion Sickness'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T19:19:26Z'
+
+[[tracks]]
+name = 'Would You Rather'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T18:12:03Z'
+
+[[tracks]]
+name = 'Chelsea'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T18:07:21Z'
+
+[[tracks]]
+name = 'Georgia'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T18:03:14Z'
+
+[[tracks]]
 name = 'Killer'
 artist = 'Phoebe Bridgers'
 album = 'Stranger in the Alps'
