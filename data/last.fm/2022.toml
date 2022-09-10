@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Scott Street'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-10T13:59:41Z'
+
+[[tracks]]
+name = 'Demi Moore'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-10T13:56:22Z'
+
+[[tracks]]
+name = 'Funeral'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-10T13:52:30Z'
+
+[[tracks]]
+name = 'Motion Sickness'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-10T13:48:41Z'
+
+[[tracks]]
 name = 'Chinese Satellite'
 artist = 'Phoebe Bridgers'
 album = 'Punisher'
