@@ -2,6 +2,222 @@
 name = 'Chinese Satellite'
 artist = 'Phoebe Bridgers'
 album = 'Punisher'
+listened_at = '2022-09-10T00:17:55Z'
+
+[[tracks]]
+name = 'Halloween'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-10T00:13:23Z'
+
+[[tracks]]
+name = 'Punisher'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-10T00:10:14Z'
+
+[[tracks]]
+name = 'Kyoto'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-10T00:07:11Z'
+
+[[tracks]]
+name = 'Chelsea'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T23:36:36Z'
+
+[[tracks]]
+name = 'Georgia'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T23:32:29Z'
+
+[[tracks]]
+name = 'Killer'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T23:29:20Z'
+
+[[tracks]]
+name = 'Scott Street'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T23:24:14Z'
+
+[[tracks]]
+name = 'Demi Moore'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T23:20:56Z'
+
+[[tracks]]
+name = 'Funeral'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T23:17:04Z'
+
+[[tracks]]
+name = 'Motion Sickness'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-09T23:13:16Z'
+
+[[tracks]]
+name = 'ICU'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T22:32:08Z'
+
+[[tracks]]
+name = 'Savior Complex'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T22:28:07Z'
+
+[[tracks]]
+name = 'Moon Song'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T22:23:29Z'
+
+[[tracks]]
+name = 'Chinese Satellite'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T22:19:52Z'
+
+[[tracks]]
+name = 'Halloween'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T22:15:21Z'
+
+[[tracks]]
+name = 'Punisher'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T22:12:11Z'
+
+[[tracks]]
+name = 'Kyoto'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T22:09:07Z'
+
+[[tracks]]
+name = 'Garden Song'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T22:05:26Z'
+
+[[tracks]]
+name = 'DVD Menu'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T22:04:17Z'
+
+[[tracks]]
+name = 'I Know the End'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:58:07Z'
+
+[[tracks]]
+name = 'Graceland Too'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:54:10Z'
+
+[[tracks]]
+name = 'ICU'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:51:01Z'
+
+[[tracks]]
+name = 'Savior Complex'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:46:59Z'
+
+[[tracks]]
+name = 'Moon Song'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:42:21Z'
+
+[[tracks]]
+name = 'Chinese Satellite'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:38:43Z'
+
+[[tracks]]
+name = 'Halloween'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:34:11Z'
+
+[[tracks]]
+name = 'Punisher'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:31:02Z'
+
+[[tracks]]
+name = 'Kyoto'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:27:57Z'
+
+[[tracks]]
+name = 'Garden Song'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:24:18Z'
+
+[[tracks]]
+name = 'DVD Menu'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:23:07Z'
+
+[[tracks]]
+name = 'I Know the End'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:17:23Z'
+
+[[tracks]]
+name = 'Graceland Too'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:13:26Z'
+
+[[tracks]]
+name = 'ICU'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:10:16Z'
+
+[[tracks]]
+name = 'Savior Complex'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:06:14Z'
+
+[[tracks]]
+name = 'Moon Song'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-09T21:01:36Z'
+
+[[tracks]]
+name = 'Chinese Satellite'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
 listened_at = '2022-09-09T20:58:00Z'
 
 [[tracks]]
