@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Graceland Too'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-10T21:23:32Z'
+
+[[tracks]]
 name = 'ICU'
 artist = 'Phoebe Bridgers'
 album = 'Punisher'
