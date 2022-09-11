@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Halloween'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-11T15:54:17Z'
+
+[[tracks]]
+name = 'Punisher'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-11T15:51:08Z'
+
+[[tracks]]
+name = 'Kyoto'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-11T15:48:03Z'
+
+[[tracks]]
+name = 'Garden Song'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-11T15:44:24Z'
+
+[[tracks]]
+name = 'DVD Menu'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-11T15:43:13Z'
+
+[[tracks]]
+name = 'I Know the End'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-11T14:51:06Z'
+
+[[tracks]]
 name = 'Graceland Too'
 artist = 'Phoebe Bridgers'
 album = 'Punisher'
