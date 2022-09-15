@@ -1,4 +1,34 @@
 [[tracks]]
+name = '''L'appel du vide'''
+artist = 'Karg'
+album = 'Dornenvögel'
+listened_at = '2022-09-15T20:56:11Z'
+
+[[tracks]]
+name = 'Redemption'
+artist = 'Sorrow Plagues'
+album = 'Sorrow Plagues'
+listened_at = '2022-09-15T20:45:51Z'
+
+[[tracks]]
+name = 'Running up That Hill'
+artist = 'Night Rider'
+album = 'Running up That Hill'
+listened_at = '2022-09-15T20:28:03Z'
+
+[[tracks]]
+name = 'Running up That Hill'
+artist = 'Night Rider'
+album = 'Running up That Hill'
+listened_at = '2022-09-15T20:23:50Z'
+
+[[tracks]]
+name = 'The Golden Age'
+artist = 'Downfall of nur'
+album = 'Umbras de Barbagia'
+listened_at = '2022-09-15T16:52:14Z'
+
+[[tracks]]
 name = 'Endurance'
 artist = 'Any Given Day'
 album = 'Everlasting'
