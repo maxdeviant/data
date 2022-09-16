@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Reflection'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2022-09-15T21:42:20Z'
+
+[[tracks]]
+name = 'Mirror'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2022-09-15T21:19:50Z'
+
+[[tracks]]
+name = 'Part of The Band'
+artist = 'The 1975'
+album = 'part of the band'
+listened_at = '2022-09-15T21:15:29Z'
+
+[[tracks]]
+name = 'Oiseaux de proie'
+artist = 'Alcest'
+album = 'Kodama'
+listened_at = '2022-09-15T21:07:39Z'
+
+[[tracks]]
+name = 'Shoreless'
+artist = 'Numenorean'
+album = 'Home'
+listened_at = '2022-09-15T21:04:14Z'
+
+[[tracks]]
 name = '''L'appel du vide'''
 artist = 'Karg'
 album = 'Dornenvögel'
