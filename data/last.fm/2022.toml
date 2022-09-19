@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'February'
+artist = 'Belle'
+album = 'February'
+listened_at = '2022-09-19T14:48:27Z'
+
+[[tracks]]
+name = 'When'
+artist = 'Subheim'
+album = 'ΠΟΛΙΣ'
+listened_at = '2022-09-19T14:44:54Z'
+
+[[tracks]]
+name = 'The Sweetest Way To Die'
+artist = 'Tides From Nebula'
+album = 'The Sweetest Way To Die'
+listened_at = '2022-09-19T14:38:45Z'
+
+[[tracks]]
+name = 'Evangelina'
+artist = 'Rob Robinson'
+album = 'Evangelina'
+listened_at = '2022-09-19T14:34:51Z'
+
+[[tracks]]
+name = 'Firefly (feat. lavndr)'
+artist = 'Min Kang'
+album = 'Firefly (feat. lavndr)'
+listened_at = '2022-09-19T14:30:14Z'
+
+[[tracks]]
+name = 'Solastalgia'
+artist = 'Lost in Kiev'
+album = 'Solastalgia'
+listened_at = '2022-09-19T14:24:16Z'
+
+[[tracks]]
+name = 'Kobe x Pijn'
+artist = 'Bossk'
+album = 'Kobe x Pijn'
+listened_at = '2022-09-19T14:17:18Z'
+
+[[tracks]]
 name = 'Shed My Skin (feat. Annisokay)'
 artist = 'Within Temptation'
 album = '''Don't Pray For Me'''
