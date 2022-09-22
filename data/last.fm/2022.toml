@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Enlightment'
+artist = 'Totalselfhatred'
+album = 'Totalselfhatred'
+listened_at = '2022-09-22T14:56:04Z'
+
+[[tracks]]
+name = 'Kyoto'
+artist = 'Phoebe Bridgers'
+album = 'Kyoto'
+listened_at = '2022-09-22T14:52:59Z'
+
+[[tracks]]
+name = 'Motion Sickness'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-22T14:49:08Z'
+
+[[tracks]]
+name = 'Gone'
+artist = 'Charli XCX'
+album = 'Charli'
+listened_at = '2022-09-22T14:45:02Z'
+
+[[tracks]]
+name = 'Chinese Satellite'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-22T14:41:24Z'
+
+[[tracks]]
+name = 'Running up That Hill'
+artist = 'Night Rider'
+album = 'Running up That Hill'
+listened_at = '2022-09-22T14:37:11Z'
+
+[[tracks]]
+name = 'Pain Of Oizys'
+artist = 'Venom Prison'
+album = 'Erebos'
+listened_at = '2022-09-22T14:31:32Z'
+
+[[tracks]]
+name = 'Saturday City'
+artist = 'Blood Command'
+album = 'Praise Armageddonism'
+listened_at = '2022-09-22T14:27:24Z'
+
+[[tracks]]
+name = 'Born Destroyers'
+artist = 'Miss May I'
+album = 'Curse Of Existence'
+listened_at = '2022-09-22T02:52:56Z'
+
+[[tracks]]
 name = 'Free Fall'
 artist = 'Miss May I'
 album = 'Curse Of Existence'
