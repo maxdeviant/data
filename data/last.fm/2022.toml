@@ -1,4 +1,202 @@
 [[tracks]]
+name = 'Kyoto'
+artist = 'Phoebe Bridgers'
+album = 'Kyoto'
+listened_at = '2022-09-22T23:41:37Z'
+
+[[tracks]]
+name = 'Motion Sickness'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2022-09-22T23:37:45Z'
+
+[[tracks]]
+name = 'Gone'
+artist = 'Charli XCX'
+album = 'Charli'
+listened_at = '2022-09-22T23:33:39Z'
+
+[[tracks]]
+name = 'Chinese Satellite'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-22T23:30:02Z'
+
+[[tracks]]
+name = 'Saturday City'
+artist = 'Blood Command'
+album = 'Praise Armageddonism'
+listened_at = '2022-09-22T23:24:55Z'
+
+[[tracks]]
+name = 'Yin'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T23:19:05Z'
+
+[[tracks]]
+name = 'Zealot'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T23:13:29Z'
+
+[[tracks]]
+name = 'The Heart of Atlantis (feat. Jakub Zytecki & Chris Letchford)'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T23:09:09Z'
+
+[[tracks]]
+name = 'Agarthian'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T23:04:50Z'
+
+[[tracks]]
+name = 'The Shroud'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:58:46Z'
+
+[[tracks]]
+name = 'Perturb'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:55:54Z'
+
+[[tracks]]
+name = 'The Scientific Sophism'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:45:54Z'
+
+[[tracks]]
+name = 'THE LAST GOODBYE'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:39:50Z'
+
+[[tracks]]
+name = 'Siqqitiq'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:34:40Z'
+
+[[tracks]]
+name = 'Hypocrite'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:30:22Z'
+
+[[tracks]]
+name = 'Actions Speak Louder Than Words'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:24:57Z'
+
+[[tracks]]
+name = 'Chaosbreaker'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:20:32Z'
+
+[[tracks]]
+name = 'We are Creating at this Moment, what our Tomorrow will be'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:16:05Z'
+
+[[tracks]]
+name = 'Yang'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:11:41Z'
+
+[[tracks]]
+name = 'Yin'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:05:42Z'
+
+[[tracks]]
+name = 'Zealot'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T22:00:07Z'
+
+[[tracks]]
+name = 'The Heart of Atlantis (feat. Jakub Zytecki & Chris Letchford)'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:55:46Z'
+
+[[tracks]]
+name = 'Agarthian'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:51:27Z'
+
+[[tracks]]
+name = 'The Shroud'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:45:24Z'
+
+[[tracks]]
+name = 'Perturb'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:42:30Z'
+
+[[tracks]]
+name = 'The Scientific Sophism'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:38:09Z'
+
+[[tracks]]
+name = 'THE LAST GOODBYE'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:32:06Z'
+
+[[tracks]]
+name = 'Siqqitiq'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:26:56Z'
+
+[[tracks]]
+name = 'Hypocrite'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:22:38Z'
+
+[[tracks]]
+name = 'Actions Speak Louder Than Words'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:17:13Z'
+
+[[tracks]]
+name = 'Chaosbreaker'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:12:48Z'
+
+[[tracks]]
+name = 'We are Creating at this Moment, what our Tomorrow will be'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:08:21Z'
+
+[[tracks]]
+name = 'Yang'
+artist = 'Flux Conduct'
+album = 'Qatsi'
+listened_at = '2022-09-22T21:03:57Z'
+
+[[tracks]]
 name = 'Yin'
 artist = 'Flux Conduct'
 album = 'Qatsi'
