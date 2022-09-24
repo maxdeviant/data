@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'I EXIST'
+artist = 'VUKOVI'
+album = 'I EXIST'
+listened_at = '2022-09-23T21:39:56Z'
+
+[[tracks]]
+name = 'Gone'
+artist = 'Charli XCX'
+album = 'Charli'
+listened_at = '2022-09-23T21:35:44Z'
+
+[[tracks]]
+name = 'Chinese Satellite'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-09-23T21:32:06Z'
+
+[[tracks]]
+name = 'Running up That Hill'
+artist = 'Night Rider'
+album = 'Running up That Hill'
+listened_at = '2022-09-23T21:27:54Z'
+
+[[tracks]]
+name = 'Saturday City'
+artist = 'Blood Command'
+album = 'Praise Armageddonism'
+listened_at = '2022-09-23T21:23:42Z'
+
+[[tracks]]
+name = 'So Heavy I Fell Through the Earth - Algorithm Mix'
+artist = 'Grimes'
+album = 'Miss Anthropocene (Deluxe Edition)'
+listened_at = '2022-09-23T21:07:42Z'
+
+[[tracks]]
+name = 'We Appreciate Power'
+artist = 'Grimes'
+album = 'Miss Anthropocene (Deluxe Edition)'
+listened_at = '2022-09-23T21:02:06Z'
+
+[[tracks]]
 name = 'IDORU'
 artist = 'Grimes'
 album = 'Miss Anthropocene (Deluxe Edition)'
