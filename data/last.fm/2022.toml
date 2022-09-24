@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Last Call'
+artist = 'Darci'
+album = 'Long Days Away EP'
+listened_at = '2022-09-24T00:40:42Z'
+
+[[tracks]]
+name = 'Rose Petals'
+artist = 'Darci'
+album = 'Long Days Away EP'
+listened_at = '2022-09-24T00:37:45Z'
+
+[[tracks]]
+name = 'All Eyes On Me'
+artist = '''Drewsif Stalin's Musical Endeavors'''
+album = 'All Eyes On Me'
+listened_at = '2022-09-24T00:33:44Z'
+
+[[tracks]]
+name = 'Taking Pictures'
+artist = 'The Ready Set'
+album = 'V2'
+listened_at = '2022-09-23T21:44:09Z'
+
+[[tracks]]
 name = 'I EXIST'
 artist = 'VUKOVI'
 album = 'I EXIST'
