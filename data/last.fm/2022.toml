@@ -1,4 +1,94 @@
 [[tracks]]
+name = 'American Teenager'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T22:23:48Z'
+
+[[tracks]]
+name = 'Family Tree (Intro)'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T22:20:07Z'
+
+[[tracks]]
+name = 'Strangers'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T22:14:22Z'
+
+[[tracks]]
+name = 'Sun Bleached Flies'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T22:06:16Z'
+
+[[tracks]]
+name = 'Televangelism'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T22:02:12Z'
+
+[[tracks]]
+name = 'August Underground'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T21:58:32Z'
+
+[[tracks]]
+name = 'Ptolemaea'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T21:52:07Z'
+
+[[tracks]]
+name = 'Gibson Girl'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T21:46:25Z'
+
+[[tracks]]
+name = 'Thoroughfare'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T21:36:57Z'
+
+[[tracks]]
+name = 'Hard Times'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T21:31:55Z'
+
+[[tracks]]
+name = 'family tree'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T21:24:44Z'
+
+[[tracks]]
+name = 'Western Nights'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T21:18:39Z'
+
+[[tracks]]
+name = 'A House in Nebraska'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T21:10:53Z'
+
+[[tracks]]
+name = 'American Teenager'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T21:06:35Z'
+
+[[tracks]]
+name = 'Family Tree (Intro)'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-03T21:02:54Z'
+
+[[tracks]]
 name = 'August Underground'
 artist = 'Ethel Cain'
 album = 'Preacher’s Daughter'
