@@ -1,4 +1,106 @@
 [[tracks]]
+name = 'Sunday Morning'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-04T23:38:31Z'
+
+[[tracks]]
+name = 'Golden Age'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-04T23:31:44Z'
+
+[[tracks]]
+name = 'Thoroughfare'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T22:23:09Z'
+
+[[tracks]]
+name = 'Hard Times'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T22:18:07Z'
+
+[[tracks]]
+name = 'family tree'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T22:10:56Z'
+
+[[tracks]]
+name = 'Western Nights'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T22:04:50Z'
+
+[[tracks]]
+name = 'A House in Nebraska'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T21:57:03Z'
+
+[[tracks]]
+name = 'American Teenager'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T21:52:44Z'
+
+[[tracks]]
+name = 'Family Tree (Intro)'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T21:49:03Z'
+
+[[tracks]]
+name = 'Strangers'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T21:43:18Z'
+
+[[tracks]]
+name = 'Sun Bleached Flies'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T21:35:42Z'
+
+[[tracks]]
+name = 'Televangelism'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T21:32:38Z'
+
+[[tracks]]
+name = 'August Underground'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T21:28:57Z'
+
+[[tracks]]
+name = 'Ptolemaea'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T21:22:33Z'
+
+[[tracks]]
+name = 'Gibson Girl'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T21:16:52Z'
+
+[[tracks]]
+name = 'Thoroughfare'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T21:07:23Z'
+
+[[tracks]]
+name = 'Hard Times'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-04T21:02:21Z'
+
+[[tracks]]
 name = 'family tree'
 artist = 'Ethel Cain'
 album = 'Preacher’s Daughter'
