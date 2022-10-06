@@ -2,6 +2,18 @@
 name = 'Golden Age'
 artist = 'Ethel Cain'
 album = 'Golden Age'
+listened_at = '2022-10-06T01:29:48Z'
+
+[[tracks]]
+name = 'Golden Age'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-06T01:22:54Z'
+
+[[tracks]]
+name = 'Golden Age'
+artist = 'Ethel Cain'
+album = 'Golden Age'
 listened_at = '2022-10-06T00:13:45Z'
 
 [[tracks]]
