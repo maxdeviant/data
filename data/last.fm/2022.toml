@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Golden Age'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-06T00:13:45Z'
+
+[[tracks]]
+name = 'Golden Age'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-06T00:07:33Z'
+
+[[tracks]]
+name = 'Golden Age'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-06T00:00:22Z'
+
+[[tracks]]
+name = 'HADES'
+artist = 'VUKOVI'
+album = 'QUENCH'
+listened_at = '2022-10-05T21:15:34Z'
+
+[[tracks]]
+name = 'I EXIST'
+artist = 'VUKOVI'
+album = 'QUENCH'
+listened_at = '2022-10-05T21:11:04Z'
+
+[[tracks]]
+name = 'QUENCH'
+artist = 'VUKOVI'
+album = 'QUENCH'
+listened_at = '2022-10-05T21:07:59Z'
+
+[[tracks]]
+name = 'New Mode'
+artist = 'Kid Cudi'
+album = 'Entergalactic'
+listened_at = '2022-10-05T21:03:44Z'
+
+[[tracks]]
 name = 'Entergalactic Theme'
 artist = 'Kid Cudi'
 album = 'Entergalactic'
