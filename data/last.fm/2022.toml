@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Knuckle Velvet'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-06T22:54:54Z'
+
+[[tracks]]
+name = 'Head in the Wall'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-06T22:48:13Z'
+
+[[tracks]]
+name = 'Lilies'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-06T22:43:09Z'
+
+[[tracks]]
+name = 'Casings'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-06T22:37:54Z'
+
+[[tracks]]
+name = 'Sunday Morning'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-06T22:33:15Z'
+
+[[tracks]]
+name = 'Golden Age'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-10-06T22:27:11Z'
+
+[[tracks]]
+name = 'Family Tree (Intro)'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-10-06T21:37:31Z'
+
+[[tracks]]
+name = 'Spectral Passenger'
+artist = 'I Hear Sirens'
+album = 'Spectral Passenger'
+listened_at = '2022-10-06T20:27:35Z'
+
+[[tracks]]
 name = 'Spectral Passenger'
 artist = 'I Hear Sirens'
 album = 'Spectral Passenger'
