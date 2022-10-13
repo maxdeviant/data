@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Sweet Desire'
+artist = 'Roman Messer'
+album = 'Dream'
+listened_at = '2022-10-13T03:53:51Z'
+
+[[tracks]]
+name = 'Zeus'
+artist = 'DRYM'
+album = 'Zeus'
+listened_at = '2022-10-13T03:50:39Z'
+
+[[tracks]]
 name = 'Evolver'
 artist = 'Ahmed Helmy'
 album = 'Evolver'
