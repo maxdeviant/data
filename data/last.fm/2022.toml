@@ -1,4 +1,64 @@
 [[tracks]]
+name = 'Duality'
+artist = 'Paul van Dyk'
+album = 'Duality'
+listened_at = '2022-10-15T13:45:38Z'
+
+[[tracks]]
+name = 'Laminar Flow'
+artist = 'Tommy Baynen'
+album = 'Laminar Flow / Photograph'
+listened_at = '2022-10-15T13:40:56Z'
+
+[[tracks]]
+name = 'Moon Rocks'
+artist = 'Enrico Sangiuliano'
+album = 'Moon Rocks'
+listened_at = '2022-10-15T13:33:23Z'
+
+[[tracks]]
+name = 'Adrenaline - James Dymond Remix'
+artist = 'Bryan Kearney'
+album = 'Adrenaline (James Dymond Remix)'
+listened_at = '2022-10-15T13:29:51Z'
+
+[[tracks]]
+name = 'Drift'
+artist = 'David Forbes'
+album = 'Drift'
+listened_at = '2022-10-15T13:26:08Z'
+
+[[tracks]]
+name = 'Without You'
+artist = 'GxD'
+album = 'Without You'
+listened_at = '2022-10-15T13:23:07Z'
+
+[[tracks]]
+name = 'Never Forgotten'
+artist = 'Mark Sixma'
+album = 'Never Forgotten'
+listened_at = '2022-10-15T13:20:12Z'
+
+[[tracks]]
+name = 'Light Years'
+artist = 'Cosmic Gate'
+album = '20 Years [Forward Ever Backward Never]'
+listened_at = '2022-10-15T13:15:59Z'
+
+[[tracks]]
+name = 'Firefly'
+artist = 'Iwantsummer'
+album = 'Firefly'
+listened_at = '2022-10-15T13:09:03Z'
+
+[[tracks]]
+name = 'Saving Night'
+artist = 'Mike Zaloxx'
+album = 'Saving Night'
+listened_at = '2022-10-15T13:08:23Z'
+
+[[tracks]]
 name = 'Funeral Dreams'
 artist = 'Harakiri for the Sky'
 album = 'III:Trauma'
