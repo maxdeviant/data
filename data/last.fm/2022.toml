@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'forgive the world'
+artist = 'Nessa Barrett'
+album = 'young forever'
+listened_at = '2022-10-20T15:02:34Z'
+
+[[tracks]]
+name = 'dear god'
+artist = 'Nessa Barrett'
+album = 'young forever'
+listened_at = '2022-10-20T15:00:23Z'
+
+[[tracks]]
+name = 'talk to myself'
+artist = 'Nessa Barrett'
+album = 'young forever'
+listened_at = '2022-10-20T14:57:37Z'
+
+[[tracks]]
+name = 'gaslight'
+artist = 'Nessa Barrett'
+album = 'young forever'
+listened_at = '2022-10-20T14:54:21Z'
+
+[[tracks]]
+name = 'tired of california'
+artist = 'Nessa Barrett'
+album = 'young forever'
+listened_at = '2022-10-20T14:51:11Z'
+
+[[tracks]]
 name = 'Concrete Hands'
 artist = 'Million Moons'
 album = 'Gap in the Clouds'
