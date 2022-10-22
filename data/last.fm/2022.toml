@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Anti-Hero'
+artist = 'Taylor Swift'
+album = 'Midnights'
+listened_at = '2022-10-22T14:27:44Z'
+
+[[tracks]]
+name = 'Maroon'
+artist = 'Taylor Swift'
+album = 'Midnights'
+listened_at = '2022-10-22T14:24:06Z'
+
+[[tracks]]
+name = 'lAveNDER hAZe'
+artist = 'Taylor Swift'
+album = 'Midnights'
+listened_at = '2022-10-22T14:20:46Z'
+
+[[tracks]]
 name = 'Go Find Yourself or Whatever'
 artist = 'Carly Rae Jepsen'
 album = 'The Loneliest Time'
