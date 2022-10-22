@@ -1,4 +1,10 @@
 [[tracks]]
+name = '''you're On Your OWn, KId'''
+artist = 'Taylor Swift'
+album = 'Midnights'
+listened_at = '2022-10-22T18:02:31Z'
+
+[[tracks]]
 name = 'sNOw on the beach (feat. lana del rey)'
 artist = 'Taylor Swift'
 album = 'Midnights'
