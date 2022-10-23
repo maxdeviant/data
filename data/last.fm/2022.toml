@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'I Want You - Edit'
+artist = 'Boris Brejcha'
+album = 'I Want You'
+listened_at = '2022-10-23T20:00:47Z'
+
+[[tracks]]
+name = 'Jawbreaker'
+artist = 'Boris Brejcha'
+album = 'Club Vibes Part 02'
+listened_at = '2022-10-23T19:53:22Z'
+
+[[tracks]]
+name = 'Bumblebee'
+artist = 'Boris Brejcha'
+album = 'Club Vibes Part 02'
+listened_at = '2022-10-23T19:45:31Z'
+
+[[tracks]]
+name = 'Schwarz'
+artist = 'Boris Brejcha'
+album = 'Club Vibes Part 03'
+listened_at = '2022-10-23T18:49:57Z'
+
+[[tracks]]
+name = 'In The Shadows'
+artist = 'Boris Brejcha'
+album = 'Club Vibes Part 03'
+listened_at = '2022-10-23T18:41:49Z'
+
+[[tracks]]
+name = 'Darkness'
+artist = 'Boris Brejcha'
+album = 'Timelapse'
+listened_at = '2022-10-23T18:33:51Z'
+
+[[tracks]]
+name = 'Timelapse'
+artist = 'Boris Brejcha'
+album = 'Timelapse'
+listened_at = '2022-10-23T18:25:40Z'
+
+[[tracks]]
+name = 'Beach House'
+artist = 'Carly Rae Jepsen'
+album = 'The Loneliest Time'
+listened_at = '2022-10-23T17:09:30Z'
+
+[[tracks]]
 name = 'Sideways'
 artist = 'Carly Rae Jepsen'
 album = 'The Loneliest Time'
