@@ -1,0 +1,462 @@
+[[tweets]]
+id = 1476551852057636868
+created_at = '2021-12-30T13:52:49Z'
+text = '🧵 https://t.co/ovp1Zguql2'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/AidanCTweets/s…'
+expanded_url = 'https://twitter.com/AidanCTweets/status/1475804032484655115'
+url = 'https://t.co/ovp1Zguql2'
+
+[[tweets]]
+id = 1474739222707855363
+created_at = '2021-12-25T13:50:04Z'
+text = '🧵 https://t.co/69sKfoOOIC'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/Bob_Wachter/st…'
+expanded_url = 'https://twitter.com/Bob_Wachter/status/1474514977650196480'
+url = 'https://t.co/69sKfoOOIC'
+
+[[tweets]]
+id = 1473472931372179464
+created_at = '2021-12-22T01:58:17Z'
+text = '''Wonder how long this list will be by the time it's all over? https://t.co/Aok3cwoWCD'''
+[[tweets.entities.media]]
+id = 1473472832235618310
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FHLTu--XwAYOYFm.jpg'
+
+[[tweets]]
+id = 1472012584249348103
+created_at = '2021-12-18T01:15:23Z'
+text = 'Anyone still want to pipe up about how NFTs are about artists getting paid for their work? https://t.co/5BlzE1MgQW'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/Eskiworks/stat…'
+expanded_url = 'https://twitter.com/Eskiworks/status/1472001510355525635'
+url = 'https://t.co/5BlzE1MgQW'
+
+[[tweets]]
+id = 1471480832888311812
+created_at = '2021-12-16T14:02:24Z'
+text = 'The Witcher 3: Wild Ass https://t.co/PvZd15vSEv'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/Drexl_Raz/stat…'
+expanded_url = 'https://twitter.com/Drexl_Raz/status/1471002393017991172'
+url = 'https://t.co/PvZd15vSEv'
+
+[[tweets]]
+id = 1468413420965961732
+created_at = '2021-12-08T02:53:36Z'
+text = '''
+Higher-order loaders? 🤔
+
+Am I doing this right, @remix_run? https://t.co/17gqInEMum'''
+[[tweets.entities.media]]
+id = 1468412876662652939
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FGDZuzkWQAsqrGP.jpg'
+
+[[tweets]]
+id = 1468358951569960967
+created_at = '2021-12-07T23:17:09Z'
+text = '''
+Coming up on the end of day 2 of Hack Week at @WorkOS.
+
+I've been working on a project in @remix_run and been having an absolute blast doing so 😍'''
+
+[[tweets]]
+id = 1466228774765318150
+created_at = '2021-12-02T02:12:35Z'
+text = '''
+Just finished Day 1 of Advent of Code.
+
+I'll be using PureScript again this year, solutions can be found here: https://t.co/h4qsJD7JGJ
+
+No cheating! 😉
+
+#AdventOfCode2021 #PureScript'''
+[[tweets.entities.urls]]
+display_url = 'github.com/maxdeviant/adv…'
+expanded_url = 'https://github.com/maxdeviant/advent-of-code/tree/master/2021/purescript'
+url = 'https://t.co/h4qsJD7JGJ'
+
+[[tweets]]
+id = 1461201279720599552
+created_at = '2021-11-18T05:15:07Z'
+text = 'This is officially the worst timeline. https://t.co/eUgsTrlB4K'
+[[tweets.entities.media]]
+id = 1461201276457426945
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FEc60bSXoAEAgam.jpg'
+
+[[tweets]]
+id = 1460062083739959301
+created_at = '2021-11-15T01:48:22Z'
+text = 'Society if programming were liberated from the von Neumann style https://t.co/jFjnW47trx'
+[[tweets.entities.media]]
+id = 1460061671121117198
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FEMuWqlWYA4FD_e.png'
+
+[[tweets]]
+id = 1458957402724880385
+created_at = '2021-11-12T00:38:45Z'
+text = 'It saddens me that some of my favorite artists are going down the NFT hellhole 😞'
+
+[[tweets]]
+id = 1458662825199603712
+created_at = '2021-11-11T05:08:12Z'
+text = '''
+Programs as Lego Structures
+
+https://t.co/bpah9kjwXj'''
+[[tweets.entities.urls]]
+display_url = 'maxdeviant.com/shards/2021/pr…'
+expanded_url = 'https://maxdeviant.com/shards/2021/programs-as-lego-structures/'
+url = 'https://t.co/bpah9kjwXj'
+
+[[tweets]]
+id = 1458433723398041605
+created_at = '2021-11-10T13:57:50Z'
+text = '🧵 https://t.co/R8vu5Jna35'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/hmsnofun/statu…'
+expanded_url = 'https://twitter.com/hmsnofun/status/1458174225651539983'
+url = 'https://t.co/R8vu5Jna35'
+
+[[tweets]]
+id = 1458425464544956418
+created_at = '2021-11-10T13:25:01Z'
+text = '''
+It’s been a whole year since the last one, but issue 16 of Errata Exist is now waiting for you in your inbox.
+
+Sign up now and get the latest issue right away: https://t.co/0ZWKnX6REB'''
+[[tweets.entities.urls]]
+display_url = 'maxdeviant.com/newsletter/'
+expanded_url = 'https://maxdeviant.com/newsletter/'
+url = 'https://t.co/0ZWKnX6REB'
+
+[[tweets]]
+id = 1457880933349138442
+created_at = '2021-11-09T01:21:15Z'
+text = '''
+Discord was nice while it lasted.
+
+@discord @jasoncitron Please don’t ruin an amazing platform with crypto/NFT garbage https://t.co/5rTUSYf1Dk'''
+[[tweets.entities.urls]]
+display_url = 'twitter.com/jasoncitron/st…'
+expanded_url = 'https://twitter.com/jasoncitron/status/1457841222995693570'
+url = 'https://t.co/5rTUSYf1Dk'
+
+[[tweets]]
+id = 1457860656942788612
+created_at = '2021-11-09T00:00:41Z'
+text = 'Crypto? How about “crypt-NO”'
+
+[[tweets]]
+id = 1457395228948647941
+created_at = '2021-11-07T17:11:14Z'
+text = 'The correct response to NFTs https://t.co/bC22EiLMf7'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/sarah_edo/stat…'
+expanded_url = 'https://twitter.com/sarah_edo/status/1457389328686931968'
+url = 'https://t.co/bC22EiLMf7'
+
+[[tweets]]
+id = 1456428194987380736
+created_at = '2021-11-05T01:08:35Z'
+text = 'https://t.co/z1GNrTjCKb https://t.co/MyC39Uz7Ue'
+[[tweets.entities.urls]]
+display_url = 'rust-lang.org/learn'
+expanded_url = 'https://www.rust-lang.org/learn'
+url = 'https://t.co/z1GNrTjCKb'
+
+[[tweets.entities.urls]]
+display_url = 'twitter.com/jsjoeio/status…'
+expanded_url = 'https://twitter.com/jsjoeio/status/1456424972650381319'
+url = 'https://t.co/MyC39Uz7Ue'
+
+[[tweets]]
+id = 1456091241087700993
+created_at = '2021-11-04T02:49:39Z'
+text = 'https://t.co/VuxxhK0sID https://t.co/Vo1hgL9SOb'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/jeanqasaur/sta…'
+expanded_url = 'https://twitter.com/jeanqasaur/status/1456081492010958851'
+url = 'https://t.co/VuxxhK0sID'
+
+[[tweets.entities.media]]
+id = 1456091046190981120
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FDUTF4DXIAA785S.jpg'
+
+[[tweets]]
+id = 1455998714800185348
+created_at = '2021-11-03T20:41:59Z'
+text = '''
+Today marks my one year anniversary at @WorkOS!
+
+And what a year it's been. Joining WorkOS was undoubtedly the best decision I could have made for my career; I've grown and learned so much over the past year.
+
+I'm so thankful to be part of such a kind and talented team 🥰'''
+
+[[tweets]]
+id = 1453839967667507204
+created_at = '2021-10-28T21:43:53Z'
+text = '''Anyone else upset that Facebook didn't rebrand as "Smoked Metas"?'''
+
+[[tweets]]
+id = 1453343424845844480
+created_at = '2021-10-27T12:50:48Z'
+text = 'This thread is incredible https://t.co/2NbsB7mS8g'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/QuinnyPig/stat…'
+expanded_url = 'https://twitter.com/QuinnyPig/status/1453214680764219392'
+url = 'https://t.co/2NbsB7mS8g'
+
+[[tweets]]
+id = 1452977332654944263
+created_at = '2021-10-26T12:36:05Z'
+text = '''
+This thread just showcases how dumb NFTs are.
+
+You can’t make infinite copies of real estate by spamming Ctrl-V a bunch of times. https://t.co/Dyc5PzHUrQ'''
+[[tweets.entities.urls]]
+display_url = 'twitter.com/punk6529/statu…'
+expanded_url = 'https://twitter.com/punk6529/status/1452797543478448129'
+url = 'https://t.co/Dyc5PzHUrQ'
+
+[[tweets]]
+id = 1452623061736378373
+created_at = '2021-10-25T13:08:21Z'
+text = '''
+A not-yet-in-the-shower thought:
+
+What if instead of trying to ban E2EE outright we simply made it age restricted?
+
+Would certainly shut up all the politicians decrying encryption for the nonsense reason of “think of the children”.'''
+
+[[tweets]]
+id = 1451171325414891521
+created_at = '2021-10-21T12:59:40Z'
+text = '🧵 https://t.co/PjdbhS9rmj'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/FoldableHuman/…'
+expanded_url = 'https://twitter.com/FoldableHuman/status/1445986978189639680'
+url = 'https://t.co/PjdbhS9rmj'
+
+[[tweets]]
+id = 1450674056966049797
+created_at = '2021-10-20T04:03:42Z'
+text = 'Just some more fuel to toss on the tire fire that is NFTs. https://t.co/xrK04Z0YPm'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/KenneyNL/statu…'
+expanded_url = 'https://twitter.com/KenneyNL/status/1450659928012644354'
+url = 'https://t.co/xrK04Z0YPm'
+
+[[tweets]]
+id = 1440300953064726534
+created_at = '2021-09-21T13:04:41Z'
+text = '🧵 https://t.co/AXQmBGHtQq'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/Foone/status/1…'
+expanded_url = 'https://twitter.com/Foone/status/1440014690831126528'
+url = 'https://t.co/AXQmBGHtQq'
+
+[[tweets]]
+id = 1438719911325577217
+created_at = '2021-09-17T04:22:11Z'
+text = 'I was looking forward to the pipeline operator, but now I think I just need to swear off JS forever, save as a compilation target. https://t.co/nHF4sAboN3'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/OliverJAsh/sta…'
+expanded_url = 'https://twitter.com/OliverJAsh/status/1433714776383893511'
+url = 'https://t.co/nHF4sAboN3'
+
+[[tweets]]
+id = 1438696627712233473
+created_at = '2021-09-17T02:49:40Z'
+text = '''
+I love finding commits like this while browsing GitHub: https://t.co/v1e1bx7ZUs
+
+Maybe I should start a collection?'''
+[[tweets.entities.urls]]
+display_url = 'github.com/hdgarrood/dotf…'
+expanded_url = 'https://github.com/hdgarrood/dotfiles/commit/abe61b3a25bf798a77d5d4d22b2a529a7233a5ea'
+url = 'https://t.co/v1e1bx7ZUs'
+
+[[tweets]]
+id = 1436310077825298476
+created_at = '2021-09-10T12:46:22Z'
+text = '🧵 https://t.co/Md9u7nDI2M'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/dsymetweets/st…'
+expanded_url = 'https://twitter.com/dsymetweets/status/1436130456324526081'
+url = 'https://t.co/Md9u7nDI2M'
+
+[[tweets]]
+id = 1431690255078465543
+created_at = '2021-08-28T18:48:50Z'
+text = '🍿 https://t.co/ZoFvFFpQnb'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/bcantrill/stat…'
+expanded_url = 'https://twitter.com/bcantrill/status/1431645177278390280'
+url = 'https://t.co/ZoFvFFpQnb'
+
+[[tweets]]
+id = 1428832440999682049
+created_at = '2021-08-20T21:32:55Z'
+text = '''
+"Alright, time for some crimes." — @steveklabnik
+
+https://t.co/NDMZxoGZVQ'''
+[[tweets.entities.urls]]
+display_url = 'youtube.com/watch?v=bze2FA…'
+expanded_url = 'https://www.youtube.com/watch?v=bze2FAUu32Q'
+url = 'https://t.co/NDMZxoGZVQ'
+
+[[tweets]]
+id = 1428050520485289993
+created_at = '2021-08-18T17:45:50Z'
+text = 'A dating app for the dissatisfied: grumble https://t.co/bPWwyqUgNA'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/iamkory/status…'
+expanded_url = 'https://twitter.com/iamkory/status/1428049970989395968'
+url = 'https://t.co/bPWwyqUgNA'
+
+[[tweets]]
+id = 1427845471125614597
+created_at = '2021-08-18T04:11:03Z'
+text = 'I hear if you say “TLA+” in the mirror three times @hillelogram shows up behind you to talk about formal methods https://t.co/cvhLOCdzkb'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/digitalmentat/…'
+expanded_url = 'https://twitter.com/digitalmentat/status/1427828474652336136'
+url = 'https://t.co/cvhLOCdzkb'
+
+[[tweets]]
+id = 1427706177232809988
+created_at = '2021-08-17T18:57:32Z'
+text = '''
+If you're looking for how to treat women (or anyone, for that matter), this ain't it.
+
+Can't believe some of the stuff that is being said about and to Cher. Absolutely appalling. https://t.co/2CmupLD14d'''
+[[tweets.entities.urls]]
+display_url = 'twitter.com/cherthedev/sta…'
+expanded_url = 'https://twitter.com/cherthedev/status/1427662429383659528'
+url = 'https://t.co/2CmupLD14d'
+
+[[tweets]]
+id = 1427697244007018498
+created_at = '2021-08-17T18:22:02Z'
+text = '✨ Artisanal monad transformer stacks ✨'
+
+[[tweets]]
+id = 1425977465013473286
+created_at = '2021-08-13T00:28:15Z'
+text = '''What a great thread on Twitter's godawful design changes. https://t.co/mMu0CYnoho'''
+[[tweets.entities.urls]]
+display_url = 'twitter.com/mcclure111/sta…'
+expanded_url = 'https://twitter.com/mcclure111/status/1425502096980328451'
+url = 'https://t.co/mMu0CYnoho'
+
+[[tweets]]
+id = 1418412398432690184
+created_at = '2021-07-23T03:27:23Z'
+text = 'I’m a Functor! https://t.co/hnGah5hkIa via @impurepics'
+[[tweets.entities.urls]]
+display_url = 'imgur.com/Qfre8mA'
+expanded_url = 'https://imgur.com/Qfre8mA'
+url = 'https://t.co/hnGah5hkIa'
+
+[[tweets]]
+id = 1416158769382400002
+created_at = '2021-07-16T22:12:16Z'
+text = 'This pretty succinctly sums up how I feel about debuggers https://t.co/nYeBNcD2UB'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/isaac_abraham/…'
+expanded_url = 'https://twitter.com/isaac_abraham/status/1416141146707931137'
+url = 'https://t.co/nYeBNcD2UB'
+
+[[tweets]]
+id = 1415308311344332804
+created_at = '2021-07-14T13:52:51Z'
+text = 'Hey @verified, why don’t you fix this (and verify @cherthedev while you’re at it)? https://t.co/lq6ilQfGk0'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/cherthedev/sta…'
+expanded_url = 'https://twitter.com/cherthedev/status/1415297107884380165'
+url = 'https://t.co/lq6ilQfGk0'
+
+[[tweets]]
+id = 1411071231093362689
+created_at = '2021-07-02T21:16:12Z'
+text = '''Looks like it's already happening (unsurprisingly): https://t.co/B4f9Kz3V8v https://t.co/9IsohkJOf7'''
+[[tweets.entities.urls]]
+display_url = 'jakearchibald.com/2021/encoding-…'
+expanded_url = 'https://jakearchibald.com/2021/encoding-data-for-post-requests/'
+url = 'https://t.co/B4f9Kz3V8v'
+
+[[tweets.entities.urls]]
+display_url = 'twitter.com/maxdeviant/sta…'
+expanded_url = 'https://twitter.com/maxdeviant/status/1410985048166309891'
+url = 'https://t.co/9IsohkJOf7'
+
+[[tweets]]
+id = 1410985048166309891
+created_at = '2021-07-02T15:33:44Z'
+text = '''I can't wait for GitHub Copilot to use existing lines of shitty code to produce even more lines of shitty code.'''
+
+[[tweets]]
+id = 1409554312502595593
+created_at = '2021-06-28T16:48:31Z'
+text = '''
+This is abhorrent.
+
+Google, Stack Overflow, and the like are *resources* to be used and shouldn't be prohibited during software engineering interviews. https://t.co/DChOZhuStk'''
+[[tweets.entities.urls]]
+display_url = 'twitter.com/ohhoe/status/1…'
+expanded_url = 'https://twitter.com/ohhoe/status/1409532255597432833'
+url = 'https://t.co/DChOZhuStk'
+
+[[tweets]]
+id = 1409524855721037836
+created_at = '2021-06-28T14:51:27Z'
+text = 'I have achieved perfect balance https://t.co/FHcv5AhhU5'
+[[tweets.entities.media]]
+id = 1409524817804529677
+type = 'photo'
+url = 'https://pbs.twimg.com/media/E4-jWpNWEA08yJp.png'
+
+[[tweets]]
+id = 1406629126107242499
+created_at = '2021-06-20T15:04:52Z'
+text = 'When I see the PagerDuty alerts coming in on a Sunday https://t.co/PWghkbfkuV'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/EffinBirds/sta…'
+expanded_url = 'https://twitter.com/EffinBirds/status/1406627994513424397'
+url = 'https://t.co/PWghkbfkuV'
+
+[[tweets]]
+id = 1406105666192875520
+created_at = '2021-06-19T04:24:49Z'
+text = 'Endorsed https://t.co/dnqfaV61v5'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/willmanduffy/s…'
+expanded_url = 'https://twitter.com/willmanduffy/status/1406020378871447554'
+url = 'https://t.co/dnqfaV61v5'
+
+[[tweets]]
+id = 1405711308377497600
+created_at = '2021-06-18T02:17:47Z'
+text = '🧵 https://t.co/vg6egJmr8l'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/patio11/status…'
+expanded_url = 'https://twitter.com/patio11/status/1405704339969220615'
+url = 'https://t.co/vg6egJmr8l'
+
+[[tweets]]
+id = 1404857990075850760
+created_at = '2021-06-15T17:47:00Z'
+text = 'We approve the PRs we think we deserve'
+
+[[tweets]]
+id = 1404857042964209666
+created_at = '2021-06-15T17:43:14Z'
+text = '''Just accidentally marked all my GitHub notifications as "Done" and I'm not even mad about it.'''
