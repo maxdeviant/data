@@ -294,7 +294,7 @@ Your parser doesn't necessarily need to handle the set of all inputs.'''
 [[tweets]]
 id = 1577822775049347072
 created_at = '2022-10-06T00:47:18Z'
-text = '@theprincessxena Did you make sure to like &lt;whatever is in the background&gt; on Facebook?'
+text = '@theprincessxena Did you make sure to like <whatever is in the background> on Facebook?'
 
 [[tweets]]
 id = 1577822298027032578
@@ -309,7 +309,7 @@ text = '''
 
 No in the sense that I don’t know that I want to work in the same domain/ecosystem for the entirely of it.
 
-I really want to end up doing PL stuff in an R&amp;D department someday.'''
+I really want to end up doing PL stuff in an R&D department someday.'''
 
 [[tweets]]
 id = 1577641391446007812
@@ -2548,7 +2548,7 @@ text = '@willmanduffy Sounds like you’re eating good tonight!'
 id = 1489833584097693699
 created_at = '2022-02-05T05:29:40Z'
 text = '''
-Daily Dordle #0012 4&amp;5/7 
+Daily Dordle #0012 4&5/7 
 ⬜⬜⬜⬜⬜ ⬜⬜⬜⬜🟩
 ⬜⬜⬜⬜⬜ ⬜⬜⬜⬜🟩
 🟨⬜🟨⬜🟨 🟨⬜🟨⬜🟨

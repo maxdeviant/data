@@ -259,12 +259,12 @@ text = '@hausofdicarlo "#worth: The Memoirs of Michelle DiCarlo"'
 [[tweets]]
 id = 672911772949573632
 created_at = '2015-12-04T22:54:03Z'
-text = '@gabrielviolence @neauoire let discipline = (dom, sub) =&gt; { ... };'
+text = '@gabrielviolence @neauoire let discipline = (dom, sub) => { ... };'
 
 [[tweets]]
 id = 672911397588635648
 created_at = '2015-12-04T22:52:33Z'
-text = '@neauoire @gabrielviolence just the way we like it :&gt;'
+text = '@neauoire @gabrielviolence just the way we like it :>'
 
 [[tweets]]
 id = 672903697970683904
@@ -364,7 +364,7 @@ text = 'Apple open sources Swift, yet chooses not to use GitHub. WTF?'
 [[tweets]]
 id = 672242865762926592
 created_at = '2015-12-03T02:36:03Z'
-text = '@renaudbedard @neauoire Was it called "Hundred Rabbits", by any chance? :&gt;'
+text = '@renaudbedard @neauoire Was it called "Hundred Rabbits", by any chance? :>'
 
 [[tweets]]
 id = 672235939813527552
@@ -671,7 +671,7 @@ text = 'The Jezabels are the only thing keeping me going right now 🎶'
 [[tweets]]
 id = 666707298308513792
 created_at = '2015-11-17T19:59:41Z'
-text = '@neauoire &lt;bod class="hot"&gt;'
+text = '@neauoire <bod class="hot">'
 
 [[tweets]]
 id = 666706648522760192
@@ -869,7 +869,7 @@ text = '@bcrypt sounds like day 3 of funemployment!'
 [[tweets]]
 id = 662355686056206337
 created_at = '2015-11-05T19:47:56Z'
-text = 'Just a normal day in the #merveilles Slack :&gt; https://t.co/VnnaP17ZHH'
+text = 'Just a normal day in the #merveilles Slack :> https://t.co/VnnaP17ZHH'
 [[tweets.entities.media]]
 id = 662355685661933568
 type = 'photo'
@@ -1156,7 +1156,7 @@ text = '''Let it be known that @WAallLy is @osavox's spirit animal.'''
 [[tweets]]
 id = 659113268745805825
 created_at = '2015-10-27T21:03:43Z'
-text = '@jamiecrisman @neauoire Classes can be PascalCased :&gt;'
+text = '@jamiecrisman @neauoire Classes can be PascalCased :>'
 
 [[tweets]]
 id = 659112920220114944
@@ -1310,7 +1310,7 @@ text = '@hausofdicarlo Same.'
 [[tweets]]
 id = 657018125548785669
 created_at = '2015-10-22T02:18:22Z'
-text = '@eigenbom So cheeky! :&gt;'
+text = '@eigenbom So cheeky! :>'
 
 [[tweets]]
 id = 657012857171668992
@@ -1468,14 +1468,14 @@ id = 655422848777986048
 created_at = '2015-10-17T16:39:18Z'
 text = '''
 May have found the issue.
-&gt; Selected architecture before version.
-&gt; When you change the version, it resets the architecture.
-&gt; Whyyyyyyyy'''
+> Selected architecture before version.
+> When you change the version, it resets the architecture.
+> Whyyyyyyyy'''
 
 [[tweets]]
 id = 655418563658956800
 created_at = '2015-10-17T16:22:17Z'
-text = 'Install x64 Windows 10 Pro -&gt; get x32 Windows 10 Home. What the hell @Microsoft?!'
+text = 'Install x64 Windows 10 Pro -> get x32 Windows 10 Home. What the hell @Microsoft?!'
 
 [[tweets]]
 id = 655261973320482816
@@ -1644,7 +1644,7 @@ url = 'https://t.co/JVbVXJajGl'
 [[tweets]]
 id = 651748954925887488
 created_at = '2015-10-07T13:20:34Z'
-text = '@neauoire Looks like you got the hug of death earlier :&gt;'
+text = '@neauoire Looks like you got the hug of death earlier :>'
 
 [[tweets]]
 id = 651714779246006272
@@ -1858,7 +1858,7 @@ text = '''"TIL GitHub is a PubSubHubbub Hub we're integrating with the Hub." –
 [[tweets]]
 id = 648880791397789696
 created_at = '2015-09-29T15:23:30Z'
-text = '''@neauoire @juicybeast I like how your screenshot is monochrome and @RekkaBell's isn't :&gt;'''
+text = '''@neauoire @juicybeast I like how your screenshot is monochrome and @RekkaBell's isn't :>'''
 
 [[tweets]]
 id = 648720511351037952
@@ -2038,7 +2038,7 @@ url = 'http://t.co/xPbJVj1mQ9'
 [[tweets]]
 id = 647616996738269184
 created_at = '2015-09-26T03:41:38Z'
-text = '@dualhammers Shall I try to explain? :&gt;'
+text = '@dualhammers Shall I try to explain? :>'
 
 [[tweets]]
 id = 647616609914327040
@@ -2088,7 +2088,7 @@ text = '@voxect I was made aware of the existence of IcedCoffeeScript today by @
 [[tweets]]
 id = 647176672945524736
 created_at = '2015-09-24T22:31:57Z'
-text = 'JavaScript —&gt; CoffeeScript —&gt; IcedCoffeeScript —&gt; PumpkinSpaceLatteScript —&gt; IcedCaramelMochaFrappachinoHoldTheFoamScript'
+text = 'JavaScript —> CoffeeScript —> IcedCoffeeScript —> PumpkinSpaceLatteScript —> IcedCaramelMochaFrappachinoHoldTheFoamScript'
 
 [[tweets]]
 id = 647171672726970368
@@ -2122,7 +2122,7 @@ text = '@jay_akers @renaudbedard @e_svedang Why wait? ¯\_(ツ)_/¯'
 [[tweets]]
 id = 647114554288246784
 created_at = '2015-09-24T18:25:07Z'
-text = '@renaudbedard @e_svedang I saw Slice &amp; Dice listed on his website and immediately assumed it was about chopping fruit .__.'
+text = '@renaudbedard @e_svedang I saw Slice & Dice listed on his website and immediately assumed it was about chopping fruit .__.'
 
 [[tweets]]
 id = 647113891584077824
@@ -2605,7 +2605,7 @@ text = '@mdo "fur shur"'
 [[tweets]]
 id = 643553889384538112
 created_at = '2015-09-14T22:36:18Z'
-text = "@s0paranoid alias yolo='git commit -am \"DEAL WITH IT\" &amp;&amp; git push -f origin master'"
+text = "@s0paranoid alias yolo='git commit -am \"DEAL WITH IT\" && git push -f origin master'"
 
 [[tweets]]
 id = 642554695446212608
@@ -2689,7 +2689,7 @@ text = '@mrmrs_ inb4 lewd names and corporate sponsors (possibly by the same par
 [[tweets]]
 id = 641418508295884800
 created_at = '2015-09-09T01:11:04Z'
-text = '@mxcl `which pcp` —&gt; "pcp not found"'
+text = '@mxcl `which pcp` —> "pcp not found"'
 
 [[tweets]]
 id = 641392268839120896
@@ -2842,7 +2842,7 @@ text = '@gabrielverdon I believe it may be commonly referred to as "Tennis Elbow
 [[tweets]]
 id = 638879838179360768
 created_at = '2015-09-02T01:03:17Z'
-text = '@bombsfall @goldbuick &lt;sarc&gt;&lt;/sarc&gt;'
+text = '@bombsfall @goldbuick <sarc></sarc>'
 
 [[tweets]]
 id = 638879103454724096
@@ -2938,7 +2938,7 @@ text = '''@agmcleod I'm already looking at JS code I wrote during the start of m
 [[tweets]]
 id = 636985689469505537
 created_at = '2015-08-27T19:36:37Z'
-text = '''Comparing the Java code I wrote as a college freshman to the Java code I'm writing as a college senior is like comparing white &amp; black.'''
+text = '''Comparing the Java code I wrote as a college freshman to the Java code I'm writing as a college senior is like comparing white & black.'''
 
 [[tweets]]
 id = 636931704247197696
@@ -3035,7 +3035,7 @@ text = 'While waiting outside my Operating Systems class, I hear one of the othe
 [[tweets]]
 id = 635935055022567424
 created_at = '2015-08-24T22:01:46Z'
-text = '@MllePilgrim For some reason I thought that Canadians liked Vegemite. You know, the whole Commonwealth thing :&gt;'
+text = '@MllePilgrim For some reason I thought that Canadians liked Vegemite. You know, the whole Commonwealth thing :>'
 
 [[tweets]]
 id = 635932092837285889
@@ -3050,7 +3050,7 @@ text = '@garybernhardt It makes me sad when this is invalid syntax. (Looking at 
 [[tweets]]
 id = 635088861354299392
 created_at = '2015-08-22T13:59:18Z'
-text = '@dualhammers @aliceffekt You must be on Twitter 24/7 :&gt;'
+text = '@dualhammers @aliceffekt You must be on Twitter 24/7 :>'
 
 [[tweets]]
 id = 634930648067629056
@@ -3128,7 +3128,7 @@ text = '''@gabrielverdon @dualhammers @waallly Time to phone all of the parents 
 [[tweets]]
 id = 630022254399635456
 created_at = '2015-08-08T14:26:25Z'
-text = '@gabrielverdon @dualhammers @waallly Talk about being an early bird &gt;__&gt;'
+text = '@gabrielverdon @dualhammers @waallly Talk about being an early bird >__>'
 
 [[tweets]]
 id = 630022076754071552
@@ -3202,7 +3202,7 @@ text = '@technoheads But how will I get my biased debate roundups from the major
 [[tweets]]
 id = 629462195601043456
 created_at = '2015-08-07T01:20:56Z'
-text = 'Seeing people tweet about the presidential debate makes me wonder if I should watch it.. &gt;____&gt;'
+text = 'Seeing people tweet about the presidential debate makes me wonder if I should watch it.. >____>'
 
 [[tweets]]
 id = 629409712262529024
@@ -3366,7 +3366,7 @@ text = '"Get forked and repo-pulate @github."'
 [[tweets]]
 id = 626940964800606208
 created_at = '2015-07-31T02:22:28Z'
-text = '@aliceffekt The boat jokes get stronger by the day :&gt;'
+text = '@aliceffekt The boat jokes get stronger by the day :>'
 
 [[tweets]]
 id = 626536069597659136
@@ -3444,7 +3444,7 @@ text = '@passcod One hell of a commit message ;)'
 [[tweets]]
 id = 624687995522838528
 created_at = '2015-07-24T21:09:58Z'
-text = '''@aliceffekt But you didn't use &lt;flavor of the month JavaScript framework&gt;!'''
+text = '''@aliceffekt But you didn't use <flavor of the month JavaScript framework>!'''
 
 [[tweets]]
 id = 624612428551094272
@@ -3566,7 +3566,7 @@ text = '@mguniverse hard to do that when all itch.io is aware of is the files li
 [[tweets]]
 id = 622011523385311232
 created_at = '2015-07-17T11:54:38Z'
-text = '@mguniverse that would alienate much of their user base, I would think. Publishing to itch.io is supposed to be easy &amp; unopinionated.'
+text = '@mguniverse that would alienate much of their user base, I would think. Publishing to itch.io is supposed to be easy & unopinionated.'
 
 [[tweets]]
 id = 622011169100804097
@@ -4371,7 +4371,7 @@ text = '''@mguniverse Guess it's a good thing I've started drinking salt water. 
 [[tweets]]
 id = 609479832972365824
 created_at = '2015-06-12T21:58:10Z'
-text = '@fightstrife I feel you. We had an almost identical card lying around the house, thankfully (650TI -&gt; regular 650)'
+text = '@fightstrife I feel you. We had an almost identical card lying around the house, thankfully (650TI -> regular 650)'
 
 [[tweets]]
 id = 609478247303237632
@@ -5471,7 +5471,7 @@ url = 'https://t.co/0AnvFTLXIQ'
 [[tweets]]
 id = 582531948050051072
 created_at = '2015-03-30T13:16:53Z'
-text = '@jamiecrisman @aliceffekt @prestooonn DM me your email and I can invite you :&gt;'
+text = '@jamiecrisman @aliceffekt @prestooonn DM me your email and I can invite you :>'
 
 [[tweets]]
 id = 582394384605409280
@@ -6086,7 +6086,7 @@ text = '''Even when I'm not touching Xcode, SourceKitView still manages to crash
 [[tweets]]
 id = 579388562526887937
 created_at = '2015-03-21T21:06:12Z'
-text = 'Been listening to God Is An Astronaut all afternoon &lt;3'
+text = 'Been listening to God Is An Astronaut all afternoon <3'
 
 [[tweets]]
 id = 579353498979999744
@@ -6993,7 +6993,7 @@ text = 'Must.. Sleep..'
 [[tweets]]
 id = 569891404161400832
 created_at = '2015-02-23T16:07:53Z'
-text = 'Down the rabbit hole: French &gt; Canadian French &gt; Acadian French &gt; Chiac'
+text = 'Down the rabbit hole: French > Canadian French > Acadian French > Chiac'
 
 [[tweets]]
 id = 569890059991846912
@@ -7476,7 +7476,7 @@ text = '@aliceffekt What have you been refactoring?'
 [[tweets]]
 id = 560564547074154497
 created_at = '2015-01-28T22:26:17Z'
-text = '''@SauceNAO I'm still holding off on updating mine, cause I don't know what will happen when it comes back up &gt;.&gt;'''
+text = '''@SauceNAO I'm still holding off on updating mine, cause I don't know what will happen when it comes back up >.>'''
 
 [[tweets]]
 id = 560497689029513216
@@ -7668,7 +7668,7 @@ text = '@aliceffekt Whoa, this is very cool.'
 [[tweets]]
 id = 557995323663339521
 created_at = '2015-01-21T20:17:06Z'
-text = 'Tetsuo &amp; Youth by @LupeFiasco is one of the most solid albums I have listened to in a long time.'
+text = 'Tetsuo & Youth by @LupeFiasco is one of the most solid albums I have listened to in a long time.'
 
 [[tweets]]
 id = 557872478199230464
@@ -7920,7 +7920,7 @@ text = '@mdo Even just making it people you follow would be very handy.'
 [[tweets]]
 id = 553307751347408896
 created_at = '2015-01-08T21:50:22Z'
-text = '@mdo I would love to be able to type "@&lt;username&gt;" in the search bar and have a dropdown for users, like in issues. http://t.co/bQ4JAv8BnI'
+text = '@mdo I would love to be able to type "@<username>" in the search bar and have a dropdown for users, like in issues. http://t.co/bQ4JAv8BnI'
 [[tweets.entities.media]]
 id = 553307750906621954
 type = 'photo'
@@ -7959,7 +7959,7 @@ text = '@goldbuick I would imagine so'
 [[tweets]]
 id = 552985415788277762
 created_at = '2015-01-08T00:29:31Z'
-text = '@Noirmirroir I absolutely love the buildup right around 1:09 on Fox &amp; Chronologique! Amazing album :)'
+text = '@Noirmirroir I absolutely love the buildup right around 1:09 on Fox & Chronologique! Amazing album :)'
 
 [[tweets]]
 id = 552944907154104320

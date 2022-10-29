@@ -292,7 +292,7 @@ text = '''@agmcleod I'll be out tonight, but that will give me some time to mull
 [[tweets]]
 id = 411586867940061185
 created_at = '2013-12-13T20:02:10Z'
-text = '''#LD48 in about 6 hours. Just finished my semester, so there's nothing stopping me &lt;3'''
+text = '''#LD48 in about 6 hours. Just finished my semester, so there's nothing stopping me <3'''
 
 [[tweets]]
 id = 411552544285286400
@@ -529,7 +529,7 @@ text = 'I feel like this guy just keeps repeating the same things over and over.
 [[tweets]]
 id = 408709324266283008
 created_at = '2013-12-05T21:27:51Z'
-text = '''That's okay, just walk in front of the projector &amp; interrupt a presentation solely because you can't be bothered to make it to class on time'''
+text = '''That's okay, just walk in front of the projector & interrupt a presentation solely because you can't be bothered to make it to class on time'''
 
 [[tweets]]
 id = 408678649215602688
@@ -718,7 +718,7 @@ url = 'https://pbs.twimg.com/media/BakiYxnIMAEoAMV.png'
 [[tweets]]
 id = 407712031412719616
 created_at = '2013-12-03T03:24:57Z'
-text = '“A bit of Dolce &amp; Gabbana and in the style of Smaug” - Benedict Cumberbatch'
+text = '“A bit of Dolce & Gabbana and in the style of Smaug” - Benedict Cumberbatch'
 
 [[tweets]]
 id = 407710025813983232
@@ -737,7 +737,7 @@ text = '''@fukyeahmichelle Ya muthaflippin' twink wanker.'''
 [[tweets]]
 id = 407703300650188800
 created_at = '2013-12-03T02:50:16Z'
-text = 'Listening to new Armin van Buuren and M83 albums. Perfect night &lt;3'
+text = 'Listening to new Armin van Buuren and M83 albums. Perfect night <3'
 
 [[tweets]]
 id = 407520780558557184
@@ -803,7 +803,7 @@ text = '@KarisNelson I went in for lower abdominal pain and vomiting. Turns out 
 id = 406644947253596160
 created_at = '2013-11-30T04:44:45Z'
 text = '''
-Ben Howard and hot tea &lt;3
+Ben Howard and hot tea <3
 Better than any amount of Percocet.'''
 
 [[tweets]]
@@ -866,7 +866,7 @@ text = 'This indigestion is killing me :('
 [[tweets]]
 id = 405383388980592640
 created_at = '2013-11-26T17:11:46Z'
-text = '@estheroar Your professors call you? &gt;.&gt;'
+text = '@estheroar Your professors call you? >.>'
 
 [[tweets]]
 id = 405040882040438784
@@ -1024,7 +1024,7 @@ text = '@fukyeahmichelle HEY MISS MURDER CAN I? HEY MISS MURDER CAN I?'
 [[tweets]]
 id = 404092836381204481
 created_at = '2013-11-23T03:43:34Z'
-text = '@fukyeahmichelle &lt;3 them.'
+text = '@fukyeahmichelle <3 them.'
 
 [[tweets]]
 id = 404092406431481856
@@ -1089,7 +1089,7 @@ text = '@Hoffm I always struggle with finding a balance between verbosity and us
 [[tweets]]
 id = 402498116664193024
 created_at = '2013-11-18T18:06:43Z'
-text = 'It would probably help to include the JavaScript files in index.html before wondering where things are breaking &gt;.&lt;'
+text = 'It would probably help to include the JavaScript files in index.html before wondering where things are breaking >.<'
 
 [[tweets]]
 id = 402476807464964096
@@ -1144,7 +1144,7 @@ text = 'It is beyond me to understand why people are bringing in routers so clos
 id = 401796380890771456
 created_at = '2013-11-16T19:38:16Z'
 text = '''
-Although it looks like they're SOL, because the private key was destroyed back in October &gt;.&gt;
+Although it looks like they're SOL, because the private key was destroyed back in October >.>
 I hope they kept good backups!'''
 
 [[tweets]]
@@ -1222,7 +1222,7 @@ text = 'File I/O with bash is amazing. Although, I guess it has to be since that
 [[tweets]]
 id = 401338544368910336
 created_at = '2013-11-15T13:19:00Z'
-text = '@agmcleod Always. My most recent one was fixed with a simple variable reassignment &gt;.&lt;'
+text = '@agmcleod Always. My most recent one was fixed with a simple variable reassignment >.<'
 
 [[tweets]]
 id = 401337551145172992
@@ -1247,7 +1247,7 @@ text = 'Aww, look at you Tommy. Taking big boy steps!'
 [[tweets]]
 id = 401210381281947648
 created_at = '2013-11-15T04:49:43Z'
-text = 'Felicity, I love your character. Never change &lt;3'
+text = 'Felicity, I love your character. Never change <3'
 
 [[tweets]]
 id = 401209959926362113
@@ -1355,7 +1355,7 @@ text = '''@fukyeahmichelle Oh, it's fine. I prefer smacking my head into the des
 [[tweets]]
 id = 400809188139741184
 created_at = '2013-11-14T02:15:31Z'
-text = '@fukyeahmichelle Not enough to stop the pain &lt;/3'
+text = '@fukyeahmichelle Not enough to stop the pain </3'
 
 [[tweets]]
 id = 400799920858624000
@@ -1576,7 +1576,7 @@ text = 'Snow flurries in the morning are fine with me. The biting cold is not.'
 [[tweets]]
 id = 400116209183506432
 created_at = '2013-11-12T04:21:52Z'
-text = '@fukyeahmichelle My life is complete &lt;3'
+text = '@fukyeahmichelle My life is complete <3'
 
 [[tweets]]
 id = 400115823160729600
@@ -1783,7 +1783,7 @@ text = '''@mmmulligan Can't stand them. And of course Matt decides to abandon cl
 [[tweets]]
 id = 398802271041245184
 created_at = '2013-11-08T13:20:45Z'
-text = '@agmcleod That sounds much more preferable than my current situation. No coffee, and stuck in a group doing busywork for class &gt;.&lt;'
+text = '@agmcleod That sounds much more preferable than my current situation. No coffee, and stuck in a group doing busywork for class >.<'
 
 [[tweets]]
 id = 398801089442902016
@@ -2255,7 +2255,7 @@ text = 'Shots fired: OS X Mavericks is free.'
 [[tweets]]
 id = 392702778466107392
 created_at = '2013-10-22T17:23:33Z'
-text = 'I &lt;3 Craig Federighi.'
+text = 'I <3 Craig Federighi.'
 
 [[tweets]]
 id = 392694319146360832
@@ -2265,7 +2265,7 @@ text = '@fukyeahmichelle I might be going into fangirl mode too. Should I be con
 [[tweets]]
 id = 392496435712626688
 created_at = '2013-10-22T03:43:37Z'
-text = '''But that's rather difficult when the store closes on me when I decide to play &gt;.&lt;'''
+text = '''But that's rather difficult when the store closes on me when I decide to play >.<'''
 
 [[tweets]]
 id = 392496350748631040
@@ -2472,7 +2472,7 @@ text = 'How are people complaining about Cheer?!'
 [[tweets]]
 id = 389739000141193216
 created_at = '2013-10-14T13:06:33Z'
-text = '@kaptainkirk14 The squirrels in West Chester are all insane &gt;.&gt;'
+text = '@kaptainkirk14 The squirrels in West Chester are all insane >.>'
 
 [[tweets]]
 id = 389730265410830336
@@ -2501,7 +2501,7 @@ text = 'Bloodshot eyes are in these days, right?'
 [[tweets]]
 id = 389612447767990272
 created_at = '2013-10-14T04:43:40Z'
-text = '@konjak I at least nees a computer that can get crazy FPS on a 1080p monitor first &gt;.&gt;'
+text = '@konjak I at least nees a computer that can get crazy FPS on a 1080p monitor first >.>'
 
 [[tweets]]
 id = 389611934657830912
@@ -2640,7 +2640,7 @@ text = '''@fukyeahmichelle And she can't stop. And she won't stop.'''
 [[tweets]]
 id = 388147702045106176
 created_at = '2013-10-10T03:43:18Z'
-text = '''@fukyeahmichelle Awww, that's no fun. Purple &gt;&gt;&gt;&gt;&gt;'''
+text = '''@fukyeahmichelle Awww, that's no fun. Purple >>>>>'''
 
 [[tweets]]
 id = 388144214602956800
@@ -2655,7 +2655,7 @@ text = '''Just finished my 11 page usability report for Tech Writing. Now onto m
 [[tweets]]
 id = 387979436186140672
 created_at = '2013-10-09T16:34:40Z'
-text = '@agmcleod My guess is it was somehow messing with the local Apache server &gt;.&lt;'
+text = '@agmcleod My guess is it was somehow messing with the local Apache server >.<'
 
 [[tweets]]
 id = 387979372864733184
@@ -2670,7 +2670,7 @@ text = 'Too INFJ to handle.'
 [[tweets]]
 id = 387800730561937408
 created_at = '2013-10-09T04:44:33Z'
-text = '@fukyeahmichelle @Nathanial0 Feel better &lt;3'
+text = '@fukyeahmichelle @Nathanial0 Feel better <3'
 
 [[tweets]]
 id = 387793816671244288
@@ -2720,7 +2720,7 @@ text = '''@kafffmac Well, that's a bit of a downer.'''
 [[tweets]]
 id = 387618272721387521
 created_at = '2013-10-08T16:39:32Z'
-text = 'Finally back in Silver III. Now I just need to get out of here and into Gold &gt;.&lt; #LeagueOfLegends'
+text = 'Finally back in Silver III. Now I just need to get out of here and into Gold >.< #LeagueOfLegends'
 
 [[tweets]]
 id = 387450989805973504
@@ -2837,7 +2837,7 @@ text = '''@agmcleod I enjoy it. Just not when I have to support a terrible ADC/t
 [[tweets]]
 id = 385947710479941632
 created_at = '2013-10-04T02:01:19Z'
-text = '''Can't carry hard enough as support &gt;.&lt; #LeagueOfLegends'''
+text = '''Can't carry hard enough as support >.< #LeagueOfLegends'''
 
 [[tweets]]
 id = 385938166039216128
@@ -2882,7 +2882,7 @@ text = '@kafffmac @KatiePellak #AwkSauce'
 [[tweets]]
 id = 385593158811516928
 created_at = '2013-10-03T02:32:27Z'
-text = '''No guarantees that I'll be any good though &lt;3'''
+text = '''No guarantees that I'll be any good though <3'''
 
 [[tweets]]
 id = 385593088355602433
@@ -2973,7 +2973,7 @@ text = '@jaayysunn It seems to be working for me. But I know that it likes to be
 [[tweets]]
 id = 384850177137606657
 created_at = '2013-10-01T01:20:07Z'
-text = 'I need ARTPOP to come out soon &gt;.&lt;'
+text = 'I need ARTPOP to come out soon >.<'
 
 [[tweets]]
 id = 384667750255575040
@@ -3244,7 +3244,7 @@ text = '@fukyeahmichelle I would say Hannah Montana, but Miley had to go and rui
 [[tweets]]
 id = 383286924838191104
 created_at = '2013-09-26T17:48:18Z'
-text = 'Cannot believe that I only just learned about ⌘~ to switch between windows of the same app. So handy &lt;3'
+text = 'Cannot believe that I only just learned about ⌘~ to switch between windows of the same app. So handy <3'
 
 [[tweets]]
 id = 383276136882782208
@@ -3259,7 +3259,7 @@ text = '@kaptainkirk14 Sounds splendid.'
 [[tweets]]
 id = 383076572531789824
 created_at = '2013-09-26T03:52:26Z'
-text = '@fukyeahmichelle The NSA probably archives it too to their nice, new data center in Utah. Big brother always has my back &lt;3'
+text = '@fukyeahmichelle The NSA probably archives it too to their nice, new data center in Utah. Big brother always has my back <3'
 
 [[tweets]]
 id = 383075856153055232
@@ -3498,7 +3498,7 @@ text = '@fukyeahmichelle I embody him in many ways. Just not the looks. Or the d
 [[tweets]]
 id = 382325625786490880
 created_at = '2013-09-24T02:08:27Z'
-text = '''“@fukyeahmichelle: Pine has no place in this loft. It's the wood of poor people and outhouses.” Oh Schmidty &lt;3'''
+text = '''“@fukyeahmichelle: Pine has no place in this loft. It's the wood of poor people and outhouses.” Oh Schmidty <3'''
 
 [[tweets]]
 id = 382313123933614080
@@ -3548,7 +3548,7 @@ text = 'My day is oscillating more than a sine curve.'
 [[tweets]]
 id = 382136036777680896
 created_at = '2013-09-23T13:35:05Z'
-text = '''My Air is almost here and I'm so excited &lt;3'''
+text = '''My Air is almost here and I'm so excited <3'''
 
 [[tweets]]
 id = 382110293452529667
@@ -3572,7 +3572,7 @@ while (!dataStructuresHomeworkPossible) {     System.out.println('FFFFFFFFFUUUUU
 [[tweets]]
 id = 381966269139783680
 created_at = '2013-09-23T02:20:29Z'
-text = '''Welcome to Data Structures &amp; Algorithms, where the problems are made up and the points don't matter!'''
+text = '''Welcome to Data Structures & Algorithms, where the problems are made up and the points don't matter!'''
 
 [[tweets]]
 id = 381928842597634049
@@ -3637,7 +3637,7 @@ text = '@fukyeahmichelle @Nathanial0 New Girl is my life.'
 [[tweets]]
 id = 381041292437770240
 created_at = '2013-09-20T13:04:58Z'
-text = 'Waiting for some unwitting user to run this &gt;:) http://t.co/kJMUjRublv'
+text = 'Waiting for some unwitting user to run this >:) http://t.co/kJMUjRublv'
 [[tweets.entities.media]]
 id = 381041292441964546
 type = 'photo'
@@ -3651,12 +3651,12 @@ text = '''Time to finish out this week. About time too. It's been much too long.
 [[tweets]]
 id = 380871903964958720
 created_at = '2013-09-20T01:51:52Z'
-text = '''@fukyeahmichelle @Nathanial0 I haven't seen it either. Shhhh... &gt;.&gt;'''
+text = '''@fukyeahmichelle @Nathanial0 I haven't seen it either. Shhhh... >.>'''
 
 [[tweets]]
 id = 380868313019998208
 created_at = '2013-09-20T01:37:36Z'
-text = '@fukyeahmichelle That man is gorgeous &lt;3 What would we do without Sir Gwaine?'
+text = '@fukyeahmichelle That man is gorgeous <3 What would we do without Sir Gwaine?'
 
 [[tweets]]
 id = 380787844945436672
@@ -3764,7 +3764,7 @@ text = '''Signs you shouldn't be a CS major: when you wear false nails that hang
 [[tweets]]
 id = 380076520892416001
 created_at = '2013-09-17T21:11:18Z'
-text = 'So much stuff to do tonight. Will I ever get time to relax? &gt;.&lt;'
+text = 'So much stuff to do tonight. Will I ever get time to relax? >.<'
 
 [[tweets]]
 id = 380076102854537216
@@ -4014,7 +4014,7 @@ text = '''If people could just log which items were actually picked up, then I w
 [[tweets]]
 id = 377422654484918272
 created_at = '2013-09-10T13:25:47Z'
-text = 'Two suspiciously similar links in my mentions? Better go click on them &gt;.&gt;'
+text = 'Two suspiciously similar links in my mentions? Better go click on them >.>'
 
 [[tweets]]
 id = 377422255715651584
@@ -4231,7 +4231,7 @@ All of the West Chester East YL kids are famous!
 [[tweets]]
 id = 372927802229915648
 created_at = '2013-08-29T03:44:51Z'
-text = '@katiemaaacc How little are we talking here? Like are these 7 &amp; 8 year-old felons?'
+text = '@katiemaaacc How little are we talking here? Like are these 7 & 8 year-old felons?'
 
 [[tweets]]
 id = 372715822260551680
@@ -4533,7 +4533,7 @@ text = '''That awkward moment when you push to your own repo with the same usern
 [[tweets]]
 id = 365864170475884545
 created_at = '2013-08-09T15:56:30Z'
-text = 'Oh dear, why did I do this to myself? I get the feeling that tonight may be filled with code revision &gt;.&lt;'
+text = 'Oh dear, why did I do this to myself? I get the feeling that tonight may be filled with code revision >.<'
 
 [[tweets]]
 id = 365861765906579457
@@ -4567,7 +4567,7 @@ text = 'Especially a single line if statement followed by a fairly lengthy else.
 [[tweets]]
 id = 365858944981278721
 created_at = '2013-08-09T15:35:44Z'
-text = '''Looking through some old code. Don't know why I ever thought it was a good idea to not wrap every if statement in braces &gt;.&gt;'''
+text = '''Looking through some old code. Don't know why I ever thought it was a good idea to not wrap every if statement in braces >.>'''
 
 [[tweets]]
 id = 365858315001020416
@@ -4772,7 +4772,7 @@ text = 'Gotta love key: value pairs :)'
 [[tweets]]
 id = 363268940266344449
 created_at = '2013-08-02T12:03:59Z'
-text = '''Can't get enough of @cityandcolour &lt;3'''
+text = '''Can't get enough of @cityandcolour <3'''
 
 [[tweets]]
 id = 363268083663650818
@@ -4907,7 +4907,7 @@ text = 'There. Finally! Who would have thought that simple positioning could hav
 [[tweets]]
 id = 361843882150993924
 created_at = '2013-07-29T13:41:18Z'
-text = 'What? Is Ctrl-F5 not good enough for you? I just want the cache reset &gt;.&lt;'
+text = 'What? Is Ctrl-F5 not good enough for you? I just want the cache reset >.<'
 
 [[tweets]]
 id = 361843607805767680
@@ -5056,7 +5056,7 @@ text = '''@FredericRP @DarkestKale @McFunkypants @agmcleod @samusclone Well now 
 [[tweets]]
 id = 359997305677549568
 created_at = '2013-07-24T11:23:40Z'
-text = '''@agmcleod I just need to work on my site more. It's still very much in development &gt;.&lt;'''
+text = '''@agmcleod I just need to work on my site more. It's still very much in development >.<'''
 
 [[tweets]]
 id = 359758264394727424
@@ -5221,7 +5221,7 @@ url = 'http://t.co/ed8n8wZaOU'
 [[tweets]]
 id = 359304631010066432
 created_at = '2013-07-22T13:31:14Z'
-text = '''Gah! Why did the object structure change on me? Why wasn't I notified? &gt;.&lt;'''
+text = '''Gah! Why did the object structure change on me? Why wasn't I notified? >.<'''
 
 [[tweets]]
 id = 359301833619030016
@@ -5417,7 +5417,7 @@ text = 'The hardest part in all of this is definitely going to be making @anchor
 [[tweets]]
 id = 358072101825028097
 created_at = '2013-07-19T03:53:36Z'
-text = '''There's a big difference between coding someone else's website and coding your own. Because with one you are a creative peon &gt;.&gt;'''
+text = '''There's a big difference between coding someone else's website and coding your own. Because with one you are a creative peon >.>'''
 
 [[tweets]]
 id = 358071926926753793
@@ -5798,7 +5798,7 @@ text = '''I have no idea why I'm so tired. Just a long week I suppose.'''
 [[tweets]]
 id = 350739465456726017
 created_at = '2013-06-28T22:16:19Z'
-text = 'Time to relax for the weekend. And silently hope for a Cube World demo &gt;.&gt;'
+text = 'Time to relax for the weekend. And silently hope for a Cube World demo >.>'
 
 [[tweets]]
 id = 350639108940500993
@@ -6031,7 +6031,7 @@ text = 'I hereby declare that mornings should no longer exist. Thank you, that i
 [[tweets]]
 id = 324635426080055296
 created_at = '2013-04-17T21:28:11Z'
-text = 'Four episodes left in Merlin season 5. Preparing for feels. &gt;.&lt;'
+text = 'Four episodes left in Merlin season 5. Preparing for feels. >.<'
 
 [[tweets]]
 id = 321463482086211586
@@ -6161,7 +6161,7 @@ text = '@erinuhler Where are you? Stalker!'
 [[tweets]]
 id = 292884149092622336
 created_at = '2013-01-20T06:39:57Z'
-text = '@KatiePellak What have you been up to in my absence? &gt;.&gt;'
+text = '@KatiePellak What have you been up to in my absence? >.>'
 
 [[tweets]]
 id = 289439956068347904

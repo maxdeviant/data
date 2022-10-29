@@ -2224,7 +2224,7 @@ text = '@KevlinHenney This is why languages like F# excite me: the type system i
 [[tweets]]
 id = 926826967491665920
 created_at = '2017-11-04T15:02:23Z'
-text = '@mrmrs_ `npm t` &gt; `npm test` &gt; `npm run test`'
+text = '@mrmrs_ `npm t` > `npm test` > `npm run test`'
 
 [[tweets]]
 id = 926688278295842816
@@ -3641,7 +3641,7 @@ text = '@eigenbom The fact that it doesn’t exist.'
 [[tweets]]
 id = 912641122966626304
 created_at = '2017-09-26T11:32:54Z'
-text = '@dan_abramov Can’t tell you how many times I’ve accidentally destructured a method off a class instance. Functions stored in class properties &gt; methods.'
+text = '@dan_abramov Can’t tell you how many times I’ve accidentally destructured a method off a class instance. Functions stored in class properties > methods.'
 
 [[tweets]]
 id = 912518677433593856
@@ -3663,7 +3663,7 @@ url = 'https://pbs.twimg.com/media/DKnpeATXoAIqMLj.jpg'
 [[tweets]]
 id = 912508433533980672
 created_at = '2017-09-26T02:45:38Z'
-text = '@mweststrate Function children &gt; render props &gt; HoCs 🤗'
+text = '@mweststrate Function children > render props > HoCs 🤗'
 
 [[tweets]]
 id = 912508113625985025
@@ -4270,7 +4270,7 @@ url = 'https://pbs.twimg.com/media/DIdMWIMW4AAy6Wj.jpg'
 [[tweets]]
 id = 902495954099740672
 created_at = '2017-08-29T11:39:37Z'
-text = '@ReasonLDN @reasonml @fbjest I do love me some pipe operator |&gt; |&gt; |&gt;'
+text = '@ReasonLDN @reasonml @fbjest I do love me some pipe operator |> |> |>'
 
 [[tweets]]
 id = 902375120555167745
@@ -6286,7 +6286,7 @@ text = '@BrandonBloom @garybernhardt What bugs me the most is when I see this fo
 [[tweets]]
 id = 876051393479675906
 created_at = '2017-06-17T12:18:23Z'
-text = '@captainsafia @ken_wheeler I second the motion. Make it into a trailer and show it at your next talk. "Ken Wheeler prepares for a talk". Montage of training &amp; drinking'
+text = '@captainsafia @ken_wheeler I second the motion. Make it into a trailer and show it at your next talk. "Ken Wheeler prepares for a talk". Montage of training & drinking'
 
 [[tweets]]
 id = 876050507181301761
@@ -7486,7 +7486,7 @@ text = '@ryanflorence @dan_abramov Could be, yea 😁'
 [[tweets]]
 id = 855408863696347136
 created_at = '2017-04-21T13:12:20Z'
-text = '''@dan_abramov @ryanflorence I will say that's it's nice to have specific names for things when using TS definitions. The React types expose a "SFC&lt;TProps&gt;" interface'''
+text = '''@dan_abramov @ryanflorence I will say that's it's nice to have specific names for things when using TS definitions. The React types expose a "SFC<TProps>" interface'''
 
 [[tweets]]
 id = 855244803084365828
@@ -7501,7 +7501,7 @@ text = '''@levelsio I like to look at the city I grew up in in China. Sadly (las
 [[tweets]]
 id = 855203445028073473
 created_at = '2017-04-20T23:36:04Z'
-text = '@effIuences Joint bakery and meadery: "knead &amp; mead"'
+text = '@effIuences Joint bakery and meadery: "knead & mead"'
 
 [[tweets]]
 id = 855192278499037184
@@ -8018,7 +8018,7 @@ text = '@eigenbom You can drop the else/if in the second one, just use an else �
 [[tweets]]
 id = 845053741858476032
 created_at = '2017-03-23T23:24:47Z'
-text = '&lt;Shameless @reasonml plug goes here&gt; https://t.co/9RYLm7clZb'
+text = '<Shameless @reasonml plug goes here> https://t.co/9RYLm7clZb'
 [[tweets.entities.urls]]
 display_url = 'twitter.com/yminsky/status…'
 expanded_url = 'https://twitter.com/yminsky/status/844905006201556992'
@@ -8219,7 +8219,7 @@ text = '@jevakallio Haha, good point! 😅'
 [[tweets]]
 id = 839231477997010944
 created_at = '2017-03-07T21:49:11Z'
-text = '@jevakallio I prefer `ticks =&gt; (console.log(ticks) || {...`, since it relies on the more commonly known short-circuiting || operator'
+text = '@jevakallio I prefer `ticks => (console.log(ticks) || {...`, since it relies on the more commonly known short-circuiting || operator'
 
 [[tweets]]
 id = 839090501231992834
@@ -9545,7 +9545,7 @@ text = '''
 @jordwalke @oriSomething @reasonml Because once you remove prop syntax it still remains consistent:
 
 ={false} ➡️ false
-={&lt;span /&gt;} ➡️ &lt;span /&gt;
+={<span />} ➡️ <span />
 ={{ a: 23 }} ➡️ { a: 23 }'''
 
 [[tweets]]

@@ -409,7 +409,7 @@ text = '''
 @hdgarrood This happens more than you might think when using `fp-ts`:
 
 - Have a `string` prop that is directly rendered
-- Change that prop to an `Option&lt;string&gt;`
+- Change that prop to an `Option<string>`
 - No compiler warnings
 - Curse the day you were born'''
 
@@ -469,7 +469,7 @@ And yes, memory safety is “H” hard 🤯'''
 [[tweets]]
 id = 1333779894338203648
 created_at = '2020-12-01T14:28:01Z'
-text = '''@Argorak @naim94a @rustlang Really I think what I need is a way to encode borrow splitting rules into the type system, so I could say "I'm using &lt;these fields&gt; mutably, but I'm not touching `game`, so it can be referenced immutably"'''
+text = '''@Argorak @naim94a @rustlang Really I think what I need is a way to encode borrow splitting rules into the type system, so I could say "I'm using <these fields> mutably, but I'm not touching `game`, so it can be referenced immutably"'''
 
 [[tweets]]
 id = 1333779645838348289
@@ -498,8 +498,8 @@ text = '''
 @Argorak @naim94a @rustlang Thanks so much for putting that together! I just plugged it in to my engine and it looks like it's working 🙂
 
 A couple of questions:
-1. What is the purpose of the `data: Vec&lt;u8&gt;` on `CtxAllocation`?
-2. Is it safe to lend out a `&amp;mut https://t.co/LurhqQRw6p`?'''
+1. What is the purpose of the `data: Vec<u8>` on `CtxAllocation`?
+2. Is it safe to lend out a `&mut https://t.co/LurhqQRw6p`?'''
 [[tweets.entities.urls]]
 display_url = 'self.allocation.game'
 expanded_url = 'http://self.allocation.game'
@@ -538,7 +538,7 @@ url = 'https://t.co/zo6qh1Alqz'
 [[tweets]]
 id = 1333470658551025665
 created_at = '2020-11-30T17:59:14Z'
-text = '''@TaiShaBi @rustlang The `Text` doesn't actually hold a `&amp;mut ctx`, we just need the `Context` to actually create the `Text` (because `Text` is really just a pointer to a texture stored in a texture map).'''
+text = '''@TaiShaBi @rustlang The `Text` doesn't actually hold a `&mut ctx`, we just need the `Context` to actually create the `Text` (because `Text` is really just a pointer to a texture stored in a texture map).'''
 
 [[tweets]]
 id = 1333465566292611072
@@ -595,7 +595,7 @@ text = '''@Argorak @naim94a @rustlang I'm going to have to try out these example
 id = 1333447863251197956
 created_at = '2020-11-30T16:28:39Z'
 text = '''
-@ryan_levick @rustlang `Self` here is the `Context` object, which lives for the lifetime of the game and never moves (it just gets lent out with `&amp;mut` to those who need it).
+@ryan_levick @rustlang `Self` here is the `Context` object, which lives for the lifetime of the game and never moves (it just gets lent out with `&mut` to those who need it).
 
 So far the biggest problem I see is that `'b` can leak if the caller does weird/unexpected things by trying to hold onto `game`'''
 
@@ -620,7 +620,7 @@ text = '''
 
 It can effectively be thought of as this:
 
-struct Context&lt;G&gt; {
+struct Context<G> {
     internal: InternalContext,
     game: G,
 }
@@ -635,7 +635,7 @@ text = '''
 
 Maybe I can try modeling `Context` as something more along the lines of this:
 
-struct Context&lt;G&gt; {
+struct Context<G> {
     internal: InternalContext,
     game: G,
 }
@@ -664,7 +664,7 @@ created_at = '2020-11-30T14:42:58Z'
 text = '''
 @TaiShaBi @rustlang This is what I’m trying to do. 
 
-Basically the engine needs `&amp;mut ctx` so it can do its job, but I also allow the game developer to store their own state under `game()`. The engine knows nothing about `game` and therefore won’t mutate it, so we know it’s safe to borrow. https://t.co/ySF5qcthiG'''
+Basically the engine needs `&mut ctx` so it can do its job, but I also allow the game developer to store their own state under `game()`. The engine knows nothing about `game` and therefore won’t mutate it, so we know it’s safe to borrow. https://t.co/ySF5qcthiG'''
 [[tweets.entities.media]]
 id = 1333421265189818368
 type = 'photo'
@@ -685,7 +685,7 @@ url = 'https://t.co/Ulv9ovRHPV'
 [[tweets]]
 id = 1333419112249352193
 created_at = '2020-11-30T14:34:24Z'
-text = '@naim94a @rustlang Basically the `game` field on `Context` is never going to be mutated from inside the engine, so it’s safe to borrow `&amp;mut ctx` and `&amp;https://t.co/o2BsKWYNsz` at the same time. But the borrow checker doesn’t allow this by default, so I need a way to tell it “this is safe”.'
+text = '@naim94a @rustlang Basically the `game` field on `Context` is never going to be mutated from inside the engine, so it’s safe to borrow `&mut ctx` and `&https://t.co/o2BsKWYNsz` at the same time. But the borrow checker doesn’t allow this by default, so I need a way to tell it “this is safe”.'
 [[tweets.entities.urls]]
 display_url = 'ctx.game'
 expanded_url = 'http://ctx.game'
@@ -1598,7 +1598,7 @@ copy + paste, but change what the bunny is holding.
 
 (\_/)
 ( •_•)
-/ &gt;🔮 https://t.co/JyZDcP0Pj6'''
+/ >🔮 https://t.co/JyZDcP0Pj6'''
 [[tweets.entities.urls]]
 display_url = 'twitter.com/mountain_ghost…'
 expanded_url = 'https://twitter.com/mountain_ghosts/status/1317146924684804097'
@@ -1701,7 +1701,7 @@ created_at = '2020-10-12T19:14:00Z'
 text = '''
 @brandur I recently learned that it is possible to turn "shake-to-undo" off (I previously thought it was impossible).
 
-It's under Accessibility -&gt; Touch -&gt; Shake to Undo'''
+It's under Accessibility -> Touch -> Shake to Undo'''
 
 [[tweets]]
 id = 1315730519238287360
@@ -1868,7 +1868,7 @@ created_at = '2020-10-07T15:11:41Z'
 text = '''
 @steveklabnik @yaahc_ The whole case is just ridiculous.
 
-Would really love it if Oracle came to sue my pants off just because I implemented `fn add(i32, i32) -&gt; i32` at some point.'''
+Would really love it if Oracle came to sue my pants off just because I implemented `fn add(i32, i32) -> i32` at some point.'''
 
 [[tweets]]
 id = 1313630857178083328
@@ -2687,7 +2687,7 @@ text = '@k_cieslak @sforkmann @TeaDrivenDev @codingedgar @ScottWlaschin Or perha
 [[tweets]]
 id = 1291765670238199810
 created_at = '2020-08-07T15:58:30Z'
-text = '@k_cieslak @sforkmann @TeaDrivenDev @codingedgar @ScottWlaschin Maybe we should add `Map` and `Bind` as methods on `Nullable&lt;T&gt;`? 🤔'
+text = '@k_cieslak @sforkmann @TeaDrivenDev @codingedgar @ScottWlaschin Maybe we should add `Map` and `Bind` as methods on `Nullable<T>`? 🤔'
 
 [[tweets]]
 id = 1291730426608877568
@@ -2812,7 +2812,7 @@ text = '@ken_wheeler Our AC compressor kicked the bucket a couple weeks ago when
 [[tweets]]
 id = 1290975950587518976
 created_at = '2020-08-05T11:40:26Z'
-text = '@fasterthanlime (&gt;’-’)&gt; i32'
+text = '@fasterthanlime (>’-’)> i32'
 
 [[tweets]]
 id = 1290673146429939717
@@ -3482,7 +3482,7 @@ text = '''
 open System.Linq
 open System.Collections.Generic
 
-[ 1; 2; 3] |&gt; (fun fsList -&gt; fsList.ToList() :&gt; IList&lt;int&gt;)
+[ 1; 2; 3] |> (fun fsList -> fsList.ToList() :> IList<int>)
 ```'''
 
 [[tweets]]
@@ -4559,11 +4559,11 @@ created_at = '2020-02-27T15:46:59Z'
 text = '''
 @bodil One thing that I prefer about the JSX style syntax is not needing commas after each prop. I find this is especially useful when breaking them up onto separate lines:
 
-&lt;Button
+<Button
     label="inc"
     image="add"
     always_show_image=true
-/&gt;'''
+/>'''
 
 [[tweets]]
 id = 1233053552769191951

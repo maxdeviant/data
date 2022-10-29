@@ -595,7 +595,7 @@ We’re currently using bors-ng, which works, but can be a bit unreliable at tim
 [[tweets]]
 id = 1450135520831492103
 created_at = '2021-10-18T16:23:45Z'
-text = '@Swizec I have a feeling that someday I’ll end up with a PhD and be off doing PL research at a university or in an R&amp;D department somewhere (like Microsoft Research)'
+text = '@Swizec I have a feeling that someday I’ll end up with a PhD and be off doing PL research at a university or in an R&D department somewhere (like Microsoft Research)'
 
 [[tweets]]
 id = 1449580571403902976
@@ -1734,10 +1734,10 @@ text = '''
 @kentcdodds @kettanaito I’m not sure what you mean. Like if you want to use function children you’d do something like this:
 
 interface CardProps {
-  children: () =&gt; React.ReactNode
+  children: () => React.ReactNode
 }
 
-const Card: React.FC&lt;Readonly&lt;CardProps&gt;&gt; = () =&gt; ()'''
+const Card: React.FC<Readonly<CardProps>> = () => ()'''
 
 [[tweets]]
 id = 1367833201088020487

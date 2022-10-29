@@ -455,7 +455,7 @@ text = 'Locked away with my thoughts.'
 [[tweets]]
 id = 808081247457177600
 created_at = '2016-12-11T22:49:17Z'
-text = '''@sebmarkbage @ken_wheeler I remember reading one of @dan_abramov's tweets about this and subsequently moving all our subscriptions from cWM —&gt; cDM'''
+text = '''@sebmarkbage @ken_wheeler I remember reading one of @dan_abramov's tweets about this and subsequently moving all our subscriptions from cWM —> cDM'''
 
 [[tweets]]
 id = 807743609399365634
@@ -1688,7 +1688,7 @@ text = '@levelsio Good luck 😁'
 [[tweets]]
 id = 789713382794469376
 created_at = '2016-10-22T06:21:57Z'
-text = '''@levelsio You could try wrapping the username like "&lt;@levels&gt;" to see if that works. It's been a while since I've worked on Slack bots 😅'''
+text = '''@levelsio You could try wrapping the username like "<@levels>" to see if that works. It's been a while since I've worked on Slack bots 😅'''
 
 [[tweets]]
 id = 789712104777519104
@@ -1737,7 +1737,7 @@ text = '@RekkaBell @neauoire Truer words have never been spoken.'
 [[tweets]]
 id = 789316391660847104
 created_at = '2016-10-21T04:04:27Z'
-text = '''@RekkaBell Are you sure it's not @neauoire? :&gt;'''
+text = '''@RekkaBell Are you sure it's not @neauoire? :>'''
 
 [[tweets]]
 id = 789307099473911808
@@ -1824,10 +1824,10 @@ created_at = '2016-10-19T02:40:02Z'
 text = '''
 Just found out that OCaml has the pipe operator in it! 😁
 
-|&gt; all
-|&gt; of
-|&gt; the
-|&gt; things!'''
+|> all
+|> of
+|> the
+|> things!'''
 
 [[tweets]]
 id = 788525577669971968
@@ -1947,7 +1947,7 @@ text = '@rightfold If I got $1 for every tweet, I would have ~$20,800. I would a
 [[tweets]]
 id = 787768055975780352
 created_at = '2016-10-16T21:31:55Z'
-text = '@neauoire Time to learn JavaScript and Electron :&gt;'
+text = '@neauoire Time to learn JavaScript and Electron :>'
 
 [[tweets]]
 id = 787748756686970880
@@ -2046,7 +2046,7 @@ text = 'If I’m giving a talk about functional/declarative programming, it’s 
 [[tweets]]
 id = 786047221997432832
 created_at = '2016-10-12T03:33:56Z'
-text = '@dekisu @kgp Personally, whenever I get these they always seem to be the worst quality pictures, which lead to a lot of swearing &amp; doubt.'
+text = '@dekisu @kgp Personally, whenever I get these they always seem to be the worst quality pictures, which lead to a lot of swearing & doubt.'
 
 [[tweets]]
 id = 786047036856659968
@@ -2118,7 +2118,7 @@ created_at = '2016-10-10T20:36:14Z'
 text = '''
 @jordwalke I was thinking even broader than other UI frameworks:
 
-&lt;Server host='0.0.0.0' port={3000} /&gt; 😉'''
+<Server host='0.0.0.0' port={3000} /> 😉'''
 
 [[tweets]]
 id = 785554047679995905
@@ -2218,7 +2218,7 @@ text = 'My hope is to explain why being able to code in a more declarative manne
 [[tweets]]
 id = 784629501305188352
 created_at = '2016-10-08T05:40:25Z'
-text = 'Right now my idea is to talk about the (seemingly) natural progression from JS -&gt; Flow/TypeScript -&gt; OCaml/Reason.'
+text = 'Right now my idea is to talk about the (seemingly) natural progression from JS -> Flow/TypeScript -> OCaml/Reason.'
 
 [[tweets]]
 id = 784629148849405953
@@ -2278,7 +2278,7 @@ text = '@mjackson The USS Middle Management.'
 [[tweets]]
 id = 784499399883915265
 created_at = '2016-10-07T21:03:26Z'
-text = '@JaniceChu_89 Your coworker has tiny feet :&gt;'
+text = '@JaniceChu_89 Your coworker has tiny feet :>'
 
 [[tweets]]
 id = 784427431386112001
@@ -2435,7 +2435,7 @@ text = 'I wonder how many companies lose developers over a loss of faith in the 
 [[tweets]]
 id = 782311761424838657
 created_at = '2016-10-01T20:10:33Z'
-text = 'But even though I prefer spaces &gt; tabs, at least with gofmt there is consistency. And that alone trumps opinion.'
+text = 'But even though I prefer spaces > tabs, at least with gofmt there is consistency. And that alone trumps opinion.'
 
 [[tweets]]
 id = 782311552129040385
@@ -3657,7 +3657,7 @@ id = 774822667383934976
 created_at = '2016-09-11T04:11:34Z'
 text = '''
 - Bicep curls: 12 reps @ 18.8lbs (couldn't find a weight combo for 20lbs.)
-- In &amp; outs: 30 (but I think I messed up the form)
+- In & outs: 30 (but I think I messed up the form)
 ...'''
 
 [[tweets]]
@@ -3686,7 +3686,7 @@ text = 'For heart rate maximization, it started out at 180bpm immediately after,
 [[tweets]]
 id = 774820845894135809
 created_at = '2016-09-11T04:04:19Z'
-text = '''Also, if you're doing the fitness test, definitely get a heart monitor. I tired taking my heart rate without one, &amp; I don't think it worked.'''
+text = '''Also, if you're doing the fitness test, definitely get a heart monitor. I tired taking my heart rate without one, & I don't think it worked.'''
 
 [[tweets]]
 id = 774820618386677760
@@ -3868,7 +3868,7 @@ text = '''I don't know why I continue to attempt to pick up my cat when it just 
 [[tweets]]
 id = 772096366457741313
 created_at = '2016-09-03T15:38:13Z'
-text = '@chris__martin [2].concat([2]).reduce((a, b) =&gt; a + b, 0)'
+text = '@chris__martin [2].concat([2]).reduce((a, b) => a + b, 0)'
 
 [[tweets]]
 id = 772094094826938368
@@ -3903,7 +3903,7 @@ text = '''@megapctr @dan_abramov I can't tell if this tweet is satire or not. Da
 [[tweets]]
 id = 771687596397387777
 created_at = '2016-09-02T12:33:54Z'
-text = '''@vanschneider We've got similar forearm tattoos going on :&gt; https://t.co/Zni43TgYr2'''
+text = '''@vanschneider We've got similar forearm tattoos going on :> https://t.co/Zni43TgYr2'''
 [[tweets.entities.media]]
 id = 771687591376715776
 type = 'photo'
@@ -4065,7 +4065,7 @@ created_at = '2016-08-28T13:11:15Z'
 text = '''
 @HGW_XX_Seven I'm waiting for when we can do fitness in React too.
 
-&lt;Run distance={10} units='mi' /&gt;'''
+<Run distance={10} units='mi' />'''
 
 [[tweets]]
 id = 769736355664494592
@@ -4378,7 +4378,7 @@ text = '@grapefrukt You can also just fly low above the surface of the planet an
 [[tweets]]
 id = 764481936903602180
 created_at = '2016-08-13T15:21:11Z'
-text = '@grapefrukt Use beacons to scan for shelters &gt; find drop pods &gt; buy the exo suit upgrades. I already have 5 extra slots. It helps a lot!'
+text = '@grapefrukt Use beacons to scan for shelters > find drop pods > buy the exo suit upgrades. I already have 5 extra slots. It helps a lot!'
 
 [[tweets]]
 id = 764354179133472768
@@ -4836,7 +4836,7 @@ text = '@eigenbom @tigsource What a hipster 😉'
 [[tweets]]
 id = 757803843262439425
 created_at = '2016-07-26T05:04:50Z'
-text = '''@eigenbom Going through your extensive @tigsource thread &amp; feeling inspired. Although now I'm curious. What do you use for version control?'''
+text = '''@eigenbom Going through your extensive @tigsource thread & feeling inspired. Although now I'm curious. What do you use for version control?'''
 
 [[tweets]]
 id = 757578695510986753
@@ -5018,7 +5018,7 @@ text = 'Purge the past.'
 [[tweets]]
 id = 754541805387943936
 created_at = '2016-07-17T05:02:39Z'
-text = '@jay_akers @davechenell but it does use jQuery... &gt;__&gt;'
+text = '@jay_akers @davechenell but it does use jQuery... >__>'
 
 [[tweets]]
 id = 754461214567194624
@@ -5888,7 +5888,7 @@ text = '@Maibbit you must really hate sweeping and wiping the floors'
 [[tweets]]
 id = 740034622541697025
 created_at = '2016-06-07T04:16:17Z'
-text = '@eigenbom &gt;_____&gt;'
+text = '@eigenbom >_____>'
 
 [[tweets]]
 id = 739624115263262721
@@ -6481,7 +6481,7 @@ text = '''I can give you some assistance, if you'd like.'''
 [[tweets]]
 id = 730619367172517890
 created_at = '2016-05-12T04:43:26Z'
-text = '@neauoire serialize everything as JSON :&gt;'
+text = '@neauoire serialize everything as JSON :>'
 
 [[tweets]]
 id = 730474756487647233
@@ -6539,7 +6539,7 @@ text = '''@wtfmig needs more blood and gore. Gotta pop someone's head right off 
 [[tweets]]
 id = 725276244758155264
 created_at = '2016-04-27T10:51:46Z'
-text = '@levelsio @ytspar now I guess you could really call it "street food" :&gt;'
+text = '@levelsio @ytspar now I guess you could really call it "street food" :>'
 
 [[tweets]]
 id = 725156811746201602
@@ -6614,7 +6614,7 @@ text = '@dekisu code amnesia.'
 [[tweets]]
 id = 723313819129380865
 created_at = '2016-04-22T00:53:47Z'
-text = '@mrmrs_ just put all your markup in JS and then you have nothing to worry about :&gt;'
+text = '@mrmrs_ just put all your markup in JS and then you have nothing to worry about :>'
 
 [[tweets]]
 id = 723289028112580613
@@ -7215,7 +7215,7 @@ text = '@pohungchen @sintecta More like ohshit! tea.'
 [[tweets]]
 id = 712744355610669056
 created_at = '2016-03-23T20:54:31Z'
-text = 'That feel when master is 654 commits behind, and counting :&gt;'
+text = 'That feel when master is 654 commits behind, and counting :>'
 
 [[tweets]]
 id = 712449273107845122
@@ -7374,7 +7374,7 @@ text = '''My self-given advice on a daily basis: hoe don't do it.'''
 [[tweets]]
 id = 709339336815337476
 created_at = '2016-03-14T11:24:11Z'
-text = '@floatvoid me neither &gt;___&gt;'
+text = '@floatvoid me neither >___>'
 
 [[tweets]]
 id = 708996832228147200
@@ -7728,7 +7728,7 @@ url = 'https://t.co/r7RNRSsY9O'
 [[tweets]]
 id = 697555334655840256
 created_at = '2016-02-10T22:58:46Z'
-text = '@etohehir I more have a problem with my professor not knowing what the hell he is talking about. Just like the nested &lt;ul&gt; debacle last week'
+text = '@etohehir I more have a problem with my professor not knowing what the hell he is talking about. Just like the nested <ul> debacle last week'
 
 [[tweets]]
 id = 697554998725644289
@@ -7738,7 +7738,7 @@ text = '@dekisu Oh really? Looking on MDN, and they do not specifically mention 
 [[tweets]]
 id = 697554747138699264
 created_at = '2016-02-10T22:56:26Z'
-text = '@etohehir See my follow-up tweet about a11y. In the sense of raw HTML, it is not "required" for the &lt;img&gt; element to work.'
+text = '@etohehir See my follow-up tweet about a11y. In the sense of raw HTML, it is not "required" for the <img> element to work.'
 
 [[tweets]]
 id = 697554415042035712
@@ -7748,7 +7748,7 @@ text = 'I can understand its importance for a11y, but teaching students that it 
 [[tweets]]
 id = 697554307382689792
 created_at = '2016-02-10T22:54:41Z'
-text = 'Apparently `alt` is a "required" attribute on an &lt;img&gt; tag ._.'
+text = 'Apparently `alt` is a "required" attribute on an <img> tag ._.'
 
 [[tweets]]
 id = 697553833464111104
@@ -7841,20 +7841,20 @@ url = 'https://t.co/twneoDPWA1'
 [[tweets]]
 id = 696832131759210496
 created_at = '2016-02-08T23:05:01Z'
-text = 'I am 99% sure that this is invalid (or at the very least incorrect). Every usage I have seen *ever* has the nested &lt;ul&gt; inside of the &lt;li&gt;'
+text = 'I am 99% sure that this is invalid (or at the very least incorrect). Every usage I have seen *ever* has the nested <ul> inside of the <li>'
 
 [[tweets]]
 id = 696831981859049472
 created_at = '2016-02-08T23:04:25Z'
 text = '''
-"Learning" about &lt;ul&gt; tags in class. In-class example:
+"Learning" about <ul> tags in class. In-class example:
 
-&lt;ul&gt;
-    &lt;li&gt;List 1&lt;/li&gt;
-    &lt;ul&gt;
-        &lt;li&gt;List 2&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/ul&gt;
+<ul>
+    <li>List 1</li>
+    <ul>
+        <li>List 2</li>
+    </ul>
+</ul>
 
 -_______-'''
 
@@ -7926,7 +7926,7 @@ text = 'So happy that @AtomEditor has a terminal alias built-in by default. Some
 [[tweets]]
 id = 696330447891079168
 created_at = '2016-02-07T13:51:30Z'
-text = '@levelsio Are you the center of the next big infidelity scandal? Should have called it "Ashley Nomad" :&gt;'
+text = '@levelsio Are you the center of the next big infidelity scandal? Should have called it "Ashley Nomad" :>'
 
 [[tweets]]
 id = 696238209920081920
@@ -8074,7 +8074,7 @@ text = 'WE HAVE UNIT TESTS. TIME FOR SLEEP.'
 [[tweets]]
 id = 690019676357689344
 created_at = '2016-01-21T03:54:45Z'
-text = '''I'm giving the Greshunkel npm module a full promise API, just because I know @WAallLy will love it &lt;3'''
+text = '''I'm giving the Greshunkel npm module a full promise API, just because I know @WAallLy will love it <3'''
 
 [[tweets]]
 id = 689963746849116160
@@ -8213,7 +8213,7 @@ text = '''@vanschneider that's a lot of orange!'''
 [[tweets]]
 id = 684791176130605056
 created_at = '2016-01-06T17:38:33Z'
-text = '@neauoire will 2016 Devine be a boat bro? :&gt;'
+text = '@neauoire will 2016 Devine be a boat bro? :>'
 
 [[tweets]]
 id = 684534627076300801

@@ -143,7 +143,7 @@ text = '@eigenbom Some call it debug world, but most call it HELL'
 [[tweets]]
 id = 1070160391584534529
 created_at = '2018-12-05T03:38:14Z'
-text = '@sgrif &lt;insert yak shaving joke here&gt;'
+text = '@sgrif <insert yak shaving joke here>'
 
 [[tweets]]
 id = 1069932315617447936
@@ -971,7 +971,7 @@ text = '@markuspoerschke @electerious I assumed that since they were all named �
 [[tweets]]
 id = 1036990662837784577
 created_at = '2018-09-04T14:53:35Z'
-text = '''@electerious Isn't this the same as `return isDay &amp;&amp; isMonth &amp;&amp; isYear`?'''
+text = '''@electerious Isn't this the same as `return isDay && isMonth && isYear`?'''
 
 [[tweets]]
 id = 1036628170672402432
@@ -2310,7 +2310,7 @@ text = '@brian_d_vaughn @zpao @jkup @acdlite I was pretty disappointed with Dest
 [[tweets]]
 id = 991201842746019840
 created_at = '2018-05-01T06:25:09Z'
-text = '&gt;&gt;&gt;&gt;&gt; https://t.co/hqe9RWOOwm'
+text = '>>>>> https://t.co/hqe9RWOOwm'
 [[tweets.entities.urls]]
 display_url = 'twitter.com/rombulow/statu…'
 expanded_url = 'https://twitter.com/rombulow/status/990684453734203392'
@@ -2480,7 +2480,7 @@ url = 'https://pbs.twimg.com/media/Dbw7gRCVQAEAc_K.jpg'
 id = 989721423273803782
 created_at = '2018-04-27T04:22:30Z'
 text = '''
-Hot damn. beerbongs &amp; bentleys is such a vibe.
+Hot damn. beerbongs & bentleys is such a vibe.
 
 Keep killing it @PostMalone. You’re incredible 😮'''
 
@@ -3317,7 +3317,7 @@ created_at = '2018-03-29T01:30:22Z'
 text = '''
 With the help of some regex and @PrettierCode, I was able to remove programmatically remove a swathe of noisy comments from our codebase.
 
-This is also a PSA that code &gt; comments and you should only use comments in the event that intent is impossible to convey using code alone.'''
+This is also a PSA that code > comments and you should only use comments in the event that intent is impossible to convey using code alone.'''
 
 [[tweets]]
 id = 978979914903932928
@@ -4100,7 +4100,7 @@ text = '@rauchg I’m 100% on board with this.'
 id = 971768138718162944
 created_at = '2018-03-08T15:22:33Z'
 text = '''
-@joshavanier @neauoire const defaultRest = value =&gt; rest =&gt;
+@joshavanier @neauoire const defaultRest = value => rest =>
   (!rest || !rest.length) ? value : rest;
 
 function hello(...args) {
@@ -4515,7 +4515,7 @@ text = '@joshavanier Linters are a cruel mistress.'
 id = 970919961039433728
 created_at = '2018-03-06T07:12:12Z'
 text = '''
-EV281.2018.03.05 YOU &amp; ME VS THE WORLD
+EV281.2018.03.05 YOU & ME VS THE WORLD
 
 #everyday #art #3d #cinema4d #c4d #archillect #artistsontwitter https://t.co/NyjWi1X1S9'''
 [[tweets.entities.media]]
@@ -5102,7 +5102,7 @@ text = '@jlongster @dan_abramov Because it’s Just Components™️ 😎'
 [[tweets]]
 id = 965170777405485056
 created_at = '2018-02-18T10:26:59Z'
-text = 'Output &gt; Input'
+text = 'Output > Input'
 
 [[tweets]]
 id = 965149404436025349
@@ -6394,7 +6394,7 @@ text = 'ƒṴċⱩ ÿ⊝UṚ ƤĘřƑỆꜿ✟ÍŏṄ'
 [[tweets]]
 id = 950932285427273735
 created_at = '2018-01-10T03:28:18Z'
-text = '@joshavanier @autophagyDev Thanks for your input! Very helpful &amp; informative 😄'
+text = '@joshavanier @autophagyDev Thanks for your input! Very helpful & informative 😄'
 
 [[tweets]]
 id = 950931071738277889
@@ -6611,7 +6611,7 @@ text = '@romainquellec @lachlanjc @jxnblk It doesn’t make sense to contribute 
 [[tweets]]
 id = 949233811790946304
 created_at = '2018-01-05T10:59:11Z'
-text = '@aeriflame const &gt; let. Never var'
+text = '@aeriflame const > let. Never var'
 
 [[tweets]]
 id = 949137820794290176
