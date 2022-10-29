@@ -15,10 +15,20 @@ text = '''
 
 NixOS is nice enough to automatically pick up the Windows boot loader on the other drive and show it in GRUB 😁'''
 
+[tweets.in_reply_to]
+status_id = 1476190195431129088
+user_id = 2573767249
+user_name = 'theprincessxena'
+
 [[tweets]]
 id = 1474740698280861698
 created_at = '2021-12-25T13:55:56Z'
 text = '@DRMacIver Merry Christmas!'
+
+[tweets.in_reply_to]
+status_id = 1474720600413380611
+user_id = 14368342
+user_name = 'DRMacIver'
 
 [[tweets]]
 id = 1474739222707855363
@@ -37,6 +47,11 @@ text = '@ChevyRay Your dog’s coat really reminds me of this https://t.co/iTYw3
 id = 1474580674032148482
 type = 'photo'
 url = 'https://pbs.twimg.com/media/FHbDT3RXoAIJo2n.jpg'
+
+[tweets.in_reply_to]
+status_id = 1474575519328792577
+user_id = 55472734
+user_name = 'ChevyRay'
 
 [[tweets]]
 id = 1473472931372179464
@@ -61,6 +76,11 @@ id = 1471968439187169285
 created_at = '2021-12-17T22:19:58Z'
 text = '@libovness @pwign Is this a @john_c_palmer subtweet?'
 
+[tweets.in_reply_to]
+status_id = 1471965405795303429
+user_id = 17611064
+user_name = 'libovness'
+
 [[tweets]]
 id = 1471891593070264322
 created_at = '2021-12-17T17:14:36Z'
@@ -68,6 +88,11 @@ text = '''
 @iamnbutler Don't think so.
 
 React is "just JavaScript", so you'd have to reference them the way you would reference anything else in JS (which these days is generally by importing the component from a module).'''
+
+[tweets.in_reply_to]
+status_id = 1471851655029149698
+user_id = 325214156
+user_name = 'iamnbutler'
 
 [[tweets]]
 id = 1471480832888311812
@@ -86,6 +111,11 @@ text = '''
 
 If only there was a way for the type system to indicate whether a method mutates or not... that'd be crazy 🤔'''
 
+[tweets.in_reply_to]
+status_id = 1469347103361024003
+user_id = 85008547
+user_name = 'kyleshevlin'
+
 [[tweets]]
 id = 1468581789686018059
 created_at = '2021-12-08T14:02:38Z'
@@ -94,10 +124,20 @@ text = '''
 
 I think it would fit nicely with Zuck’s penchant for smoked meats'''
 
+[tweets.in_reply_to]
+status_id = 1468330468923764740
+user_id = 42345318
+user_name = 'eigenbom'
+
 [[tweets]]
 id = 1468574604180561922
 created_at = '2021-12-08T13:34:05Z'
 text = '@dekisu How about an alias that gives you an electric shock every time you type it?'
+
+[tweets.in_reply_to]
+status_id = 1468565886613307395
+user_id = 120604687
+user_name = 'dekisu'
 
 [[tweets]]
 id = 1468418261981224961
@@ -110,6 +150,11 @@ https://t.co/mPDiQqeMZs'''
 display_url = 'remix.run/docs/en/v1/oth…'
 expanded_url = 'https://remix.run/docs/en/v1/other-api/constraints#higher-order-functions'
 url = 'https://t.co/mPDiQqeMZs'
+
+[tweets.in_reply_to]
+status_id = 1468414692938838017
+user_id = 1250847387062419456
+user_name = 'remix_run'
 
 [[tweets]]
 id = 1468413420965961732
@@ -128,6 +173,11 @@ id = 1468383493373759488
 created_at = '2021-12-08T00:54:40Z'
 text = '@_alanbsmith @kyleshevlin @ken_wheeler Here I was trying to figure out how to do arithmetic on shapes 🤦🏻‍♂️'
 
+[tweets.in_reply_to]
+status_id = 1468380372333260804
+user_id = 977286368
+user_name = '_alanbsmith'
+
 [[tweets]]
 id = 1468358951569960967
 created_at = '2021-12-07T23:17:09Z'
@@ -141,30 +191,60 @@ id = 1467652577831628804
 created_at = '2021-12-06T00:30:16Z'
 text = '@willmanduffy @tailwindcss Willman, Hack Week hasn’t started yet!'
 
+[tweets.in_reply_to]
+status_id = 1467652342556368901
+user_id = 351346221
+user_name = 'willmanduffy'
+
 [[tweets]]
 id = 1467642925337169925
 created_at = '2021-12-05T23:51:55Z'
 text = '@fasterthanlime Awesome! Wishing you all the best 😄'
+
+[tweets.in_reply_to]
+status_id = 1467642327275835392
+user_id = 2589716941
+user_name = 'fasterthanlime'
 
 [[tweets]]
 id = 1467641275033735172
 created_at = '2021-12-05T23:45:22Z'
 text = '@fasterthanlime Doing Rust, I hope? (Or at least, no Mr. Golang’s Wild Ride)'
 
+[tweets.in_reply_to]
+status_id = 1467630731862200325
+user_id = 2589716941
+user_name = 'fasterthanlime'
+
 [[tweets]]
 id = 1466814525521473539
 created_at = '2021-12-03T17:00:09Z'
 text = '@ChevyRay “l” for “lambda”'
+
+[tweets.in_reply_to]
+status_id = 1466806837349470209
+user_id = 55472734
+user_name = 'ChevyRay'
 
 [[tweets]]
 id = 1466765061729538059
 created_at = '2021-12-03T13:43:36Z'
 text = '@ChevyRay Haskell: \'
 
+[tweets.in_reply_to]
+status_id = 1466706156236115968
+user_id = 55472734
+user_name = 'ChevyRay'
+
 [[tweets]]
 id = 1466762843915796481
 created_at = '2021-12-03T13:34:47Z'
 text = '@passcod A clock that displays Unix time'
+
+[tweets.in_reply_to]
+status_id = 1466753832801607681
+user_id = 92200252
+user_name = 'passcod'
 
 [[tweets]]
 id = 1466625114401869824
@@ -178,10 +258,20 @@ display_url = 'vanilla-extract.style'
 expanded_url = 'https://vanilla-extract.style/'
 url = 'https://t.co/E0XGS6EdXV'
 
+[tweets.in_reply_to]
+status_id = 1466573027450130432
+user_id = 977286368
+user_name = '_alanbsmith'
+
 [[tweets]]
 id = 1466271611665932294
 created_at = '2021-12-02T05:02:48Z'
 text = '@willmanduffy @seldo Interesting, I have astigmatism and I prefer dark mode everywhere'
+
+[tweets.in_reply_to]
+status_id = 1466229772359512066
+user_id = 351346221
+user_name = 'willmanduffy'
 
 [[tweets]]
 id = 1466228774765318150
@@ -204,10 +294,20 @@ id = 1464074593254129665
 created_at = '2021-11-26T03:32:38Z'
 text = '@chris__martin My brain is broken such that I have a hard time using folds and my go-to accumulation method is writing custom recursive algorithms 😓'
 
+[tweets.in_reply_to]
+status_id = 1463982736301969409
+user_id = 18271443
+user_name = 'chris__martin'
+
 [[tweets]]
 id = 1463501107498557440
 created_at = '2021-11-24T13:33:49Z'
 text = '@joshuasmyth It’s 0 for “zero errors” 😄'
+
+[tweets.in_reply_to]
+status_id = 1463412758272040962
+user_id = 17414835
+user_name = 'joshuasmyth'
 
 [[tweets]]
 id = 1463352345723613192
@@ -217,10 +317,20 @@ text = '''
 
 Had to heimlich myself'''
 
+[tweets.in_reply_to]
+status_id = 1463227447197974536
+user_id = 351346221
+user_name = 'willmanduffy'
+
 [[tweets]]
 id = 1461929226018471936
 created_at = '2021-11-20T05:27:43Z'
 text = '@grhmc Congrats on baby’s first steps!'
+
+[tweets.in_reply_to]
+status_id = 1461910376354926593
+user_id = 6472332
+user_name = 'grhmc'
 
 [[tweets]]
 id = 1461726103832301571
@@ -230,15 +340,30 @@ text = '''
 
 Haskell’s probably a fine choice too'''
 
+[tweets.in_reply_to]
+status_id = 1461724934028333059
+user_id = 6472332
+user_name = 'grhmc'
+
 [[tweets]]
 id = 1461692961218088963
 created_at = '2021-11-19T13:48:53Z'
 text = '@sebmarkbage @dan_abramov Whenever I need to check the SEO for my website'
 
+[tweets.in_reply_to]
+status_id = 1461567816340066310
+user_id = 18022416
+user_name = 'sebmarkbage'
+
 [[tweets]]
 id = 1461508116684623874
 created_at = '2021-11-19T01:34:23Z'
 text = '@ken_wheeler Hit me up, fam'
+
+[tweets.in_reply_to]
+status_id = 1461439173202690052
+user_id = 167193309
+user_name = 'ken_wheeler'
 
 [[tweets]]
 id = 1461201279720599552
@@ -257,25 +382,50 @@ text = '''
 
 That will be the real web3.'''
 
+[tweets.in_reply_to]
+status_id = 1460773971784310790
+user_id = 16377511
+user_name = 'rickasaurus'
+
 [[tweets]]
 id = 1460842660743237635
 created_at = '2021-11-17T05:30:06Z'
 text = '@rickasaurus As opposed to a bottom boomer?'
+
+[tweets.in_reply_to]
+status_id = 1460774394763124741
+user_id = 16377511
+user_name = 'rickasaurus'
 
 [[tweets]]
 id = 1460834273016139777
 created_at = '2021-11-17T04:56:46Z'
 text = '@hillelogram These would make for some stellar NFTs (if NFTs weren’t incredibly problematic)'
 
+[tweets.in_reply_to]
+status_id = 1460831555757264899
+user_id = 397782926
+user_name = 'hillelogram'
+
 [[tweets]]
 id = 1460414310958645252
 created_at = '2021-11-16T01:07:59Z'
 text = '''@_alanbsmith I think the rule here should be for each round you're only allowed to use HTML elements that have made it through to that round'''
 
+[tweets.in_reply_to]
+status_id = 1460412305963900930
+user_id = 977286368
+user_name = '_alanbsmith'
+
 [[tweets]]
 id = 1460079067269632003
 created_at = '2021-11-15T02:55:51Z'
 text = '''@dan_abramov As long as you don't start tweeting about NFTs, we're good!'''
+
+[tweets.in_reply_to]
+status_id = 1460073804764520453
+user_id = 70345946
+user_name = 'dan_abramov'
 
 [[tweets]]
 id = 1460062083739959301
@@ -294,20 +444,40 @@ text = '''
 
 Next can we remove List-specific `map` and replace `fmap` with `map`?'''
 
+[tweets.in_reply_to]
+status_id = 1459579103649021952
+user_id = 1729289012
+user_name = 'GabriellaG439'
+
 [[tweets]]
 id = 1459531655559974914
 created_at = '2021-11-13T14:40:38Z'
 text = '@theprincessxena This is just Gorillaz, except not good'
+
+[tweets.in_reply_to]
+status_id = 1459531503663202305
+user_id = 36209210
+user_name = 'maxdeviant'
 
 [[tweets]]
 id = 1459531503663202305
 created_at = '2021-11-13T14:40:01Z'
 text = '@theprincessxena Thanks, I hate it'
 
+[tweets.in_reply_to]
+status_id = 1459531098875170823
+user_id = 2573767249
+user_name = 'theprincessxena'
+
 [[tweets]]
 id = 1459297834851782664
 created_at = '2021-11-12T23:11:30Z'
 text = '''@fasterthanlime I thought maybe you had just remembered the kettle in the other room that's probably no longer hot and the thought terrified you'''
+
+[tweets.in_reply_to]
+status_id = 1459296191083069445
+user_id = 36209210
+user_name = 'maxdeviant'
 
 [[tweets]]
 id = 1459296191083069445
@@ -317,6 +487,11 @@ text = '''
 
 "Why is Amos afraid of water... getting colder?"'''
 
+[tweets.in_reply_to]
+status_id = 1459295515640836099
+user_id = 2589716941
+user_name = 'fasterthanlime'
+
 [[tweets]]
 id = 1459226077704990726
 created_at = '2021-11-12T18:26:22Z'
@@ -325,10 +500,20 @@ text = '''
 
 For ML-style languages I think there might be some considerations for partial application. But using records for large parameter lists seems like a nice default choice.'''
 
+[tweets.in_reply_to]
+status_id = 1459216301499551751
+user_id = 983700637
+user_name = 'hdgarrood'
+
 [[tweets]]
 id = 1459038263914684418
 created_at = '2021-11-12T06:00:04Z'
 text = '@hillelogram This is genius'
+
+[tweets.in_reply_to]
+status_id = 1459013768978079747
+user_id = 397782926
+user_name = 'hillelogram'
 
 [[tweets]]
 id = 1458957402724880385
@@ -342,6 +527,11 @@ text = '''
 @jeanqasaur Still Haskell, although I think Rust is definitely up there now.
 
 Don’t know if there’s anyone using it in production, but writing Idris professionally is my pipe dream.'''
+
+[tweets.in_reply_to]
+status_id = 1458688514279628802
+user_id = 271516623
+user_name = 'jeanqasaur'
 
 [[tweets]]
 id = 1458662825199603712
@@ -359,6 +549,11 @@ url = 'https://t.co/bpah9kjwXj'
 id = 1458437945376006152
 created_at = '2021-11-10T14:14:37Z'
 text = '@smdiehl Hopefully once the crypto crisis has been averted we’ll see a return to discourse on something less vapid'
+
+[tweets.in_reply_to]
+status_id = 1458434273849995264
+user_id = 151535146
+user_name = 'smdiehl'
 
 [[tweets]]
 id = 1458433723398041605
@@ -386,6 +581,11 @@ id = 1458419330937507844
 created_at = '2021-11-10T13:00:39Z'
 text = '@theprincessxena A whole 244 words?! You’re giving those NaNoWriMo participants a run for their money'
 
+[tweets.in_reply_to]
+status_id = 1458410678260277255
+user_id = 2573767249
+user_name = 'theprincessxena'
+
 [[tweets]]
 id = 1458173694740684806
 created_at = '2021-11-09T20:44:35Z'
@@ -394,10 +594,20 @@ text = '''
 
 Haven’t really done any research yet, but I’m not optimistic 😞'''
 
+[tweets.in_reply_to]
+status_id = 1458141688820494338
+user_id = 20282537
+user_name = 'NoelFB'
+
 [[tweets]]
 id = 1458064641175736329
 created_at = '2021-11-09T13:31:14Z'
 text = '@willmanduffy Horror stories like these make me glad that I use Nix instead of Homebrew 😬'
+
+[tweets.in_reply_to]
+status_id = 1458059823128403974
+user_id = 351346221
+user_name = 'willmanduffy'
 
 [[tweets]]
 id = 1457880933349138442
@@ -430,6 +640,11 @@ id = 1456433761156009984
 created_at = '2021-11-05T01:30:42Z'
 text = '@jsjoeio And that’s how it’s done! 🤣'
 
+[tweets.in_reply_to]
+status_id = 1456432326091571205
+user_id = 1567529924
+user_name = 'jsjoeio'
+
 [[tweets]]
 id = 1456428194987380736
 created_at = '2021-11-05T01:08:35Z'
@@ -449,6 +664,11 @@ id = 1456241150549966849
 created_at = '2021-11-04T12:45:20Z'
 text = '@evie_fp I’d love to see some galaxy brain Haskell'
 
+[tweets.in_reply_to]
+status_id = 1456157028246765570
+user_id = 77824600
+user_name = 'evie_fp'
+
 [[tweets]]
 id = 1456231459698642950
 created_at = '2021-11-04T12:06:50Z'
@@ -460,6 +680,11 @@ I’d imagine it’s the same on Android. https://t.co/wMuftvcNDs'''
 id = 1456231456737566722
 type = 'photo'
 url = 'https://pbs.twimg.com/media/FDWSy2GXoAI9s_b.jpg'
+
+[tweets.in_reply_to]
+status_id = 1456226329129533440
+user_id = 40228997
+user_name = 'snoyberg'
 
 [[tweets]]
 id = 1456091241087700993
@@ -487,6 +712,11 @@ display_url = 'keyvalues.com/workos'
 expanded_url = 'https://www.keyvalues.com/workos'
 url = 'https://t.co/szA43SrJCp'
 
+[tweets.in_reply_to]
+status_id = 1455998714800185348
+user_id = 36209210
+user_name = 'maxdeviant'
+
 [[tweets]]
 id = 1455998714800185348
 created_at = '2021-11-03T20:41:59Z'
@@ -502,6 +732,11 @@ id = 1455516835793842181
 created_at = '2021-11-02T12:47:10Z'
 text = '@KevinHoffman Which language(s) are we subtweeting here?'
 
+[tweets.in_reply_to]
+status_id = 1455512830548004871
+user_id = 14785423
+user_name = 'KevinHoffman'
+
 [[tweets]]
 id = 1455147048924323847
 created_at = '2021-11-01T12:17:46Z'
@@ -510,15 +745,30 @@ text = '''
 
 I like React and its cohorts (e.g. Fable.Elmish) because you can reuse the language features without having to learn redundant concepts.'''
 
+[tweets.in_reply_to]
+status_id = 1455090434896695299
+user_id = 7149522
+user_name = 'isaac_abraham'
+
 [[tweets]]
 id = 1454938863923773453
 created_at = '2021-10-31T22:30:31Z'
 text = '@willmanduffy @blips_planner Whoa there, sounds like you might need a distributed, web-scale, NoSQL database soon!'
 
+[tweets.in_reply_to]
+status_id = 1454925638188535814
+user_id = 351346221
+user_name = 'willmanduffy'
+
 [[tweets]]
 id = 1454223613985501184
 created_at = '2021-10-29T23:08:22Z'
 text = '@willmanduffy The .01% of bugs turn into mega bugs that can’t be killed'
+
+[tweets.in_reply_to]
+status_id = 1454192888213090307
+user_id = 351346221
+user_name = 'willmanduffy'
 
 [[tweets]]
 id = 1453839967667507204
@@ -550,6 +800,11 @@ url = 'https://t.co/Dyc5PzHUrQ'
 id = 1452623876010258432
 created_at = '2021-10-25T13:11:35Z'
 text = 'Of course, this entire line of thinking falls apart once you realize it’s never been about the children, or the terrorists, or any of the other crypto boogeymen that come up when trying to ban or control the use of E2EE.'
+
+[tweets.in_reply_to]
+status_id = 1452623061736378373
+user_id = 36209210
+user_name = 'maxdeviant'
 
 [[tweets]]
 id = 1452623061736378373
@@ -584,6 +839,11 @@ id = 1450445203354103819
 created_at = '2021-10-19T12:54:19Z'
 text = '@sintecta I’m really loving the style of these! What do your tools/process look like for making them?'
 
+[tweets.in_reply_to]
+status_id = 1450442539358572557
+user_id = 1012375712
+user_name = 'sintecta'
+
 [[tweets]]
 id = 1450270593136447488
 created_at = '2021-10-19T01:20:28Z'
@@ -592,10 +852,20 @@ text = '''
 
 We’re currently using bors-ng, which works, but can be a bit unreliable at times.'''
 
+[tweets.in_reply_to]
+status_id = 1450244805628334083
+user_id = 977286368
+user_name = '_alanbsmith'
+
 [[tweets]]
 id = 1450135520831492103
 created_at = '2021-10-18T16:23:45Z'
 text = '@Swizec I have a feeling that someday I’ll end up with a PhD and be off doing PL research at a university or in an R&D department somewhere (like Microsoft Research)'
+
+[tweets.in_reply_to]
+status_id = 1450132100246499328
+user_id = 15353121
+user_name = 'Swizec'
 
 [[tweets]]
 id = 1449580571403902976
@@ -611,25 +881,50 @@ id = 1449005986027552772
 created_at = '2021-10-15T13:35:22Z'
 text = '@willmanduffy That reminds me, earlier this week I got a scam voicemail saying my SSN had been stolen and was being used and I should call them back to get my SSN revoked 🤔'
 
+[tweets.in_reply_to]
+status_id = 1449003418564050974
+user_id = 351346221
+user_name = 'willmanduffy'
+
 [[tweets]]
 id = 1449004099815583744
 created_at = '2021-10-15T13:27:53Z'
 text = '@DotNetIsCSharp @sforkmann To be fair, VB doesn’t deserve any mentions 🙃'
+
+[tweets.in_reply_to]
+status_id = 1448723423321014281
+user_id = 1225895720588369920
+user_name = 'DotNetIsCSharp'
 
 [[tweets]]
 id = 1449002753368408098
 created_at = '2021-10-15T13:22:32Z'
 text = '@levelsio So it’s not that getting vaxxed is hot (although it is), it’s that getting vaxxed *makes you hot*'
 
+[tweets.in_reply_to]
+status_id = 1448930124242436100
+user_id = 1577241403
+user_name = 'levelsio'
+
 [[tweets]]
 id = 1445228816759238659
 created_at = '2021-10-05T03:26:15Z'
 text = '@rickasaurus PGBGP: Pretty Good Border Gateway Protocol'
 
+[tweets.in_reply_to]
+status_id = 1445209580296970243
+user_id = 16377511
+user_name = 'rickasaurus'
+
 [[tweets]]
 id = 1444872986088067077
 created_at = '2021-10-04T03:52:18Z'
 text = '@hillelogram @grhmc @mycoliza @arachnocapital2 Same'
+
+[tweets.in_reply_to]
+status_id = 1444864696461447172
+user_id = 397782926
+user_name = 'hillelogram'
 
 [[tweets]]
 id = 1444073277958369290
@@ -640,15 +935,30 @@ id = 1444073271998173188
 type = 'photo'
 url = 'https://pbs.twimg.com/tweet_video_thumb/FApg_WcWUAQqL64.jpg'
 
+[tweets.in_reply_to]
+status_id = 1444071606062616589
+user_id = 351346221
+user_name = 'willmanduffy'
+
 [[tweets]]
 id = 1444070743172685824
 created_at = '2021-10-01T22:44:29Z'
 text = '@vcapretz @vikramrojo @willmanduffy DELETE this'
 
+[tweets.in_reply_to]
+status_id = 1444068402662936577
+user_id = 252512829
+user_name = 'vcapretz'
+
 [[tweets]]
 id = 1441602715877101568
 created_at = '2021-09-25T03:17:25Z'
 text = '@semiplatonic_ Sounds like a real keeper!'
+
+[tweets.in_reply_to]
+status_id = 1441586812539920392
+user_id = 853299564597719040
+user_name = 'semiplatonic_'
 
 [[tweets]]
 id = 1441256760145154056
@@ -659,6 +969,11 @@ display_url = 'sublimemerge.com'
 expanded_url = 'https://www.sublimemerge.com/'
 url = 'https://t.co/XB8BzUsmsB'
 
+[tweets.in_reply_to]
+status_id = 1441206995151769611
+user_id = 42345318
+user_name = 'eigenbom'
+
 [[tweets]]
 id = 1440528791122546689
 created_at = '2021-09-22T04:10:02Z'
@@ -667,6 +982,11 @@ text = '@hdgarrood https://t.co/8OqnoP9Tfm'
 id = 1440528787939020804
 type = 'photo'
 url = 'https://pbs.twimg.com/media/E_3JTOXUUAQFqDp.jpg'
+
+[tweets.in_reply_to]
+status_id = 1440462339749281799
+user_id = 983700637
+user_name = 'hdgarrood'
 
 [[tweets]]
 id = 1440300953064726534
@@ -684,6 +1004,11 @@ text = '''
 @bark_maul It’s so weird seeing a corgi with a full tail 😧
 
 Almost looks like a dragon!'''
+
+[tweets.in_reply_to]
+status_id = 1439216014324011009
+user_id = 1427622648692019206
+user_name = 'bark_maul'
 
 [[tweets]]
 id = 1438719911325577217
@@ -706,6 +1031,11 @@ display_url = 'typescriptlang.org/tsconfig#noFal…'
 expanded_url = 'https://www.typescriptlang.org/tsconfig#noFallthroughCasesInSwitch'
 url = 'https://t.co/W8XvC6eQTb'
 
+[tweets.in_reply_to]
+status_id = 1429916765606367234
+user_id = 983700637
+user_name = 'hdgarrood'
+
 [[tweets]]
 id = 1438696627712233473
 created_at = '2021-09-17T02:49:40Z'
@@ -723,20 +1053,40 @@ id = 1438626990333038595
 created_at = '2021-09-16T22:12:57Z'
 text = '@theprincessxena Give it 11/10'
 
+[tweets.in_reply_to]
+status_id = 1438626043976462341
+user_id = 2573767249
+user_name = 'theprincessxena'
+
 [[tweets]]
 id = 1437995440662790150
 created_at = '2021-09-15T04:23:24Z'
 text = '@eigenbom kebabs-on-the-barbie'
+
+[tweets.in_reply_to]
+status_id = 1437938462607380480
+user_id = 42345318
+user_name = 'eigenbom'
 
 [[tweets]]
 id = 1437931821191270405
 created_at = '2021-09-15T00:10:36Z'
 text = '@theprincessxena Same here'
 
+[tweets.in_reply_to]
+status_id = 1437924376331096065
+user_id = 2573767249
+user_name = 'theprincessxena'
+
 [[tweets]]
 id = 1436458145145135106
 created_at = '2021-09-10T22:34:44Z'
 text = '@markdalgleish Then you join your new company, setup a shared Slack channel with your old company, and it’s almost like you’re carrying a conversation with your former coworkers from the adjacent building'
+
+[tweets.in_reply_to]
+status_id = 1436451589493956611
+user_id = 257765996
+user_name = 'markdalgleish'
 
 [[tweets]]
 id = 1436310077825298476
@@ -752,10 +1102,20 @@ id = 1435456731224678404
 created_at = '2021-09-08T04:15:28Z'
 text = '@iamkory Jack Johnson'
 
+[tweets.in_reply_to]
+status_id = 1435447277384994816
+user_id = 7407282
+user_name = 'iamkory'
+
 [[tweets]]
 id = 1432864757980274692
 created_at = '2021-09-01T00:35:54Z'
 text = '@_alanbsmith That sounds like a dare'
+
+[tweets.in_reply_to]
+status_id = 1432860244539965441
+user_id = 977286368
+user_name = '_alanbsmith'
 
 [[tweets]]
 id = 1431690367926145026
@@ -765,6 +1125,11 @@ text = 'This is the book, for the lazy: https://t.co/kc2M82JbRX'
 display_url = 'amazon.com/Almost-Perfect…'
 expanded_url = 'https://www.amazon.com/Almost-Perfect-Regular-Wordperfect-Corporation/dp/0788199919'
 url = 'https://t.co/kc2M82JbRX'
+
+[tweets.in_reply_to]
+status_id = 1431690255078465543
+user_id = 36209210
+user_name = 'maxdeviant'
 
 [[tweets]]
 id = 1431690255078465543
@@ -780,10 +1145,20 @@ id = 1431603139778695177
 created_at = '2021-08-28T13:02:41Z'
 text = '@film_girl @migueldeicaza My dad had gotten an ASUS Eee PC netbook and put MEPIS on it and that was what sparked my interest 😄'
 
+[tweets.in_reply_to]
+status_id = 1431602697896083465
+user_id = 36209210
+user_name = 'maxdeviant'
+
 [[tweets]]
 id = 1431602697896083465
 created_at = '2021-08-28T13:00:55Z'
 text = '@film_girl @migueldeicaza My first distro was MEPIS sometime around 2007.'
+
+[tweets.in_reply_to]
+status_id = 1430954600744501254
+user_id = 9866582
+user_name = 'film_girl'
 
 [[tweets]]
 id = 1431411034246483968
@@ -802,10 +1177,20 @@ display_url = 'ghost.org'
 expanded_url = 'https://ghost.org/'
 url = 'https://t.co/WwKJTYJR66'
 
+[tweets.in_reply_to]
+status_id = 1431407657441640450
+user_id = 1729289012
+user_name = 'GabriellaG439'
+
 [[tweets]]
 id = 1431076580097503233
 created_at = '2021-08-27T02:10:19Z'
 text = '@Swizec *laughs in Haskell*'
+
+[tweets.in_reply_to]
+status_id = 1431070110123364353
+user_id = 15353121
+user_name = 'Swizec'
 
 [[tweets]]
 id = 1430928100506865667
@@ -817,40 +1202,80 @@ JumpCloud is acting as an identity provider (IdP) that allows you to use SSO to 
 
 WorkOS allows you to add support for various IdPs to your application (including JumpCloud 🙂)'''
 
+[tweets.in_reply_to]
+status_id = 1430925902611943424
+user_id = 1363861506706743299
+user_name = 'BenGarrison_me'
+
 [[tweets]]
 id = 1430740592611446786
 created_at = '2021-08-26T03:55:13Z'
 text = '@lethalbit Pizzaaaaaaa'
+
+[tweets.in_reply_to]
+status_id = 1430739903030120449
+user_id = 622405560
+user_name = 'lethalbit'
 
 [[tweets]]
 id = 1430738168563785730
 created_at = '2021-08-26T03:45:35Z'
 text = '@nwilliams030 My in-laws are great and I wish everyone was fortunate enough to have great in-laws'
 
+[tweets.in_reply_to]
+status_id = 1430736415910944782
+user_id = 1343248315
+user_name = 'nwilliams030'
+
 [[tweets]]
 id = 1430732138417098757
 created_at = '2021-08-26T03:21:38Z'
 text = '@hundredrabbits Paradise 2.0? 👀'
+
+[tweets.in_reply_to]
+status_id = 1430677266879565827
+user_id = 3601176677
+user_name = 'hundredrabbits'
 
 [[tweets]]
 id = 1430359812467044352
 created_at = '2021-08-25T02:42:08Z'
 text = '@cherthedev There’s no way they’re not aware of what they’re doing… right?'
 
+[tweets.in_reply_to]
+status_id = 1430289645342924800
+user_id = 15790639
+user_name = 'cherthedev'
+
 [[tweets]]
 id = 1430356833391239171
 created_at = '2021-08-25T02:30:18Z'
 text = '@creitve Good luck'
+
+[tweets.in_reply_to]
+status_id = 1430316007193780232
+user_id = 45848597
+user_name = 'creitve'
 
 [[tweets]]
 id = 1430284063793991686
 created_at = '2021-08-24T21:41:08Z'
 text = '@eigenbom A programming language called footgun that does its best to not provide any footguns'
 
+[tweets.in_reply_to]
+status_id = 1430282743284260866
+user_id = 42345318
+user_name = 'eigenbom'
+
 [[tweets]]
 id = 1430258275799474183
 created_at = '2021-08-24T19:58:40Z'
 text = '@yoshuawuyts I just discovered how bad leading backquotes look in this font and I hate it'
+
+[tweets.in_reply_to]
+status_id = 1430257530895310858
+user_id = 39952227
+user_name = 'yoshuawuyts'
 
 [[tweets]]
 id = 1430258089165471744
@@ -860,6 +1285,11 @@ text = '''
 
 I use `fp-ts` the way I’d use lodash, so I typically already have it on-hand 😄'''
 
+[tweets.in_reply_to]
+status_id = 1430256383706812418
+user_id = 85008547
+user_name = 'kyleshevlin'
+
 [[tweets]]
 id = 1430254298454269954
 created_at = '2021-08-24T19:42:52Z'
@@ -868,10 +1298,20 @@ text = '''
 
 There are situations where you have to adjust how certain code is written for type inference to work properly, but it’s not too bad.'''
 
+[tweets.in_reply_to]
+status_id = 1430248650840580101
+user_id = 85008547
+user_name = 'kyleshevlin'
+
 [[tweets]]
 id = 1429098261298753543
 created_at = '2021-08-21T15:09:11Z'
 text = '@grhmc Your bill'
+
+[tweets.in_reply_to]
+status_id = 1429098077412110340
+user_id = 6472332
+user_name = 'grhmc'
 
 [[tweets]]
 id = 1428832440999682049
@@ -890,10 +1330,20 @@ id = 1428511957460688902
 created_at = '2021-08-20T00:19:25Z'
 text = '@jongold Reading this tweet gave me anxiety'
 
+[tweets.in_reply_to]
+status_id = 1428511496795942916
+user_id = 14199907
+user_name = 'jemgold_'
+
 [[tweets]]
 id = 1428506734348353539
 created_at = '2021-08-19T23:58:40Z'
 text = '@ruby0x1 Luxe going open source? 👀'
+
+[tweets.in_reply_to]
+status_id = 1428118384844021762
+user_id = 55639889
+user_name = 'ruby0x1'
 
 [[tweets]]
 id = 1428341440464183296
@@ -903,10 +1353,20 @@ text = '''
 
 Takes up all the ports on one side, but I couldn’t find any docks/adapters that supported dual 4K at 60Hz 😕'''
 
+[tweets.in_reply_to]
+status_id = 1428263404490264580
+user_id = 257765996
+user_name = 'markdalgleish'
+
 [[tweets]]
 id = 1428333067622572033
 created_at = '2021-08-19T12:28:35Z'
 text = '@theprincessxena If you must'
+
+[tweets.in_reply_to]
+status_id = 1428332244339408906
+user_id = 2573767249
+user_name = 'theprincessxena'
 
 [[tweets]]
 id = 1428050520485289993
@@ -921,6 +1381,11 @@ url = 'https://t.co/bPWwyqUgNA'
 id = 1428050326460977160
 created_at = '2021-08-18T17:45:04Z'
 text = '@jtaylorhodge It’s always CORS!'
+
+[tweets.in_reply_to]
+status_id = 1423346454970748937
+user_id = 1211907067
+user_name = 'jtaylorhodge'
 
 [[tweets]]
 id = 1427845471125614597
@@ -953,10 +1418,20 @@ id = 1426529048096817156
 created_at = '2021-08-14T13:00:03Z'
 text = '@fasterthanlime TSD'
 
+[tweets.in_reply_to]
+status_id = 1426526031213629446
+user_id = 2589716941
+user_name = 'fasterthanlime'
+
 [[tweets]]
 id = 1426035233988751362
 created_at = '2021-08-13T04:17:48Z'
 text = '@grhmc @theprincessxena Ohimark'
+
+[tweets.in_reply_to]
+status_id = 1426015103128948736
+user_id = 6472332
+user_name = 'grhmc'
 
 [[tweets]]
 id = 1425977465013473286
@@ -972,15 +1447,30 @@ id = 1425281552062234626
 created_at = '2021-08-11T02:22:57Z'
 text = '@cherthedev I’m sure there’s some nightmare fuel behind this tweet 😣'
 
+[tweets.in_reply_to]
+status_id = 1425281205902012421
+user_id = 15790639
+user_name = 'cherthedev'
+
 [[tweets]]
 id = 1425077946499403776
 created_at = '2021-08-10T12:53:53Z'
 text = '@ruby0x1 I really need to pick it up again, I haven’t played since launch'
 
+[tweets.in_reply_to]
+status_id = 1424868094237843468
+user_id = 55639889
+user_name = 'ruby0x1'
+
 [[tweets]]
 id = 1424108263944171520
 created_at = '2021-08-07T20:40:43Z'
 text = '@rickasaurus @hillelogram In some cases code review is actually required, like with SOC 2'
+
+[tweets.in_reply_to]
+status_id = 1424094826308505608
+user_id = 16377511
+user_name = 'rickasaurus'
 
 [[tweets]]
 id = 1423780273980911624
@@ -994,10 +1484,20 @@ display_url = 'getkirby.com'
 expanded_url = 'https://getkirby.com/'
 url = 'https://t.co/c8Sd3Wd4er'
 
+[tweets.in_reply_to]
+status_id = 1423775421175263234
+user_id = 55472734
+user_name = 'ChevyRay'
+
 [[tweets]]
 id = 1423775157588570113
 created_at = '2021-08-06T22:37:04Z'
 text = '@ChevyRay Also, would be very interested in seeing both your Rust game engine and your devlog for it 👀'
+
+[tweets.in_reply_to]
+status_id = 1423774939795148800
+user_id = 36209210
+user_name = 'maxdeviant'
 
 [[tweets]]
 id = 1423774939795148800
@@ -1011,6 +1511,11 @@ display_url = 'getzola.org'
 expanded_url = 'https://www.getzola.org/'
 url = 'https://t.co/cDiXzjri0J'
 
+[tweets.in_reply_to]
+status_id = 1423774455696805889
+user_id = 55472734
+user_name = 'ChevyRay'
+
 [[tweets]]
 id = 1423639398747344896
 created_at = '2021-08-06T13:37:37Z'
@@ -1019,40 +1524,80 @@ text = '''
 
 As someone who rarely uses Python and hasn’t set up a `virtualenv` in years, it’s nice to have Nix to use in these sorts of situations 😄'''
 
+[tweets.in_reply_to]
+status_id = 1423523160645832708
+user_id = 3303607390
+user_name = 'sebbel'
+
 [[tweets]]
 id = 1423429120927600645
 created_at = '2021-08-05T23:42:03Z'
 text = '''@iamkory It wasn't until reading this tweet that I realized how much I'm bothered by the same thing'''
+
+[tweets.in_reply_to]
+status_id = 1423423791070277634
+user_id = 7407282
+user_name = 'iamkory'
 
 [[tweets]]
 id = 1422406495883329537
 created_at = '2021-08-03T03:58:30Z'
 text = '@passcod This is further confirmation that Copilot is only useful for writing boilerplate and this reinforces my conviction that it is solving the totally wrong problem'
 
+[tweets.in_reply_to]
+status_id = 1422397448064962562
+user_id = 92200252
+user_name = 'passcod'
+
 [[tweets]]
 id = 1422406011755843596
 created_at = '2021-08-03T03:56:34Z'
 text = '@ohhoe @expressvpn Is this a sponsored segment?'
+
+[tweets.in_reply_to]
+status_id = 1422399432285468280
+user_id = 2141321
+user_name = 'ohhoe'
 
 [[tweets]]
 id = 1420876919051071488
 created_at = '2021-07-29T22:40:30Z'
 text = '@mattoflambda As someone who is Haskell-adjacent: Is RecordDotSyntax readily available?'
 
+[tweets.in_reply_to]
+status_id = 1420873894689480708
+user_id = 1226190540
+user_name = 'mattoflambda'
+
 [[tweets]]
 id = 1420081770968625161
 created_at = '2021-07-27T18:00:52Z'
 text = '@lethalbit This is cursed'
+
+[tweets.in_reply_to]
+status_id = 1420081122160123911
+user_id = 622405560
+user_name = 'lethalbit'
 
 [[tweets]]
 id = 1418913767778365449
 created_at = '2021-07-24T12:39:39Z'
 text = '@inconvergent I have to tell Windows to re-sync the clock with the time server every time I boot into Windows after having been booted into Linux 😓'
 
+[tweets.in_reply_to]
+status_id = 1418905918469808130
+user_id = 26753143
+user_name = 'inconvergent'
+
 [[tweets]]
 id = 1418423331150307335
 created_at = '2021-07-23T04:10:49Z'
 text = '@wtfmig “He anger” — my wife when I showed her this'
+
+[tweets.in_reply_to]
+status_id = 1418420800726749188
+user_id = 280841036
+user_name = 'wtfmig'
 
 [[tweets]]
 id = 1418412487704203264
@@ -1062,6 +1607,11 @@ text = 'Find out what type class you are https://t.co/68lleRjKhl'
 display_url = 'twitter.com/impurepics/sta…'
 expanded_url = 'https://twitter.com/impurepics/status/1418310846304989188'
 url = 'https://t.co/68lleRjKhl'
+
+[tweets.in_reply_to]
+status_id = 1418412398432690184
+user_id = 36209210
+user_name = 'maxdeviant'
 
 [[tweets]]
 id = 1418412398432690184
@@ -1084,6 +1634,11 @@ id = 1418411227135479811
 type = 'photo'
 url = 'https://pbs.twimg.com/media/E681fvrWEAM5LyL.png'
 
+[tweets.in_reply_to]
+status_id = 1418323706968002569
+user_id = 2589716941
+user_name = 'fasterthanlime'
+
 [[tweets]]
 id = 1416158769382400002
 created_at = '2021-07-16T22:12:16Z'
@@ -1101,10 +1656,20 @@ text = '''
 
 (I absolutely hate TypeORM).'''
 
+[tweets.in_reply_to]
+status_id = 1415767122001600516
+user_id = 15353121
+user_name = 'Swizec'
+
 [[tweets]]
 id = 1415393156644888586
 created_at = '2021-07-14T19:29:59Z'
 text = '@cherthedev Panic'
+
+[tweets.in_reply_to]
+status_id = 1415391596594581504
+user_id = 15790639
+user_name = 'cherthedev'
 
 [[tweets]]
 id = 1415308311344332804
@@ -1119,6 +1684,11 @@ url = 'https://t.co/lq6ilQfGk0'
 id = 1411099991578447872
 created_at = '2021-07-02T23:10:29Z'
 text = '@noopkat I always feel rage against Boolean attributes 😤'
+
+[tweets.in_reply_to]
+status_id = 1411097510202904578
+user_id = 8942382
+user_name = 'noopkat'
 
 [[tweets]]
 id = 1411071231093362689
@@ -1138,6 +1708,11 @@ url = 'https://t.co/9IsohkJOf7'
 id = 1410986496056872968
 created_at = '2021-07-02T15:39:30Z'
 text = '@willmanduffy Good morning to this turtle and this turtle only'
+
+[tweets.in_reply_to]
+status_id = 1410942124732948480
+user_id = 351346221
+user_name = 'willmanduffy'
 
 [[tweets]]
 id = 1410985048166309891
@@ -1160,6 +1735,11 @@ url = 'https://t.co/DChOZhuStk'
 id = 1409524985769639938
 created_at = '2021-06-28T14:51:58Z'
 text = '@pugson I guess I know which one I am 🥲'
+
+[tweets.in_reply_to]
+status_id = 1409524739358572546
+user_id = 313527601
+user_name = 'pugson'
 
 [[tweets]]
 id = 1409524855721037836
@@ -1207,6 +1787,11 @@ id = 1404857881166495744
 created_at = '2021-06-15T17:46:34Z'
 text = '''@willmanduffy I'm sorry, Willman, it wasn't meant to be'''
 
+[tweets.in_reply_to]
+status_id = 1404857326599868423
+user_id = 351346221
+user_name = 'willmanduffy'
+
 [[tweets]]
 id = 1404857042964209666
 created_at = '2021-06-15T17:43:14Z'
@@ -1221,6 +1806,11 @@ display_url = 'dhall-lang.org'
 expanded_url = 'https://dhall-lang.org/'
 url = 'https://t.co/hLRhfCQh3z'
 
+[tweets.in_reply_to]
+status_id = 1404547772393590790
+user_id = 59282163
+user_name = 'lstoll'
+
 [[tweets]]
 id = 1403544325980672001
 created_at = '2021-06-12T02:46:58Z'
@@ -1229,25 +1819,50 @@ text = '''
 
 “Add type annotation” that uses the inferred type.'''
 
+[tweets.in_reply_to]
+status_id = 1403506163568713730
+user_id = 15353121
+user_name = 'Swizec'
+
 [[tweets]]
 id = 1402803359111954435
 created_at = '2021-06-10T01:42:38Z'
 text = '''@chris__martin @grhmc I've been considering replacing our lawn with creeping thyme'''
+
+[tweets.in_reply_to]
+status_id = 1402777307283030016
+user_id = 18271443
+user_name = 'chris__martin'
 
 [[tweets]]
 id = 1402253196618252290
 created_at = '2021-06-08T13:16:29Z'
 text = '@tpflug Would definitely be interested in this as well'
 
+[tweets.in_reply_to]
+status_id = 1402226263566307328
+user_id = 57613118
+user_name = 'tpflug'
+
 [[tweets]]
 id = 1402091683169329152
 created_at = '2021-06-08T02:34:41Z'
 text = '@jmduke HOW COULD YOU DO THIS TO ME, JUSTIN?!?'
 
+[tweets.in_reply_to]
+status_id = 1402083680504270849
+user_id = 20491193
+user_name = 'jmduke'
+
 [[tweets]]
 id = 1401979821710774276
 created_at = '2021-06-07T19:10:11Z'
 text = '@willmanduffy Uh oh'
+
+[tweets.in_reply_to]
+status_id = 1401887848790466570
+user_id = 351346221
+user_name = 'willmanduffy'
 
 [[tweets]]
 id = 1401755191913992193
@@ -1265,10 +1880,20 @@ text = '''
 
 You may have better luck than I did if you’re not trying to do 4K @ 60hz'''
 
+[tweets.in_reply_to]
+status_id = 1401560567253401603
+user_id = 17656843
+user_name = 'sgrif'
+
 [[tweets]]
 id = 1401152767008428032
 created_at = '2021-06-05T12:23:46Z'
 text = '@lethalbit I hear The Hague is nice this time of year'
+
+[tweets.in_reply_to]
+status_id = 1401148450192900096
+user_id = 622405560
+user_name = 'lethalbit'
 
 [[tweets]]
 id = 1401032120567484418
@@ -1284,6 +1909,11 @@ id = 1400649502449704961
 created_at = '2021-06-04T03:03:58Z'
 text = '@k_cieslak I don’t think you could pay me enough money to write .NET again 😶'
 
+[tweets.in_reply_to]
+status_id = 1400551503232966661
+user_id = 492689119
+user_name = 'k_cieslak'
+
 [[tweets]]
 id = 1400248660777111555
 created_at = '2021-06-03T00:31:10Z'
@@ -1298,20 +1928,40 @@ id = 1400245494387986434
 created_at = '2021-06-03T00:18:35Z'
 text = '@kentcdodds Have them answer some reading comprehension questions at the end'
 
+[tweets.in_reply_to]
+status_id = 1400216828190752771
+user_id = 389681470
+user_name = 'kentcdodds'
+
 [[tweets]]
 id = 1400243243820986368
 created_at = '2021-06-03T00:09:39Z'
 text = '@chantastic @ryanflorence I don’t know about *never*, but I think using too many primitive hooks could be a sign of primitive obsession in the same way that using too many primitive data types is.'
+
+[tweets.in_reply_to]
+status_id = 1400241175496314884
+user_id = 12745092
+user_name = 'chantastic'
 
 [[tweets]]
 id = 1400077060811509764
 created_at = '2021-06-02T13:09:18Z'
 text = '@edwinbrady Now wouldn’t that be an interesting endeavor? 😄'
 
+[tweets.in_reply_to]
+status_id = 1400076384869945348
+user_id = 17635878
+user_name = 'edwinbrady'
+
 [[tweets]]
 id = 1398997060326723589
 created_at = '2021-05-30T13:37:45Z'
 text = '@lethalbit Only one of these options is open source, if that makes the decision easier'
+
+[tweets.in_reply_to]
+status_id = 1398982497074126850
+user_id = 622405560
+user_name = 'lethalbit'
 
 [[tweets]]
 id = 1398294229558960128
@@ -1329,10 +1979,20 @@ text = '''
 
 We're big fans of composition at WorkOS, so ultimately you can pick and choose the parts you want to use that make sense for you 🙂'''
 
+[tweets.in_reply_to]
+status_id = 1398289634979827723
+user_id = 970704281538932736
+user_name = 'austinkhale'
+
 [[tweets]]
 id = 1397989332858949633
 created_at = '2021-05-27T18:53:24Z'
 text = '@john_c_palmer Me reading this: “yep, those are words” 😵'
+
+[tweets.in_reply_to]
+status_id = 1397986986078638090
+user_id = 2547330050
+user_name = 'john_c_palmer'
 
 [[tweets]]
 id = 1397976878795853827
@@ -1342,20 +2002,40 @@ text = '''
 
 I’m coming from the opposite angle of someone who has been building other stuff in Rust and wants to break into games.'''
 
+[tweets.in_reply_to]
+status_id = 1397973639560151042
+user_id = 55472734
+user_name = 'ChevyRay'
+
 [[tweets]]
 id = 1397163654613807108
 created_at = '2021-05-25T12:12:27Z'
 text = '@willmanduffy Fig A. Tattoo of a computer bug'
+
+[tweets.in_reply_to]
+status_id = 1397147552978542592
+user_id = 351346221
+user_name = 'willmanduffy'
 
 [[tweets]]
 id = 1397036872686346240
 created_at = '2021-05-25T03:48:40Z'
 text = '@willmanduffy You have a tattoo of a bug on your shoulder?'
 
+[tweets.in_reply_to]
+status_id = 1397024589516050435
+user_id = 351346221
+user_name = 'willmanduffy'
+
 [[tweets]]
 id = 1396680949362999296
 created_at = '2021-05-24T04:14:22Z'
 text = '@whitequark I wish YAML was Dhall'
+
+[tweets.in_reply_to]
+status_id = 1396672545168969728
+user_id = 162337124
+user_name = 'whitequark'
 
 [[tweets]]
 id = 1396458828191969280
@@ -1367,10 +2047,20 @@ I can’t tell you how many times in a day I wish JS had a `match` expression.
 
 At this rate I’d even settle for `switch` as an expression instead of a statement.'''
 
+[tweets.in_reply_to]
+status_id = 1396413510633070595
+user_id = 122083020
+user_name = 'electerious'
+
 [[tweets]]
 id = 1396457938848452608
 created_at = '2021-05-23T13:28:12Z'
 text = '@willmanduffy Saturdays (and Sundays too, apparently) are for the pages'
+
+[tweets.in_reply_to]
+status_id = 1396442033380802564
+user_id = 351346221
+user_name = 'willmanduffy'
 
 [[tweets]]
 id = 1395229327504064512
@@ -1398,20 +2088,40 @@ display_url = 'getzola.org'
 expanded_url = 'https://www.getzola.org/'
 url = 'https://t.co/cDiXzjri0J'
 
+[tweets.in_reply_to]
+status_id = 1393683893405065216
+user_id = 127100323
+user_name = 'perrymetzger'
+
 [[tweets]]
 id = 1392631362092474368
 created_at = '2021-05-13T00:02:45Z'
 text = '@willmanduffy Feels SemVer, man'
+
+[tweets.in_reply_to]
+status_id = 1392618049245749248
+user_id = 351346221
+user_name = 'willmanduffy'
 
 [[tweets]]
 id = 1392249066797608962
 created_at = '2021-05-11T22:43:38Z'
 text = '@mxcl What, no whiteboard binary tree inversions?'
 
+[tweets.in_reply_to]
+status_id = 1392247122095902720
+user_id = 3374231
+user_name = 'mxcl'
+
 [[tweets]]
 id = 1392110540344934407
 created_at = '2021-05-11T13:33:11Z'
 text = '@mxcl @Tesla I can’t wait to put my leaf blower on Ludicrous Mode and blast all the leaves off my lawn in a single go'
+
+[tweets.in_reply_to]
+status_id = 1392109171424829449
+user_id = 3374231
+user_name = 'mxcl'
 
 [[tweets]]
 id = 1392103091881881600
@@ -1430,20 +2140,40 @@ text = '''
 
 One thing to note is that I’ve only used pnpm with Rush, so it’s possible  the usage is slightly different.'''
 
+[tweets.in_reply_to]
+status_id = 1391978953603047424
+user_id = 734903
+user_name = 'mjackson'
+
 [[tweets]]
 id = 1391968775382224896
 created_at = '2021-05-11T04:09:52Z'
 text = '@mjackson As I understand it, pnpm creates symlinks from its global store to `node_modules`, so each package directory under `node_modules` is just a symlink that can be resolved using the regular module resolution'
+
+[tweets.in_reply_to]
+status_id = 1391965217077092357
+user_id = 734903
+user_name = 'mjackson'
 
 [[tweets]]
 id = 1391753717838454787
 created_at = '2021-05-10T13:55:18Z'
 text = '@nonmayorpete @WorkOS Welcome aboard! 🎉'
 
+[tweets.in_reply_to]
+status_id = 1391735294899019780
+user_id = 1318036166344466432
+user_name = 'nonmayorpete'
+
 [[tweets]]
 id = 1391560921710047236
 created_at = '2021-05-10T01:09:12Z'
 text = '''@hdgarrood It's all fun and games until the first duplicant dies'''
+
+[tweets.in_reply_to]
+status_id = 1391548444838400002
+user_id = 983700637
+user_name = 'hdgarrood'
 
 [[tweets]]
 id = 1391548587453173762
@@ -1464,6 +2194,11 @@ id = 1391418146234458117
 created_at = '2021-05-09T15:41:52Z'
 text = '@lethalbit Hey 👋🏻'
 
+[tweets.in_reply_to]
+status_id = 1391412354445938697
+user_id = 622405560
+user_name = 'lethalbit'
+
 [[tweets]]
 id = 1390865120230789123
 created_at = '2021-05-08T03:04:20Z'
@@ -1476,6 +2211,11 @@ display_url = 'chromium.googlesource.com/chromium/src/+…'
 expanded_url = 'https://chromium.googlesource.com/chromium/src/+/master/docs/security/url_display_guidelines/url_display_guidelines.md'
 url = 'https://t.co/BaTiUwAfWO'
 
+[tweets.in_reply_to]
+status_id = 1390825472167010306
+user_id = 329498215
+user_name = 'Silvanis_s'
+
 [[tweets]]
 id = 1390489725014843393
 created_at = '2021-05-07T02:12:39Z'
@@ -1486,15 +2226,30 @@ id = 1390374994815954950
 created_at = '2021-05-06T18:36:45Z'
 text = '@iamkory Just got my 1st dose! #PfizerGang'
 
+[tweets.in_reply_to]
+status_id = 1390360560248623111
+user_id = 7407282
+user_name = 'iamkory'
+
 [[tweets]]
 id = 1390157964498067456
 created_at = '2021-05-06T04:14:21Z'
 text = '@iamkory Every time I think back to the glory days of Tumblr I always feel a profound sense of loss 😭'
 
+[tweets.in_reply_to]
+status_id = 1390099879272222720
+user_id = 7407282
+user_name = 'iamkory'
+
 [[tweets]]
 id = 1389925978416234496
 created_at = '2021-05-05T12:52:31Z'
 text = '@markdalgleish This is exactly what I found myself wanting when using vanilla-extract with Next.js 😄'
+
+[tweets.in_reply_to]
+status_id = 1389924046255497224
+user_id = 257765996
+user_name = 'markdalgleish'
 
 [[tweets]]
 id = 1389434609163776000
@@ -1504,15 +2259,30 @@ text = '''
 
 And then I played around with it this weekend and my mind has been blown 🤯'''
 
+[tweets.in_reply_to]
+status_id = 1389402564525912064
+user_id = 257765996
+user_name = 'markdalgleish'
+
 [[tweets]]
 id = 1389203299182731266
 created_at = '2021-05-03T13:00:51Z'
 text = '@jtaylorhodge So a properly denormalized relational database with the necessary foreign key constraints?'
 
+[tweets.in_reply_to]
+status_id = 1389197840954675208
+user_id = 1211907067
+user_name = 'jtaylorhodge'
+
 [[tweets]]
 id = 1388478442669330432
 created_at = '2021-05-01T13:00:32Z'
 text = '@lethalbit There is only one shell, and its name is fish 🐠'
+
+[tweets.in_reply_to]
+status_id = 1388369393198014464
+user_id = 622405560
+user_name = 'lethalbit'
 
 [[tweets]]
 id = 1388354259930996736
@@ -1528,15 +2298,30 @@ display_url = 'jobs.lever.co/workos/2333cdf…'
 expanded_url = 'https://jobs.lever.co/workos/2333cdf9-5c71-4232-9dc8-4f18f6a1b719'
 url = 'https://t.co/dD81rh6w4y'
 
+[tweets.in_reply_to]
+status_id = 1388143674232541186
+user_id = 1051521
+user_name = 'migreyes'
+
 [[tweets]]
 id = 1387927782756339713
 created_at = '2021-04-30T00:32:24Z'
 text = '@ruby0x1 Best of luck in your search'
 
+[tweets.in_reply_to]
+status_id = 1387867113398755329
+user_id = 55639889
+user_name = 'ruby0x1'
+
 [[tweets]]
 id = 1387753378374164484
 created_at = '2021-04-29T12:59:23Z'
 text = '@cvlad My main concern is that updating my Mac will break Nix 😬'
+
+[tweets.in_reply_to]
+status_id = 1387421703937069060
+user_id = 77824600
+user_name = 'evie_fp'
 
 [[tweets]]
 id = 1385421605879394305
@@ -1550,10 +2335,20 @@ display_url = 'racket-lang.org'
 expanded_url = 'https://racket-lang.org/'
 url = 'https://t.co/rGpA2PeUzu'
 
+[tweets.in_reply_to]
+status_id = 1385304657996566529
+user_id = 3313126153
+user_name = 'paigefinnn'
+
 [[tweets]]
 id = 1385415447126884352
 created_at = '2021-04-23T02:09:17Z'
 text = '@mjackson I prefer to collocate types with the code that needs them'
+
+[tweets.in_reply_to]
+status_id = 1385414736511070211
+user_id = 734903
+user_name = 'mjackson'
 
 [[tweets]]
 id = 1384360397021589504
@@ -1573,35 +2368,70 @@ id = 1384279113611943939
 type = 'photo'
 url = 'https://pbs.twimg.com/tweet_video_thumb/EzXyhQTVIAMutbw.jpg'
 
+[tweets.in_reply_to]
+status_id = 1384257290115551236
+user_id = 1211907067
+user_name = 'jtaylorhodge'
+
 [[tweets]]
 id = 1383985871205003264
 created_at = '2021-04-19T03:28:39Z'
 text = '@snoyberg Was doing some stuff in warp this weekend and was wondering what strongly-typed routes would look like 😄'
+
+[tweets.in_reply_to]
+status_id = 1383982228573544448
+user_id = 40228997
+user_name = 'snoyberg'
 
 [[tweets]]
 id = 1383767137261522945
 created_at = '2021-04-18T12:59:29Z'
 text = '@theprincessxena I regret viewing the comments for this one 😬'
 
+[tweets.in_reply_to]
+status_id = 1383762971030032390
+user_id = 2573767249
+user_name = 'theprincessxena'
+
 [[tweets]]
 id = 1380703395640664065
 created_at = '2021-04-10T02:05:16Z'
 text = '@john_c_palmer CO-OP'
+
+[tweets.in_reply_to]
+status_id = 1380670160760094727
+user_id = 2547330050
+user_name = 'john_c_palmer'
 
 [[tweets]]
 id = 1379630414722125826
 created_at = '2021-04-07T03:01:37Z'
 text = '@johncutlefish @linear We recently started using @linear at @WorkOS and we love it!'
 
+[tweets.in_reply_to]
+status_id = 1379629685894701058
+user_id = 533409964
+user_name = 'johncutlefish'
+
 [[tweets]]
 id = 1379236342081671169
 created_at = '2021-04-06T00:55:43Z'
 text = '@Lazer I’m curious what you use it for. The first thing that came to mind was lighting a gas stove 😅'
 
+[tweets.in_reply_to]
+status_id = 1379070032941101056
+user_id = 20121920
+user_name = 'Lazer'
+
 [[tweets]]
 id = 1379069777189216260
 created_at = '2021-04-05T13:53:51Z'
 text = '@Lazer Is that a flint and steel you have next to the mixer in the third pic?'
+
+[tweets.in_reply_to]
+status_id = 1379046119355908101
+user_id = 20121920
+user_name = 'Lazer'
 
 [[tweets]]
 id = 1377083172727447555
@@ -1612,10 +2442,20 @@ display_url = 'doc.rust-lang.org/rust-by-exampl…'
 expanded_url = 'https://doc.rust-lang.org/rust-by-example/std/str.html#literals-and-escapes'
 url = 'https://t.co/o0U8Vqvscq'
 
+[tweets.in_reply_to]
+status_id = 1377074002443825159
+user_id = 55639889
+user_name = 'ruby0x1'
+
 [[tweets]]
 id = 1375806232469110784
 created_at = '2021-03-27T13:45:41Z'
 text = '@fasterthanlime Amos, what crimes are you committing this time?'
+
+[tweets.in_reply_to]
+status_id = 1375805141543161861
+user_id = 2589716941
+user_name = 'fasterthanlime'
 
 [[tweets]]
 id = 1375215286689918984
@@ -1624,6 +2464,11 @@ text = '''
 @rtfeldman Would you say “ML family languages” is synonymous with “languages with a Hindley-Milner type system”? Or are there other similarities you’re looking at besides the type system?
 
 But yea, I would say the ML family languages are my favorite to use professionally.'''
+
+[tweets.in_reply_to]
+status_id = 1375179403060244485
+user_id = 16098129
+user_name = 'rtfeldman'
 
 [[tweets]]
 id = 1374386450104422401
@@ -1639,6 +2484,11 @@ id = 1374357176727302151
 created_at = '2021-03-23T13:47:39Z'
 text = '@olson_dan @doppioslash That it will be hard for my teammates to learn (both current and future ones)'
 
+[tweets.in_reply_to]
+status_id = 1374105804316368900
+user_id = 315676327
+user_name = 'olson_dan'
+
 [[tweets]]
 id = 1374346118167941129
 created_at = '2021-03-23T13:03:43Z'
@@ -1647,10 +2497,20 @@ text = '''
 
 ...until it is'''
 
+[tweets.in_reply_to]
+status_id = 1374340538216939520
+user_id = 2589716941
+user_name = 'fasterthanlime'
+
 [[tweets]]
 id = 1374345905269305346
 created_at = '2021-03-23T13:02:52Z'
 text = '@bodil I’ve been wanting HKTs in Rust for a while. Maybe we’ll get them some day?'
+
+[tweets.in_reply_to]
+status_id = 1374342820916518923
+user_id = 12503922
+user_name = 'bodil'
 
 [[tweets]]
 id = 1373414059614162947
@@ -1722,10 +2582,20 @@ id = 1367836917354618886
 created_at = '2021-03-05T13:58:28Z'
 text = '@kentcdodds @kettanaito I think “never use `React.FC`” is not good advice 😕'
 
+[tweets.in_reply_to]
+status_id = 1367836302847045633
+user_id = 389681470
+user_name = 'kentcdodds'
+
 [[tweets]]
 id = 1367836493163737091
 created_at = '2021-03-05T13:56:47Z'
 text = '@kettanaito @kentcdodds Exactly this. Using `React.FC` gives your component all of the common props (and more, like static `displayName`) without having to repeat them everywhere.'
+
+[tweets.in_reply_to]
+status_id = 1367835741733150721
+user_id = 450816884
+user_name = 'kettanaito'
 
 [[tweets]]
 id = 1367836024945205250
@@ -1739,10 +2609,20 @@ interface CardProps {
 
 const Card: React.FC<Readonly<CardProps>> = () => ()'''
 
+[tweets.in_reply_to]
+status_id = 1367833890090487811
+user_id = 389681470
+user_name = 'kentcdodds'
+
 [[tweets]]
 id = 1367833201088020487
 created_at = '2021-03-05T13:43:42Z'
 text = '@kettanaito @kentcdodds You can use `React.FC` and then add `children` with a different type to your props type and it will override the one from `React.FC` 🙂'
+
+[tweets.in_reply_to]
+status_id = 1367832750334574597
+user_id = 450816884
+user_name = 'kettanaito'
 
 [[tweets]]
 id = 1367832738116550664
@@ -1752,6 +2632,11 @@ text = '@kentcdodds There’s also this tweet that explains why `interface` is p
 display_url = 'twitter.com/drosenwasser/s…'
 expanded_url = 'https://twitter.com/drosenwasser/status/1319205169918144513'
 url = 'https://t.co/0pyRbO7cFG'
+
+[tweets.in_reply_to]
+status_id = 1367832295592329219
+user_id = 36209210
+user_name = 'maxdeviant'
 
 [[tweets]]
 id = 1367832295592329219
@@ -1764,6 +2649,11 @@ See here for more info: https://t.co/b2HWvHaPaX'''
 display_url = 'typescriptlang.org/docs/handbook/…'
 expanded_url = 'https://www.typescriptlang.org/docs/handbook/advanced-types.html#interfaces-vs-type-aliases'
 url = 'https://t.co/b2HWvHaPaX'
+
+[tweets.in_reply_to]
+status_id = 1367830594730618885
+user_id = 389681470
+user_name = 'kentcdodds'
 
 [[tweets]]
 id = 1367627364881072133
@@ -1832,15 +2722,30 @@ id = 1365133358485942273
 created_at = '2021-02-26T02:55:30Z'
 text = '''@zpao @brian_d_vaughn @dan_abramov I'm about those quaternary operators'''
 
+[tweets.in_reply_to]
+status_id = 1365130858785435652
+user_id = 764166
+user_name = 'zpao'
+
 [[tweets]]
 id = 1364430567878582279
 created_at = '2021-02-24T04:22:51Z'
 text = '@brian_d_vaughn I like Telegram a lot. I think it ticks all your boxes'
 
+[tweets.in_reply_to]
+status_id = 1364429750777901056
+user_id = 99973385
+user_name = 'brian_d_vaughn'
+
 [[tweets]]
 id = 1362837530899599367
 created_at = '2021-02-19T18:52:42Z'
 text = '''@kwuchu @itunpredictable @WorkOS Our Audit Trail product is in private beta right now. Would love to chat if that's something you're interested in 🙂'''
+
+[tweets.in_reply_to]
+status_id = 1362833737826918402
+user_id = 291911739
+user_name = 'kwuchu'
 
 [[tweets]]
 id = 1362517839148679183
@@ -1859,6 +2764,11 @@ display_url = 'github.com/carp-lang/Carp'
 expanded_url = 'https://github.com/carp-lang/Carp'
 url = 'https://t.co/9s00pdDLlJ'
 
+[tweets.in_reply_to]
+status_id = 1360461580299870209
+user_id = 2573767249
+user_name = 'theprincessxena'
+
 [[tweets]]
 id = 1359377811321090052
 created_at = '2021-02-10T05:45:00Z'
@@ -1873,6 +2783,11 @@ id = 1359376758907232257
 created_at = '2021-02-10T05:40:49Z'
 text = '@jaredforsyth I can’t say I have much experience with Scala implicits. At a glance they seem roughly analogous to type classes in Haskell?'
 
+[tweets.in_reply_to]
+status_id = 1359371461014810625
+user_id = 13256152
+user_name = 'jaredforsyth'
+
 [[tweets]]
 id = 1359370396190048258
 created_at = '2021-02-10T05:15:32Z'
@@ -1881,15 +2796,30 @@ text = '''
 - All functions are total unless denoted otherwise (see `Partial` in PureScript)
 - Hygienic macros'''
 
+[tweets.in_reply_to]
+status_id = 1359367982980464641
+user_id = 13256152
+user_name = 'jaredforsyth'
+
 [[tweets]]
 id = 1359324669409714180
 created_at = '2021-02-10T02:13:50Z'
 text = '@hdgarrood Sans serif on my headstone'
 
+[tweets.in_reply_to]
+status_id = 1359319002607194116
+user_id = 983700637
+user_name = 'hdgarrood'
+
 [[tweets]]
 id = 1359163731813552128
 created_at = '2021-02-09T15:34:20Z'
 text = '@jaredforsyth @paulbiggar Idris 2 uses a Chez Scheme backend as well! (Or did, it’s been a little while since I’ve checked in on the project)'
+
+[tweets.in_reply_to]
+status_id = 1359161607079817220
+user_id = 13256152
+user_name = 'jaredforsyth'
 
 [[tweets]]
 id = 1359136815345713152
@@ -1907,6 +2837,11 @@ display_url = 'jobs.lever.co/workos/2333cdf…'
 expanded_url = 'https://jobs.lever.co/workos/2333cdf9-5c71-4232-9dc8-4f18f6a1b719'
 url = 'https://t.co/dD81rh6w4y'
 
+[tweets.in_reply_to]
+status_id = 1359091517504290818
+user_id = 2923997212
+user_name = '_cmdv_'
+
 [[tweets]]
 id = 1357927444431405057
 created_at = '2021-02-06T05:41:46Z'
@@ -1915,6 +2850,11 @@ text = '@john_c_palmer https://t.co/KQldO6SM1j'
 id = 1357927442405593088
 type = 'photo'
 url = 'https://pbs.twimg.com/media/EthT0HNXEAALtPS.jpg'
+
+[tweets.in_reply_to]
+status_id = 1357924526890356736
+user_id = 2547330050
+user_name = 'john_c_palmer'
 
 [[tweets]]
 id = 1357074856706203652

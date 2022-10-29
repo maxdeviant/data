@@ -3,20 +3,40 @@ id = 417808058019229696
 created_at = '2013-12-31T00:02:58Z'
 text = '@fukyeahmichelle Wink wink, nudge nudge.'
 
+[tweets.in_reply_to]
+status_id = 417795304511897600
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 417728827201421312
 created_at = '2013-12-30T18:48:08Z'
 text = '@fukyeahmichelle More human sacrifices are required.'
+
+[tweets.in_reply_to]
+status_id = 417728114165178368
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 417728163226349569
 created_at = '2013-12-30T18:45:29Z'
 text = '@konjak I think it would be a better story if Ellie had to teach an innocent Joel how to kill people. #PlotTwist?'
 
+[tweets.in_reply_to]
+status_id = 417727171868622848
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 417727885420814336
 created_at = '2013-12-30T18:44:23Z'
 text = '@fukyeahmichelle Time for Twitter reincarnation. Shooting for that Brahmin status.'
+
+[tweets.in_reply_to]
+status_id = 417726652487970817
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 417308614525980672
@@ -48,15 +68,30 @@ id = 415732924378804224
 created_at = '2013-12-25T06:37:07Z'
 text = '@dexbonus I WANT YOUR ASPARAGUS. OMNOMNOM'
 
+[tweets.in_reply_to]
+status_id = 415732059479371776
+user_id = 328233137
+user_name = 'dexbonus'
+
 [[tweets]]
 id = 415731170035249153
 created_at = '2013-12-25T06:30:09Z'
 text = '@fukyeahmichelle You should just immunize her kid for her.'
 
+[tweets.in_reply_to]
+status_id = 415725543636467712
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 415720961984319489
 created_at = '2013-12-25T05:49:35Z'
 text = '''@mgmac17 I just can't sleep because I normally don't go to bed til 2 :P'''
+
+[tweets.in_reply_to]
+status_id = 415717061210300416
+user_id = 352626007
+user_name = 'mgmac17'
 
 [[tweets]]
 id = 415710218220486656
@@ -82,30 +117,60 @@ id = 415334418794831872
 created_at = '2013-12-24T04:13:36Z'
 text = '@fukyeahmichelle I could totally see it. He probably keeps a flask stuffed under that beard of his. Delivering presents is hard work.'
 
+[tweets.in_reply_to]
+status_id = 415333968074903552
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 415333450799800320
 created_at = '2013-12-24T04:09:45Z'
 text = '''@fukyeahmichelle Spike the almond milk with something and I'm sure you'll have a hefty bargaining chip.'''
+
+[tweets.in_reply_to]
+status_id = 415333137120382977
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 415332981989855232
 created_at = '2013-12-24T04:07:54Z'
 text = '''@fukyeahmichelle Cookies and milk are the only useful forms of currency at the North Pole, so you'll have to pay him in that.'''
 
+[tweets.in_reply_to]
+status_id = 415332593735716865
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 415332483966586881
 created_at = '2013-12-24T04:05:55Z'
 text = '@fukyeahmichelle Santa pulling double duty as a hitman.'
+
+[tweets.in_reply_to]
+status_id = 415332041639489536
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 415331777805156352
 created_at = '2013-12-24T04:03:06Z'
 text = '''@fukyeahmichelle You'll probably be needing that in a plus size. How else will you store your daily dose of Xanax?'''
 
+[tweets.in_reply_to]
+status_id = 415330930262175746
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 414966589293727744
 created_at = '2013-12-23T03:51:59Z'
 text = '@PAMMda_Bear Whaaaaaat?!'
+
+[tweets.in_reply_to]
+status_id = 414965678005694464
+user_id = 54646357
+user_name = 'PAMMda_Bear'
 
 [[tweets]]
 id = 414929877712646144
@@ -126,25 +191,50 @@ display_url = 'cultofmac.com/259043/replace…'
 expanded_url = 'http://www.cultofmac.com/259043/replace-macs-trash-icon-trashcan-mac-pro/'
 url = 'http://t.co/kASKVy70mg'
 
+[tweets.in_reply_to]
+status_id = 414129311717662720
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 414118462869733376
 created_at = '2013-12-20T19:41:50Z'
 text = '@mgmac17 Why not a full 8?'
+
+[tweets.in_reply_to]
+status_id = 414027236421816320
+user_id = 352626007
+user_name = 'mgmac17'
 
 [[tweets]]
 id = 413904151748550656
 created_at = '2013-12-20T05:30:14Z'
 text = '''@fukyeahmichelle Also, pics or it didn't happen :)'''
 
+[tweets.in_reply_to]
+status_id = 413828378852990976
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 413904009171570688
 created_at = '2013-12-20T05:29:40Z'
 text = '@fukyeahmichelle Went to work, watched coworkers duke it out for bottles of booze during a gift exchange.'
 
+[tweets.in_reply_to]
+status_id = 413828378852990976
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 413903126853591040
 created_at = '2013-12-20T05:26:10Z'
 text = '''@fukyeahmichelle My b. Won't happen again, o swear.'''
+
+[tweets.in_reply_to]
+status_id = 413879988782239744
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 413747682121768960
@@ -160,6 +250,11 @@ id = 413565625299394560
 created_at = '2013-12-19T07:05:03Z'
 text = '''@fukyeahmichelle I'm currently stuck in a foreign country and need your assistance getting out.. While you're at it, help my Nigerian pals!'''
 
+[tweets.in_reply_to]
+status_id = 413545899806056448
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 413197953302806528
 created_at = '2013-12-18T06:44:03Z'
@@ -170,15 +265,30 @@ id = 412471113617539072
 created_at = '2013-12-16T06:35:51Z'
 text = '''@fukyeahmichelle I hope those cards don't have a limit. Need some hookers to go with my blow. A lot of hookers.'''
 
+[tweets.in_reply_to]
+status_id = 412387093260693504
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 412470577094721536
 created_at = '2013-12-16T06:33:43Z'
 text = '@PAMMda_Bear inb4 SPCA knocking at her door'
 
+[tweets.in_reply_to]
+status_id = 412422791195942913
+user_id = 54646357
+user_name = 'PAMMda_Bear'
+
 [[tweets]]
 id = 412269113927426049
 created_at = '2013-12-15T17:13:11Z'
 text = '@mgmac17 Alex Thompson and his fiance. He was a Computer Science major and I think she was a Bachelors of Music. Only one in her class :P'
+
+[tweets.in_reply_to]
+status_id = 412243912497958912
+user_id = 352626007
+user_name = 'mgmac17'
 
 [[tweets]]
 id = 412232804836335616
@@ -224,30 +334,60 @@ id = 411595357836279808
 created_at = '2013-12-13T20:35:55Z'
 text = '''@agmcleod @Bay12Games Tarn Adams probably has a wonderful grasp of pointers. I can't even begin to fathom the complexities of coding DF.'''
 
+[tweets.in_reply_to]
+status_id = 411594717114007552
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 411594656397656064
 created_at = '2013-12-13T20:33:07Z'
 text = '''@agmcleod I'd probably have a better handle on it now, but I just haven't gotten the chance to go back and try.'''
+
+[tweets.in_reply_to]
+status_id = 411594416508641280
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 411594570842267648
 created_at = '2013-12-13T20:32:47Z'
 text = '@agmcleod I remember when I first had a programming class in C++. I never quite wrapped my head around pointers.'
 
+[tweets.in_reply_to]
+status_id = 411594416508641280
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 411594054112382976
 created_at = '2013-12-13T20:30:44Z'
 text = '''@agmcleod Idk, typed languages always make me feel like I'm in a box. I have a very untyped mindset these days :P'''
+
+[tweets.in_reply_to]
+status_id = 411593218166628352
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 411592932429668352
 created_at = '2013-12-13T20:26:16Z'
 text = '@agmcleod I get so frustrated by the different hotkeys between editors (and also between OSes).'
 
+[tweets.in_reply_to]
+status_id = 411592599188041729
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 411592195154919424
 created_at = '2013-12-13T20:23:20Z'
 text = '''@agmcleod I still use Eclipse for all my school assignments, but that's solely because that is the ONLY time that I use Java these days.'''
+
+[tweets.in_reply_to]
+status_id = 411591840895631361
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 411591708028461057
@@ -259,35 +399,70 @@ id = 411591551458869248
 created_at = '2013-12-13T20:20:47Z'
 text = '''@agmcleod I've been meaning to look into Dart, but I'm too comfortable with JS syntax/conventions xD'''
 
+[tweets.in_reply_to]
+status_id = 411591232268533760
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 411590478833156096
 created_at = '2013-12-13T20:16:31Z'
 text = '@agmcleod Even handier! Although neither of my monitors have HDMI inputs, so :('
+
+[tweets.in_reply_to]
+status_id = 411590251778703360
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 411589917857574912
 created_at = '2013-12-13T20:14:18Z'
 text = '@agmcleod Good plan. I recently got a Thunderbolt-to-VGA adapter, so I can use my main display for my Air. That will probably help a bit.'
 
+[tweets.in_reply_to]
+status_id = 411589652479766528
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 411588929574666240
 created_at = '2013-12-13T20:10:22Z'
 text = '@agmcleod I have a much better workflow on it.'
+
+[tweets.in_reply_to]
+status_id = 411588597247381504
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 411588812767498240
 created_at = '2013-12-13T20:09:54Z'
 text = '@agmcleod Yea, my PC really is prime for coding with two monitors and my VERY comfortable mechanical keyboard. But I love OS X so much more.'
 
+[tweets.in_reply_to]
+status_id = 411588597247381504
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 411588405936812032
 created_at = '2013-12-13T20:08:17Z'
 text = '''@agmcleod I'll have to take a look it. I just wish OBS had a Mac port :/'''
 
+[tweets.in_reply_to]
+status_id = 411587953056833537
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 411587582334877696
 created_at = '2013-12-13T20:05:01Z'
 text = '''@agmcleod I'll be out tonight, but that will give me some time to mull over a theme. You find any good streaming software for OS X?'''
+
+[tweets.in_reply_to]
+status_id = 411586925330726912
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 411586867940061185
@@ -324,10 +499,20 @@ id = 411025669791813632
 created_at = '2013-12-12T06:52:10Z'
 text = '''@chezballs I thought you said you'd be jumping of off FHG?'''
 
+[tweets.in_reply_to]
+status_id = 410864831450083328
+user_id = 341593229
+user_name = 'chezballs'
+
 [[tweets]]
 id = 410806581836935168
 created_at = '2013-12-11T16:21:36Z'
 text = '''@mgmac17 I don't even understand how she could hate you in the first place, unless she just hates your awesomeness.'''
+
+[tweets.in_reply_to]
+status_id = 410802721910824960
+user_id = 352626007
+user_name = 'mgmac17'
 
 [[tweets]]
 id = 410792259110834176
@@ -394,6 +579,11 @@ id = 410738870800887809
 created_at = '2013-12-11T11:52:32Z'
 text = '@mgmac17 How dumb do you have to be to talk trash on someone in the same room?!?'
 
+[tweets.in_reply_to]
+status_id = 410678802021244928
+user_id = 352626007
+user_name = 'mgmac17'
+
 [[tweets]]
 id = 410652696639975424
 created_at = '2013-12-11T06:10:07Z'
@@ -404,10 +594,20 @@ id = 410652107730345984
 created_at = '2013-12-11T06:07:46Z'
 text = '''@Kappische Kind of like how the American government hacks American computers (along with everyone else's; sorry about that !)'''
 
+[tweets.in_reply_to]
+status_id = 410650605086982144
+user_id = 177564924
+user_name = 'Kappische'
+
 [[tweets]]
 id = 410626234876313600
 created_at = '2013-12-11T04:24:58Z'
 text = '''@mgmac17 Just stop trying to make finals happen! They're never going to happen!'''
+
+[tweets.in_reply_to]
+status_id = 410620071317217280
+user_id = 352626007
+user_name = 'mgmac17'
 
 [[tweets]]
 id = 410108047496081409
@@ -419,10 +619,20 @@ id = 410048057771032577
 created_at = '2013-12-09T14:07:29Z'
 text = '@chezballs Work is still open today?'
 
+[tweets.in_reply_to]
+status_id = 410036568552792065
+user_id = 341593229
+user_name = 'chezballs'
+
 [[tweets]]
 id = 410047743215022080
 created_at = '2013-12-09T14:06:14Z'
 text = '@agmcleod Probably the best option, all things considered. At least I got it on the Steam sale for under $10, so I have no room to complain.'
+
+[tweets.in_reply_to]
+status_id = 410042323687710720
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 409931734713896960
@@ -433,6 +643,11 @@ text = 'At the end of the day I like to kick back and catch up on my Twitter fee
 id = 409931363597709312
 created_at = '2013-12-09T06:23:47Z'
 text = '@agmcleod I was going to play some Dark Souls today. But GFWL was a major turnoff.'
+
+[tweets.in_reply_to]
+status_id = 409776531431358464
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 409739119875461120
@@ -453,6 +668,11 @@ text = '''It's amazing how much the need to drive causes me to hate the sort of 
 id = 409376324021944320
 created_at = '2013-12-07T17:38:16Z'
 text = '''@fukyeahmichelle I'm liking the nosedive Santa cupcakes.'''
+
+[tweets.in_reply_to]
+status_id = 409376182010789888
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 409147805555769344
@@ -516,6 +736,11 @@ id = 408717751478648832
 created_at = '2013-12-05T22:01:20Z'
 text = '''@fukyeahmichelle Apparently? Seems pretty antiquated to me. I had to borrow a friend's Mini DisplayPort-to-VGA adapter when we gave ours.'''
 
+[tweets.in_reply_to]
+status_id = 408716937451958272
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 408716341483667458
 created_at = '2013-12-05T21:55:44Z'
@@ -538,10 +763,20 @@ text = '''
 @notch Just picked it up yesterday myself. Productivity == gone.
 But I did manage to pull myself away to work on some Python code.'''
 
+[tweets.in_reply_to]
+status_id = 408678365449961472
+user_id = 63485337
+user_name = 'notch'
+
 [[tweets]]
 id = 408624400989429760
 created_at = '2013-12-05T15:50:23Z'
 text = '''@agmcleod Well I haven't looked into super with Python (considering I never really touched it in Java either :P)'''
+
+[tweets.in_reply_to]
+status_id = 408624167031164928
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 408623994213265408
@@ -552,6 +787,11 @@ text = 'Why is Python such a pretty language? It just has such an elegance to it
 id = 408589851202973697
 created_at = '2013-12-05T13:33:06Z'
 text = '@fukyeahmichelle Put him in a pool and take away the ladders.'
+
+[tweets.in_reply_to]
+status_id = 408486606404718592
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 408471625626308608
@@ -587,20 +827,40 @@ id = 408235913958137856
 created_at = '2013-12-04T14:06:41Z'
 text = '''@agmcleod But pretty much every subdirectory is different. Mainly because they're only accessible by their direct links ;)'''
 
+[tweets.in_reply_to]
+status_id = 408232706271903744
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 408235792407232512
 created_at = '2013-12-04T14:06:12Z'
 text = '''@agmcleod I haven't worked on my main site in ages. I'm going to go back and redo it at some point when I have time.'''
+
+[tweets.in_reply_to]
+status_id = 408232706271903744
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 408232317967405056
 created_at = '2013-12-04T13:52:23Z'
 text = '''@agmcleod It certainly contains a lot of elements which could be reused. Like a fixed sidebar which 'unhinges' from the header.'''
 
+[tweets.in_reply_to]
+status_id = 408221901157572608
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 408221227535593472
 created_at = '2013-12-04T13:08:19Z'
 text = '''@agmcleod I'll look into that. Although since it is for a writing class and not a web programming class, it's more of an afterthought.'''
+
+[tweets.in_reply_to]
+status_id = 408220546317709312
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 408219890760564736
@@ -610,6 +870,11 @@ text = '''@agmcleod Wheee. Now I can also tell her that I'm changing the format 
 display_url = 'bit.ly/1hxb7uJ'
 expanded_url = 'http://bit.ly/1hxb7uJ'
 url = 'http://t.co/LuJglNfUSv'
+
+[tweets.in_reply_to]
+status_id = 408219535289114624
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 408216540270825473
@@ -630,6 +895,11 @@ id = 408215123703365632
 type = 'photo'
 url = 'https://pbs.twimg.com/media/BapFfgBIAAAIcHR.png'
 
+[tweets.in_reply_to]
+status_id = 408212378120376320
+user_id = 63485337
+user_name = 'notch'
+
 [[tweets]]
 id = 408125935981178880
 created_at = '2013-12-04T06:49:40Z'
@@ -641,6 +911,11 @@ created_at = '2013-12-04T06:40:20Z'
 text = '''
 @fukyeahmichelle Why thank you 😄
 I should have submitted the assignment in the form of a phishing email.'''
+
+[tweets.in_reply_to]
+status_id = 408123142805020672
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 408122851766861826
@@ -665,6 +940,11 @@ text = 'Just got Synergy up and running between my desktop and my Air. SO HANDY!
 id = 407965323422601216
 created_at = '2013-12-03T20:11:27Z'
 text = '''@Asgahn @notch I think I'm going to make an add-on that tweets your commit messages :O'''
+
+[tweets.in_reply_to]
+status_id = 407962558629289984
+user_id = 54888829
+user_name = 'dragondropdota'
 
 [[tweets]]
 id = 407959170164740096
@@ -701,10 +981,20 @@ id = 407930706091061248
 created_at = '2013-12-03T17:53:53Z'
 text = '@PAMMda_Bear Only the best time of the academic year.'
 
+[tweets.in_reply_to]
+status_id = 407930457976999936
+user_id = 54646357
+user_name = 'PAMMda_Bear'
+
 [[tweets]]
 id = 407928217480482816
 created_at = '2013-12-03T17:44:00Z'
 text = '@fukyeahmichelle I feel you.'
+
+[tweets.in_reply_to]
+status_id = 407926172173881345
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 407895050417635328
@@ -734,6 +1024,11 @@ id = 407704116949823489
 created_at = '2013-12-03T02:53:30Z'
 text = '''@fukyeahmichelle Ya muthaflippin' twink wanker.'''
 
+[tweets.in_reply_to]
+status_id = 407703613847240704
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 407703300650188800
 created_at = '2013-12-03T02:50:16Z'
@@ -749,10 +1044,20 @@ id = 407519382731255808
 created_at = '2013-12-02T14:39:26Z'
 text = '@kaptainkirk14 Well, those. And the ones in Sykes (which is the couch I presumed you were talking about)'
 
+[tweets.in_reply_to]
+status_id = 407519154624024576
+user_id = 306238432
+user_name = 'kaptainkirk14'
+
 [[tweets]]
 id = 407518414035775488
 created_at = '2013-12-02T14:35:35Z'
 text = '''@kaptainkirk14 And here I am a commuter and I've never once touched those couches.'''
+
+[tweets.in_reply_to]
+status_id = 407518216307896320
+user_id = 306238432
+user_name = 'kaptainkirk14'
 
 [[tweets]]
 id = 407515863647268864
@@ -763,6 +1068,11 @@ text = '''Nothing like Christmas shopping on Cyber Monday. And this time it's ac
 id = 407509205109972992
 created_at = '2013-12-02T13:59:00Z'
 text = '''@grapefrukt Great news! I already have it for Android, but I never want to game on my phone. I'd play it more on PC ;)'''
+
+[tweets.in_reply_to]
+status_id = 407507714710204416
+user_id = 18046664
+user_name = 'grapefrukt'
 
 [[tweets]]
 id = 407367563031875584
@@ -779,6 +1089,11 @@ id = 407351672696877056
 created_at = '2013-12-02T03:33:01Z'
 text = '@Aubri_19 Thank you for your input!'
 
+[tweets.in_reply_to]
+status_id = 407350270117814272
+user_id = 587043241
+user_name = 'Aubri_19'
+
 [[tweets]]
 id = 407348819462868992
 created_at = '2013-12-02T03:21:41Z'
@@ -789,10 +1104,20 @@ id = 406997135662395392
 created_at = '2013-12-01T04:04:13Z'
 text = '@dexbonus Any chance it could still be in the recycle bin? Or were you deleting straight from the phone/camera?'
 
+[tweets.in_reply_to]
+status_id = 406996800172597248
+user_id = 328233137
+user_name = 'dexbonus'
+
 [[tweets]]
 id = 406991839674130433
 created_at = '2013-12-01T03:43:10Z'
 text = '@predominant @McFunkypants Good thing my Macbook Air has over 13 hours on a charge ;)'
+
+[tweets.in_reply_to]
+status_id = 406991046120194049
+user_id = 19685068
+user_name = 'predominant'
 
 [[tweets]]
 id = 406808828672765952
@@ -829,10 +1154,20 @@ id = 406625438404849664
 type = 'photo'
 url = 'https://pbs.twimg.com/media/BaSfrozCMAA6OM2.png'
 
+[tweets.in_reply_to]
+status_id = 406622794059767808
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 406621315118817281
 created_at = '2013-11-30T03:10:50Z'
 text = '@fukyeahmichelle On it.'
+
+[tweets.in_reply_to]
+status_id = 406616272441323520
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 406192248863596544
@@ -843,6 +1178,11 @@ text = '''So tempted to play 'Family Values' on the 'Horrifying' card. #ApplesTo
 id = 406183801082363904
 created_at = '2013-11-28T22:12:19Z'
 text = '@fukyeahmichelle This turkey is so moist!'
+
+[tweets.in_reply_to]
+status_id = 406174087057117185
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 405467509240786947
@@ -882,30 +1222,60 @@ id = 405039632808964096
 created_at = '2013-11-25T18:25:48Z'
 text = '''@Dinnerbone Don't worry, I never beat the main story either despite logging over 100 hours.'''
 
+[tweets.in_reply_to]
+status_id = 405039303124058112
+user_id = 83820762
+user_name = 'Dinnerbone'
+
 [[tweets]]
 id = 405036632447152128
 created_at = '2013-11-25T18:13:53Z'
 text = '''@agmcleod @mcfunkypants I like to make good use of OS X's multiple desktops and trackpad gestures. Swipe between Chrome and Sublime ;)'''
+
+[tweets.in_reply_to]
+status_id = 405035871466176513
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 405035649943994368
 created_at = '2013-11-25T18:09:58Z'
 text = '@McFunkypants I always have code on the right monitor and my game on the left.'
 
+[tweets.in_reply_to]
+status_id = 405035342706638848
+user_id = 192969516
+user_name = 'McFunkypants'
+
 [[tweets]]
 id = 405012694375616512
 created_at = '2013-11-25T16:38:45Z'
 text = '''@iamnbutler I need to learn Sass, but I just haven't gotten around to it yet. My stylesheets are always a train wreck.'''
+
+[tweets.in_reply_to]
+status_id = 405010908566790144
+user_id = 325214156
+user_name = 'iamnbutler'
 
 [[tweets]]
 id = 404973524584239104
 created_at = '2013-11-25T14:03:06Z'
 text = '@chezballs I feel like I should have returned it the second I smelled it. But against my better judgment I attempted to work on it.'
 
+[tweets.in_reply_to]
+status_id = 404972456558878720
+user_id = 341593229
+user_name = 'chezballs'
+
 [[tweets]]
 id = 404971721671049216
 created_at = '2013-11-25T13:55:57Z'
 text = '@chezballs Tell him to refuse any more clients who bring us computers that have been sprayed by their cats!'
+
+[tweets.in_reply_to]
+status_id = 404971449137393664
+user_id = 341593229
+user_name = 'chezballs'
 
 [[tweets]]
 id = 404968350234988544
@@ -917,15 +1287,30 @@ id = 404967268830158848
 created_at = '2013-11-25T13:38:15Z'
 text = '@agmcleod I really need to get around to learning Ruby, but right now JavaScript is just too familiar (and fun!)'
 
+[tweets.in_reply_to]
+status_id = 404966216001155072
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 404965693457981440
 created_at = '2013-11-25T13:31:59Z'
 text = '@agmcleod Glad to see you recognize it! I never would have known it was bash a few weeks ago :P'
 
+[tweets.in_reply_to]
+status_id = 404965529724911616
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 404965431053938688
 created_at = '2013-11-25T13:30:57Z'
 text = '@agmcleod if ... then ... else ... fi'
+
+[tweets.in_reply_to]
+status_id = 404965228800380928
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 404962438594191360
@@ -961,6 +1346,11 @@ id = 404699162065002496
 type = 'photo'
 url = 'https://pbs.twimg.com/media/BZ3HvmPIYAAozR7.png'
 
+[tweets.in_reply_to]
+status_id = 404695014980067328
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 404686681267527681
 created_at = '2013-11-24T19:03:18Z'
@@ -970,6 +1360,11 @@ text = 'Up to 4 pages. 2-4 left to write.'
 id = 404676131494043648
 created_at = '2013-11-24T18:21:22Z'
 text = '''@fukyeahmichelle I'm going to slap the person who took this in and ask them if they couldn't smell the stench when they checked it in.'''
+
+[tweets.in_reply_to]
+status_id = 404675941655248896
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 404675809879019520
@@ -1001,6 +1396,11 @@ id = 404667181591724032
 created_at = '2013-11-24T17:45:49Z'
 text = '''@jay_bentley @mmmulligan As long as they still have coconut creme I'll be set.'''
 
+[tweets.in_reply_to]
+status_id = 404608044157247488
+user_id = 130256365
+user_name = 'jay_bentley'
+
 [[tweets]]
 id = 404666997650522112
 created_at = '2013-11-24T17:45:05Z'
@@ -1021,10 +1421,20 @@ id = 404094383664160768
 created_at = '2013-11-23T03:49:43Z'
 text = '@fukyeahmichelle HEY MISS MURDER CAN I? HEY MISS MURDER CAN I?'
 
+[tweets.in_reply_to]
+status_id = 404092995688886272
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 404092836381204481
 created_at = '2013-11-23T03:43:34Z'
 text = '@fukyeahmichelle <3 them.'
+
+[tweets.in_reply_to]
+status_id = 404092745821585408
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 404092406431481856
@@ -1046,6 +1456,11 @@ id = 403972563669626881
 created_at = '2013-11-22T19:45:39Z'
 text = '@notch I loved that game growing up!'
 
+[tweets.in_reply_to]
+status_id = 403969817180250112
+user_id = 63485337
+user_name = 'notch'
+
 [[tweets]]
 id = 403875174556385280
 created_at = '2013-11-22T13:18:39Z'
@@ -1056,6 +1471,11 @@ id = 403623839525249025
 created_at = '2013-11-21T20:39:56Z'
 text = '@fukyeahmichelle My condolences.'
 
+[tweets.in_reply_to]
+status_id = 403623433407180800
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 403526904894222336
 created_at = '2013-11-21T14:14:45Z'
@@ -1065,6 +1485,11 @@ text = 'Well that program wrapped up quite nicely.'
 id = 403167127051714561
 created_at = '2013-11-20T14:25:08Z'
 text = '@agmcleod Sleep is a wonder drug. I just wish I had more hours in the day to do it.'
+
+[tweets.in_reply_to]
+status_id = 403167015265120256
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 403166386727706624
@@ -1085,6 +1510,11 @@ text = '@mmmulligan Take me with you, we can drive in shifts. I know people in B
 id = 402537034826665984
 created_at = '2013-11-18T20:41:22Z'
 text = '@Hoffm I always struggle with finding a balance between verbosity and usability when it comes to variable names.'
+
+[tweets.in_reply_to]
+status_id = 402533452806778880
+user_id = 15678279
+user_name = 'Hoffm'
 
 [[tweets]]
 id = 402498116664193024
@@ -1162,6 +1592,11 @@ id = 401767528529428480
 created_at = '2013-11-16T17:43:37Z'
 text = '''@jnkboy @konjak Not really, I'm kinda jealous too. It's much too warm here for wintertime.'''
 
+[tweets.in_reply_to]
+status_id = 401766743104040960
+user_id = 210944652
+user_name = 'jnkboy'
+
 [[tweets]]
 id = 401583881981558784
 created_at = '2013-11-16T05:33:53Z'
@@ -1199,6 +1634,11 @@ id = 401529155944452096
 created_at = '2013-11-16T01:56:25Z'
 text = '@lights Literally the worst.'
 
+[tweets.in_reply_to]
+status_id = 401528458188058624
+user_id = 16143507
+user_name = 'lights'
+
 [[tweets]]
 id = 401515498976079872
 created_at = '2013-11-16T01:02:09Z'
@@ -1223,6 +1663,11 @@ text = 'File I/O with bash is amazing. Although, I guess it has to be since that
 id = 401338544368910336
 created_at = '2013-11-15T13:19:00Z'
 text = '@agmcleod Always. My most recent one was fixed with a simple variable reassignment >.<'
+
+[tweets.in_reply_to]
+status_id = 401337780338716672
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 401337551145172992
@@ -1308,6 +1753,11 @@ display_url = 'stream1.gifsoup.com/view6/2466777/…'
 expanded_url = 'http://stream1.gifsoup.com/view6/2466777/the-it-crowd-o.gif'
 url = 'http://t.co/H8yD0Z4UGn'
 
+[tweets.in_reply_to]
+status_id = 401066954112258048
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 401076178775449600
 created_at = '2013-11-14T19:56:27Z'
@@ -1316,6 +1766,11 @@ text = '''@fukyeahmichelle Hope you don't need emergency medical services. http:
 id = 401076178637058049
 type = 'photo'
 url = 'https://pbs.twimg.com/media/BZDoqNOIcAEOPPP.png'
+
+[tweets.in_reply_to]
+status_id = 401066954112258048
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 401056973548175360
@@ -1326,6 +1781,11 @@ text = 'When did work get so swamped with... work?! Just last week we had NOTHIN
 id = 401039084690632704
 created_at = '2013-11-14T17:29:03Z'
 text = '''@Dinnerbone I'll take one!'''
+
+[tweets.in_reply_to]
+status_id = 401038885721243648
+user_id = 83820762
+user_name = 'Dinnerbone'
 
 [[tweets]]
 id = 400833190283055104
@@ -1352,10 +1812,20 @@ id = 400809745650827264
 created_at = '2013-11-14T02:17:44Z'
 text = '''@fukyeahmichelle Oh, it's fine. I prefer smacking my head into the desk.'''
 
+[tweets.in_reply_to]
+status_id = 400809455014518784
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 400809188139741184
 created_at = '2013-11-14T02:15:31Z'
 text = '@fukyeahmichelle Not enough to stop the pain </3'
+
+[tweets.in_reply_to]
+status_id = 400809100730060800
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 400799920858624000
@@ -1436,6 +1906,11 @@ id = 400474297149710336
 created_at = '2013-11-13T04:04:47Z'
 text = '@fukyeahmichelle Especially when it lapses into falsetto.'
 
+[tweets.in_reply_to]
+status_id = 400474212395008000
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 400473730415341568
 created_at = '2013-11-13T04:02:32Z'
@@ -1465,15 +1940,30 @@ id = 400457268946567169
 type = 'photo'
 url = 'https://pbs.twimg.com/media/BY61w69IgAER1Ei.png'
 
+[tweets.in_reply_to]
+status_id = 400457049001054208
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 400455466066935808
 created_at = '2013-11-13T02:49:57Z'
 text = '@fukyeahmichelle About to drive to Heidrick and steal it. Best be ready to uphold your 2nd amendment rights fighting for it.'
 
+[tweets.in_reply_to]
+status_id = 400454907775307776
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 400454768155709440
 created_at = '2013-11-13T02:47:11Z'
 text = '''@fukyeahmichelle You'd better have some ice cream on the side.'''
+
+[tweets.in_reply_to]
+status_id = 400454566421880833
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 400453818565275648
@@ -1514,6 +2004,11 @@ text = '''The problem with multiple long-term assignments is that I don't know w
 id = 400447710311895041
 created_at = '2013-11-13T02:19:08Z'
 text = '@mollstam @RadicalFace :O I love Radical Face!'
+
+[tweets.in_reply_to]
+status_id = 400447349753118720
+user_id = 8032822
+user_name = 'mollstam'
 
 [[tweets]]
 id = 400445996536049664
@@ -1563,6 +2058,11 @@ display_url = 'media1.policymic.com/site/articles/…'
 expanded_url = 'http://media1.policymic.com/site/articles/items/15965/2_gif.gif'
 url = 'http://t.co/AlkfVvzx2P'
 
+[tweets.in_reply_to]
+status_id = 400343762011828224
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 400311749511221248
 created_at = '2013-11-12T17:18:53Z'
@@ -1578,20 +2078,40 @@ id = 400116209183506432
 created_at = '2013-11-12T04:21:52Z'
 text = '@fukyeahmichelle My life is complete <3'
 
+[tweets.in_reply_to]
+status_id = 400116063817310208
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 400115823160729600
 created_at = '2013-11-12T04:20:20Z'
 text = '@fukyeahmichelle Have you tried turning it off and on again?'
+
+[tweets.in_reply_to]
+status_id = 400115085034524672
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 400115777484763136
 created_at = '2013-11-12T04:20:09Z'
 text = '@fukyeahmichelle My Chrome was acting up a bit a few weeks ago, but it seems to have fixed itself. #KnockOnWood'
 
+[tweets.in_reply_to]
+status_id = 400115085034524672
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 400109618417782784
 created_at = '2013-11-12T03:55:41Z'
 text = '''@fukyeahmichelle "Why are you wearing a size 5? You're at least an 8 and a half."'''
+
+[tweets.in_reply_to]
+status_id = 400109210949517314
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 400105258908520451
@@ -1608,6 +2128,11 @@ id = 400073356059238400
 created_at = '2013-11-12T01:31:35Z'
 text = '''@fukyeahmichelle Call me cliche, but I'm still in love with MANiCURE.'''
 
+[tweets.in_reply_to]
+status_id = 400073088747835392
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 400071443435646976
 created_at = '2013-11-12T01:23:59Z'
@@ -1617,6 +2142,11 @@ text = '''@fukyeahmichelle I hope you're listening to ARTPOP right now. (If you 
 id = 400032269751947264
 created_at = '2013-11-11T22:48:20Z'
 text = '@kelseeeyhughes Not yet tis not!'
+
+[tweets.in_reply_to]
+status_id = 400024160543727616
+user_id = 338793619
+user_name = 'kelseeeyhughes'
 
 [[tweets]]
 id = 399967092348579840
@@ -1672,6 +2202,11 @@ id = 399579814287646720
 created_at = '2013-11-10T16:50:26Z'
 text = '@notch Daily horoscope, courtesy of Notch?'
 
+[tweets.in_reply_to]
+status_id = 399578608806535169
+user_id = 63485337
+user_name = 'notch'
+
 [[tweets]]
 id = 399269884120797184
 created_at = '2013-11-09T20:18:53Z'
@@ -1715,15 +2250,30 @@ id = 398908924272730112
 created_at = '2013-11-08T20:24:33Z'
 text = '''@agmcleod Yea, with asians, especially Koreans, it's win or go home. Plus the whole shaming culture.'''
 
+[tweets.in_reply_to]
+status_id = 398908294116306944
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 398908127971532800
 created_at = '2013-11-08T20:21:23Z'
 text = '@agmcleod *nerf'
 
+[tweets.in_reply_to]
+status_id = 398904808184094720
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 398908075735670784
 created_at = '2013-11-08T20:21:11Z'
 text = '''@agmcleod I mean, I'm amazed with the skills of some of the foreigners, but Koreans just too OP. Blizz, plz nerd.'''
+
+[tweets.in_reply_to]
+status_id = 398904808184094720
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 398904232377872385
@@ -1744,6 +2294,11 @@ text = 'Just work left and then done for the week.'
 id = 398825781822234624
 created_at = '2013-11-08T14:54:10Z'
 text = '@fukyeahmichelle Now your hardware is 500% insured.'
+
+[tweets.in_reply_to]
+status_id = 398813179930636288
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 398813484257120256
@@ -1785,6 +2340,11 @@ id = 398802271041245184
 created_at = '2013-11-08T13:20:45Z'
 text = '@agmcleod That sounds much more preferable than my current situation. No coffee, and stuck in a group doing busywork for class >.<'
 
+[tweets.in_reply_to]
+status_id = 398801675827572736
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 398801089442902016
 created_at = '2013-11-08T13:16:03Z'
@@ -1794,6 +2354,11 @@ text = 'Not in the mood for group work this morning.'
 id = 398571254090698752
 created_at = '2013-11-07T22:02:46Z'
 text = '''@agmcleod Well, I'm sure you can find some wifi masquerading as a free hotspot that has port 22 open. You just have to trade your CC numbers'''
+
+[tweets.in_reply_to]
+status_id = 398568059369422848
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 398570416530534400
@@ -1810,10 +2375,20 @@ id = 398518760690450433
 created_at = '2013-11-07T18:34:11Z'
 text = '@agmcleod I suppose so :P'
 
+[tweets.in_reply_to]
+status_id = 398515965337812992
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 398515905581559808
 created_at = '2013-11-07T18:22:50Z'
 text = '@agmcleod Sinner!'
+
+[tweets.in_reply_to]
+status_id = 398515185406971904
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 398498940188110848
@@ -1824,6 +2399,11 @@ text = 'I should probably buy some $TWTR shares.'
 id = 398497900810207232
 created_at = '2013-11-07T17:11:17Z'
 text = '@Totalbiscuit Give them to the little Biscuit.'
+
+[tweets.in_reply_to]
+status_id = 398497719515230208
+user_id = 16747981
+user_name = 'Totalbiscuit'
 
 [[tweets]]
 id = 398497423192231936
@@ -1838,6 +2418,11 @@ url = 'http://t.co/TYB7GFqNWj'
 id = 398467645336727552
 created_at = '2013-11-07T15:11:04Z'
 text = '@Dinnerbone Using Twitter the way it was meant to be used.'
+
+[tweets.in_reply_to]
+status_id = 398466413548953600
+user_id = 83820762
+user_name = 'Dinnerbone'
 
 [[tweets]]
 id = 398458612823388160
@@ -1854,6 +2439,11 @@ id = 398073070264799232
 created_at = '2013-11-06T13:03:10Z'
 text = '@carnalizer I must be grossly underweight then, weighing in at 70kg.'
 
+[tweets.in_reply_to]
+status_id = 398072810762817536
+user_id = 325583724
+user_name = 'carnalizer'
+
 [[tweets]]
 id = 397594308762947584
 created_at = '2013-11-05T05:20:44Z'
@@ -1864,6 +2454,11 @@ id = 397213407197532161
 created_at = '2013-11-04T04:07:10Z'
 text = '''@fukyeahmichelle It would probably be in Anna's best interests to take some self-defense classes, as this seems to be a common theme.'''
 
+[tweets.in_reply_to]
+status_id = 397213105844781056
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 397210529259073536
 created_at = '2013-11-04T03:55:44Z'
@@ -1873,6 +2468,11 @@ text = '@fukyeahmichelle Downton Abbey seems to move at a mile a minute :O'
 id = 397203429145460736
 created_at = '2013-11-04T03:27:31Z'
 text = '''@fukyeahmichelle @nathanial0 Well, he's not working. Which leaves the former.'''
+
+[tweets.in_reply_to]
+status_id = 397202495400714240
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 397197495195156480
@@ -1903,10 +2503,20 @@ id = 396692127771815936
 created_at = '2013-11-02T17:35:48Z'
 text = '@fukyeahmichelle You get one yet?'
 
+[tweets.in_reply_to]
+status_id = 396691849995239425
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 396409652063506432
 created_at = '2013-11-01T22:53:20Z'
 text = '@fukyeahmichelle So much sass coming out of one automated text message.'
+
+[tweets.in_reply_to]
+status_id = 396396335479652352
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 396318247248990208
@@ -1927,6 +2537,11 @@ id = 396252010380816384
 created_at = '2013-11-01T12:26:55Z'
 text = '@jeb_ It is a good morning in the EDT.'
 
+[tweets.in_reply_to]
+status_id = 396245970247094273
+user_id = 24166202
+user_name = 'jeb_'
+
 [[tweets]]
 id = 396086017901756417
 created_at = '2013-11-01T01:27:20Z'
@@ -1936,20 +2551,40 @@ display_url = 'youtube.com/watch?v=FOrLNH…'
 expanded_url = 'http://www.youtube.com/watch?v=FOrLNHbEzMg'
 url = 'http://t.co/nmjF05O0r1'
 
+[tweets.in_reply_to]
+status_id = 396084724860342272
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 396015553670053888
 created_at = '2013-10-31T20:47:20Z'
 text = "@fukyeahmichelle Cause if my name was 'Bob,' I'd end up changing my twitter name to 'BOOb.'"
+
+[tweets.in_reply_to]
+status_id = 396015091549614082
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 396014185488060416
 created_at = '2013-10-31T20:41:54Z'
 text = '@fukyeahmichelle Thankfully I have a name that is easily transformed into spooky :)'
 
+[tweets.in_reply_to]
+status_id = 396013605448998912
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 395930215278735360
 created_at = '2013-10-31T15:08:14Z'
 text = '@kaptainkirk14 Shoes are optional, I believe.'
+
+[tweets.in_reply_to]
+status_id = 395926039094132736
+user_id = 306238432
+user_name = 'kaptainkirk14'
 
 [[tweets]]
 id = 395679524417183744
@@ -1966,30 +2601,60 @@ id = 395677611122499584
 created_at = '2013-10-30T22:24:28Z'
 text = '''@fukyeahmichelle @nathanial0 I'm pretty sure it's a basic-mobile. White girls need to get to the Uggs store somehow.'''
 
+[tweets.in_reply_to]
+status_id = 395677277301641216
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 395673634528051200
 created_at = '2013-10-30T22:08:40Z'
 text = "@fukyeahmichelle Check the nearest car dealer? I think Honda makes an 'a-gourd'"
+
+[tweets.in_reply_to]
+status_id = 395673166011301888
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 395623488679313408
 created_at = '2013-10-30T18:49:24Z'
 text = '''@agmcleod I'll have to double check that. I'll let you know if that fixes anything.'''
 
+[tweets.in_reply_to]
+status_id = 395618484136472576
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 395609045165686784
 created_at = '2013-10-30T17:52:01Z'
 text = '@agmcleod And it keeps spawning clang processes that run my CPU up to 100%.'
+
+[tweets.in_reply_to]
+status_id = 395607571106918400
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 395608885039734784
 created_at = '2013-10-30T17:51:22Z'
 text = '''@agmcleod Well, I'm getting an unresolved bug. Basically, I brew install mongodb and then the install hangs when installing scon.'''
 
+[tweets.in_reply_to]
+status_id = 395607571106918400
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 395607320555974657
 created_at = '2013-10-30T17:45:09Z'
 text = '@agmcleod Shots have been fired! But this is my first time using a databasing system in a project :O'
+
+[tweets.in_reply_to]
+status_id = 395607114691133440
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 395606673605554176
@@ -2001,6 +2666,11 @@ id = 395604654241107968
 created_at = '2013-10-30T17:34:34Z'
 text = '''@fukyeahmichelle Shhh, let the preteen girls have him. In the meantime, I'll be over here with Macklemore. We're going thrift shopping.'''
 
+[tweets.in_reply_to]
+status_id = 395604407246913536
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 395551341978091520
 created_at = '2013-10-30T14:02:43Z'
@@ -2010,10 +2680,20 @@ id = 395551341831274497
 type = 'photo'
 url = 'https://pbs.twimg.com/media/BX1H2YRIQAE8Sog.png'
 
+[tweets.in_reply_to]
+status_id = 395550502764969984
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 395549142015311873
 created_at = '2013-10-30T13:53:59Z'
 text = '''@agmcleod Width of nested ul's, actually. The top level list sizes itself to the nested list if the text in it is smaller.'''
+
+[tweets.in_reply_to]
+status_id = 395547739112886272
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 395547605104877568
@@ -2030,6 +2710,11 @@ id = 395141799473586176
 created_at = '2013-10-29T10:55:21Z'
 text = '@fukyeahmichelle 867-5309. Call me, maybe?'
 
+[tweets.in_reply_to]
+status_id = 395073835386421248
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 394937326993813505
 created_at = '2013-10-28T21:22:50Z'
@@ -2044,6 +2729,11 @@ id = 394873307260289026
 created_at = '2013-10-28T17:08:27Z'
 text = '@fukyeahmichelle Now nothing can bring you down! (Barring the aforementioned unspeakable atrocity involving toes.)'
 
+[tweets.in_reply_to]
+status_id = 394872964317200384
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 394871927489437696
 created_at = '2013-10-28T17:02:58Z'
@@ -2053,15 +2743,30 @@ display_url = 'youtu.be/jXSYybCVxVM'
 expanded_url = 'http://youtu.be/jXSYybCVxVM'
 url = 'http://t.co/TjGvRn0nQA'
 
+[tweets.in_reply_to]
+status_id = 394871497484800000
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 394858371561836544
 created_at = '2013-10-28T16:09:06Z'
 text = '@fukyeahmichelle You could stub your toe?'
 
+[tweets.in_reply_to]
+status_id = 394858078186647552
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 394851593734332416
 created_at = '2013-10-28T15:42:10Z'
 text = '@thisisnota_TESS Pretty much my life every single day.'
+
+[tweets.in_reply_to]
+status_id = 394851447751598080
+user_id = 448576287
+user_name = 'tessmarchant'
 
 [[tweets]]
 id = 394795621749891072
@@ -2092,10 +2797,20 @@ id = 393914203377242112
 created_at = '2013-10-26T01:37:19Z'
 text = '@fukyeahmichelle Preach it.'
 
+[tweets.in_reply_to]
+status_id = 393914066176978944
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 393913240235028480
 created_at = '2013-10-26T01:33:29Z'
 text = '''@fukyeahmichelle Will do. I'm guessing badly. Although after Merlin, I'm prepared for anything. #StillNotOverIt'''
+
+[tweets.in_reply_to]
+status_id = 393913017819074560
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 393912487726563328
@@ -2122,10 +2837,20 @@ id = 393709296766439424
 created_at = '2013-10-25T12:03:05Z'
 text = '@fukyeahmichelle Eating food in bed is always the better of the two options imo.'
 
+[tweets.in_reply_to]
+status_id = 393669723310657536
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 393221012277698560
 created_at = '2013-10-24T03:42:49Z'
 text = '@konjak I got my legendary before the game kinda fell off for me. Hope to finish it at some point. But managing my AC:NL town right now.'
+
+[tweets.in_reply_to]
+status_id = 393220731716132864
+user_id = 38339409
+user_name = 'konjak'
 
 [[tweets]]
 id = 393004218816413696
@@ -2157,6 +2882,11 @@ id = 392860650336444416
 created_at = '2013-10-23T03:50:52Z'
 text = '@konjak These hours are always the worst.'
 
+[tweets.in_reply_to]
+status_id = 392859366757392384
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 392854896917368832
 created_at = '2013-10-23T03:28:00Z'
@@ -2167,40 +2897,80 @@ id = 392847373715898368
 created_at = '2013-10-23T02:58:07Z'
 text = '''@fukyeahmichelle "Siri, move all appointments to tomorrow. Create new all-day event: 'Sit in the library and drink hot chocolate.'"'''
 
+[tweets.in_reply_to]
+status_id = 392842170337488896
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 392826778416586752
 created_at = '2013-10-23T01:36:17Z'
 text = '@justinmaller Cool, thanks!'
+
+[tweets.in_reply_to]
+status_id = 392826653480845312
+user_id = 24977940
+user_name = 'justinmaller'
 
 [[tweets]]
 id = 392822472493772801
 created_at = '2013-10-23T01:19:10Z'
 text = '@justinmaller "Grip."'
 
+[tweets.in_reply_to]
+status_id = 392822342290001921
+user_id = 24977940
+user_name = 'justinmaller'
+
 [[tweets]]
 id = 392822060978012160
 created_at = '2013-10-23T01:17:32Z'
 text = '@justinmaller Any way we could get a wallpaper for this one? :O'
+
+[tweets.in_reply_to]
+status_id = 392389786390233088
+user_id = 24977940
+user_name = 'justinmaller'
 
 [[tweets]]
 id = 392730440475611136
 created_at = '2013-10-22T19:13:28Z'
 text = '''@fukyeahmichelle But if you've got it, flaunt it.'''
 
+[tweets.in_reply_to]
+status_id = 392729976488722433
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 392730379117146113
 created_at = '2013-10-22T19:13:13Z'
 text = '@fukyeahmichelle Amen. Although the only thing I upgraded on my MBA was the RAM.'
+
+[tweets.in_reply_to]
+status_id = 392729976488722433
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 392729693683990528
 created_at = '2013-10-22T19:10:30Z'
 text = '@fukyeahmichelle Maxed out specs?'
 
+[tweets.in_reply_to]
+status_id = 392728716322668544
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 392718439166775296
 created_at = '2013-10-22T18:25:46Z'
 text = '''@agmcleod #FirstWorldProblems indeed. But I think I'd prefer the iPad mini, just because my Air isn't much larger than the iPad Air.'''
+
+[tweets.in_reply_to]
+status_id = 392718008986390528
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 392717901582831616
@@ -2211,6 +2981,11 @@ text = 'Dat iPad Air commercial though. #AppleEvent'
 id = 392716815581069312
 created_at = '2013-10-22T18:19:19Z'
 text = '@agmcleod Christmas present to me :D'
+
+[tweets.in_reply_to]
+status_id = 392716691085742081
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 392716386000437248
@@ -2227,25 +3002,50 @@ id = 392707839422373889
 created_at = '2013-10-22T17:43:39Z'
 text = '@fukyeahmichelle + Purdy new iLife apps!'
 
+[tweets.in_reply_to]
+status_id = 392707749579993089
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 392707446365773824
 created_at = '2013-10-22T17:42:06Z'
 text = '@fukyeahmichelle I wish TT__TT'
+
+[tweets.in_reply_to]
+status_id = 392707198825938944
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 392706841484197888
 created_at = '2013-10-22T17:39:41Z'
 text = '@fukyeahmichelle Make it 2 Pros :P'
 
+[tweets.in_reply_to]
+status_id = 392706578287063040
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 392705914861809664
 created_at = '2013-10-22T17:36:00Z'
 text = '@fukyeahmichelle Buying the Mac Pro are we?'
 
+[tweets.in_reply_to]
+status_id = 392704544620019712
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 392703412804259840
 created_at = '2013-10-22T17:26:04Z'
 text = '@agmcleod It appears I did ;)'
+
+[tweets.in_reply_to]
+status_id = 392703287491059712
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 392703078530838529
@@ -2262,6 +3062,11 @@ id = 392694319146360832
 created_at = '2013-10-22T16:49:56Z'
 text = '@fukyeahmichelle I might be going into fangirl mode too. Should I be concerned?'
 
+[tweets.in_reply_to]
+status_id = 392694116431040515
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 392496435712626688
 created_at = '2013-10-22T03:43:37Z'
@@ -2276,6 +3081,11 @@ text = 'Resisting the urge to time travel in Animal Crossing: New Leaf. I just n
 id = 392409053650878466
 created_at = '2013-10-21T21:56:23Z'
 text = '''@fukyeahmichelle I'll get my 12 gauge.'''
+
+[tweets.in_reply_to]
+status_id = 392402694956011520
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 392320465307713536
@@ -2304,6 +3114,11 @@ text = '@asyanajade "Have a heart: adopt a boyfriend!"'
 id = 391992608941420544
 created_at = '2013-10-20T18:21:35Z'
 text = '''@thisisnota_TESS "I've got a jar of dirt, I've got a jar of dirt!"'''
+
+[tweets.in_reply_to]
+status_id = 391987720224247809
+user_id = 448576287
+user_name = 'tessmarchant'
 
 [[tweets]]
 id = 391907058322538497
@@ -2334,6 +3149,11 @@ text = 'Work today is going to be a nightmare.'
 id = 391301301214400512
 created_at = '2013-10-18T20:34:34Z'
 text = '@fukyeahmichelle Almost as bad as putting on a white v in the morning only to realize that it has a sauce spot on it from who knows when.'
+
+[tweets.in_reply_to]
+status_id = 391300749348462592
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 391297422611460096
@@ -2379,10 +3199,20 @@ id = 391038900946608128
 created_at = '2013-10-18T03:11:53Z'
 text = '''@McFunkypants I didn't see Rubba Rabbit on the front page. The spot is currently held by Where's My Water? 2. Although maybe it cycles?'''
 
+[tweets.in_reply_to]
+status_id = 390949270854987776
+user_id = 192969516
+user_name = 'McFunkypants'
+
 [[tweets]]
 id = 390949525739028481
 created_at = '2013-10-17T21:16:45Z'
 text = '''@McFunkypants I went to hit my Windows key, only to remember I'm on my Air. But I'll check when I get home :)'''
+
+[tweets.in_reply_to]
+status_id = 390949270854987776
+user_id = 192969516
+user_name = 'McFunkypants'
 
 [[tweets]]
 id = 390946191548383232
@@ -2394,10 +3224,20 @@ id = 390943834030747648
 created_at = '2013-10-17T20:54:08Z'
 text = '@Fuzieq Where you going?'
 
+[tweets.in_reply_to]
+status_id = 390943224912953344
+user_id = 1395405440
+user_name = 'karalyn_jane'
+
 [[tweets]]
 id = 390940967567896577
 created_at = '2013-10-17T20:42:44Z'
 text = '''@notch Aaaaaaand, it's gone.'''
+
+[tweets.in_reply_to]
+status_id = 390940746938728448
+user_id = 63485337
+user_name = 'notch'
 
 [[tweets]]
 id = 390871746376921088
@@ -2459,6 +3299,11 @@ id = 389821803146670080
 created_at = '2013-10-14T18:35:35Z'
 text = '''@iamnbutler I'm tempted to buy one... Feeling left out of the X and Y action. Plus, Animal Crossing: New Leaf.'''
 
+[tweets.in_reply_to]
+status_id = 389815521635737600
+user_id = 325214156
+user_name = 'iamnbutler'
+
 [[tweets]]
 id = 389809620099039232
 created_at = '2013-10-14T17:47:10Z'
@@ -2473,6 +3318,11 @@ text = 'How are people complaining about Cheer?!'
 id = 389739000141193216
 created_at = '2013-10-14T13:06:33Z'
 text = '@kaptainkirk14 The squirrels in West Chester are all insane >.>'
+
+[tweets.in_reply_to]
+status_id = 389736459810643968
+user_id = 306238432
+user_name = 'kaptainkirk14'
 
 [[tweets]]
 id = 389730265410830336
@@ -2503,6 +3353,11 @@ id = 389612447767990272
 created_at = '2013-10-14T04:43:40Z'
 text = '@konjak I at least nees a computer that can get crazy FPS on a 1080p monitor first >.>'
 
+[tweets.in_reply_to]
+status_id = 389591878099685376
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 389611934657830912
 created_at = '2013-10-14T04:41:38Z'
@@ -2513,20 +3368,40 @@ id = 389500719432486912
 created_at = '2013-10-13T21:19:42Z'
 text = '@fukyeahmichelle I think you should get costumes for both, and swap out every 15 minutes or so. YOU GET THE BEEEEST OF BOTH WORLDS!'
 
+[tweets.in_reply_to]
+status_id = 389500476376358912
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 389499971130884096
 created_at = '2013-10-13T21:16:44Z'
 text = '@fukyeahmichelle Soo, are we talking Miley Stewart or Hannah Montana?'
+
+[tweets.in_reply_to]
+status_id = 389499576572313600
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 389490843884998656
 created_at = '2013-10-13T20:40:28Z'
 text = '''@fukyeahmichelle OR SAY WE'RE ONLY DREAMING'''
 
+[tweets.in_reply_to]
+status_id = 389490581077884928
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 389490148591030272
 created_at = '2013-10-13T20:37:42Z'
 text = '@fukyeahmichelle A NEW FANTASTIC POINT OF VIEW'
+
+[tweets.in_reply_to]
+status_id = 389489117072863232
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 389478662627921920
@@ -2537,6 +3412,11 @@ text = 'Nothing to do at work...'
 id = 389455621512507392
 created_at = '2013-10-13T18:20:30Z'
 text = '@humble Currently playing through Dishonored. Sunk a good 5-6 hours into it last night.'
+
+[tweets.in_reply_to]
+status_id = 389455427408101376
+user_id = 11167502
+user_name = 'humble'
 
 [[tweets]]
 id = 389441242809245696
@@ -2572,15 +3452,30 @@ id = 389116817580773376
 created_at = '2013-10-12T19:54:13Z'
 text = '@iamnbutler Yea, some parts of iOS7 are really nice. But the aesthetic is by no means consistent. Which is somewhat aggravating :P'
 
+[tweets.in_reply_to]
+status_id = 389116604832677888
+user_id = 325214156
+user_name = 'iamnbutler'
+
 [[tweets]]
 id = 389114552555962369
 created_at = '2013-10-12T19:45:13Z'
 text = '@iamnbutler True that. And if they drop the prices on the current-gen iPads, you could probably get the difference refunded.'
 
+[tweets.in_reply_to]
+status_id = 389114182928318464
+user_id = 325214156
+user_name = 'iamnbutler'
+
 [[tweets]]
 id = 389107478820315136
 created_at = '2013-10-12T19:17:06Z'
 text = '@iamnbutler Did you just buy that? :O I would have waited til after the Apple even this month.'
+
+[tweets.in_reply_to]
+status_id = 389104013355937792
+user_id = 325214156
+user_name = 'iamnbutler'
 
 [[tweets]]
 id = 389084437612605441
@@ -2637,15 +3532,30 @@ id = 388148580017778689
 created_at = '2013-10-10T03:46:47Z'
 text = '''@fukyeahmichelle And she can't stop. And she won't stop.'''
 
+[tweets.in_reply_to]
+status_id = 388148468801224704
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 388147702045106176
 created_at = '2013-10-10T03:43:18Z'
 text = '''@fukyeahmichelle Awww, that's no fun. Purple >>>>>'''
 
+[tweets.in_reply_to]
+status_id = 388146835157561344
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 388144214602956800
 created_at = '2013-10-10T03:29:26Z'
 text = '@fukyeahmichelle Please tell me you got it in purple!'
+
+[tweets.in_reply_to]
+status_id = 388143813027328001
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 388124731108765696
@@ -2672,20 +3582,40 @@ id = 387800730561937408
 created_at = '2013-10-09T04:44:33Z'
 text = '@fukyeahmichelle @Nathanial0 Feel better <3'
 
+[tweets.in_reply_to]
+status_id = 387799801955233792
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 387793816671244288
 created_at = '2013-10-09T04:17:05Z'
 text = '@fukyeahmichelle @nathanial0 But all that is probably dwarfed by the ominous clouds of medical issues :/'
+
+[tweets.in_reply_to]
+status_id = 387792719202254848
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 387793578820653057
 created_at = '2013-10-09T04:16:08Z'
 text = '@fukyeahmichelle @nathanial0 Your wine cellar will go to waste :('
 
+[tweets.in_reply_to]
+status_id = 387792719202254848
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 387793537619984384
 created_at = '2013-10-09T04:15:58Z'
 text = '@fukyeahmichelle @nathanial0 That sounds like a stark change from your current lifestyle. At least the no drinking part.'
+
+[tweets.in_reply_to]
+status_id = 387792719202254848
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 387783834257084417
@@ -2834,6 +3764,11 @@ id = 385948290778689536
 created_at = '2013-10-04T02:03:37Z'
 text = '''@agmcleod I enjoy it. Just not when I have to support a terrible ADC/teammates. There's only so much I can do.'''
 
+[tweets.in_reply_to]
+status_id = 385947990185484288
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 385947710479941632
 created_at = '2013-10-04T02:01:19Z'
@@ -2898,10 +3833,20 @@ id = 385549412258553857
 created_at = '2013-10-02T23:38:37Z'
 text = '''@Fuzieq I'll look it over, if you like.'''
 
+[tweets.in_reply_to]
+status_id = 385549275658457088
+user_id = 1395405440
+user_name = 'karalyn_jane'
+
 [[tweets]]
 id = 385449622803845120
 created_at = '2013-10-02T17:02:06Z'
 text = '''@agmcleod Pressure's on now!'''
+
+[tweets.in_reply_to]
+status_id = 385449431891730433
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 385376646221824000
@@ -2925,6 +3870,11 @@ id = 385130157612498944
 created_at = '2013-10-01T19:52:39Z'
 text = '''@agmcleod @gennabain All work and no play makes aspiring game devs dull boys (or girls, since that's a thing too)'''
 
+[tweets.in_reply_to]
+status_id = 385129779089113088
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 385124955375280128
 created_at = '2013-10-01T19:31:59Z'
@@ -2935,6 +3885,11 @@ id = 385118153774465024
 created_at = '2013-10-01T19:04:57Z'
 text = '@konjak One would assume. But the copyright world is a mess.'
 
+[tweets.in_reply_to]
+status_id = 385116446096760833
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 385100705037811712
 created_at = '2013-10-01T17:55:37Z'
@@ -2944,6 +3899,11 @@ text = 'Just got to work with an antique! A Macbook running OS X Leopard :P'
 id = 385043284344983552
 created_at = '2013-10-01T14:07:27Z'
 text = '''@konjak I think the appealing factor of Wii Party games is that they don't ruin friendships like Mario Party.'''
+
+[tweets.in_reply_to]
+status_id = 385042727773028353
+user_id = 38339409
+user_name = 'konjak'
 
 [[tweets]]
 id = 384902234297094145
@@ -2965,10 +3925,20 @@ id = 384891297393545216
 created_at = '2013-10-01T04:03:30Z'
 text = '''@fukyeahmichelle *I* didn't vote for them. I wanted @GovGaryJohnson :('''
 
+[tweets.in_reply_to]
+status_id = 384890982593871872
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 384882274812321792
 created_at = '2013-10-01T03:27:39Z'
 text = '@jaayysunn It seems to be working for me. But I know that it likes to be really finicky.'
+
+[tweets.in_reply_to]
+status_id = 384881584341803008
+user_id = 244285822
+user_name = 'jaayysunn'
 
 [[tweets]]
 id = 384850177137606657
@@ -3005,6 +3975,11 @@ id = 384532427471073280
 created_at = '2013-09-30T04:17:29Z'
 text = '''@fukyeahmichelle I'm sure you could become a billionaire that way too.'''
 
+[tweets.in_reply_to]
+status_id = 384531975781904385
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 384529666662744064
 created_at = '2013-09-30T04:06:31Z'
@@ -3020,10 +3995,20 @@ id = 384515272675450881
 created_at = '2013-09-30T03:09:19Z'
 text = '''@Fuzieq You can do it! I'm crazy busy too :('''
 
+[tweets.in_reply_to]
+status_id = 384514322015059969
+user_id = 1395405440
+user_name = 'karalyn_jane'
+
 [[tweets]]
 id = 384506126228004864
 created_at = '2013-09-30T02:32:58Z'
 text = '''@Cellolad Added. I'll hit you up sometime when I get time ;P'''
+
+[tweets.in_reply_to]
+status_id = 384505310624247808
+user_id = 307486165
+user_name = 'knkyleklock'
 
 [[tweets]]
 id = 384501767633108993
@@ -3039,6 +4024,11 @@ text = 'Got placed in Silver Division III. Not bad. #LeagueOfLegends #Ranked'
 id = 384400872199188480
 created_at = '2013-09-29T19:34:44Z'
 text = '''@Cellolad Yea, it's pretty much the only game I play right now :P'''
+
+[tweets.in_reply_to]
+status_id = 384400713977040896
+user_id = 307486165
+user_name = 'knkyleklock'
 
 [[tweets]]
 id = 384399622577594369
@@ -3057,15 +4047,30 @@ text = '''
 @fukyeahmichelle Aww.. :(
 Guess you'd better get cracking' on that Xanax.'''
 
+[tweets.in_reply_to]
+status_id = 384391157960015872
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 384389313808834560
 created_at = '2013-09-29T18:48:48Z'
 text = '@fukyeahmichelle But I thought you already were a billionaire?'
 
+[tweets.in_reply_to]
+status_id = 384388806050185216
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 384385899150442496
 created_at = '2013-09-29T18:35:14Z'
 text = '@thisisnota_TESS STOP ERROR 0x00000009: IRQL_NOT_GREATER_OR_EQUAL'
+
+[tweets.in_reply_to]
+status_id = 384384667887370240
+user_id = 448576287
+user_name = 'tessmarchant'
 
 [[tweets]]
 id = 384057462393171968
@@ -3136,15 +4141,30 @@ id = 383985382284865537
 created_at = '2013-09-28T16:03:43Z'
 text = '@grapefrukt Nice! I just got mine this past week. First Macbook. I love it :D'
 
+[tweets.in_reply_to]
+status_id = 383985263858696192
+user_id = 18046664
+user_name = 'grapefrukt'
+
 [[tweets]]
 id = 383985207168466944
 created_at = '2013-09-28T16:03:02Z'
 text = '''@grapefrukt Do you have one of the new Air's already?'''
 
+[tweets.in_reply_to]
+status_id = 383985080798281728
+user_id = 18046664
+user_name = 'grapefrukt'
+
 [[tweets]]
 id = 383984825272922112
 created_at = '2013-09-28T16:01:31Z'
 text = '''@grapefrukt It's over WiFi. And I believe it's n? I don't think my university has ac access points.'''
+
+[tweets.in_reply_to]
+status_id = 383984579025317888
+user_id = 18046664
+user_name = 'grapefrukt'
 
 [[tweets]]
 id = 383984342760169473
@@ -3155,6 +4175,11 @@ display_url = 'speedtest.net/my-result/2998…'
 expanded_url = 'http://www.speedtest.net/my-result/2998027793'
 url = 'http://t.co/UzxNRhFA4R'
 
+[tweets.in_reply_to]
+status_id = 383983682807402496
+user_id = 18046664
+user_name = 'grapefrukt'
+
 [[tweets]]
 id = 383684089204965376
 created_at = '2013-09-27T20:06:30Z'
@@ -3164,6 +4189,11 @@ text = 'Bored at work with an hour left.'
 id = 383682733069058049
 created_at = '2013-09-27T20:01:06Z'
 text = '@iamnbutler It will be GW2 all over again xD'
+
+[tweets.in_reply_to]
+status_id = 383679367399747584
+user_id = 325214156
+user_name = 'iamnbutler'
 
 [[tweets]]
 id = 383652503990304768
@@ -3180,15 +4210,30 @@ id = 383563851591319552
 created_at = '2013-09-27T12:08:43Z'
 text = '@agmcleod Try ALL the libraries!'
 
+[tweets.in_reply_to]
+status_id = 383563460363436032
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 383563253227716608
 created_at = '2013-09-27T12:06:20Z'
 text = '''@agmcleod I've played around with CraftyJS, but I've also considered trying out MelonJS.'''
 
+[tweets.in_reply_to]
+status_id = 383563032309538816
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 383562692952608768
 created_at = '2013-09-27T12:04:06Z'
 text = '@agmcleod Haha, I figured. I should probably read a CS book or two, when I get the spare time.'
+
+[tweets.in_reply_to]
+status_id = 383562357957746688
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 383562125060608000
@@ -3196,6 +4241,11 @@ created_at = '2013-09-27T12:01:51Z'
 text = '''
 @agmcleod Books? I'm a CS major. I have no need for such petty physical objects :P
 But it is handy to have notebooks for my math classes...'''
+
+[tweets.in_reply_to]
+status_id = 383561517821857792
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 383561357477826560
@@ -3222,6 +4272,11 @@ id = 383343714275708928
 created_at = '2013-09-26T21:33:58Z'
 text = '''@agmcleod I haven't touched it in a while, but the last time I did there was still a lot of work to be done. Fun game though :)'''
 
+[tweets.in_reply_to]
+status_id = 383342747274313728
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 383324238444498944
 created_at = '2013-09-26T20:16:34Z'
@@ -3241,6 +4296,11 @@ id = 383291712678146048
 created_at = '2013-09-26T18:07:20Z'
 text = '@fukyeahmichelle I would say Hannah Montana, but Miley had to go and ruin that one for you.'
 
+[tweets.in_reply_to]
+status_id = 383290964774641664
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 383286924838191104
 created_at = '2013-09-26T17:48:18Z'
@@ -3256,10 +4316,20 @@ id = 383275751887613952
 created_at = '2013-09-26T17:03:54Z'
 text = '@kaptainkirk14 Sounds splendid.'
 
+[tweets.in_reply_to]
+status_id = 383274329490083840
+user_id = 306238432
+user_name = 'kaptainkirk14'
+
 [[tweets]]
 id = 383076572531789824
 created_at = '2013-09-26T03:52:26Z'
 text = '@fukyeahmichelle The NSA probably archives it too to their nice, new data center in Utah. Big brother always has my back <3'
+
+[tweets.in_reply_to]
+status_id = 383076358986805248
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 383075856153055232
@@ -3267,6 +4337,11 @@ created_at = '2013-09-26T03:49:35Z'
 text = '''
 @fukyeahmichelle Deals made over twitter are legally binding, yes?
 "Your honor, I have it in mentions that we made a deal!"'''
+
+[tweets.in_reply_to]
+status_id = 383075408864088064
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 383074500444971008
@@ -3278,20 +4353,40 @@ id = 383074414583357440
 created_at = '2013-09-26T03:43:52Z'
 text = '@fukyeahmichelle But I suppose I could compromise and make it "#YoloSwag"'
 
+[tweets.in_reply_to]
+status_id = 383074146193666048
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 383074341988339712
 created_at = '2013-09-26T03:43:34Z'
 text = '''@fukyeahmichelle You'd have to pay me a lot. I already have my heart set on his middle name being "YoloSwag."'''
+
+[tweets.in_reply_to]
+status_id = 383074146193666048
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 383073716684726272
 created_at = '2013-09-26T03:41:05Z'
 text = '''@fukyeahmichelle Yea, I think he'll grow to appreciate it. Plus, it also sounds really cool as a web handle. No need to come up with one!'''
 
+[tweets.in_reply_to]
+status_id = 383072936678019072
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 383071128031600641
 created_at = '2013-09-26T03:30:48Z'
 text = '''@fukyeahmichelle I'm going to play MASH with my kids to determine their characteristics and life goals. I'm also naming my son "Primrose."'''
+
+[tweets.in_reply_to]
+status_id = 383070198976106496
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 383057733467254784
@@ -3307,6 +4402,11 @@ text = 'Cleared off my desk a bit so I can have room for my pretty Air next to m
 id = 383039526505291776
 created_at = '2013-09-26T01:25:14Z'
 text = '@fukyeahmichelle #MichelleWorldProblems'
+
+[tweets.in_reply_to]
+status_id = 383037924188491776
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 383039291326480384
@@ -3332,6 +4432,11 @@ text = 'Teaching myself all the words I wish I knew in Chinese. AKA, anything to
 id = 382864990111535104
 created_at = '2013-09-25T13:51:41Z'
 text = '''@agmcleod Technically, yes. But I also use some local dialects in my speech/writing, so it's not all standard Mandarin.'''
+
+[tweets.in_reply_to]
+status_id = 382864187447586816
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 382863982211911680
@@ -3360,6 +4465,11 @@ id = 382843436124364800
 created_at = '2013-09-25T12:26:02Z'
 text = '''@agmcleod I may take you up on that offer. It's mainly a lot of Big Oh stuff though :P'''
 
+[tweets.in_reply_to]
+status_id = 382843096389939201
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 382842958246326272
 created_at = '2013-09-25T12:24:08Z'
@@ -3370,20 +4480,40 @@ id = 382841654333681664
 created_at = '2013-09-25T12:18:57Z'
 text = '@agmcleod He also happens to be teaching one of my core classes :('
 
+[tweets.in_reply_to]
+status_id = 382841251286233088
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 382841579557646336
 created_at = '2013-09-25T12:18:40Z'
 text = '''@agmcleod I've had several professors like that. Although right now I'm stuck with a smart professor who is not very good at communication.'''
+
+[tweets.in_reply_to]
+status_id = 382841251286233088
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 382841188749168640
 created_at = '2013-09-25T12:17:06Z'
 text = '@pgeuder A wild geisha appears!'
 
+[tweets.in_reply_to]
+status_id = 382841074193940482
+user_id = 6693252
+user_name = 'pgeuder'
+
 [[tweets]]
 id = 382840759285989376
 created_at = '2013-09-25T12:15:24Z'
 text = '@agmcleod I love teachers like that. They make class much more enjoyable.'
+
+[tweets.in_reply_to]
+status_id = 382840573994225664
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 382839685917462528
@@ -3399,6 +4529,11 @@ text = '@mmmulligan I was going to snap a picture of it, but it was too short no
 id = 382835148544540672
 created_at = '2013-09-25T11:53:06Z'
 text = '''@loltipsofficial Well I should be able to bond with my partner, since I'm both in this case ;D'''
+
+[tweets.in_reply_to]
+status_id = 382827410447548416
+user_id = 72374370
+user_name = 'loltipsofficial'
 
 [[tweets]]
 id = 382834972941639680
@@ -3430,15 +4565,30 @@ id = 382681501789605888
 created_at = '2013-09-25T01:42:34Z'
 text = '@agmcleod Correct :P Hence the quotes around the term.'
 
+[tweets.in_reply_to]
+status_id = 382681212252196864
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 382680651138617344
 created_at = '2013-09-25T01:39:11Z'
 text = '''@agmcleod I'll just have a bunch of my friends test the site to get some data and then draw conclusions based on the results.'''
 
+[tweets.in_reply_to]
+status_id = 382680101072011264
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 382680538462842880
 created_at = '2013-09-25T01:38:44Z'
 text = '''@agmcleod Yea, it's kind of annoying, but not too bad. I'm using reddit as the test website, and I've written some "unit tests".'''
+
+[tweets.in_reply_to]
+status_id = 382680101072011264
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 382679863771271168
@@ -3490,10 +4640,20 @@ id = 382326894458593280
 created_at = '2013-09-24T02:13:29Z'
 text = '@fukyeahmichelle Sound about right :P'
 
+[tweets.in_reply_to]
+status_id = 382326691554553856
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 382326258631450624
 created_at = '2013-09-24T02:10:57Z'
 text = '@fukyeahmichelle I embody him in many ways. Just not the looks. Or the douchebaggery.'
+
+[tweets.in_reply_to]
+status_id = 382325937544511489
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 382325625786490880
@@ -3515,15 +4675,30 @@ id = 382285484745314304
 created_at = '2013-09-23T23:28:56Z'
 text = '@agmcleod Nice! That was incredibly simple. Thanks for the tip :)'
 
+[tweets.in_reply_to]
+status_id = 382284649692934144
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 382283887139110912
 created_at = '2013-09-23T23:22:35Z'
 text = '@agmcleod Can you embellish a bit on that third step?'
 
+[tweets.in_reply_to]
+status_id = 382282949921878016
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 382282605573718016
 created_at = '2013-09-23T23:17:30Z'
 text = '''@agmcleod Can't wait to see about making some games on this thing :)'''
+
+[tweets.in_reply_to]
+status_id = 382276955791687680
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 382275768187113472
@@ -3599,10 +4774,20 @@ id = 381831936345260032
 created_at = '2013-09-22T17:26:42Z'
 text = '@netbeans But for straight Java development, Eclipse is my cup of tea.'
 
+[tweets.in_reply_to]
+status_id = 381815917790769153
+user_id = 8509492
+user_name = 'netbeans'
+
 [[tweets]]
 id = 381831870654066688
 created_at = '2013-09-22T17:26:26Z'
 text = '''@netbeans Oh wow, I did not realize that it had editing capabilities for HTML5 apps. That's actually pretty cool.'''
+
+[tweets.in_reply_to]
+status_id = 381815917790769153
+user_id = 8509492
+user_name = 'netbeans'
 
 [[tweets]]
 id = 381812963276910593
@@ -3614,10 +4799,20 @@ id = 381478706213974017
 created_at = '2013-09-21T18:03:05Z'
 text = '@thisisnota_TESS Spotify, pull yourself together!'
 
+[tweets.in_reply_to]
+status_id = 381477378209644544
+user_id = 448576287
+user_name = 'tessmarchant'
+
 [[tweets]]
 id = 381476664040894467
 created_at = '2013-09-21T17:54:58Z'
 text = '''@thisisnota_TESS Mine's working just fine. How is it freaking out?'''
+
+[tweets.in_reply_to]
+status_id = 381474619397791744
+user_id = 448576287
+user_name = 'tessmarchant'
 
 [[tweets]]
 id = 381439336714993665
@@ -3633,6 +4828,11 @@ text = '''It's a lovely feeling to wake up to a 6-0 OMG. #LeagueOfLegends #World
 id = 381251335934705664
 created_at = '2013-09-21T02:59:36Z'
 text = '@fukyeahmichelle @Nathanial0 New Girl is my life.'
+
+[tweets.in_reply_to]
+status_id = 381242915017592833
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 381041292437770240
@@ -3653,15 +4853,30 @@ id = 380871903964958720
 created_at = '2013-09-20T01:51:52Z'
 text = '''@fukyeahmichelle @Nathanial0 I haven't seen it either. Shhhh... >.>'''
 
+[tweets.in_reply_to]
+status_id = 380871298873704448
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 380868313019998208
 created_at = '2013-09-20T01:37:36Z'
 text = '@fukyeahmichelle That man is gorgeous <3 What would we do without Sir Gwaine?'
 
+[tweets.in_reply_to]
+status_id = 380856195541528576
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 380787844945436672
 created_at = '2013-09-19T20:17:51Z'
 text = '''@agmcleod Yes! I didn't actually know it had .app on the end, since I don't have a Mac (only for a few more days though... :D)'''
+
+[tweets.in_reply_to]
+status_id = 380782736786878464
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 380782448381939713
@@ -3678,6 +4893,11 @@ id = 380674220344479744
 created_at = '2013-09-19T12:46:21Z'
 text = '@agmcleod Mhm. I mean business :)'
 
+[tweets.in_reply_to]
+status_id = 380673947815395329
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 380673598068764672
 created_at = '2013-09-19T12:43:53Z'
@@ -3687,10 +4907,20 @@ id = 380673598072958976
 type = 'photo'
 url = 'https://pbs.twimg.com/media/BUhsntyCMAAYBrB.jpg'
 
+[tweets.in_reply_to]
+status_id = 380671725354373120
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 380671291688513536
 created_at = '2013-09-19T12:34:43Z'
 text = '''@kaptainkirk14 I think it's so the bathroom doesn't turn into one huge sauna and suffocate the residents.'''
+
+[tweets.in_reply_to]
+status_id = 380520754338889728
+user_id = 306238432
+user_name = 'kaptainkirk14'
 
 [[tweets]]
 id = 380670612924268544
@@ -3746,6 +4976,11 @@ id = 380107083237969920
 created_at = '2013-09-17T23:12:45Z'
 text = '''@ANGELs_nDemons That doesn't piss me off nearly as much as the 2nd floor residents taking the elevator.'''
 
+[tweets.in_reply_to]
+status_id = 380102193778421760
+user_id = 358464605
+user_name = 'apachuda'
+
 [[tweets]]
 id = 380083017273733120
 created_at = '2013-09-17T21:37:07Z'
@@ -3791,6 +5026,11 @@ id = 379557614927241216
 created_at = '2013-09-16T10:49:21Z'
 text = '@konjak You and me both.'
 
+[tweets.in_reply_to]
+status_id = 379516988172664833
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 379408361512390656
 created_at = '2013-09-16T00:56:17Z'
@@ -3805,6 +5045,11 @@ text = 'Sheer and utter incompetence.'
 id = 379248192019501056
 created_at = '2013-09-15T14:19:49Z'
 text = '@kaptainkirk14 Those are illegal in PA due to their status as an invasive species.'
+
+[tweets.in_reply_to]
+status_id = 379245291326955520
+user_id = 306238432
+user_name = 'kaptainkirk14'
 
 [[tweets]]
 id = 378981718645960704
@@ -3841,10 +5086,20 @@ id = 378559796888502272
 created_at = '2013-09-13T16:44:23Z'
 text = '@fukyeahmichelle Step 1: Acquire mischievous villain mustache.'
 
+[tweets.in_reply_to]
+status_id = 378554383723528192
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 378517082130096128
 created_at = '2013-09-13T13:54:39Z'
 text = '@fukyeahmichelle Who are these connections and how do I meet them?'
+
+[tweets.in_reply_to]
+status_id = 378483746925576192
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 378322929253359617
@@ -3875,10 +5130,20 @@ id = 377844911568990209
 created_at = '2013-09-11T17:23:41Z'
 text = '''@agmcleod Which is why I don't understand why people are still making such a huge deal about it 12 years later.'''
 
+[tweets.in_reply_to]
+status_id = 377842828560572416
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 377773687614615552
 created_at = '2013-09-11T12:40:40Z'
 text = '@mollstam Tobias Mollstam, breaking IDEs since [insert birth year here].'
+
+[tweets.in_reply_to]
+status_id = 377768416243122176
+user_id = 8032822
+user_name = 'mollstam'
 
 [[tweets]]
 id = 377773340145889280
@@ -3926,10 +5191,20 @@ id = 377520935026176000
 created_at = '2013-09-10T19:56:19Z'
 text = '''@C418 Although I guess it's the kind of thing that you think is nifty and then realize that you don't NEED it.'''
 
+[tweets.in_reply_to]
+status_id = 377520770634629120
+user_id = 36209210
+user_name = 'maxdeviant'
+
 [[tweets]]
 id = 377520770634629120
 created_at = '2013-09-10T19:55:40Z'
 text = '@C418 Not even the fingerprint recognition?'
+
+[tweets.in_reply_to]
+status_id = 377520476849201153
+user_id = 14649689
+user_name = 'C418'
 
 [[tweets]]
 id = 377517998136766464
@@ -3961,6 +5236,11 @@ id = 377498310853943296
 created_at = '2013-09-10T18:26:25Z'
 text = '@konjak Are you watching the CNET live blog as well? Or are they all just doing this?'
 
+[tweets.in_reply_to]
+status_id = 377496061603897345
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 377495131097542656
 created_at = '2013-09-10T18:13:47Z'
@@ -3971,20 +5251,40 @@ id = 377487145750888448
 created_at = '2013-09-10T17:42:03Z'
 text = '@agmcleod Plus, having an iPhone in an iPhone-fueled society is handy. I feel left out of all those iMessage group chats :('
 
+[tweets.in_reply_to]
+status_id = 377486796588077056
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 377486564340678656
 created_at = '2013-09-10T17:39:44Z'
 text = '''@agmcleod I'm still debating whether I want to ditch Android for iOS. I love open source, but I need more stability on my phone.'''
+
+[tweets.in_reply_to]
+status_id = 377486087121534976
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 377485968372015104
 created_at = '2013-09-10T17:37:22Z'
 text = '''@agmcleod But you're right, final reservations are saved until the store page is up.'''
 
+[tweets.in_reply_to]
+status_id = 377485879859625984
+user_id = 36209210
+user_name = 'maxdeviant'
+
 [[tweets]]
 id = 377485879859625984
 created_at = '2013-09-10T17:37:01Z'
 text = '''@agmcleod I'm going off of the live-blog updates :)'''
+
+[tweets.in_reply_to]
+status_id = 377485764516646913
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 377485290685743104
@@ -3996,6 +5296,11 @@ id = 377484995553525760
 created_at = '2013-09-10T17:33:30Z'
 text = '@konjak They want the new hardware to match iOS 7!'
 
+[tweets.in_reply_to]
+status_id = 377484868084453376
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 377484792184320000
 created_at = '2013-09-10T17:32:42Z'
@@ -4005,6 +5310,11 @@ text = 'I was excited for the new iPhone, until I saw what it looked like. Yeesh
 id = 377473373229420544
 created_at = '2013-09-10T16:47:19Z'
 text = '@notch Could we get some context on this?'
+
+[tweets.in_reply_to]
+status_id = 377472463015534592
+user_id = 63485337
+user_name = 'notch'
 
 [[tweets]]
 id = 377472303291830272
@@ -4031,25 +5341,50 @@ id = 377420464768823296
 created_at = '2013-09-10T13:17:05Z'
 text = '''@agmcleod It's refusing to load for me right now, but I'll try checking it out later :)'''
 
+[tweets.in_reply_to]
+status_id = 377419980754931712
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 377419054220197888
 created_at = '2013-09-10T13:11:29Z'
 text = '@agmcleod Sweet! Loves me some fighting robots.'
+
+[tweets.in_reply_to]
+status_id = 377418910519541761
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 377418761520689152
 created_at = '2013-09-10T13:10:19Z'
 text = '@agmcleod Only problem is, physics takes up a LOT of time in college. 3 classes a week + lab + discussion. Makes it hard to schedule around.'
 
+[tweets.in_reply_to]
+status_id = 377418441151746048
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 377418355860193280
 created_at = '2013-09-10T13:08:42Z'
 text = '@agmcleod Although perhaps a physics class or two would be helpful for my game dev prospects? :D'
 
+[tweets.in_reply_to]
+status_id = 377417931304738816
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 377418239094956032
 created_at = '2013-09-10T13:08:14Z'
 text = '@agmcleod Nothing against science, but I would prefer to take either math or CS courses.'
+
+[tweets.in_reply_to]
+status_id = 377417931304738816
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 377417531989848064
@@ -4064,6 +5399,11 @@ text = '@fukyeahmichelle This might work. http://t.co/BdbDBmSU9C'
 display_url = 'osxdaily.com/2011/01/17/loc…'
 expanded_url = 'http://osxdaily.com/2011/01/17/lock-screen-mac/'
 url = 'http://t.co/BdbDBmSU9C'
+
+[tweets.in_reply_to]
+status_id = 377260789247123457
+user_id = 234102447
+user_name = 'hausofdicarlo'
 
 [[tweets]]
 id = 377157158502035456
@@ -4095,6 +5435,11 @@ id = 376754770620329984
 created_at = '2013-09-08T17:11:51Z'
 text = '@kafffmac Seriously though, feel better :)'
 
+[tweets.in_reply_to]
+status_id = 376753762750050304
+user_id = 36209210
+user_name = 'maxdeviant'
+
 [[tweets]]
 id = 376753762750050304
 created_at = '2013-09-08T17:07:51Z'
@@ -4124,6 +5469,11 @@ text = '''Working on a GitHub Pages site for my Data Structures class. Yes, I'm 
 id = 375951578718412802
 created_at = '2013-09-06T12:00:15Z'
 text = '@kaptainkirk14 I spent entirely too long trying to figure out what "virtual chicken" has to do with child development.'
+
+[tweets.in_reply_to]
+status_id = 375948643402252288
+user_id = 306238432
+user_name = 'kaptainkirk14'
 
 [[tweets]]
 id = 375463507874963456
@@ -4191,6 +5541,11 @@ id = 374561510812426240
 created_at = '2013-09-02T15:56:37Z'
 text = '''@agmcleod @McFunkypants It appears that you're the owner of the castle, trying to squelch the peasant scum through brute force :D'''
 
+[tweets.in_reply_to]
+status_id = 374560255021432832
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 373892661385515008
 created_at = '2013-08-31T19:38:51Z'
@@ -4215,6 +5570,11 @@ text = 'People need to stop bringing in their old Verizon routers to use on camp
 id = 373475548611506176
 created_at = '2013-08-30T16:01:24Z'
 text = '@Fuzieq Good luck. Just be yourself :)'
+
+[tweets.in_reply_to]
+status_id = 373474244174168064
+user_id = 1395405440
+user_name = 'karalyn_jane'
 
 [[tweets]]
 id = 373443576791040000
@@ -4273,6 +5633,11 @@ id = 372112719060938752
 created_at = '2013-08-26T21:46:00Z'
 text = '@thisisnota_TESS We actually had a student die of meningitis during my first semester.'
 
+[tweets.in_reply_to]
+status_id = 372097950115442689
+user_id = 448576287
+user_name = 'tessmarchant'
+
 [[tweets]]
 id = 372040890614693888
 created_at = '2013-08-26T17:00:35Z'
@@ -4303,6 +5668,11 @@ id = 370708559245606912
 created_at = '2013-08-23T00:46:22Z'
 text = '@Windows Just a desktop and laptop. Nothing fancy :)'
 
+[tweets.in_reply_to]
+status_id = 370644681568555008
+user_id = 15670515
+user_name = 'Windows'
+
 [[tweets]]
 id = 370609837022785536
 created_at = '2013-08-22T18:14:05Z'
@@ -4322,6 +5692,11 @@ text = '''Sitting through a Windows 8 "tutorial." Too bad I've been using it eve
 id = 370151400744812544
 created_at = '2013-08-21T11:52:25Z'
 text = '@C418 Darn you Apple and your proprietary pins!'
+
+[tweets.in_reply_to]
+status_id = 370151189133803520
+user_id = 14649689
+user_name = 'C418'
 
 [[tweets]]
 id = 369824094486671360
@@ -4344,6 +5719,11 @@ text = '''@asyanajade I'm jealous. Although they never seem to have any Twilight
 id = 369487510109319168
 created_at = '2013-08-19T15:54:21Z'
 text = '@McFunkypants A distinguishable path for the enemies. Nothing worse than them taking a way you did not expect.'
+
+[tweets.in_reply_to]
+status_id = 369485998998032384
+user_id = 192969516
+user_name = 'McFunkypants'
 
 [[tweets]]
 id = 368416413741891585
@@ -4375,10 +5755,20 @@ id = 367472617382354944
 created_at = '2013-08-14T02:27:53Z'
 text = '@Fuzieq And this tale of valor shall be sung of for centuries to come!'
 
+[tweets.in_reply_to]
+status_id = 367471841172283392
+user_id = 1395405440
+user_name = 'karalyn_jane'
+
 [[tweets]]
 id = 367437959865176064
 created_at = '2013-08-14T00:10:10Z'
 text = '@Fuzieq Were you curled in the fetal position until it got bored and left?'
+
+[tweets.in_reply_to]
+status_id = 367429965627015168
+user_id = 1395405440
+user_name = 'karalyn_jane'
 
 [[tweets]]
 id = 367400298110676994
@@ -4465,15 +5855,30 @@ id = 366911010210201600
 created_at = '2013-08-12T13:16:16Z'
 text = '@agmcleod @notch Ah, cool. Makes it all the more impressive :O'
 
+[tweets.in_reply_to]
+status_id = 366910864298745858
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 366910888369864704
 created_at = '2013-08-12T13:15:47Z'
 text = '''@agmcleod Yea, I'm tempted to try Unity now. I've tried looking into it before, but I was completely overwhelmed.'''
 
+[tweets.in_reply_to]
+status_id = 366910728512352256
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 366910739212021761
 created_at = '2013-08-12T13:15:11Z'
 text = '@agmcleod @notch Well, the man is quite an accomplished game dev. His abilities constantly amaze me. Curious to know if he made the assets.'
+
+[tweets.in_reply_to]
+status_id = 366910187841392641
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 366909970932961281
@@ -4509,6 +5914,11 @@ text = 'There need to be more games that turn a boring or contrived element of r
 id = 366724500731076608
 created_at = '2013-08-12T00:55:09Z'
 text = '@agmcleod The former. Although a game where you could launder money as a Wall St. Executive or CEO would be AMAZING.'
+
+[tweets.in_reply_to]
+status_id = 366723383183937536
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 366722592494723073
@@ -4559,6 +5969,11 @@ id = 365859506997039104
 created_at = '2013-08-09T15:37:58Z'
 text = '@agmcleod What REALLY bugs me is when my professors but each brace on its own line. Now that is just unnecessary.'
 
+[tweets.in_reply_to]
+status_id = 365859237307498496
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 365859209994186752
 created_at = '2013-08-09T15:36:47Z'
@@ -4593,6 +6008,11 @@ id = 365679917263888386
 created_at = '2013-08-09T03:44:20Z'
 text = '@agmcleod Blizzard has made you choose. Pick wisely ;)'
 
+[tweets.in_reply_to]
+status_id = 365679074812764161
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 365598284397551617
 created_at = '2013-08-08T22:19:58Z'
@@ -4608,6 +6028,11 @@ id = 365234693618139136
 created_at = '2013-08-07T22:15:11Z'
 text = '@agmcleod Reinstalling as we speak :P'
 
+[tweets.in_reply_to]
+status_id = 365234289228521473
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 365215087381839875
 created_at = '2013-08-07T20:57:16Z'
@@ -4622,15 +6047,30 @@ id = 364952157876797441
 created_at = '2013-08-07T03:32:29Z'
 text = '@agmcleod Ah, carry on then!'
 
+[tweets.in_reply_to]
+status_id = 364952037970026498
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 364951913738944514
 created_at = '2013-08-07T03:31:31Z'
 text = '@agmcleod Pardon my ignorance, but GDD?'
 
+[tweets.in_reply_to]
+status_id = 364951597710721025
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 364951505511530498
 created_at = '2013-08-07T03:29:54Z'
 text = '''@agmcleod I hope you're not doing any heavy-duty typing on it ;)'''
+
+[tweets.in_reply_to]
+status_id = 364951306093338625
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 364950897270329344
@@ -4642,20 +6082,40 @@ id = 364950108611166209
 created_at = '2013-08-07T03:24:21Z'
 text = '''@witchy_business You've solved the age old question of just how to spell what Mary Poppins was singing about.'''
 
+[tweets.in_reply_to]
+status_id = 364949947080130565
+user_id = 346181182
+user_name = 'caro_fresh'
+
 [[tweets]]
 id = 364949276327022593
 created_at = '2013-08-07T03:21:02Z'
 text = '@witchy_business #yolo #twerkit #swagswagswag'
+
+[tweets.in_reply_to]
+status_id = 364948962509205505
+user_id = 346181182
+user_name = 'caro_fresh'
 
 [[tweets]]
 id = 364948814941011970
 created_at = '2013-08-07T03:19:12Z'
 text = '''@witchy_business I'm sexy and I know it ;)'''
 
+[tweets.in_reply_to]
+status_id = 364948120771108864
+user_id = 346181182
+user_name = 'caro_fresh'
+
 [[tweets]]
 id = 364948028701937665
 created_at = '2013-08-07T03:16:05Z'
 text = '@SincerelyTumblr @witchy_business The best way to flirt.'
+
+[tweets.in_reply_to]
+status_id = 364944293984620544
+user_id = 226690054
+user_name = 'SincerelyTumblr'
 
 [[tweets]]
 id = 364947759280824321
@@ -4694,10 +6154,20 @@ id = 364733414307405826
 created_at = '2013-08-06T13:03:17Z'
 text = '''@agmcleod But that's the life of a programmer: a single typo causing so much grief u_u'''
 
+[tweets.in_reply_to]
+status_id = 364723251299090433
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 364733328466784256
 created_at = '2013-08-06T13:02:56Z'
 text = '''@agmcleod I couldn't figure it out for the life of me! I kept looking at the tutorial I was following to make sure they matched.'''
+
+[tweets.in_reply_to]
+status_id = 364723251299090433
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 364722641447292928
@@ -4724,6 +6194,11 @@ id = 364360018017005568
 created_at = '2013-08-05T12:19:32Z'
 text = '@konjak Bing translator anywhere is buttass.'
 
+[tweets.in_reply_to]
+status_id = 364357995557167104
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 364354287905685504
 created_at = '2013-08-05T11:56:46Z'
@@ -4738,6 +6213,11 @@ text = '''Been playing quite a bit of Awesomenauts tonight. It's good fun!'''
 id = 363529512991985665
 created_at = '2013-08-03T05:19:24Z'
 text = '@dexbonus But the mustache!'
+
+[tweets.in_reply_to]
+status_id = 363503938961547265
+user_id = 328233137
+user_name = 'dexbonus'
 
 [[tweets]]
 id = 363359970827304962
@@ -4759,10 +6239,20 @@ id = 363284810568966147
 created_at = '2013-08-02T13:07:03Z'
 text = '@agmcleod After having used one, can confirm: very addicting.'
 
+[tweets.in_reply_to]
+status_id = 363283276154535936
+user_id = 24914356
+user_name = 'agmcleod'
+
 [[tweets]]
 id = 363284754352705536
 created_at = '2013-08-02T13:06:49Z'
 text = '''@agmcleod I've known about them for a while now, but it had never occurred to me just how useful they could be.'''
+
+[tweets.in_reply_to]
+status_id = 363283276154535936
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 363282844904206337
@@ -4864,6 +6354,11 @@ id = 361852839410143233
 created_at = '2013-07-29T14:16:54Z'
 text = '''@konjak I mean, it doesn't help that they're trying to shut down fan-based marketing, which is just free advertising for them!'''
 
+[tweets.in_reply_to]
+status_id = 361852493111631872
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 361850821740199936
 created_at = '2013-07-29T14:08:53Z'
@@ -4874,15 +6369,30 @@ id = 361850290170892289
 created_at = '2013-07-29T14:06:46Z'
 text = '@grapefrukt BRB, gray-scaling all Facebook photos.'
 
+[tweets.in_reply_to]
+status_id = 361849942123352065
+user_id = 18046664
+user_name = 'grapefrukt'
+
 [[tweets]]
 id = 361849323895525377
 created_at = '2013-07-29T14:02:56Z'
 text = '@McFunkypants Same here. I think the #LD48 is easier, solely due to the time limit.'
 
+[tweets.in_reply_to]
+status_id = 361848903877918720
+user_id = 192969516
+user_name = 'McFunkypants'
+
 [[tweets]]
 id = 361848070843006976
 created_at = '2013-07-29T13:57:57Z'
 text = '@McFunkypants Not a problem. At my IT job we use it all the time after Windows reinstalls. Saves a ton of time.'
+
+[tweets.in_reply_to]
+status_id = 361847904610168832
+user_id = 192969516
+user_name = 'McFunkypants'
 
 [[tweets]]
 id = 361847947316572160
@@ -4893,6 +6403,11 @@ text = 'Working full-time as a programmer and then having the motivation to make
 id = 361847283492466689
 created_at = '2013-07-29T13:54:49Z'
 text = '@McFunkypants Ninite.'
+
+[tweets.in_reply_to]
+status_id = 361847080622358529
+user_id = 192969516
+user_name = 'McFunkypants'
 
 [[tweets]]
 id = 361845173430403072
@@ -4959,6 +6474,11 @@ id = 361819186726576128
 created_at = '2013-07-29T12:03:11Z'
 text = '''@notch Ah, but you're forgetting that it's Yahoo !Answers.'''
 
+[tweets.in_reply_to]
+status_id = 361801002975891456
+user_id = 63485337
+user_name = 'notch'
+
 [[tweets]]
 id = 361809231118221312
 created_at = '2013-07-29T11:23:37Z'
@@ -4999,15 +6519,30 @@ id = 360535177086238723
 created_at = '2013-07-25T23:00:59Z'
 text = '''@konjak I put over 150 hours into Skyrim without ever beating the main story. But I guess replayability doesn't really count..'''
 
+[tweets.in_reply_to]
+status_id = 360534788865658880
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 360451096084357121
 created_at = '2013-07-25T17:26:52Z'
 text = '@McFunkypants Make more games?'
 
+[tweets.in_reply_to]
+status_id = 360450890676707329
+user_id = 192969516
+user_name = 'McFunkypants'
+
 [[tweets]]
 id = 360417623898456065
 created_at = '2013-07-25T15:13:52Z'
 text = '@jnkboy Bang!'
+
+[tweets.in_reply_to]
+status_id = 360416986775306240
+user_id = 210944652
+user_name = 'jnkboy'
 
 [[tweets]]
 id = 360369572391555073
@@ -5024,10 +6559,20 @@ id = 360217504846589952
 created_at = '2013-07-25T01:58:40Z'
 text = '@PAMMda_Bear What happened to Dr. Dunlap?'
 
+[tweets.in_reply_to]
+status_id = 360217029963288576
+user_id = 54646357
+user_name = 'PAMMda_Bear'
+
 [[tweets]]
 id = 360071379548241921
 created_at = '2013-07-24T16:18:01Z'
 text = '''@maxdeviant That's what I have it doing at the moment. Although doing the same thing with plain CSS might be just as simple.'''
+
+[tweets.in_reply_to]
+status_id = 360026406333317120
+user_id = 36209210
+user_name = 'maxdeviant'
 
 [[tweets]]
 id = 360027215620079616
@@ -5053,10 +6598,20 @@ id = 359997439614259203
 created_at = '2013-07-24T11:24:12Z'
 text = '''@FredericRP @DarkestKale @McFunkypants @agmcleod @samusclone Well now I just have to play it, don't I?'''
 
+[tweets.in_reply_to]
+status_id = 359696926771384322
+user_id = 137823250
+user_name = 'FredericRP'
+
 [[tweets]]
 id = 359997305677549568
 created_at = '2013-07-24T11:23:40Z'
 text = '''@agmcleod I just need to work on my site more. It's still very much in development >.<'''
+
+[tweets.in_reply_to]
+status_id = 359694736904290306
+user_id = 24914356
+user_name = 'agmcleod'
 
 [[tweets]]
 id = 359758264394727424
@@ -5104,10 +6659,20 @@ id = 359687244673581057
 created_at = '2013-07-23T14:51:36Z'
 text = '''@McFunkypants @agmcleod Quick, everyone submit it as a theme choice! And then ransom the #LD48 organizers' family members.'''
 
+[tweets.in_reply_to]
+status_id = 359686554626703362
+user_id = 192969516
+user_name = 'McFunkypants'
+
 [[tweets]]
 id = 359685760867241984
 created_at = '2013-07-23T14:45:42Z'
 text = '@DarkestKale @McFunkypants @agmcleod @samusclone Where do I sign up? #GrandmaJam2013'
+
+[tweets.in_reply_to]
+status_id = 359679272945844224
+user_id = 273885352
+user_name = 'DarkestKale'
 
 [[tweets]]
 id = 359683038793314304
@@ -5123,6 +6688,11 @@ text = '"I wonder if I fixed all my errors.." *Refresh page* "Nope."'
 id = 359668711210237952
 created_at = '2013-07-23T13:37:57Z'
 text = '@McFunkypants I think being able to interface with the Google Play store is going to be the selling point for the MOJO. Ouya may be toast :O'
+
+[tweets.in_reply_to]
+status_id = 359666939993403392
+user_id = 192969516
+user_name = 'McFunkypants'
 
 [[tweets]]
 id = 359660161343819778
@@ -5159,10 +6729,20 @@ id = 359526710863069184
 created_at = '2013-07-23T04:13:42Z'
 text = '@McFunkypants But I made some good progress tonight. It sounds like things should move quickly for you once you get to coding :D'
 
+[tweets.in_reply_to]
+status_id = 359524744552390656
+user_id = 192969516
+user_name = 'McFunkypants'
+
 [[tweets]]
 id = 359526528209530880
 created_at = '2013-07-23T04:12:58Z'
 text = '@McFunkypants I cheated a little bit and started last weekend, choosing my library and making initial got repos ;O'
+
+[tweets.in_reply_to]
+status_id = 359524744552390656
+user_id = 192969516
+user_name = 'McFunkypants'
 
 [[tweets]]
 id = 359516221386919936
@@ -5188,6 +6768,11 @@ text = '''Got some working grass textures, and let me tell you, they are beautif
 id = 359498185749700608
 created_at = '2013-07-23T02:20:21Z'
 text = '''@PAMMda_Bear I don't know, typhoid is pretty nasty.'''
+
+[tweets.in_reply_to]
+status_id = 359497905385648129
+user_id = 54646357
+user_name = 'PAMMda_Bear'
 
 [[tweets]]
 id = 359498093894443008
@@ -5238,6 +6823,11 @@ id = 359300080735498241
 created_at = '2013-07-22T13:13:09Z'
 text = '''@Dinnerbone Just checked mine and it didn't have me reset. Isolated issue?'''
 
+[tweets.in_reply_to]
+status_id = 359298893630013442
+user_id = 83820762
+user_name = 'Dinnerbone'
+
 [[tweets]]
 id = 359270605385773056
 created_at = '2013-07-22T11:16:01Z'
@@ -5247,6 +6837,11 @@ text = '@KatiePellak :('
 id = 359270509889851395
 created_at = '2013-07-22T11:15:39Z'
 text = '''@Dinnerbone If there isn't one yet, it needs to be made :O'''
+
+[tweets.in_reply_to]
+status_id = 359231919956824064
+user_id = 83820762
+user_name = 'Dinnerbone'
 
 [[tweets]]
 id = 359116586797371393
@@ -5332,6 +6927,11 @@ id = 358289002056523776
 created_at = '2013-07-19T18:15:29Z'
 text = '@konjak Harsh criticisms: incoming.'
 
+[tweets.in_reply_to]
+status_id = 358288553572184064
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 358279970201673728
 created_at = '2013-07-19T17:39:36Z'
@@ -5398,6 +6998,11 @@ url = 'http://t.co/H13ru1Ns2Z'
 id = 358080279547621376
 created_at = '2013-07-19T04:26:06Z'
 text = '''@McFunkypants My mantra for game dev is "restrained optimism." Don't be afraid to think big and take risks. But knowing your limits is key.'''
+
+[tweets.in_reply_to]
+status_id = 357928647207817216
+user_id = 192969516
+user_name = 'McFunkypants'
 
 [[tweets]]
 id = 358078335840026625
@@ -5476,15 +7081,30 @@ id = 357563945235660801
 created_at = '2013-07-17T18:14:22Z'
 text = '''@jaayysunn Yea, that doesn't exactly happen. I learned that pretty early on after thinking with the same naivety for a short while.'''
 
+[tweets.in_reply_to]
+status_id = 357560106403106817
+user_id = 244285822
+user_name = 'jaayysunn'
+
 [[tweets]]
 id = 357558729375358976
 created_at = '2013-07-17T17:53:38Z'
 text = '@hausvonmichelle @Nathanial0 "Nathan, hold my earrings for me!"'
 
+[tweets.in_reply_to]
+status_id = 357558055602364416
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 357558071620411393
 created_at = '2013-07-17T17:51:02Z'
 text = '''@jaayysunn But how else will you be able to know random individual's schedules?'''
+
+[tweets.in_reply_to]
+status_id = 357556597553238017
+user_id = 244285822
+user_name = 'jaayysunn'
 
 [[tweets]]
 id = 357502647999279105
@@ -5541,6 +7161,11 @@ id = 355773599359045633
 created_at = '2013-07-12T19:40:10Z'
 text = '@konjak I can try to Iconoclasts alpha on my Windows 8 rig when I get home and let you know how it fares.'
 
+[tweets.in_reply_to]
+status_id = 355753333786550272
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 355683525808226306
 created_at = '2013-07-12T13:42:15Z'
@@ -5551,10 +7176,20 @@ id = 355349275078705152
 created_at = '2013-07-11T15:34:03Z'
 text = '@Totalbiscuit Oh, I doth quivereth.'
 
+[tweets.in_reply_to]
+status_id = 355349111089795072
+user_id = 16747981
+user_name = 'Totalbiscuit'
+
 [[tweets]]
 id = 355343388482076672
 created_at = '2013-07-11T15:10:40Z'
 text = '''@konjak But it's so clean and minimalist D:'''
+
+[tweets.in_reply_to]
+status_id = 355342484307603456
+user_id = 38339409
+user_name = 'konjak'
 
 [[tweets]]
 id = 355333248563429376
@@ -5565,6 +7200,11 @@ text = '''I sincerely apologize to the poor soul who will have to read my code l
 id = 355319038831902721
 created_at = '2013-07-11T13:33:55Z'
 text = '@grapefrukt 2013.'
+
+[tweets.in_reply_to]
+status_id = 355318675814875138
+user_id = 18046664
+user_name = 'grapefrukt'
 
 [[tweets]]
 id = 355318515697336320
@@ -5581,25 +7221,50 @@ id = 354922831303278592
 created_at = '2013-07-10T11:19:31Z'
 text = '@Fuzieq @cantleysarah Well you know what they say: aggressive curiosity killed the cat aggressively.'
 
+[tweets.in_reply_to]
+status_id = 354739546245705729
+user_id = 1395405440
+user_name = 'karalyn_jane'
+
 [[tweets]]
 id = 354684176634626048
 created_at = '2013-07-09T19:31:12Z'
 text = '''@konjak I think it would be more like a coach or team manager. That's the vibe I'm getting.'''
+
+[tweets.in_reply_to]
+status_id = 354683658952650754
+user_id = 38339409
+user_name = 'konjak'
 
 [[tweets]]
 id = 354682369887842304
 created_at = '2013-07-09T19:24:01Z'
 text = '@konjak Note: Just going off of all the overly-obsessed people around me who participate in it. I think your definition sounds way better.'
 
+[tweets.in_reply_to]
+status_id = 354680570065850368
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 354682172625530880
 created_at = '2013-07-09T19:23:14Z'
 text = '@konjak Basically people assemble their own teams using existing players, and then they win/lose games based on player stats. Or something.'
 
+[tweets.in_reply_to]
+status_id = 354680570065850368
+user_id = 38339409
+user_name = 'konjak'
+
 [[tweets]]
 id = 354661156293578752
 created_at = '2013-07-09T17:59:43Z'
 text = '@deadmau5 Nice and minimal :)'
+
+[tweets.in_reply_to]
+status_id = 354660075341754369
+user_id = 22412376
+user_name = 'deadmau5'
 
 [[tweets]]
 id = 354597375303618560
@@ -5645,6 +7310,11 @@ text = 'Back to the daily grind.'
 id = 352914720472313857
 created_at = '2013-07-04T22:20:00Z'
 text = '@day9tv That statement could be easily misconstrued by the NSA :P'
+
+[tweets.in_reply_to]
+status_id = 352909786133708801
+user_id = 96848570
+user_name = 'day9tv'
 
 [[tweets]]
 id = 352551254251159553
@@ -5701,10 +7371,20 @@ id = 352158649759711235
 created_at = '2013-07-02T20:15:39Z'
 text = '@Totalbiscuit That was quick!'
 
+[tweets.in_reply_to]
+status_id = 352158564887961600
+user_id = 16747981
+user_name = 'Totalbiscuit'
+
 [[tweets]]
 id = 352081234685476864
 created_at = '2013-07-02T15:08:02Z'
 text = '''@The_Rasta_Masta The demo won't be of much help, because from what I've heard, it's just a tech demo. AKA, just the menu xD'''
+
+[tweets.in_reply_to]
+status_id = 352081008063021058
+user_id = 359447067
+user_name = 'The_Rasta_Masta'
 
 [[tweets]]
 id = 352080835215753221
@@ -5744,6 +7424,11 @@ text = 'Must. Be. Productive.'
 id = 351794878239354881
 created_at = '2013-07-01T20:10:09Z'
 text = '@C418 To indulge his masochistic side?'
+
+[tweets.in_reply_to]
+status_id = 351794346997190656
+user_id = 14649689
+user_name = 'C418'
 
 [[tweets]]
 id = 351746627721117696
@@ -5820,25 +7505,50 @@ id = 350596435219202048
 created_at = '2013-06-28T12:47:58Z'
 text = '@mattmagician @wol_lay Just be aware that the demo is not at all representative of the full game, as it will only be a small part of it ;)'
 
+[tweets.in_reply_to]
+status_id = 350595900076335105
+user_id = 15877967
+user_name = 'pixlmagician'
+
 [[tweets]]
 id = 350595942258442240
 created_at = '2013-06-28T12:46:01Z'
 text = '@refrax @wol_lay Release date for alpha is coming "soon". Right now he is setting up the server infrastructure to handle all the downloads.'
+
+[tweets.in_reply_to]
+status_id = 350594923193581568
+user_id = 8448432
+user_name = 'refrax'
 
 [[tweets]]
 id = 350595769608318978
 created_at = '2013-06-28T12:45:19Z'
 text = '@mattmagician @wol_lay Demo is for everyone :D'
 
+[tweets.in_reply_to]
+status_id = 350594917275414528
+user_id = 15877967
+user_name = 'pixlmagician'
+
 [[tweets]]
 id = 350595712607723520
 created_at = '2013-06-28T12:45:06Z'
 text = '@wol_lay @Valkenhyne He has given away a small number of closed alpha keys to a few members of the press. Open alpha should be along shortly'
 
+[tweets.in_reply_to]
+status_id = 350594737788551170
+user_id = 437049774
+user_name = 'wol_lay'
+
 [[tweets]]
 id = 350595416238211072
 created_at = '2013-06-28T12:43:55Z'
 text = '''@wol_lay Glad you're making people aware of this. There are already a ton of fake sites out there.'''
+
+[tweets.in_reply_to]
+status_id = 350594737788551170
+user_id = 437049774
+user_name = 'wol_lay'
 
 [[tweets]]
 id = 350580787554435072
@@ -5905,10 +7615,20 @@ id = 347930659739799553
 created_at = '2013-06-21T04:15:08Z'
 text = '@thisisnota_TESS I think her middle name should be By North. "North By North West"'
 
+[tweets.in_reply_to]
+status_id = 347910485204680704
+user_id = 448576287
+user_name = 'tessmarchant'
+
 [[tweets]]
 id = 346387881436274689
 created_at = '2013-06-16T22:04:41Z'
 text = '@Fuzieq Those look quite elaborate :O'
+
+[tweets.in_reply_to]
+status_id = 346377313459519489
+user_id = 1395405440
+user_name = 'karalyn_jane'
 
 [[tweets]]
 id = 344298469269331968
@@ -5989,10 +7709,20 @@ id = 338638033396056064
 created_at = '2013-05-26T12:49:33Z'
 text = '''@thisisnota_TESS Nice! I've got an internship myself at a local software company.'''
 
+[tweets.in_reply_to]
+status_id = 337421829197160448
+user_id = 448576287
+user_name = 'tessmarchant'
+
 [[tweets]]
 id = 337413554523213824
 created_at = '2013-05-23T03:43:54Z'
 text = '@thisisnota_TESS where are you interning/what will you be doing there?'
+
+[tweets.in_reply_to]
+status_id = 337351613704466434
+user_id = 448576287
+user_name = 'tessmarchant'
 
 [[tweets]]
 id = 335102977377452032
@@ -6008,6 +7738,11 @@ id = 334122801344684035
 created_at = '2013-05-14T01:47:38Z'
 text = '@hausvonmichelle WE WERE LITERALLY JUST OGLING THE TESLA S!'
 
+[tweets.in_reply_to]
+status_id = 334105750970454016
+user_id = 234102447
+user_name = 'hausofdicarlo'
+
 [[tweets]]
 id = 331970283726585856
 created_at = '2013-05-08T03:14:18Z'
@@ -6022,6 +7757,11 @@ text = '''One more week of classes. Then finals. Let's do this.'''
 id = 329395245202673664
 created_at = '2013-05-01T00:42:00Z'
 text = '@kaptainkirk14 You coming to Dub C?'
+
+[tweets.in_reply_to]
+status_id = 329380568133423104
+user_id = 306238432
+user_name = 'kaptainkirk14'
 
 [[tweets]]
 id = 329202018231144449
@@ -6153,10 +7893,20 @@ id = 296265395944431616
 created_at = '2013-01-29T14:35:49Z'
 text = '@erinuhler Will do!'
 
+[tweets.in_reply_to]
+status_id = 296265237894664194
+user_id = 469664382
+user_name = 'erinuhler'
+
 [[tweets]]
 id = 296265092243263489
 created_at = '2013-01-29T14:34:36Z'
 text = '@erinuhler Where are you? Stalker!'
+
+[tweets.in_reply_to]
+status_id = 296264750445244416
+user_id = 469664382
+user_name = 'erinuhler'
 
 [[tweets]]
 id = 292884149092622336

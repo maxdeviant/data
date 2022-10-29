@@ -3,10 +3,20 @@ id = 152869336711831552
 created_at = '2011-12-30T21:51:04Z'
 text = '@mollstam I wish my parents played Minecraft..'
 
+[tweets.in_reply_to]
+status_id = 152869159968051201
+user_id = 8032822
+user_name = 'mollstam'
+
 [[tweets]]
 id = 152863157361188865
 created_at = '2011-12-30T21:26:31Z'
 text = '@MsPoodry I wonder if any of our practice problems with projectiles in the near future will reflect this picture?'
+
+[tweets.in_reply_to]
+status_id = 152862903723229184
+user_id = 171318862
+user_name = 'fpoodry'
 
 [[tweets]]
 id = 151809871010988032
@@ -17,6 +27,11 @@ text = '@regularsm Excellent movie choice =)'
 id = 151307846166917120
 created_at = '2011-12-26T14:26:16Z'
 text = '''@JahKob Don't forget boxing day!'''
+
+[tweets.in_reply_to]
+status_id = 151293320658825216
+user_id = 211105430
+user_name = 'JahKob'
 
 [[tweets]]
 id = 151104416366342144
@@ -46,10 +61,20 @@ id = 150423566431686656
 created_at = '2011-12-24T03:52:27Z'
 text = '@Slash Out of curiosity, what do you drive?'
 
+[tweets.in_reply_to]
+status_id = 150414609390649344
+user_id = 22832029
+user_name = 'Slash'
+
 [[tweets]]
 id = 150341753868791808
 created_at = '2011-12-23T22:27:21Z'
 text = '@AlexStheDJ Brony time?'
+
+[tweets.in_reply_to]
+status_id = 150312300371390464
+user_id = 309299729
+user_name = 'Andromulus'
 
 [[tweets]]
 id = 149330487750557696
@@ -82,10 +107,20 @@ id = 147046113956986881
 created_at = '2011-12-14T20:11:40Z'
 text = '@MsPoodry What kind of middle school skills are high school students lacking?'
 
+[tweets.in_reply_to]
+status_id = 147044362063323136
+user_id = 171318862
+user_name = 'fpoodry'
+
 [[tweets]]
 id = 146008028817260544
 created_at = '2011-12-11T23:26:41Z'
 text = '''@day9tv I rotate during the course of my shower, but generally I'll face away from the shower head.'''
+
+[tweets.in_reply_to]
+status_id = 146006846879186944
+user_id = 96848570
+user_name = 'day9tv'
 
 [[tweets]]
 id = 145542058470424576
@@ -195,6 +230,11 @@ id = 129024669146824705
 created_at = '2011-10-26T02:40:52Z'
 text = '''@carlie_fresh No, I don't. A lot of them seem to be under the radar pianists. They're all really good though, just unable to make it big.'''
 
+[tweets.in_reply_to]
+status_id = 129024217479000064
+user_id = 346181182
+user_name = 'caro_fresh'
+
 [[tweets]]
 id = 129022808629051392
 created_at = '2011-10-26T02:33:29Z'
@@ -203,6 +243,11 @@ text = '''@carlie_fresh Explosions In The Sky! I've also been listening to a lot
 display_url = 'j.mp/10a2I2'
 expanded_url = 'http://j.mp/10a2I2'
 url = 'http://t.co/dywPhoP9'
+
+[tweets.in_reply_to]
+status_id = 129020039901880320
+user_id = 346181182
+user_name = 'caro_fresh'
 
 [[tweets]]
 id = 126831035156668416
@@ -285,15 +330,30 @@ id = 121778119534321664
 created_at = '2011-10-06T02:45:40Z'
 text = '''@carlie_fresh Exactly like that. "Leaning on lampposts, having eccentric men guess my name. All in a day's work for a #Pooka."'''
 
+[tweets.in_reply_to]
+status_id = 121777704419852288
+user_id = 346181182
+user_name = 'caro_fresh'
+
 [[tweets]]
 id = 121776577708167168
 created_at = '2011-10-06T02:39:33Z'
 text = '''@carlie_fresh I know, right? If you #hashtag an article, like '#a', then you'll get a lot more hits =P We should start our own trend: #Pooka'''
 
+[tweets.in_reply_to]
+status_id = 121776068465131520
+user_id = 346181182
+user_name = 'caro_fresh'
+
 [[tweets]]
 id = 121775743360434176
 created_at = '2011-10-06T02:36:14Z'
 text = '@carlie_fresh You should follow me. In fact, so should #everyone. I can has followers?'
+
+[tweets.in_reply_to]
+status_id = 121775355630587904
+user_id = 346181182
+user_name = 'caro_fresh'
 
 [[tweets]]
 id = 121775002335977472
@@ -305,6 +365,11 @@ id = 121774386075271169
 created_at = '2011-10-06T02:30:50Z'
 text = '@carlie_fresh Indeed they are. Our twitter conversations are going to annoy the hell outta my followers. But I like increasing my tweetcount'
 
+[tweets.in_reply_to]
+status_id = 121773978107920384
+user_id = 346181182
+user_name = 'caro_fresh'
+
 [[tweets]]
 id = 121772470817669121
 created_at = '2011-10-06T02:23:14Z'
@@ -315,10 +380,20 @@ id = 121771245623717888
 created_at = '2011-10-06T02:18:22Z'
 text = '''@carlie_fresh I know. Don't you love the 140-character cap? But it does force you to "condensify" your writing. Mitchell's word right there.'''
 
+[tweets.in_reply_to]
+status_id = 121770612799717377
+user_id = 346181182
+user_name = 'caro_fresh'
+
 [[tweets]]
 id = 121770072036478976
 created_at = '2011-10-06T02:13:42Z'
 text = '''@carlie_fresh Just make sure that if you use Veta's perspective you make it sound all hoity toity and whatnot ^^'''
+
+[tweets.in_reply_to]
+status_id = 121768730362527745
+user_id = 346181182
+user_name = 'caro_fresh'
 
 [[tweets]]
 id = 121767839941140480
@@ -425,6 +500,11 @@ id = 108283897502117888
 created_at = '2011-08-29T21:04:27Z'
 text = '@notch He should have bought it D='
 
+[tweets.in_reply_to]
+status_id = 108283572682637312
+user_id = 63485337
+user_name = 'notch'
+
 [[tweets]]
 id = 107658310697746432
 created_at = '2011-08-28T03:38:36Z'
@@ -504,6 +584,11 @@ text = '''@iamnbutler Ah, I see. The way Apple advertised it made me think that 
 id = 100727459988783107
 created_at = '2011-08-09T00:37:52Z'
 text = '@C418 Count sheep?'
+
+[tweets.in_reply_to]
+status_id = 100699785895477248
+user_id = 14649689
+user_name = 'C418'
 
 [[tweets]]
 id = 100547545029279744
@@ -680,6 +765,11 @@ id = 85410955558789121
 created_at = '2011-06-27T18:15:33Z'
 text = '@Totalbiscuit Guess anyone wanting to play Crysis 2 in HD will have to buy the TotalRig'
 
+[tweets.in_reply_to]
+status_id = 85410254103396353
+user_id = 16747981
+user_name = 'Totalbiscuit'
+
 [[tweets]]
 id = 85368393800237056
 created_at = '2011-06-27T15:26:25Z'
@@ -689,6 +779,11 @@ text = '@day9tv Happy Birthday!'
 id = 85176740405710848
 created_at = '2011-06-27T02:44:52Z'
 text = '@Totalbiscuit Agreed. I just joined Reddit myself, and already I can feel my IQ dropping by reading some of the stuff on there.'
+
+[tweets.in_reply_to]
+status_id = 85176208538611712
+user_id = 16747981
+user_name = 'Totalbiscuit'
 
 [[tweets]]
 id = 85176098320695297
@@ -1251,6 +1346,11 @@ id = 46378605181272064
 created_at = '2011-03-12T01:14:55Z'
 text = '@lights Too many ;)'
 
+[tweets.in_reply_to]
+status_id = 46365396428795905
+user_id = 16143507
+user_name = 'lights'
+
 [[tweets]]
 id = 46070225577328640
 created_at = '2011-03-11T04:49:32Z'
@@ -1335,6 +1435,11 @@ text = '''Indie bands and game developers are the ones with true genius, as they
 id = 42183568901931008
 created_at = '2011-02-28T11:25:21Z'
 text = '@owlcity I think Ocean Eyes works just fine ;)'
+
+[tweets.in_reply_to]
+status_id = 42166580620181504
+user_id = 15265990
+user_name = 'owlcity'
 
 [[tweets]]
 id = 42083617047846912
@@ -1516,6 +1621,11 @@ id = 37338440257245184
 created_at = '2011-02-15T02:32:32Z'
 text = '@Totalbiscuit The link seems to be broken. Which probably proves advantageous to those, like me, who were dumb enough to click the link =P'
 
+[tweets.in_reply_to]
+status_id = 37338043887259648
+user_id = 16747981
+user_name = 'Totalbiscuit'
+
 [[tweets]]
 id = 37114656141090816
 created_at = '2011-02-14T11:43:18Z'
@@ -1656,6 +1766,11 @@ id = 33983192226742272
 created_at = '2011-02-05T20:19:59Z'
 text = '''@Totalbiscuit I'm liking Markus already.'''
 
+[tweets.in_reply_to]
+status_id = 33982875149803520
+user_id = 16747981
+user_name = 'Totalbiscuit'
+
 [[tweets]]
 id = 33744119494873088
 created_at = '2011-02-05T04:29:59Z'
@@ -1741,6 +1856,11 @@ id = 31177926032490496
 created_at = '2011-01-29T02:32:51Z'
 text = '''@KevoMane That's awesome. I really liked it. Keep up the good work!'''
 
+[tweets.in_reply_to]
+status_id = 30366927364825089
+user_id = 51076606
+user_name = 'kevprodev'
+
 [[tweets]]
 id = 31119610157735936
 created_at = '2011-01-28T22:41:07Z'
@@ -1750,6 +1870,11 @@ text = 'One day of school sandwiched between snow days and the weekend. Somebody
 id = 31116104407449600
 created_at = '2011-01-28T22:27:12Z'
 text = '@Totalbiscuit I believe you have to start killing certain mobs and then Lunk will appear with the next quest for you.'
+
+[tweets.in_reply_to]
+status_id = 31105375960834048
+user_id = 16747981
+user_name = 'Totalbiscuit'
 
 [[tweets]]
 id = 30880167425478656

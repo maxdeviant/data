@@ -8,10 +8,20 @@ id = 285376702547369984
 created_at = '2012-12-30T13:28:02Z'
 text = '''@kaptainkirk14 I'd be so productive if Tumblr/Twitter/YouTube/Facebook/Reddit/etc didn't exist.'''
 
+[tweets.in_reply_to]
+status_id = 285095953235591168
+user_id = 306238432
+user_name = 'kaptainkirk14'
+
 [[tweets]]
 id = 285065026455355392
 created_at = '2012-12-29T16:49:33Z'
 text = '@juliabazzini But you are off school!'
+
+[tweets.in_reply_to]
+status_id = 285060319393501185
+user_id = 45051467
+user_name = 'juliabazzini'
 
 [[tweets]]
 id = 280036510227652608
@@ -59,15 +69,30 @@ id = 274586013039460353
 created_at = '2012-11-30T18:49:41Z'
 text = '''@PAMMda_Bear That's what keeps me going to class :P'''
 
+[tweets.in_reply_to]
+status_id = 274585591100874753
+user_id = 54646357
+user_name = 'PAMMda_Bear'
+
 [[tweets]]
 id = 274570976845508608
 created_at = '2012-11-30T17:49:56Z'
 text = '@PAMMda_Bear Have fun in college where there is absolutely nothing stopping you from leaving a class.'
 
+[tweets.in_reply_to]
+status_id = 274485172823535616
+user_id = 54646357
+user_name = 'PAMMda_Bear'
+
 [[tweets]]
 id = 274339272864194560
 created_at = '2012-11-30T02:29:14Z'
 text = '''@ANGELs_nDemons Ain't that the truth...'''
+
+[tweets.in_reply_to]
+status_id = 274327253393997826
+user_id = 358464605
+user_name = 'apachuda'
 
 [[tweets]]
 id = 274152870906052609
@@ -102,10 +127,20 @@ id = 270893849088499716
 created_at = '2012-11-20T14:18:21Z'
 text = '''@iamnbutler I just started learning python, and it's my editor of choice for it.'''
 
+[tweets.in_reply_to]
+status_id = 270821405006917632
+user_id = 325214156
+user_name = 'iamnbutler'
+
 [[tweets]]
 id = 270587032055730176
 created_at = '2012-11-19T17:59:10Z'
 text = '@erinuhler Tell me about it...'
+
+[tweets.in_reply_to]
+status_id = 270583864357957635
+user_id = 469664382
+user_name = 'erinuhler'
 
 [[tweets]]
 id = 270556741517844481
@@ -117,10 +152,20 @@ id = 270556468489633792
 created_at = '2012-11-19T15:57:43Z'
 text = '@erinuhler Just four classes, two tests, one quiz, and three hours of work left.'
 
+[tweets.in_reply_to]
+status_id = 270524531825836033
+user_id = 469664382
+user_name = 'erinuhler'
+
 [[tweets]]
 id = 268779498684698624
 created_at = '2012-11-14T18:16:40Z'
 text = '''@iamnbutler I shall have to check this out. I've played around in Sublime a bit, but never used it all that much.'''
+
+[tweets.in_reply_to]
+status_id = 268631705362001921
+user_id = 325214156
+user_name = 'iamnbutler'
 
 [[tweets]]
 id = 268779030189338624
@@ -202,10 +247,20 @@ id = 261950034797551617
 created_at = '2012-10-26T21:58:49Z'
 text = '''@meghanperhacs Don't worry, it's a common feeling. You'll be fine though :)'''
 
+[tweets.in_reply_to]
+status_id = 261948027466551296
+user_id = 258016245
+user_name = 'meghanperhacs'
+
 [[tweets]]
 id = 260849055813468160
 created_at = '2012-10-23T21:03:55Z'
 text = '@PAMMda_Bear But Math is fun!'
+
+[tweets.in_reply_to]
+status_id = 260805946513711104
+user_id = 54646357
+user_name = 'PAMMda_Bear'
 
 [[tweets]]
 id = 260397214801723392
@@ -222,6 +277,11 @@ id = 259376334864805888
 created_at = '2012-10-19T19:31:51Z'
 text = '''@PAMMda_Bear Don't you mean 'rural bad'? #Punny'''
 
+[tweets.in_reply_to]
+status_id = 259341458249768960
+user_id = 54646357
+user_name = 'PAMMda_Bear'
+
 [[tweets]]
 id = 259158834537451520
 created_at = '2012-10-19T05:07:35Z'
@@ -231,6 +291,11 @@ text = '''I can't believe I'd forgotten how much I love @anberlin's music. #Vita
 id = 258901765724983297
 created_at = '2012-10-18T12:06:05Z'
 text = '@jeb_ Have you checked out Gnomoria yet?'
+
+[tweets.in_reply_to]
+status_id = 258821979774275584
+user_id = 24166202
+user_name = 'jeb_'
 
 [[tweets]]
 id = 258817514744717313
@@ -246,6 +311,11 @@ text = '''It's bothersome that the majority of people are so entrenched in the t
 id = 258440743012691968
 created_at = '2012-10-17T05:34:09Z'
 text = '@juliabazzini It goes the same way for Democrats telling Romney to shut up. #DoubleStandard #Politics'
+
+[tweets.in_reply_to]
+status_id = 258384976196812801
+user_id = 45051467
+user_name = 'juliabazzini'
 
 [[tweets]]
 id = 258424015461425152
@@ -271,6 +341,11 @@ id = 257974424744103936
 created_at = '2012-10-15T22:41:10Z'
 text = '@C418 I use the Razer Mamba. It is a comfy monster :3'
 
+[tweets.in_reply_to]
+status_id = 257913745907544064
+user_id = 14649689
+user_name = 'C418'
+
 [[tweets]]
 id = 256592792883716096
 created_at = '2012-10-12T03:11:03Z'
@@ -294,6 +369,11 @@ url = 'http://t.co/9Xee7igT'
 id = 256471472736972801
 created_at = '2012-10-11T19:08:58Z'
 text = '@PAMMda_Bear Hairspray?'
+
+[tweets.in_reply_to]
+status_id = 256469193925480448
+user_id = 54646357
+user_name = 'PAMMda_Bear'
 
 [[tweets]]
 id = 255848281899429888
@@ -319,6 +399,11 @@ id = 254438643509374976
 created_at = '2012-10-06T04:31:14Z'
 text = '''@Mlle_Mischief Don't care what anyone says, I'm never too old to be absolutely terrified of Bates Motel :P'''
 
+[tweets.in_reply_to]
+status_id = 254416060848160768
+user_id = 346181182
+user_name = 'caro_fresh'
+
 [[tweets]]
 id = 254001409098387456
 created_at = '2012-10-04T23:33:49Z'
@@ -333,25 +418,50 @@ id = 253680945473933313
 created_at = '2012-10-04T02:20:25Z'
 text = '@kelseeeyhughes I think a flashmob would be a good mixup for the debate.'
 
+[tweets.in_reply_to]
+status_id = 253680740145963008
+user_id = 338793619
+user_name = 'kelseeeyhughes'
+
 [[tweets]]
 id = 253679954154364929
 created_at = '2012-10-04T02:16:28Z'
 text = '@kelseeeyhughes On the contrary, I find them quite amusing.'
+
+[tweets.in_reply_to]
+status_id = 253679643201249280
+user_id = 338793619
+user_name = 'kelseeeyhughes'
 
 [[tweets]]
 id = 253678535443623938
 created_at = '2012-10-04T02:10:50Z'
 text = '@Cellolad Neither do I. It helps that Gary is an amazing candidate to begin with.'
 
+[tweets.in_reply_to]
+status_id = 253678174704136192
+user_id = 307486165
+user_name = 'knkyleklock'
+
 [[tweets]]
 id = 253677820742615040
 created_at = '2012-10-04T02:08:00Z'
 text = '@Cellolad Here here! Glad to see more Gary Johnson supporters. #Johnson2012'
 
+[tweets.in_reply_to]
+status_id = 253676958943170560
+user_id = 307486165
+user_name = 'knkyleklock'
+
 [[tweets]]
 id = 253675910803361792
 created_at = '2012-10-04T02:00:24Z'
 text = '@Totalbiscuit Whoo whoo. Totalbiscuit 2012?'
+
+[tweets.in_reply_to]
+status_id = 253675383000543232
+user_id = 16747981
+user_name = 'Totalbiscuit'
 
 [[tweets]]
 id = 253675194210717697
@@ -362,6 +472,11 @@ text = '@GovGaryJohnson There really needs to be a third podium on that stage. #
 id = 253336949417455616
 created_at = '2012-10-03T03:33:30Z'
 text = '@juliabazzini What about those of us in college already?'
+
+[tweets.in_reply_to]
+status_id = 253308680504737792
+user_id = 45051467
+user_name = 'juliabazzini'
 
 [[tweets]]
 id = 253255395093663744
@@ -376,6 +491,11 @@ url = 'http://t.co/BuUkKUq4'
 id = 251822940470009856
 created_at = '2012-09-28T23:17:22Z'
 text = '''@thisisnota_TESS Don't worry, neither have I.'''
+
+[tweets.in_reply_to]
+status_id = 251785627752886273
+user_id = 448576287
+user_name = 'tessmarchant'
 
 [[tweets]]
 id = 251476090084798464
@@ -463,10 +583,20 @@ id = 249522582037098496
 created_at = '2012-09-22T14:56:34Z'
 text = '''@quick_reFRESHer It's because they don't need to have the update approved by their mobile carrier because they are not tied to one.'''
 
+[tweets.in_reply_to]
+status_id = 249522274112262144
+user_id = 346181182
+user_name = 'caro_fresh'
+
 [[tweets]]
 id = 249512659626635265
 created_at = '2012-09-22T14:17:08Z'
 text = '@quick_reFRESHer I believe it rolls out sometime next month for all the unlocked phones (aka, not us) and then we should expect it after.'
+
+[tweets.in_reply_to]
+status_id = 249494712132702209
+user_id = 346181182
+user_name = 'caro_fresh'
 
 [[tweets]]
 id = 249307191713071104
@@ -495,6 +625,11 @@ url = 'http://t.co/pI1rymzT'
 id = 248753970758176768
 created_at = '2012-09-20T12:02:22Z'
 text = '''@quick_reFRESHer And there's a new one on the way! #Android #JellyBean'''
+
+[tweets.in_reply_to]
+status_id = 248631400075497472
+user_id = 346181182
+user_name = 'caro_fresh'
 
 [[tweets]]
 id = 248594649311215617
@@ -761,6 +896,11 @@ id = 242832598320173056
 created_at = '2012-09-04T03:52:57Z'
 text = '@PAMMda_Bear Absolutely genius.'
 
+[tweets.in_reply_to]
+status_id = 242832179133022209
+user_id = 54646357
+user_name = 'PAMMda_Bear'
+
 [[tweets]]
 id = 242730987778347008
 created_at = '2012-09-03T21:09:11Z'
@@ -825,6 +965,11 @@ url = 'http://t.co/fC68X9QQ'
 id = 241236600976191488
 created_at = '2012-08-30T18:11:02Z'
 text = '''@erinuhler I almost said hi to you on campus. But I couldn't tell if it was you or not, and I was not about to yell your name to find out.'''
+
+[tweets.in_reply_to]
+status_id = 241188122992455680
+user_id = 469664382
+user_name = 'erinuhler'
 
 [[tweets]]
 id = 240978095669145600
@@ -919,6 +1064,11 @@ id = 236956670826250240
 created_at = '2012-08-18T22:44:07Z'
 text = '@erinuhler I move in a week early for work. The rest of the freshmen move in next Friday.'
 
+[tweets.in_reply_to]
+status_id = 236950381916200961
+user_id = 469664382
+user_name = 'erinuhler'
+
 [[tweets]]
 id = 236945247148576769
 created_at = '2012-08-18T21:58:43Z'
@@ -950,6 +1100,11 @@ url = 'http://t.co/iYToDmX4'
 id = 236132262859636736
 created_at = '2012-08-16T16:08:13Z'
 text = '@meghanperhacs A rundown parking lot next to a cruise ship?'
+
+[tweets.in_reply_to]
+status_id = 236132134115475456
+user_id = 258016245
+user_name = 'meghanperhacs'
 
 [[tweets]]
 id = 235950588989419520
@@ -1005,10 +1160,20 @@ id = 233944115123978240
 created_at = '2012-08-10T15:13:18Z'
 text = '@kaptainkirk14 I guess it will be one of the mysteries of the Olympics.'
 
+[tweets.in_reply_to]
+status_id = 233943130922180608
+user_id = 306238432
+user_name = 'kaptainkirk14'
+
 [[tweets]]
 id = 233940545016324097
 created_at = '2012-08-10T14:59:06Z'
 text = '@kaptainkirk14 Waterproof makeup =)'
+
+[tweets.in_reply_to]
+status_id = 233939742096490496
+user_id = 306238432
+user_name = 'kaptainkirk14'
 
 [[tweets]]
 id = 233387808398651392
@@ -1020,15 +1185,30 @@ id = 233383156605140992
 created_at = '2012-08-09T02:04:15Z'
 text = '''@ANGELs_nDemons I would hope not. Because that would imply that you'd be consuming said man. #Cannibalism'''
 
+[tweets.in_reply_to]
+status_id = 233381481647591424
+user_id = 358464605
+user_name = 'apachuda'
+
 [[tweets]]
 id = 233056471271743488
 created_at = '2012-08-08T04:26:07Z'
 text = '@juliabazzini I find that slightly disturbing. I can only imagine how you feel. #AwkwardMoments'
 
+[tweets.in_reply_to]
+status_id = 232970127031795712
+user_id = 45051467
+user_name = 'juliabazzini'
+
 [[tweets]]
 id = 232633776117776385
 created_at = '2012-08-07T00:26:29Z'
 text = '@quick_reFRESHer #Swag'
+
+[tweets.in_reply_to]
+status_id = 232633487675498496
+user_id = 346181182
+user_name = 'caro_fresh'
 
 [[tweets]]
 id = 228891492326969345
@@ -1043,6 +1223,11 @@ url = 'http://t.co/kdoCK95j'
 id = 227778670973054976
 created_at = '2012-07-24T14:54:01Z'
 text = '''@erinuhler If you continue to use "ain't" you won't be getting a college degree either =P'''
+
+[tweets.in_reply_to]
+status_id = 227777419329806336
+user_id = 469664382
+user_name = 'erinuhler'
 
 [[tweets]]
 id = 218016911307440129
@@ -1082,6 +1267,11 @@ id = 213055450755772418
 created_at = '2012-06-13T23:49:12Z'
 text = '@kaptainkirk14 Yes, he was very nice =)'
 
+[tweets.in_reply_to]
+status_id = 213054101544632321
+user_id = 306238432
+user_name = 'kaptainkirk14'
+
 [[tweets]]
 id = 213053401288802305
 created_at = '2012-06-13T23:41:03Z'
@@ -1105,6 +1295,11 @@ id = 211295041799471104
 created_at = '2012-06-09T03:13:58Z'
 text = '''@quick_reFRESHer That's a pretty bangin' watch you have there.'''
 
+[tweets.in_reply_to]
+status_id = 211277271351312385
+user_id = 346181182
+user_name = 'caro_fresh'
+
 [[tweets]]
 id = 211164198980435968
 created_at = '2012-06-08T18:34:02Z'
@@ -1119,6 +1314,11 @@ text = '"Shoot the poop!" #BindingOfIsaac'
 id = 210185884958593024
 created_at = '2012-06-06T01:46:34Z'
 text = '@PAMMda_Bear Oh snap, calling me out.'
+
+[tweets.in_reply_to]
+status_id = 210177634078961664
+user_id = 54646357
+user_name = 'PAMMda_Bear'
 
 [[tweets]]
 id = 210175063645892608
@@ -1135,6 +1335,11 @@ id = 210172679762870272
 created_at = '2012-06-06T00:54:06Z'
 text = '''@PAMMda_Bear Pamela, why am I not on this list? I mean @jaayysunn is on it, and she doesn't even go here!'''
 
+[tweets.in_reply_to]
+status_id = 210157340811460608
+user_id = 54646357
+user_name = 'PAMMda_Bear'
+
 [[tweets]]
 id = 210171954026659840
 created_at = '2012-06-06T00:51:13Z'
@@ -1150,10 +1355,20 @@ id = 208317824840630272
 created_at = '2012-05-31T22:03:34Z'
 text = '@thisisnota_TESS Just put some Windex on it.'
 
+[tweets.in_reply_to]
+status_id = 208316417689391104
+user_id = 448576287
+user_name = 'tessmarchant'
+
 [[tweets]]
 id = 208301468992815107
 created_at = '2012-05-31T20:58:34Z'
 text = '@kaptainkirk14 "Stage Queen", obviously.'
+
+[tweets.in_reply_to]
+status_id = 208301119317872640
+user_id = 306238432
+user_name = 'kaptainkirk14'
 
 [[tweets]]
 id = 208296873050644480
@@ -1225,30 +1440,60 @@ id = 202932273887195138
 created_at = '2012-05-17T01:23:19Z'
 text = '''@M_n_EMerson @meghanperhacs Hipster Meghan can't bear to have her name spelled the conventional way.'''
 
+[tweets.in_reply_to]
+status_id = 202928032787341312
+user_id = 402447507
+user_name = 'M_n_EMerson'
+
 [[tweets]]
 id = 202897765687230464
 created_at = '2012-05-16T23:06:11Z'
 text = '@M_n_EMerson @meghanperhacs Well, knowing Megan, neither of those things are possible xD'
+
+[tweets.in_reply_to]
+status_id = 202897413105655810
+user_id = 402447507
+user_name = 'M_n_EMerson'
 
 [[tweets]]
 id = 202897193722593280
 created_at = '2012-05-16T23:03:55Z'
 text = '''@M_n_EMerson @meghanperhacs I don't believe that would be appropriate for a school function Emmie =P'''
 
+[tweets.in_reply_to]
+status_id = 202896620906483712
+user_id = 402447507
+user_name = 'M_n_EMerson'
+
 [[tweets]]
 id = 202895697891172353
 created_at = '2012-05-16T22:57:58Z'
 text = '''@meghanperhacs Yea, the weather doesn't lend itself to easy phone-securing methods...'''
+
+[tweets.in_reply_to]
+status_id = 202894920728592384
+user_id = 258016245
+user_name = 'meghanperhacs'
 
 [[tweets]]
 id = 202894555954155520
 created_at = '2012-05-16T22:53:26Z'
 text = '@meghanperhacs Do you own any cargo pants like @MsPoodry? She also suggested that tight jeans would work reasonably well.'
 
+[tweets.in_reply_to]
+status_id = 202893966834802688
+user_id = 258016245
+user_name = 'meghanperhacs'
+
 [[tweets]]
 id = 202893736508788736
 created_at = '2012-05-16T22:50:11Z'
 text = '''@meghanperhacs (I'm not a girl, but I defy your sexist poll.) Solution: Duct tape ^^'''
+
+[tweets.in_reply_to]
+status_id = 202854063904272384
+user_id = 258016245
+user_name = 'meghanperhacs'
 
 [[tweets]]
 id = 202806926394925057
@@ -1280,10 +1525,20 @@ id = 190977827481460737
 created_at = '2012-04-14T01:40:36Z'
 text = '@kelseeeyhughes I think I have both those things in the cupboard... To try or not to try...'
 
+[tweets.in_reply_to]
+status_id = 190976290847866882
+user_id = 338793619
+user_name = 'kelseeeyhughes'
+
 [[tweets]]
 id = 190965374815186944
 created_at = '2012-04-14T00:51:07Z'
 text = '@kaptainkirk14 Congratulations =)'
+
+[tweets.in_reply_to]
+status_id = 190964875663650816
+user_id = 306238432
+user_name = 'kaptainkirk14'
 
 [[tweets]]
 id = 190959544086700032
@@ -1295,10 +1550,20 @@ id = 190622788934057984
 created_at = '2012-04-13T02:09:49Z'
 text = '''@kelseeeyhughes That's cause every day is national kiss day!'''
 
+[tweets.in_reply_to]
+status_id = 190622464387198978
+user_id = 338793619
+user_name = 'kelseeeyhughes'
+
 [[tweets]]
 id = 183383115513868288
 created_at = '2012-03-24T02:41:56Z'
 text = '''@jaayysunn Virginia Tech: "Isn't that where all the lesbians go?" #OneActs'''
+
+[tweets.in_reply_to]
+status_id = 183348572706705409
+user_id = 244285822
+user_name = 'jaayysunn'
 
 [[tweets]]
 id = 183382054732443650
@@ -1315,15 +1580,30 @@ id = 174953818461716481
 created_at = '2012-02-29T20:26:55Z'
 text = '''@meghanperhacs Oh, yea, I forgot that we won't be in school tomorrow. But no, I'll just show her on Friday.'''
 
+[tweets.in_reply_to]
+status_id = 174953599313522688
+user_id = 258016245
+user_name = 'meghanperhacs'
+
 [[tweets]]
 id = 174953314448969730
 created_at = '2012-02-29T20:24:55Z'
 text = '''@meghanperhacs Yea, I'll probably get around to it sometime after Club.'''
 
+[tweets.in_reply_to]
+status_id = 174953100321366020
+user_id = 258016245
+user_name = 'meghanperhacs'
+
 [[tweets]]
 id = 172520458372128768
 created_at = '2012-02-23T03:17:37Z'
 text = '@day9tv I think the most debilitating fear I have in my life is the potential loss of my music library. I know how you feel right now...'
+
+[tweets.in_reply_to]
+status_id = 172518251530682370
+user_id = 96848570
+user_name = 'day9tv'
 
 [[tweets]]
 id = 172158645457530881
@@ -1335,10 +1615,20 @@ id = 171447551650840577
 created_at = '2012-02-20T04:14:16Z'
 text = '''@meghanperhacs That's a bit more reasonable. Although you still have a ways to wait =P'''
 
+[tweets.in_reply_to]
+status_id = 171446957766754304
+user_id = 258016245
+user_name = 'meghanperhacs'
+
 [[tweets]]
 id = 171439949252530177
 created_at = '2012-02-20T03:44:03Z'
 text = '''@meghanperhacs It's a bit early for senioritis isn't it?'''
+
+[tweets.in_reply_to]
+status_id = 171411360788393984
+user_id = 258016245
+user_name = 'meghanperhacs'
 
 [[tweets]]
 id = 170349901438402561
@@ -1355,15 +1645,30 @@ id = 169559975423774721
 created_at = '2012-02-14T23:13:43Z'
 text = '@PAMMda_Bear I like your outfit, Pam!'
 
+[tweets.in_reply_to]
+status_id = 169546636547203074
+user_id = 54646357
+user_name = 'PAMMda_Bear'
+
 [[tweets]]
 id = 169272106658439168
 created_at = '2012-02-14T04:09:49Z'
 text = '@carlie_fresh I love Regina Spektor!'
 
+[tweets.in_reply_to]
+status_id = 169260272807198720
+user_id = 346181182
+user_name = 'caro_fresh'
+
 [[tweets]]
 id = 169271877850775552
 created_at = '2012-02-14T04:08:55Z'
 text = '@kelseeeyhughes Wear green then. #SinglesAwarenessDaySwag'
+
+[tweets.in_reply_to]
+status_id = 169261064779870208
+user_id = 338793619
+user_name = 'kelseeeyhughes'
 
 [[tweets]]
 id = 168119042576621568
@@ -1398,15 +1703,30 @@ id = 165882156835545093
 created_at = '2012-02-04T19:39:22Z'
 text = '''@maggie_costello Cool =) I'll listen to Rise Against and look at the pictures so I can be at the concert in spirit.'''
 
+[tweets.in_reply_to]
+status_id = 165881565174435840
+user_id = 27154746
+user_name = 'maggiescostello'
+
 [[tweets]]
 id = 165881358416232450
 created_at = '2012-02-04T19:36:12Z'
 text = '@maggie_costello I figured =P Have fun!'
 
+[tweets.in_reply_to]
+status_id = 165881148004765697
+user_id = 27154746
+user_name = 'maggiescostello'
+
 [[tweets]]
 id = 165880958468366336
 created_at = '2012-02-04T19:34:37Z'
 text = '@maggie_costello Take me with you? =D'
+
+[tweets.in_reply_to]
+status_id = 165880653764759552
+user_id = 27154746
+user_name = 'maggiescostello'
 
 [[tweets]]
 id = 165788984071561216
@@ -1448,6 +1768,11 @@ id = 164892165858787329
 created_at = '2012-02-02T02:05:30Z'
 text = '@kelseeeyhughes I know, right? Not to mention a lack of motivation...'
 
+[tweets.in_reply_to]
+status_id = 164891909918162944
+user_id = 338793619
+user_name = 'kelseeeyhughes'
+
 [[tweets]]
 id = 164881650419904512
 created_at = '2012-02-02T01:23:43Z'
@@ -1461,10 +1786,20 @@ id = 164858501624111105
 created_at = '2012-02-01T23:51:44Z'
 text = '@meghanperhacs I inferred it though.'
 
+[tweets.in_reply_to]
+status_id = 164855789838807040
+user_id = 258016245
+user_name = 'meghanperhacs'
+
 [[tweets]]
 id = 164851093975740417
 created_at = '2012-02-01T23:22:18Z'
 text = '@meghanperhacs *cough* Rachel Bergin *cough*'
+
+[tweets.in_reply_to]
+status_id = 164846497257631744
+user_id = 258016245
+user_name = 'meghanperhacs'
 
 [[tweets]]
 id = 164675714099068928
@@ -1481,15 +1816,30 @@ id = 164546122029871104
 created_at = '2012-02-01T03:10:27Z'
 text = '@jaayysunn That awkward moment when you want to listen to it and it has magically disappeared from your iTunes library... -_-'
 
+[tweets.in_reply_to]
+status_id = 164545232459927552
+user_id = 244285822
+user_name = 'jaayysunn'
+
 [[tweets]]
 id = 164539113796665344
 created_at = '2012-02-01T02:42:36Z'
 text = '@meghanperhacs I find it amusing that all of my friends come to that conclusion independently. #CoincidenceIThinkNot'
 
+[tweets.in_reply_to]
+status_id = 164538715191001088
+user_id = 258016245
+user_name = 'meghanperhacs'
+
 [[tweets]]
 id = 164538522982817792
 created_at = '2012-02-01T02:40:15Z'
 text = '@meghanperhacs You know it. I want one of those so bad!'
+
+[tweets.in_reply_to]
+status_id = 164538185509109761
+user_id = 258016245
+user_name = 'meghanperhacs'
 
 [[tweets]]
 id = 164536792815648768
@@ -1504,6 +1854,11 @@ url = 'http://t.co/Uhuo0NEv'
 id = 164534829080260608
 created_at = '2012-02-01T02:25:34Z'
 text = '@jaayysunn Dreaming Out Loud? #OneRepublic'
+
+[tweets.in_reply_to]
+status_id = 164532238686502912
+user_id = 244285822
+user_name = 'jaayysunn'
 
 [[tweets]]
 id = 164528456099561473
@@ -1530,6 +1885,11 @@ id = 164516724023103488
 created_at = '2012-02-01T01:13:38Z'
 text = '''@maggie_costello I'm guessing you like glee...?'''
 
+[tweets.in_reply_to]
+status_id = 164515928913084416
+user_id = 27154746
+user_name = 'maggiescostello'
+
 [[tweets]]
 id = 164505046795567104
 created_at = '2012-02-01T00:27:14Z'
@@ -1539,6 +1899,11 @@ text = '@notch Almost?'
 id = 164483089295343616
 created_at = '2012-01-31T22:59:59Z'
 text = '@carlie_fresh Huzzah for Spongebob references! #SquarepantsSwag'
+
+[tweets.in_reply_to]
+status_id = 164482146663284737
+user_id = 346181182
+user_name = 'caro_fresh'
 
 [[tweets]]
 id = 164479816102457345
@@ -1594,10 +1959,20 @@ id = 163789963098460160
 created_at = '2012-01-30T01:05:44Z'
 text = '@kelseeeyhughes #smh at iPhone 5 autocorrect.'
 
+[tweets.in_reply_to]
+status_id = 163788966607339520
+user_id = 338793619
+user_name = 'kelseeeyhughes'
+
 [[tweets]]
 id = 163781764945412096
 created_at = '2012-01-30T00:33:10Z'
 text = '@kelseeeyhughes But I suppose it is the price we pay for having the latest gadgets. #TechnologySwag'
+
+[tweets.in_reply_to]
+status_id = 163781312203866112
+user_id = 338793619
+user_name = 'kelseeeyhughes'
 
 [[tweets]]
 id = 163780832417419264
@@ -1618,6 +1993,11 @@ text = '''@kaptainkirk14 Have a nice trip! I'll be sure to let Ms. Poodry know t
 id = 163671277389877248
 created_at = '2012-01-29T17:14:08Z'
 text = '@meghanperhacs Yep, 504 is right.'
+
+[tweets.in_reply_to]
+status_id = 163660083518128128
+user_id = 258016245
+user_name = 'meghanperhacs'
 
 [[tweets]]
 id = 163479684863098880
@@ -1760,6 +2140,11 @@ text = '''@notch Where's my free dinner?'''
 id = 154034180408344576
 created_at = '2012-01-03T02:59:45Z'
 text = '@carlie_fresh Their sound is definitely different than their previous albums, but I like it. Jonathan Davis is pretty amazing too =D'
+
+[tweets.in_reply_to]
+status_id = 154033159737053185
+user_id = 346181182
+user_name = 'caro_fresh'
 
 [[tweets]]
 id = 154031030133731328
