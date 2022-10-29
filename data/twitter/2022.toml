@@ -11,6 +11,11 @@ expanded_url = 'http://maxdeviant.com'
 url = 'https://t.co/kMTem9i2cq'
 
 [[tweets]]
+id = 1585761518339096577
+created_at = '2022-10-27T22:33:02Z'
+text = '@jntrnr I imagine you’ll get a lot of these, but: NixOS'
+
+[[tweets]]
 id = 1585462885517590529
 created_at = '2022-10-27T02:46:23Z'
 text = 'Turning a big dial that says "Functional Programming" on it and constantly looking back at my coworkers for approval like a contestant on The Price is Right.'
@@ -25,6 +30,56 @@ type = 'photo'
 url = 'https://pbs.twimg.com/media/FgCxdZyWYBEu7P-.jpg'
 
 [[tweets]]
+id = 1585420248026853376
+created_at = '2022-10-26T23:56:57Z'
+text = '@theprincessxena At this rate I’m going to have to build my own Git hosting site, aren’t I?'
+
+[[tweets]]
+id = 1585418793601433601
+created_at = '2022-10-26T23:51:10Z'
+text = '@mountain_ghosts What if I like this quote tweet?'
+
+[[tweets]]
+id = 1585417259882893312
+created_at = '2022-10-26T23:45:05Z'
+text = '@kentcdodds https://t.co/7FDSU6cB9e'
+[[tweets.entities.media]]
+id = 1585417239846600705
+type = 'photo'
+url = 'https://pbs.twimg.com/tweet_video_thumb/FgCIlGnWQAElGOQ.jpg'
+
+[[tweets]]
+id = 1585282913054113792
+created_at = '2022-10-26T14:51:14Z'
+text = '@jmduke Exploit idea: send forged right-to-be-forgotten emails to get a company to delete all of their users'
+
+[[tweets]]
+id = 1585121829966204928
+created_at = '2022-10-26T04:11:09Z'
+text = '@rickasaurus As for myself, I try to always have my cam on, when possible. But if I need to have it off for some reason, I don’t want someone calling me out on the call about it.'
+
+[[tweets]]
+id = 1585121570082938880
+created_at = '2022-10-26T04:10:07Z'
+text = '@rickasaurus It felt like every meeting started with some comment directed towards someone who didn’t have their webcam on, often veiled as a joke that did not land. Very awkward.'
+
+[[tweets]]
+id = 1585121319422922752
+created_at = '2022-10-26T04:09:07Z'
+text = '''
+@rickasaurus I think webcams on are helpful for connecting, but I don’t think they should be required (or have folks feel forced to use them).
+
+When I was still at my last job there was *a lot* of pressure from management to turn webcams on and it did not feel good.'''
+
+[[tweets]]
+id = 1585112184799232001
+created_at = '2022-10-26T03:32:49Z'
+text = '''
+The fact that I had to drop into `sudo` just so I could delete the sodding `~/go` directory is a crime.
+
+Surely this is against the Geneva Conventions?'''
+
+[[tweets]]
 id = 1585111904955289600
 created_at = '2022-10-26T03:31:42Z'
 text = '''
@@ -33,6 +88,21 @@ Tried to build a Go project from source just so I could get the binary.
 The end result:
 - I don't have the binary
 - My system is now semi-polluted with Go-related concerns (thankfully Nix allowed me to stay mostly at arm's length)'''
+
+[[tweets]]
+id = 1585110527574884353
+created_at = '2022-10-26T03:26:14Z'
+text = '@jeanqasaur Jean, I’m putting Unison into production and you can’t stop me 🤣'
+
+[[tweets]]
+id = 1584544234257797121
+created_at = '2022-10-24T13:55:59Z'
+text = '@Lazer Now if only there was a similar way to cure my phobia of having blood drawn 😟'
+
+[[tweets]]
+id = 1584374969550921729
+created_at = '2022-10-24T02:43:23Z'
+text = '@nwilliams030 “Just friends” to “husband and wife” is a progression I’m well-acquainted with 😄'
 
 [[tweets]]
 id = 1584348253927387136
@@ -58,9 +128,55 @@ type = 'photo'
 url = 'https://pbs.twimg.com/media/FfyL-NMXkAABVs2.jpg'
 
 [[tweets]]
+id = 1583819592752717824
+created_at = '2022-10-22T13:56:31Z'
+text = '''@hdgarrood Harry, I'm freaking out!'''
+
+[[tweets]]
+id = 1583084706165587968
+created_at = '2022-10-20T13:16:20Z'
+text = '@noopkat 🫠'
+
+[[tweets]]
+id = 1583083137084854273
+created_at = '2022-10-20T13:10:06Z'
+text = '''
+@jmduke I think this is the best you can get with vanilla TS.
+
+There are other options if you use a library like `io-ts` which better lets you bridge static and runtime types.'''
+
+[[tweets]]
+id = 1582924978306961408
+created_at = '2022-10-20T02:41:38Z'
+text = 'I guess this is how Tolkien ended up writing The Lord of the Rings.'
+
+[[tweets]]
 id = 1582924797889036288
 created_at = '2022-10-20T02:40:55Z'
 text = 'Sitting down to write a blog post only to get sidetracked by building out a believable application to use as an illustration.'
+
+[[tweets]]
+id = 1582912690036428800
+created_at = '2022-10-20T01:52:49Z'
+text = '@steveklabnik Realizing that pretty much every language is unsound, depending on where you draw the line 😬'
+
+[[tweets]]
+id = 1582912446586826752
+created_at = '2022-10-20T01:51:51Z'
+text = '''
+@steveklabnik This is me, but with sound vs unsound typing right now.
+
+Last night I thought it'd be fun to try my hand at creating a structured data set of programming languages and where they fall on various axes, and oh boy have I gone down a rabbit hole.'''
+
+[[tweets]]
+id = 1582899281614159872
+created_at = '2022-10-20T00:59:32Z'
+text = '@garybernhardt How bad is the cr*pto integration?'
+
+[[tweets]]
+id = 1582722869334659072
+created_at = '2022-10-19T13:18:32Z'
+text = '@jmduke This is the future the React et al. datepicker libraries want!'
 
 [[tweets]]
 id = 1581776390919069697
@@ -72,9 +188,81 @@ type = 'photo'
 url = 'https://pbs.twimg.com/media/FfOZOKmWAAE3oO7.jpg'
 
 [[tweets]]
+id = 1581071922770882562
+created_at = '2022-10-14T23:58:15Z'
+text = '@kyleshevlin Was it preceded by the word “parametric”?'
+
+[[tweets]]
+id = 1581053742337511424
+created_at = '2022-10-14T22:46:01Z'
+text = '''
+@mjduminy @cassidoo @clearlyTHUYDOAN @kenny_io @WorkOS Indeed we are :)
+
+https://t.co/dXcIOG4IX2 https://t.co/7Mc2NkKxPP'''
+[[tweets.entities.urls]]
+display_url = 'workos.com/careers#open-p…'
+expanded_url = 'https://workos.com/careers#open-positions'
+url = 'https://t.co/dXcIOG4IX2'
+
+[[tweets.entities.media]]
+id = 1581053734234226688
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FfEH_pfWAAA7H43.jpg'
+
+[[tweets]]
+id = 1580902695711707136
+created_at = '2022-10-14T12:45:49Z'
+text = '@willmanduffy And even if no one has made them yet, now you can use them as DALL-E or Midjourney prompts'
+
+[[tweets]]
+id = 1580729215669850112
+created_at = '2022-10-14T01:16:28Z'
+text = '@molly0xFFF Surely Twitter has to verify you now!'
+
+[[tweets]]
 id = 1580541176083451907
 created_at = '2022-10-13T12:49:16Z'
 text = 'Had a nightmare that someone committed Go code to the work repo'
+
+[[tweets]]
+id = 1580536515318665216
+created_at = '2022-10-13T12:30:44Z'
+text = '@mountain_ghosts Nintendo must be trying to get in on the “artificial scarcity of digital assets” trend that’s all the rage these days'
+
+[[tweets]]
+id = 1580412733488783360
+created_at = '2022-10-13T04:18:52Z'
+text = '@willmanduffy This is the thing that will get me to start watching baseball'
+
+[[tweets]]
+id = 1580267072558284800
+created_at = '2022-10-12T18:40:04Z'
+text = '@ReinH Only if we can have roflcopter too'
+
+[[tweets]]
+id = 1578736938441674756
+created_at = '2022-10-08T13:19:52Z'
+text = '@DRMacIver Not sure if this is quite what you’re getting at, but I do know someone whose stories all sound modestly embellished at best, if not totally unbelievable.'
+
+[[tweets]]
+id = 1578404116472254464
+created_at = '2022-10-07T15:17:21Z'
+text = '@jmduke This is looking *clean*'
+
+[[tweets]]
+id = 1578219689876258816
+created_at = '2022-10-07T03:04:30Z'
+text = '@ruby0x1 #ff00ff is my best friend'
+
+[[tweets]]
+id = 1578191547308179456
+created_at = '2022-10-07T01:12:40Z'
+text = '@Swizec Because all the entry level positions require 3 years of industry experience? 😅'
+
+[[tweets]]
+id = 1578171216606601216
+created_at = '2022-10-06T23:51:53Z'
+text = '@ReinH I saw this exact same thing earlier today.'
 
 [[tweets]]
 id = 1578153352785203201
@@ -86,9 +274,60 @@ type = 'photo'
 url = 'https://pbs.twimg.com/media/Fea53PhWQAE7z2U.png'
 
 [[tweets]]
+id = 1578059891020791809
+created_at = '2022-10-06T16:29:31Z'
+text = '''@agmcleod The real solution is to not use JWTs and then it doesn't matter how you pronounce it 🙂'''
+
+[[tweets]]
 id = 1578029378524819460
 created_at = '2022-10-06T14:28:16Z'
 text = 'JWT? How about NOT?'
+
+[[tweets]]
+id = 1577829849489711104
+created_at = '2022-10-06T01:15:25Z'
+text = '''
+@simonsarris I think an under-appreciated part of writing parsers is understanding and curating the input space of the parser.
+
+Your parser doesn't necessarily need to handle the set of all inputs.'''
+
+[[tweets]]
+id = 1577822775049347072
+created_at = '2022-10-06T00:47:18Z'
+text = '@theprincessxena Did you make sure to like &lt;whatever is in the background&gt; on Facebook?'
+
+[[tweets]]
+id = 1577822298027032578
+created_at = '2022-10-06T00:45:25Z'
+text = '@kyleshevlin s/entirely/entirety'
+
+[[tweets]]
+id = 1577822167647096834
+created_at = '2022-10-06T00:44:53Z'
+text = '''
+@kyleshevlin Yes in the sense that (at present) I want to be in an IC position for the duration of my career.
+
+No in the sense that I don’t know that I want to work in the same domain/ecosystem for the entirely of it.
+
+I really want to end up doing PL stuff in an R&amp;D department someday.'''
+
+[[tweets]]
+id = 1577641391446007812
+created_at = '2022-10-05T12:46:33Z'
+text = '''
+@theprincessxena @fasterthanlime I can confirm, I am straight and use an iPhone.
+
+Please accept my condolences.'''
+
+[[tweets]]
+id = 1577479435254566912
+created_at = '2022-10-05T02:03:00Z'
+text = '@molly0xFFF 👀'
+
+[[tweets]]
+id = 1577265534869311488
+created_at = '2022-10-04T11:53:02Z'
+text = '@theprincessxena Copium'
 
 [[tweets]]
 id = 1575542914239037440
@@ -96,9 +335,53 @@ created_at = '2022-09-29T17:47:57Z'
 text = 'Jensen ACLs'
 
 [[tweets]]
+id = 1575464577034321921
+created_at = '2022-09-29T12:36:40Z'
+text = 'I should really get around to writing a treatise on this'
+
+[[tweets]]
 id = 1575463881673162753
 created_at = '2022-09-29T12:33:54Z'
 text = 'If you uppercase acronyms and initialisms in your identifiers you’re a sociopath, I’m sorry'
+
+[[tweets]]
+id = 1575462998361120768
+created_at = '2022-09-29T12:30:24Z'
+text = '@willmanduffy Must have been made by the StatusPage team'
+
+[[tweets]]
+id = 1575100849113571329
+created_at = '2022-09-28T12:31:21Z'
+text = '@mountain_ghosts Or everyone whats? Or everyone whats?!?'
+
+[[tweets]]
+id = 1574909551278788609
+created_at = '2022-09-27T23:51:12Z'
+text = '''
+@brian_d_vaughn I don’t know that I have a tried and true method.
+
+I normally end up focusing on work more or finding a video game to fall deeply into (MMOs are great for this)'''
+
+[[tweets]]
+id = 1574886703290093568
+created_at = '2022-09-27T22:20:24Z'
+text = '''
+@brian_d_vaughn I’ve definitely been feeling this too.
+
+It seems to have hit me early this year, as normally it seems to coincide with the clock change.'''
+
+[[tweets]]
+id = 1574051149736546316
+created_at = '2022-09-25T15:00:13Z'
+text = '''
+@zenorocha This is so cute!
+
+I didn’t even know they made “HTML for Babies” 😆'''
+
+[[tweets]]
+id = 1573163109119938562
+created_at = '2022-09-23T04:11:27Z'
+text = '@willmanduffy They should have stopped before the first one'
 
 [[tweets]]
 id = 1573117572349939713
@@ -107,6 +390,16 @@ text = '''
 Jest leaking handles?
 
 Call that infinite Jest.'''
+
+[[tweets]]
+id = 1572220366096842754
+created_at = '2022-09-20T13:45:20Z'
+text = '@kentcdodds There’s a reason people call it the “bird site”'
+
+[[tweets]]
+id = 1569901330956976129
+created_at = '2022-09-14T04:10:19Z'
+text = '@ChevyRay Oh, you are in for a treat'
 
 [[tweets]]
 id = 1569744597810647043
@@ -121,6 +414,100 @@ expanded_url = 'https://twitter.com/WorkOS/status/1569706849498464258'
 url = 'https://t.co/0NcbNcJoKQ'
 
 [[tweets]]
+id = 1569539928077533185
+created_at = '2022-09-13T04:14:14Z'
+text = '@rickasaurus I find it literally impossible for me to not min/max the hell of every game I come into contact with 😅'
+
+[[tweets]]
+id = 1569538307109040129
+created_at = '2022-09-13T04:07:47Z'
+text = '@semiplatonic_ A literal carrot 🤪'
+
+[[tweets]]
+id = 1568079922509258752
+created_at = '2022-09-09T03:32:41Z'
+text = '''@lethalbit *narrator's voice*: She did'''
+
+[[tweets]]
+id = 1567862380125642752
+created_at = '2022-09-08T13:08:15Z'
+text = '''
+@mitsuhiko I may be off base here, but reading through this made me think of the keyword generics initiative.
+
+It seems like a similar desire to want to write code generic over ownership.
+
+https://t.co/hYpEmTDED5'''
+[[tweets.entities.urls]]
+display_url = 'blog.rust-lang.org/inside-rust/20…'
+expanded_url = 'https://blog.rust-lang.org/inside-rust/2022/07/27/keyword-generics.html'
+url = 'https://t.co/hYpEmTDED5'
+
+[[tweets]]
+id = 1567499575644004352
+created_at = '2022-09-07T13:06:36Z'
+text = '''
+@passcod I find this very relatable.
+
+Every time I boot into Windows I have to re-synchronize my clock. Recently, the synchronization process has been taking multiple minutes before timing out 😩'''
+
+[[tweets]]
+id = 1567361605477830666
+created_at = '2022-09-07T03:58:21Z'
+text = '@ReinH You think I come here to write *good* tweets?'
+
+[[tweets]]
+id = 1566516848425943041
+created_at = '2022-09-04T20:01:35Z'
+text = '@dekisu Courage'
+
+[[tweets]]
+id = 1565156357707292675
+created_at = '2022-09-01T01:55:29Z'
+text = '''
+@agmcleod You can use blocks in case statements if you want a scope:
+
+switch (x) {
+  case 1: {
+    const scoped = 2;
+  }
+}'''
+
+[[tweets]]
+id = 1564028398393069570
+created_at = '2022-08-28T23:13:23Z'
+text = '''
+@theprincessxena Catch me physically disconnecting the NixOS drive when I install Windows on a separate drive.
+
+Might be more of a pain now that NixOS is on an M.2 🫠'''
+
+[[tweets]]
+id = 1563328367507939329
+created_at = '2022-08-27T00:51:42Z'
+text = '@grhmc Not near any of my computers, but if I was it would output a Nix store path to fish (I think it’s a stable directory, no hash in it)'
+
+[[tweets]]
+id = 1562835084310626304
+created_at = '2022-08-25T16:11:34Z'
+text = '''
+@jmduke @flydotio @render How'd you know?
+
+https://t.co/18OYdQj1bE'''
+[[tweets.entities.urls]]
+display_url = 'blog.heroku.com/next-chapter'
+expanded_url = 'https://blog.heroku.com/next-chapter'
+url = 'https://t.co/18OYdQj1bE'
+
+[[tweets]]
+id = 1562832364002484227
+created_at = '2022-08-25T16:00:46Z'
+text = '@Swizec Sadly a lot of people’s first reaction when they see prop drilling is to introduce context, so now all of your components in that subtree are reliant on some global state 🫠'
+
+[[tweets]]
+id = 1562778396605947914
+created_at = '2022-08-25T12:26:19Z'
+text = '@theprincessxena That’s a relief! I was worried there for a second that we’d lose your shitposts'
+
+[[tweets]]
 id = 1562636916461551621
 created_at = '2022-08-25T03:04:07Z'
 text = 'Ryan Reynolds https://t.co/qOv1I1bJkk'
@@ -128,6 +515,15 @@ text = 'Ryan Reynolds https://t.co/qOv1I1bJkk'
 display_url = 'twitter.com/ThatEricAlper/…'
 expanded_url = 'https://twitter.com/ThatEricAlper/status/1562228336692121605'
 url = 'https://t.co/qOv1I1bJkk'
+
+[[tweets]]
+id = 1562426809333202953
+created_at = '2022-08-24T13:09:14Z'
+text = 'We’ll support every weird and bespoke IdP so you don’t even have to think about it: https://t.co/qwOlh8bV1f'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/klaaspieter/st…'
+expanded_url = 'https://twitter.com/klaaspieter/status/1562353404143435776'
+url = 'https://t.co/qwOlh8bV1f'
 
 [[tweets]]
 id = 1562426006060666882
@@ -142,6 +538,29 @@ expanded_url = 'https://twitter.com/GergelyOrosz/status/1562354776188272640'
 url = 'https://t.co/TZ5WnscUsv'
 
 [[tweets]]
+id = 1562185453956210689
+created_at = '2022-08-23T21:10:10Z'
+text = '@grhmc I only just learned this recently on a Wikipedia bender!'
+
+[[tweets]]
+id = 1561928023825326080
+created_at = '2022-08-23T04:07:14Z'
+text = '@NickPopovich It’s not even Easter!'
+
+[[tweets]]
+id = 1561823903739265025
+created_at = '2022-08-22T21:13:30Z'
+text = '''
+@fasterthanlime Someone must have run gofmt on the Rust codebase again…
+
+It’s the only explanation for how this pathological formatting got in there.'''
+
+[[tweets]]
+id = 1558608453899264000
+created_at = '2022-08-14T00:16:27Z'
+text = '@brian_d_vaughn Looks great! Really love the colors on it 😮'
+
+[[tweets]]
 id = 1558287073349713922
 created_at = '2022-08-13T02:59:24Z'
 text = 'minorthodox https://t.co/kgApPXUIr0'
@@ -149,6 +568,23 @@ text = 'minorthodox https://t.co/kgApPXUIr0'
 display_url = 'twitter.com/sweetjazzcity/…'
 expanded_url = 'https://twitter.com/sweetjazzcity/status/1557895655355564033'
 url = 'https://t.co/kgApPXUIr0'
+
+[[tweets]]
+id = 1558165424348471296
+created_at = '2022-08-12T18:56:01Z'
+text = '''DMs are open if anyone wants to chat about what we're building!'''
+
+[[tweets]]
+id = 1558165179153645569
+created_at = '2022-08-12T18:55:02Z'
+text = '''
+If you'd like to work with these super talented folks and build experiences that developers will love, we're hiring for engineering and design.
+
+Check out our Key Values page for how we do engineering at WorkOS: https://t.co/szA43SrJCp'''
+[[tweets.entities.urls]]
+display_url = 'keyvalues.com/workos'
+expanded_url = 'https://www.keyvalues.com/workos'
+url = 'https://t.co/szA43SrJCp'
 
 [[tweets]]
 id = 1558164798017241089
@@ -163,6 +599,63 @@ expanded_url = 'https://twitter.com/vcapretz/status/1558163503818612736'
 url = 'https://t.co/0sZ24XRCev'
 
 [[tweets]]
+id = 1557939591419764737
+created_at = '2022-08-12T03:58:38Z'
+text = '@lethalbit Every time I hear "pfp" I need to go yell at someone to get off my lawn'
+
+[[tweets]]
+id = 1557851134819061760
+created_at = '2022-08-11T22:07:08Z'
+text = '@ChShersh @ScottWlaschin Chaotic neutral or lawful neutral'
+
+[[tweets]]
+id = 1557509772542414851
+created_at = '2022-08-10T23:30:41Z'
+text = '@willmanduffy All I’m hearing you say is “we should blow up the moon”'
+
+[[tweets]]
+id = 1557456403643748358
+created_at = '2022-08-10T19:58:37Z'
+text = '''@iamnbutler Uh oh, now I'm scared 😨'''
+
+[[tweets]]
+id = 1557133547927912448
+created_at = '2022-08-09T22:35:42Z'
+text = '@suchipi "Actually, I like NFTs"'
+
+[[tweets]]
+id = 1556081067374813184
+created_at = '2022-08-07T00:53:31Z'
+text = '''
+No need for codegen when the `Expr` type (at the point it is introduced) fits in a tweet:
+
+type Expr =
+    | Binary of left: Expr * operator: Token * right: Expr
+    | Grouping of Expr
+    | Literal of obj
+    | Unary of operator: Token * right: Expr'''
+
+[[tweets]]
+id = 1556080419778580481
+created_at = '2022-08-07T00:50:57Z'
+text = '''
+So far the most drastic departure from the book has been in taking a more functional approach for the syntax tree/interpreter.
+
+Chapter 5 (the majority of which is writing a Java program to generate the syntax tree classes/visitors) can be skipped almost entirely this way.'''
+
+[[tweets]]
+id = 1556079916311093249
+created_at = '2022-08-07T00:48:57Z'
+text = '''
+The Flox repo is open-source if anyone wants to follow along: https://t.co/gitjeNYpLf
+
+Fair warning, my F# is a tad rusty.'''
+[[tweets.entities.urls]]
+display_url = 'github.com/maxdeviant/flox'
+expanded_url = 'https://github.com/maxdeviant/flox'
+url = 'https://t.co/gitjeNYpLf'
+
+[[tweets]]
 id = 1556079775231479808
 created_at = '2022-08-07T00:48:23Z'
 text = '''
@@ -171,6 +664,14 @@ Working my way through @munificentbob's Crafting Interpreters, with the slight t
 Been very pleased with the results so far.
 
 11 hours deep at this point and we're just about to add functions to Flox!'''
+
+[[tweets]]
+id = 1555766094006198275
+created_at = '2022-08-06T04:01:56Z'
+text = '''
+@eigenbom Hmm, looks like you’re missing GameMaker, RPG Maker, and Bevy.
+
+Not quite ready yet!'''
 
 [[tweets]]
 id = 1555565199196921856
@@ -185,6 +686,44 @@ expanded_url = 'https://twitter.com/WorkOS/status/1555562082480795649'
 url = 'https://t.co/cpBfiR3FBo'
 
 [[tweets]]
+id = 1555547245780541446
+created_at = '2022-08-05T13:32:18Z'
+text = '@molly0xFFF https://t.co/N6Xc3qwO9J'
+[[tweets.entities.media]]
+id = 1555547239828885509
+type = 'photo'
+url = 'https://pbs.twimg.com/tweet_video_thumb/FZZp-RVXEAUm8Zh.jpg'
+
+[[tweets]]
+id = 1554798615486500866
+created_at = '2022-08-03T11:57:31Z'
+text = '''
+@jamessocol @ReinH I think I misunderstood the setting.
+
+At first I thought it was a way to opt-out of GitHub using my repositories to train Copilot.
+
+But I now see that it actually appears to impact whether they analyze the snippets you send to GitHub Copilot to trigger a suggestion?'''
+
+[[tweets]]
+id = 1554667097061474305
+created_at = '2022-08-03T03:14:54Z'
+text = '@ReinH Does this setting only apply if GitHub Copilot is enabled? https://t.co/lbiq9ik4ab'
+[[tweets.entities.media]]
+id = 1554667055965675522
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FZNJc07WIAIKbyP.jpg'
+
+[[tweets]]
+id = 1554636011434659840
+created_at = '2022-08-03T01:11:23Z'
+text = '''@passcod Felix, you're definitely on a list now'''
+
+[[tweets]]
+id = 1554625575205093377
+created_at = '2022-08-03T00:29:55Z'
+text = '@munificentbob Almost seems like we should have learned to write small programs with static types by now 😅'
+
+[[tweets]]
 id = 1553944934574702601
 created_at = '2022-08-01T03:25:17Z'
 text = '''Five months later and I'm still acutely feeling this. https://t.co/V4eJ4gydzw'''
@@ -194,6 +733,16 @@ expanded_url = 'https://twitter.com/maxdeviant/status/1498888641745203200'
 url = 'https://t.co/V4eJ4gydzw'
 
 [[tweets]]
+id = 1553825851191459847
+created_at = '2022-07-31T19:32:06Z'
+text = '@sophiebits Sparse? Scarce?'
+
+[[tweets]]
+id = 1553199034856341505
+created_at = '2022-07-30T02:01:21Z'
+text = '@brian_d_vaughn I want to hear the explanation now'
+
+[[tweets]]
 id = 1553109897922969600
 created_at = '2022-07-29T20:07:09Z'
 text = 'Put this on my headstone https://t.co/eXyLdx3oyM'
@@ -201,6 +750,38 @@ text = 'Put this on my headstone https://t.co/eXyLdx3oyM'
 display_url = 'twitter.com/HarryAlisavaki…'
 expanded_url = 'https://twitter.com/HarryAlisavakis/status/1545879592078041089'
 url = 'https://t.co/eXyLdx3oyM'
+
+[[tweets]]
+id = 1553094081592557569
+created_at = '2022-07-29T19:04:18Z'
+text = '@pmarsceill The resource usage is still pretty bad though, for what the apps are doing 😭'
+
+[[tweets]]
+id = 1553093828982329345
+created_at = '2022-07-29T19:03:18Z'
+text = '''
+@pmarsceill My split of desktop app vs browser app tends to do more with how I prefer to use the app.
+
+I use the installed versions of Spotify and Linear, but the browser versions of Notion and Threads.'''
+
+[[tweets]]
+id = 1552496230953000964
+created_at = '2022-07-28T03:28:40Z'
+text = '''@eigenbom Major pr'ps'''
+
+[[tweets]]
+id = 1552144353753272320
+created_at = '2022-07-27T04:10:26Z'
+text = '@ohhoe An early welcome to the club!'
+
+[[tweets]]
+id = 1551780316842434563
+created_at = '2022-07-26T04:03:52Z'
+text = '@suchipi https://t.co/AsTyW4ugcR'
+[[tweets.entities.media]]
+id = 1551780304494493708
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FYkH9xrXgAwddSM.jpg'
 
 [[tweets]]
 id = 1551773481536294912
@@ -227,9 +808,66 @@ expanded_url = 'https://maxdeviant.com/shards/2022/static-typing-has-ruined-me/'
 url = 'https://t.co/dBEMMUbvOR'
 
 [[tweets]]
+id = 1550940021779300352
+created_at = '2022-07-23T20:24:50Z'
+text = '@fasterthanlime I recently learned this as well and it blew my mind!'
+
+[[tweets]]
 id = 1550663359481217024
 created_at = '2022-07-23T02:05:29Z'
 text = 'A day without writing code is a day wasted.'
+
+[[tweets]]
+id = 1550658053019762691
+created_at = '2022-07-23T01:44:24Z'
+text = '@brandur Is it standard practice for you to keep stills from a bunch of different movies open on your desktop at once?'
+
+[[tweets]]
+id = 1550644636410167296
+created_at = '2022-07-23T00:51:05Z'
+text = '@fasterthanlime https://t.co/2p0Rqg8NwZ'
+[[tweets.entities.media]]
+id = 1550644573483016193
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FYT_Bh9XoAEfUgx.png'
+
+[[tweets]]
+id = 1550607777298632707
+created_at = '2022-07-22T22:24:37Z'
+text = '''
+@dan_abramov Just to make things extra meta:
+
+"National Anthem" by Lana Del Rey'''
+
+[[tweets]]
+id = 1550499056950050817
+created_at = '2022-07-22T15:12:36Z'
+text = '@KevinHoffman This, but with recruiters'
+
+[[tweets]]
+id = 1550177661296775170
+created_at = '2022-07-21T17:55:30Z'
+text = '@DRMacIver What about "what can you do for me?"?'
+
+[[tweets]]
+id = 1550121060451770370
+created_at = '2022-07-21T14:10:35Z'
+text = '''@semiplatonic_ It's me, I am the art'''
+
+[[tweets]]
+id = 1550120981800161280
+created_at = '2022-07-21T14:10:16Z'
+text = '@C418 You really scared me when I first started reading this tweet 😨'
+
+[[tweets]]
+id = 1549930493201858560
+created_at = '2022-07-21T01:33:20Z'
+text = '@simonsarris @AlexGodofsky 😢'
+
+[[tweets]]
+id = 1549892425547759619
+created_at = '2022-07-20T23:02:04Z'
+text = '@fasterthanlime amos: a32'
 
 [[tweets]]
 id = 1549540511190482945
@@ -239,6 +877,31 @@ text = 'And if wearing helmets was a proven way to protect yourself from getting
 display_url = 'twitter.com/SandyFrizzle/s…'
 expanded_url = 'https://twitter.com/SandyFrizzle/status/1548946390063226883'
 url = 'https://t.co/ANJc6HPG0S'
+
+[[tweets]]
+id = 1549505456200159234
+created_at = '2022-07-19T21:24:23Z'
+text = '@markdalgleish People don’t even remember what MVC is, at this point'
+
+[[tweets]]
+id = 1549498796190699520
+created_at = '2022-07-19T20:57:55Z'
+text = '@ChevyRay Although I’m working with wgpu now which seems to be a manageable level of complexity for me so far (as someone who has never done graphics programming before)'
+
+[[tweets]]
+id = 1549498622269587458
+created_at = '2022-07-19T20:57:14Z'
+text = '@ChevyRay There’s a reason I keep coming back to Rust for game dev, despite it arguably being more difficult than the alternatives (especially in terms of the state of the Rust game dev ecosystem). No other language feels as good.'
+
+[[tweets]]
+id = 1549186842083442688
+created_at = '2022-07-19T00:18:20Z'
+text = '''@brian_d_vaughn I know some people seem to think Twitter is a dating site the way they slide into women's DMs on here 😐'''
+
+[[tweets]]
+id = 1549184171251212290
+created_at = '2022-07-19T00:07:43Z'
+text = '''@passcod It's probably just the angle, but your phone seems incredibly loooooooong'''
 
 [[tweets]]
 id = 1548875414956818433
@@ -255,6 +918,11 @@ created_at = '2022-07-15T01:59:50Z'
 text = 'Ah yes, the two genders: Exposition and Comic Relief'
 
 [[tweets]]
+id = 1547717508592939009
+created_at = '2022-07-14T22:59:43Z'
+text = '@semiplatonic_ This, but tattoos'
+
+[[tweets]]
 id = 1547588924125589504
 created_at = '2022-07-14T14:28:46Z'
 text = 'https://t.co/hj9pNWZLzx'
@@ -262,6 +930,19 @@ text = 'https://t.co/hj9pNWZLzx'
 id = 1547588909520994307
 type = 'photo'
 url = 'https://pbs.twimg.com/media/FXoj6epVQAMoksx.png'
+
+[[tweets]]
+id = 1547198736165736448
+created_at = '2022-07-13T12:38:18Z'
+text = '''
+@theprincessxena @apenwarr Oh no.
+
+This season I noticed their fondness for the adjective “wetly” in the subtitles, but now it has just dawned on me that this can also apply to a synth.'''
+
+[[tweets]]
+id = 1545482612059389952
+created_at = '2022-07-08T18:59:03Z'
+text = '@lethalbit Dr. Robotnyak'
 
 [[tweets]]
 id = 1545028173280206848
@@ -273,12 +954,39 @@ expanded_url = 'https://twitter.com/IanColdwater/status/1545014003511992320'
 url = 'https://t.co/7SJY5pS00C'
 
 [[tweets]]
+id = 1544476000389677056
+created_at = '2022-07-06T00:19:08Z'
+text = '''
+@tumult I see...
+
+So would that make `long long` 128-bit wide in LP64?'''
+
+[[tweets]]
 id = 1544472300250189825
 created_at = '2022-07-06T00:04:25Z'
 text = '''
 TIL that a `long` in C++ is only 32 bits and that if you want a 64-bit integer you need to use a `long long` 😐
 
 (Thankfully I'm not writing C++, and I hope I never have to)'''
+
+[[tweets]]
+id = 1543825442221727744
+created_at = '2022-07-04T05:14:02Z'
+text = '@StachuDotNet https://t.co/zZObcpa5HK https://t.co/kGH2xgSyHm'
+[[tweets.entities.urls]]
+display_url = 'oh.bother.club'
+expanded_url = 'http://oh.bother.club'
+url = 'https://t.co/zZObcpa5HK'
+
+[[tweets.entities.media]]
+id = 1543825436442075136
+type = 'photo'
+url = 'https://pbs.twimg.com/tweet_video_thumb/FWzFDg5XoAAoWDv.jpg'
+
+[[tweets]]
+id = 1543073600340721665
+created_at = '2022-07-02T03:26:29Z'
+text = '''@danerwilliams @WorkOS The streets don't lie 👀'''
 
 [[tweets]]
 id = 1543050493957636096
@@ -293,6 +1001,11 @@ expanded_url = 'https://maxdeviant.com/posts/2022/workos-hack-week-ii/'
 url = 'https://t.co/Ar0DYgLzmO'
 
 [[tweets]]
+id = 1542976364428644353
+created_at = '2022-07-01T21:00:07Z'
+text = '''@autophagian I still need to take the time to learn flakes (and I'll probably refer to this post when I do)'''
+
+[[tweets]]
 id = 1542561930400997376
 created_at = '2022-06-30T17:33:18Z'
 text = '''"Rust's standard library now ships with a raw futex-based implementation of these locks on Linux, which is very lightweight and doesn't require extra allocation." https://t.co/H2VaF9uFkx https://t.co/Roan6MEB4x'''
@@ -305,6 +1018,19 @@ url = 'https://t.co/H2VaF9uFkx'
 id = 1542561861236932611
 type = 'photo'
 url = 'https://pbs.twimg.com/media/FWhH1wcXwAM5t4G.png'
+
+[[tweets]]
+id = 1542524397461934080
+created_at = '2022-06-30T15:04:09Z'
+text = '@Lazer s/the Instagram/the Instagram feed'
+
+[[tweets]]
+id = 1542522423844646912
+created_at = '2022-06-30T14:56:19Z'
+text = '''
+@Lazer My wife showed me a new change (seems to be A/B tested, since I don't see it) where the Instagram is basically just a TikTok clone.
+
+Probably time for me to forget my password too...'''
 
 [[tweets]]
 id = 1542514726373949444
@@ -324,6 +1050,11 @@ created_at = '2022-06-29T04:22:07Z'
 text = 'More people need personal websites, just saying'
 
 [[tweets]]
+id = 1541644397137350656
+created_at = '2022-06-28T04:47:21Z'
+text = '@eigenbom And where you can actually save the photos you like without them putting all their energy into making it as difficult as possible 😓'
+
+[[tweets]]
 id = 1541270641160118273
 created_at = '2022-06-27T04:02:10Z'
 text = 'Over the weekend I resurrected a seven-and-a-half-year-old project of mine: https://t.co/8Etehu27ro'
@@ -331,6 +1062,14 @@ text = 'Over the weekend I resurrected a seven-and-a-half-year-old project of mi
 display_url = 'maxdeviant.com/posts/2022/rev…'
 expanded_url = 'https://maxdeviant.com/posts/2022/reviving-drop-seven-and-a-half-years-later/'
 url = 'https://t.co/8Etehu27ro'
+
+[[tweets]]
+id = 1540857330237149189
+created_at = '2022-06-26T00:39:49Z'
+text = '''
+@brian_d_vaughn I’ve been doing the same thing this afternoon.
+
+Trying to get all of the files where I need them in the resulting image has been a pain 😓'''
 
 [[tweets]]
 id = 1540558984972738560
@@ -355,6 +1094,11 @@ type = 'photo'
 url = 'https://pbs.twimg.com/media/FWDwOCEWIAAQYrR.jpg'
 
 [[tweets]]
+id = 1540428130455781377
+created_at = '2022-06-24T20:14:20Z'
+text = '@theprincessxena Thanks, I hate it.'
+
+[[tweets]]
 id = 1539460925652180993
 created_at = '2022-06-22T04:11:01Z'
 text = 'The future is end-to-end encrypted.'
@@ -372,6 +1116,11 @@ expanded_url = 'https://maxdeviant.com/shards/2022/life-without-limits/'
 url = 'https://t.co/WW93aq3wKQ'
 
 [[tweets]]
+id = 1536909854773764097
+created_at = '2022-06-15T03:13:58Z'
+text = '@dan_abramov My big dividing line is moving back to the US after spending my childhood in China'
+
+[[tweets]]
 id = 1536194186210422790
 created_at = '2022-06-13T03:50:09Z'
 text = 'This is so cool, but also, I hate it https://t.co/bVNRvdbqUd'
@@ -381,6 +1130,36 @@ expanded_url = 'https://twitter.com/willy_maps/status/1536132236583518209'
 url = 'https://t.co/bVNRvdbqUd'
 
 [[tweets]]
+id = 1535972923110051840
+created_at = '2022-06-12T13:10:56Z'
+text = '@bodil But Bodil, the software replied to a question with an answer that I—a sentient being—could have also replied with. Surely that implies sentience? /s'
+
+[[tweets]]
+id = 1535264349413154817
+created_at = '2022-06-10T14:15:19Z'
+text = '@grhmc When the option is selected an AWS infrastructure engineer goes straight into the data center and takes a sledgehammer to the physical hardware hosting the EC2 instance.'
+
+[[tweets]]
+id = 1535264082122756098
+created_at = '2022-06-10T14:14:15Z'
+text = '@styfle @github Don’t scare me like that, Steven!'
+
+[[tweets]]
+id = 1534388632043278337
+created_at = '2022-06-08T04:15:32Z'
+text = '@willmanduffy Miner league baseball'
+
+[[tweets]]
+id = 1532358747372265475
+created_at = '2022-06-02T13:49:29Z'
+text = '''
+@GabriellaG439 This is super cool!
+
+One thing I noticed while playing around with it was that there doesn’t seem to be support for division.
+
+Is that a rather straightforward thing for me to contribute? Or are there complications that I’m not aware of?'''
+
+[[tweets]]
 id = 1532081960717262849
 created_at = '2022-06-01T19:29:38Z'
 text = 'Blue, pink, orange. https://t.co/9CTXYsKmxh'
@@ -388,6 +1167,22 @@ text = 'Blue, pink, orange. https://t.co/9CTXYsKmxh'
 display_url = 'twitter.com/thisisjimtait/…'
 expanded_url = 'https://twitter.com/thisisjimtait/status/1531855416434507776'
 url = 'https://t.co/9CTXYsKmxh'
+
+[[tweets]]
+id = 1530904109762633730
+created_at = '2022-05-29T13:29:17Z'
+text = '''
+@fasterthanlime I need to use SQLx more. I’ve used it for a handful of small utilities, but not for a web app.
+
+I need an escape from ORMs (the one we use at work, TypeORM, is a complete dumpster fire).'''
+
+[[tweets]]
+id = 1528712240169377792
+created_at = '2022-05-23T12:19:34Z'
+text = '''
+@QuietMisdreavus This almost happened to me this morning. Woke up at 5:30 to go to the bathroom and light was already creeping through the windows.
+
+Thankfully I was able to fall back asleep afterwards, but my body was ready for me to wake up.'''
 
 [[tweets]]
 id = 1528671786757505025
@@ -422,6 +1217,11 @@ Wordle 326 4/6
 ⬛⬛⬛⬛⬛
 🟨🟩🟨⬛🟩
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1524410742811865090
+created_at = '2022-05-11T15:26:57Z'
+text = '@pmarsceill @adrianmg @WorkOS Skeuomorphism is making a comeback, baby!'
 
 [[tweets]]
 id = 1524397688791445505
@@ -482,6 +1282,11 @@ Wordle 311 4/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1518334754810171393
+created_at = '2022-04-24T21:03:09Z'
+text = '@yoshuawuyts 😞'
+
+[[tweets]]
 id = 1518292635781324802
 created_at = '2022-04-24T18:15:47Z'
 text = '''
@@ -511,6 +1316,11 @@ Wordle 307 3/6
 ⬛⬛🟩🟨⬛
 🟨⬛⬛🟩⬛
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1517348409455304704
+created_at = '2022-04-22T03:43:46Z'
+text = '@StachuDotNet I’ve been debating getting one for a while, but I’ll have to take this glowing review into consideration!'
 
 [[tweets]]
 id = 1516797685143064582
@@ -579,6 +1389,19 @@ Wordle 300 4/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1515082675450781704
+created_at = '2022-04-15T21:40:33Z'
+text = '@willmanduffy Their apes, all gone'
+
+[[tweets]]
+id = 1514732740100476930
+created_at = '2022-04-14T22:30:02Z'
+text = '''
+@Swizec I upgraded recently and it’s been nothing but pain (specifically for my AirPods Max).
+
+Had no issues with them before, but as soon as I upgraded the audio started skipping and they have a harder time connecting to my MacBook 😓'''
+
+[[tweets]]
 id = 1514635417710174221
 created_at = '2022-04-14T16:03:18Z'
 text = '''
@@ -611,6 +1434,11 @@ Wordle 297 5/6
 ⬛🟩🟨🟩🟨
 ⬛🟩🟨🟩🟩
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1513625332410105860
+created_at = '2022-04-11T21:09:35Z'
+text = '@willmanduffy - no'
 
 [[tweets]]
 id = 1513624197368590337
@@ -657,6 +1485,11 @@ Wordle 292 5/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1512206078343319554
+created_at = '2022-04-07T23:09:59Z'
+text = '@newswim I hadn’t the faintest idea what the word could be, so I guessed a different word to rule out letters 😄'
+
+[[tweets]]
 id = 1511914362600054784
 created_at = '2022-04-07T03:50:48Z'
 text = '''
@@ -668,6 +1501,11 @@ Wordle 291 6/6
 🟩🟩⬛⬛⬛
 ⬛⬛⬛⬛⬛
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1511414840782475277
+created_at = '2022-04-05T18:45:53Z'
+text = '@rauchg Congratulations!'
 
 [[tweets]]
 id = 1511337863358599186
@@ -775,6 +1613,11 @@ Wordle 284 3/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1509021496223617024
+created_at = '2022-03-30T04:15:35Z'
+text = '@agmcleod In this case it was just a return value from a method'
+
+[[tweets]]
 id = 1508966671083524096
 created_at = '2022-03-30T00:37:44Z'
 text = '''I've realized how much I hate snapshot tests for (most) backend code.'''
@@ -800,6 +1643,11 @@ Wordle 282 4/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1508275244963975170
+created_at = '2022-03-28T02:50:15Z'
+text = '@newswim Good job!'
+
+[[tweets]]
 id = 1507932508276637702
 created_at = '2022-03-27T04:08:20Z'
 text = '''
@@ -811,6 +1659,11 @@ Wordle 281 4/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1507903496120672267
+created_at = '2022-03-27T02:13:03Z'
+text = '@passcod I started writing a dotfiles manager at one point, but Home Manager has now all but removed my need for one'
+
+[[tweets]]
 id = 1507737548986241024
 created_at = '2022-03-26T15:13:38Z'
 text = '''
@@ -819,6 +1672,20 @@ Wordle 280 3/6
 ⬛⬛⬛⬛🟨
 ⬛⬛🟩⬛⬛
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1507708861100310538
+created_at = '2022-03-26T13:19:39Z'
+text = '@Cyarine ROOD FRUIT'
+
+[[tweets]]
+id = 1507206342620164097
+created_at = '2022-03-25T04:02:49Z'
+text = 'Oh, nevermind https://t.co/jyTuGBr04h'
+[[tweets.entities.media]]
+id = 1507206340447543301
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FOqsLl2XoAUikm3.jpg'
 
 [[tweets]]
 id = 1507205798790893571
@@ -838,6 +1705,18 @@ created_at = '2022-03-23T14:52:07Z'
 text = 'GitHub is really having one of those weeks...'
 
 [[tweets]]
+id = 1506304545193971717
+created_at = '2022-03-22T16:19:24Z'
+text = '''
+@mountain_ghosts GitHub down
+
+https://t.co/VuOBYgplcH'''
+[[tweets.entities.urls]]
+display_url = 'githubstatus.com/incidents/83lq…'
+expanded_url = 'https://www.githubstatus.com/incidents/83lq7ftk19r5'
+url = 'https://t.co/VuOBYgplcH'
+
+[[tweets]]
 id = 1506285430911770630
 created_at = '2022-03-22T15:03:26Z'
 text = '''
@@ -847,6 +1726,11 @@ Wordle 276 4/6
 🟨⬛🟩⬛🟨
 🟩🟩🟩⬛⬛
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1505397312629190657
+created_at = '2022-03-20T04:14:22Z'
+text = '@grhmc ORMs come in at third place for “worst mistakes in programming”, right after `null` and inheritance.'
 
 [[tweets]]
 id = 1505374421896343553
@@ -860,6 +1744,16 @@ Wordle 273 6/6
 🟩🟩🟩🟩⬛
 🟩🟩🟩🟩⬛
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1505222194472890372
+created_at = '2022-03-19T16:38:31Z'
+text = '@willmanduffy I think you misspelled "secret escape chute".'
+
+[[tweets]]
+id = 1504967073868488707
+created_at = '2022-03-18T23:44:46Z'
+text = '@willmanduffy A sweet send-off from the old house!'
 
 [[tweets]]
 id = 1504801179754242055
@@ -884,9 +1778,38 @@ Wordle 271 5/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1504477039327207431
+created_at = '2022-03-17T15:17:32Z'
+text = '''
+One minute I'm crossing the street, the next I'm posed like I'm at an invisible standing desk, fingers furiously typing in midair.
+
+Cars skirt around me as I watch CI pass and the fix go out.
+
+With the issue resolved, I continue my way down the street.'''
+
+[[tweets]]
 id = 1504476579409260553
 created_at = '2022-03-17T15:15:43Z'
 text = '''Can't wait for computer + VR implants so I can write and deploy a hotfix to production while standing in the middle of Shibuya Crossing.'''
+
+[[tweets]]
+id = 1504440364173774860
+created_at = '2022-03-17T12:51:48Z'
+text = '@IanJBattaglia So. Much. Powerrrrrr! https://t.co/BTn0umECWL'
+[[tweets.entities.media]]
+id = 1504440360998686720
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FODYiZcWUAAR5jP.jpg'
+
+[[tweets]]
+id = 1504309597036859395
+created_at = '2022-03-17T04:12:11Z'
+text = '@IanJBattaglia Did they take it away? I still see it on my end (although maybe it’s just A/B testing)'
+
+[[tweets]]
+id = 1504161388729712646
+created_at = '2022-03-16T18:23:15Z'
+text = '@newswim I definitely got lucky with my starting word today!'
 
 [[tweets]]
 id = 1504084461398417410
@@ -918,6 +1841,19 @@ expanded_url = 'https://twitter.com/glittershark1/status/1501288646866964486'
 url = 'https://t.co/ZiKfJYgOG5'
 
 [[tweets]]
+id = 1503562724512604161
+created_at = '2022-03-15T02:44:23Z'
+text = '''
+@jmduke Not totally related, but I’ve been thinking it would be fun to give talks in video form.
+
+No CFP, no conference, just me talking to an imaginary audience for 30 minutes about some topic and then uploading somewhere'''
+
+[[tweets]]
+id = 1503370169036554243
+created_at = '2022-03-14T13:59:14Z'
+text = '@lunasorcery As my wife put it: “pee couture”'
+
+[[tweets]]
 id = 1503181593791414273
 created_at = '2022-03-14T01:29:54Z'
 text = '''
@@ -942,6 +1878,16 @@ type = 'photo'
 url = 'https://pbs.twimg.com/media/FNvjOUuXEAY5aIi.jpg'
 
 [[tweets]]
+id = 1503044315550998535
+created_at = '2022-03-13T16:24:24Z'
+text = '@chris__martin I feel like a gradual schedule shift is probably the move, since it seems like we’re stuck with DST'
+
+[[tweets]]
+id = 1503007210661683200
+created_at = '2022-03-13T13:56:58Z'
+text = 'I don’t care if we’re permanently on DST or standard time, just get rid of this ridiculous clock shift.'
+
+[[tweets]]
 id = 1503007049617182725
 created_at = '2022-03-13T13:56:19Z'
 text = '''
@@ -963,9 +1909,19 @@ Wordle 266 4/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1502489962914140161
+created_at = '2022-03-12T03:41:36Z'
+text = '@lethalbit 😌'
+
+[[tweets]]
 id = 1502482552598274048
 created_at = '2022-03-12T03:12:09Z'
 text = 'I need more Rust in my life'
+
+[[tweets]]
+id = 1502436801516122119
+created_at = '2022-03-12T00:10:22Z'
+text = '@newswim I’ve definitely seen a bunch of folks having trouble with it today. It took me a while to even make sense of the letters I was working with 😅'
 
 [[tweets]]
 id = 1502433443958902786
@@ -991,6 +1947,11 @@ Get this “Home” tab out of my face @Twitter https://t.co/vBv1JNRKmR'''
 id = 1502146479246364677
 type = 'photo'
 url = 'https://pbs.twimg.com/media/FNiyQ6AVUAUl_Or.jpg'
+
+[[tweets]]
+id = 1501924060510535689
+created_at = '2022-03-10T14:12:55Z'
+text = '@brian_d_vaughn @Twitter A while ago I set my content preferences to a language that I can’t read so I can avoid a lot of this stuff. Works decently well!'
 
 [[tweets]]
 id = 1501916346581495811
@@ -1032,6 +1993,33 @@ created_at = '2022-03-08T18:31:56Z'
 text = 'M1-Ultra'
 
 [[tweets]]
+id = 1501185540485521421
+created_at = '2022-03-08T13:18:18Z'
+text = '''
+@newswim Nothing gets the blood pumping like submitting that 6th guess and hoping it’s right 😅
+
+Is this how people in movies feel when they cut the blue wire on a bomb at the last second?'''
+
+[[tweets]]
+id = 1501054306858029057
+created_at = '2022-03-08T04:36:49Z'
+text = '@seldo https://t.co/DnZqe7DNQm'
+[[tweets.entities.media]]
+id = 1501054300973408258
+type = 'photo'
+url = 'https://pbs.twimg.com/tweet_video_thumb/FNTQ7w4XoAIgkrt.jpg'
+
+[[tweets]]
+id = 1501053603171246082
+created_at = '2022-03-08T04:34:01Z'
+text = '''
+@NTulswani I definitely feel this.
+
+I’m constantly in search for new artists and albums to listen to.
+
+When I find one, all is well. But sometimes I get in these ruts where I’ll listen to music all day and nothing truly hits the spot.'''
+
+[[tweets]]
 id = 1501046662697041920
 created_at = '2022-03-08T04:06:27Z'
 text = '''
@@ -1041,6 +2029,14 @@ Wordle 261 4/6
 ⬛⬛🟨⬛⬛
 🟨🟩🟩🟨⬛
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1500857464316731394
+created_at = '2022-03-07T15:34:38Z'
+text = '''
+I’m finally enjoying myself more now that my build is hitting its stride.
+
+I crippled myself early on by speccing too heavily into faith without any good offensive incarnations or a good faith-scaling weapon.'''
 
 [[tweets]]
 id = 1500857125110693889
@@ -1056,6 +2052,16 @@ Wordle 260 3/6
 🟩⬛⬛🟩⬛
 🟨⬛🟩⬛⬛
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1499903111133118467
+created_at = '2022-03-05T00:22:23Z'
+text = '@eigenbom Absolutely massive'
+
+[[tweets]]
+id = 1499607201895309313
+created_at = '2022-03-04T04:46:32Z'
+text = '@rickasaurus “Hyperbole Considered Harmful”'
 
 [[tweets]]
 id = 1499401709919035392
@@ -1079,12 +2085,59 @@ Wordle 256 3/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1498889153186091012
+created_at = '2022-03-02T05:13:16Z'
+text = '''
+@agmcleod I take loads of pictures whenever I travel now as well.
+
+But I don't take many pictures in my day-to-day. I think that's where it falls apart. You forget to document the mundane until it's too late.
+
+I'm bad on the journaling as well, but trying to get better 🙂'''
+
+[[tweets]]
+id = 1498888641745203200
+created_at = '2022-03-02T05:11:14Z'
+text = '''Every so often I'm reminded that a part of myself was left 8,000 miles away, and so far I haven't been able to find it.'''
+
+[[tweets]]
+id = 1498887251924819968
+created_at = '2022-03-02T05:05:43Z'
+text = '''
+I couldn't even remember my way around town, for the most part.
+
+I felt myself getting lost on routes that I rode every day on my bike. I told myself that I was physically in the space it would all come back to me, but I'm not so sure.'''
+
+[[tweets]]
+id = 1498886653078876161
+created_at = '2022-03-02T05:03:20Z'
+text = '''
+A while back I tried to jump start some of my memory by revisiting my old haunts using Baidu's street view.
+
+Some places were recognizable, but just barely so. Ten years is a long time to be away from somewhere, especially with how fast China is developing.'''
+
+[[tweets]]
 id = 1498886246923386880
 created_at = '2022-03-02T05:01:43Z'
 text = '''
 One of my bigger regrets in life is not documenting my adolescent years in China more.
 
 I have fleeting glimpses of the past, but each passing day makes them feel more and more like dreams where the details are fuzzy.'''
+
+[[tweets]]
+id = 1498874582102646786
+created_at = '2022-03-02T04:15:22Z'
+text = '''
+@newswim Yea, definitely good to take a step back and get some perspective.
+
+Sometimes in the moment it's hard to remember to do that 😓'''
+
+[[tweets]]
+id = 1498864297182650372
+created_at = '2022-03-02T03:34:30Z'
+text = '''
+@QuietMisdreavus I keep a bunch of my old contacts around because it's people I don't want to talk to, so by having their number I'd know not to respond.
+
+Probably safe to remove the numbers of people I haven't heard from in years, though.'''
 
 [[tweets]]
 id = 1498655698565095425
@@ -1115,6 +2168,11 @@ Wordle 254 3/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1498124133519011840
+created_at = '2022-02-28T02:33:21Z'
+text = '@theprincessxena Torrent really puts the Skyrim horses to shame'
+
+[[tweets]]
 id = 1498090755759476738
 created_at = '2022-02-28T00:20:44Z'
 text = '''
@@ -1135,6 +2193,23 @@ Wordle 252 5/6
 🟩⬛🟩⬛⬛
 ⬛⬛⬛⬛⬛
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1497569309958160386
+created_at = '2022-02-26T13:48:41Z'
+text = '''
+@hillelogram Honestly, I need to take this approach with more accounts.
+
+I hate-read too much stuff'''
+
+[[tweets]]
+id = 1497564885437362183
+created_at = '2022-02-26T13:31:06Z'
+text = '@lunasorcery This is Winnie, my sister’s cat https://t.co/n9zAhTwsdn'
+[[tweets.entities.media]]
+id = 1497564879582081027
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FMhrUtOXMAMGh3m.jpg'
 
 [[tweets]]
 id = 1497200678577467396
@@ -1340,6 +2415,11 @@ Wordle 237 4/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1492179039808897024
+created_at = '2022-02-11T16:49:41Z'
+text = '@rickasaurus Unison looks really cool! I keep meaning to play around with it'
+
+[[tweets]]
 id = 1491928108664078359
 created_at = '2022-02-11T00:12:34Z'
 text = '''
@@ -1348,6 +2428,25 @@ Wordle 236 3/6
 ⬛⬛🟨⬛🟩
 ⬛⬛⬛⬛🟨
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1491613362756763651
+created_at = '2022-02-10T03:21:53Z'
+text = '@willmanduffy A force-pushed branch basically means starting a PR review from zero each time'
+
+[[tweets]]
+id = 1491613248235479041
+created_at = '2022-02-10T03:21:25Z'
+text = '''@willmanduffy I'll embrace it when I can see commit-to-commit changes in PRs 😭'''
+
+[[tweets]]
+id = 1491610818785460230
+created_at = '2022-02-10T03:11:46Z'
+text = '@willmanduffy https://t.co/wJqhSz6IuE'
+[[tweets.entities.media]]
+id = 1491610813421043716
+type = 'photo'
+url = 'https://pbs.twimg.com/tweet_video_thumb/FLNEIcUXwAQLLkj.jpg'
 
 [[tweets]]
 id = 1491609468920025089
@@ -1361,6 +2460,20 @@ Wordle 235 6/6
 🟨🟩⬛⬛⬛
 ⬛🟩⬛🟩🟩
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1491404966124490755
+created_at = '2022-02-09T13:33:47Z'
+text = '''
+@evie_fp `clap` is incredible for parsing command line arguments (especially now that it supports deriving from structs, like `structopt`).
+
+Once you use it you’ll never want to write CLIs any other way (I’ve been totally ruined).
+
+https://t.co/sK2DmzLhJ2'''
+[[tweets.entities.urls]]
+display_url = 'crates.io/crates/clap'
+expanded_url = 'https://crates.io/crates/clap'
+url = 'https://t.co/sK2DmzLhJ2'
 
 [[tweets]]
 id = 1491280667094970368
@@ -1427,6 +2540,11 @@ Wordle 232 4/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1489986018228977664
+created_at = '2022-02-05T15:35:24Z'
+text = '@willmanduffy Sounds like you’re eating good tonight!'
+
+[[tweets]]
 id = 1489833584097693699
 created_at = '2022-02-05T05:29:40Z'
 text = '''
@@ -1453,6 +2571,15 @@ Wordle 231 3/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1489469319390154752
+created_at = '2022-02-04T05:22:13Z'
+text = 'Things are getting a little competitive around the house https://t.co/tTdP7aJSpF'
+[[tweets.entities.media]]
+id = 1489469316806369283
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FKuoc7wWYAMSyYx.jpg'
+
+[[tweets]]
 id = 1489467113739796484
 created_at = '2022-02-04T05:13:27Z'
 text = '''
@@ -1460,6 +2587,15 @@ Wordle 230 2/6
 
 🟩🟩🟨🟨🟨
 🟩🟩🟩🟩🟩'''
+
+[[tweets]]
+id = 1489466289315889155
+created_at = '2022-02-04T05:10:10Z'
+text = '@willmanduffy https://t.co/gPfrQL8i0m'
+[[tweets.entities.media]]
+id = 1489466283590569985
+type = 'photo'
+url = 'https://pbs.twimg.com/tweet_video_thumb/FKulsYJWUAECiMT.jpg'
 
 [[tweets]]
 id = 1489110172446437377
@@ -1523,6 +2659,16 @@ Wordle 227 3/6
 🟩🟩🟩🟩🟩'''
 
 [[tweets]]
+id = 1488508722934599687
+created_at = '2022-02-01T13:45:09Z'
+text = '@willmanduffy Reading through their website and, wow, I think I hate everything about this'
+
+[[tweets]]
+id = 1488504759262842887
+created_at = '2022-02-01T13:29:24Z'
+text = '@lethalbit Followed by redfish and bluefish?'
+
+[[tweets]]
 id = 1488146712149508104
 created_at = '2022-01-31T13:46:39Z'
 text = 'I noticed a similar case the other night while watching Criminal Minds with my wife https://t.co/Bs4jrDSnq8'
@@ -1561,12 +2707,48 @@ type = 'photo'
 url = 'https://pbs.twimg.com/media/FKN66rOXwAgkZ_m.png'
 
 [[tweets]]
+id = 1487064623236931584
+created_at = '2022-01-28T14:06:49Z'
+text = '@KevinHoffman https://t.co/KGPB64zWDK'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/maxdeviant/sta…'
+expanded_url = 'https://twitter.com/maxdeviant/status/1487061903121788931'
+url = 'https://t.co/KGPB64zWDK'
+
+[[tweets]]
 id = 1487061903121788931
 created_at = '2022-01-28T13:56:00Z'
 text = '''
 Nor’easter?
 
 I hardly snow ‘er.'''
+
+[[tweets]]
+id = 1485251790820020224
+created_at = '2022-01-23T14:03:16Z'
+text = '@Aura_Fortuna_ @Cyarine @Kekeflipnote It’s a bit of a long watch, but this video is an excellent overview for people new to the discourse on NFTs: https://t.co/dWyI0N8j9d'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/FoldableHuman/…'
+expanded_url = 'https://twitter.com/FoldableHuman/status/1484571663605792770'
+url = 'https://t.co/dWyI0N8j9d'
+
+[[tweets]]
+id = 1484345216450859010
+created_at = '2022-01-21T02:00:52Z'
+text = '@phearhead Yep, he minted his pre-NFT avatar as an NFT just so he can use it on Twitter https://t.co/7jLPtFaDgA'
+[[tweets.entities.media]]
+id = 1484345030114361346
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FJlz8MQVQAI-GJJ.jpg'
+
+[[tweets]]
+id = 1484332222572208134
+created_at = '2022-01-21T01:09:14Z'
+text = '@ReinH Me too! (although I did it through entrapment) https://t.co/zmRrCJ4mCS'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/maxdeviant/sta…'
+expanded_url = 'https://twitter.com/maxdeviant/status/1484330064133038088'
+url = 'https://t.co/zmRrCJ4mCS'
 
 [[tweets]]
 id = 1484330064133038088
@@ -1578,6 +2760,15 @@ type = 'photo'
 url = 'https://pbs.twimg.com/media/FJlmU0gVIAEAP3s.jpg'
 
 [[tweets]]
+id = 1484329268028985348
+created_at = '2022-01-21T00:57:29Z'
+text = 'Unless, of course, you’re getting them from here: https://t.co/DJFCBxDKrX'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/n0i0b/status/1…'
+expanded_url = 'https://twitter.com/n0i0b/status/1484313306722562056'
+url = 'https://t.co/DJFCBxDKrX'
+
+[[tweets]]
 id = 1484328620159954950
 created_at = '2022-01-21T00:54:55Z'
 text = 'I can’t wait to see my first hexagonal avatar in the wild so I can have the satisfaction of blocking them on sight!'
@@ -1586,6 +2777,11 @@ text = 'I can’t wait to see my first hexagonal avatar in the wild so I can hav
 id = 1484157535863115779
 created_at = '2022-01-20T13:35:05Z'
 text = 'Kinda wild that functional languages like Lisp (1958) and ML (1973) have been around for ages and yet most people are only just coming around to the idea that functional programming is a Good Idea™️'
+
+[[tweets]]
+id = 1484031861013860354
+created_at = '2022-01-20T05:15:42Z'
+text = 'Also, if we could get the pipe operator with F# semantics (and not the other ridiculous proposals) that would be just peachy'
 
 [[tweets]]
 id = 1484030512100429824
@@ -1615,3 +2811,47 @@ text = 'If crypto bros ruin Wikipedia I’ll burn their blockchains to the groun
 display_url = 'twitter.com/josephseddon/s…'
 expanded_url = 'https://twitter.com/josephseddon/status/1481475186314653697'
 url = 'https://t.co/GzIgRdv6xr'
+
+[[tweets]]
+id = 1480221014130937857
+created_at = '2022-01-09T16:52:45Z'
+text = '''
+@rickasaurus I tried out Feeder for a bit, but didn’t make much use of it. I think the product is good, though, and I would try it again if I got back into RSS.
+
+https://t.co/IAC2ktJVV7'''
+[[tweets.entities.urls]]
+display_url = 'feeder.co'
+expanded_url = 'https://feeder.co/'
+url = 'https://t.co/IAC2ktJVV7'
+
+[[tweets]]
+id = 1480185594538082306
+created_at = '2022-01-09T14:32:00Z'
+text = '@vanschneider @elonmusk I guess we’ve answered Holden Caulfield’s question about where the ducks go in the winter'
+
+[[tweets]]
+id = 1479673646339739651
+created_at = '2022-01-08T04:37:42Z'
+text = '''
+@vikramrojo as a product designer and a new dad, I feel like this piece is right up your alley:
+
+https://t.co/jk5S2FkG00'''
+[[tweets.entities.urls]]
+display_url = 'mcsweeneys.net/articles/the-u…'
+expanded_url = 'https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible'
+url = 'https://t.co/jk5S2FkG00'
+
+[[tweets]]
+id = 1479326014966841346
+created_at = '2022-01-07T05:36:21Z'
+text = '@willmanduffy The weather app currently says it’s snowing here (and has said it for the past hour), but I’ve yet to see a flake!'
+
+[[tweets]]
+id = 1479103903354396675
+created_at = '2022-01-06T14:53:45Z'
+text = '@piq9117 @grhmc Ah, yep. Hadn’t registered what today’s date was yet 😞'
+
+[[tweets]]
+id = 1479097540280832005
+created_at = '2022-01-06T14:28:28Z'
+text = '@grhmc Uh oh, what’s going on now?'
