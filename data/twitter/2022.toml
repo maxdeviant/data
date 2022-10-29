@@ -1,4 +1,42 @@
 [[tweets]]
+id = 1586032736824950784
+created_at = '2022-10-28T16:30:46Z'
+text = 'I guess @willmanduffy was feeling ad-Ventura-ous this week. https://t.co/13Zc7sNCrD'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/willmanduffy/s…'
+expanded_url = 'https://twitter.com/willmanduffy/status/1585033754699259904'
+url = 'https://t.co/13Zc7sNCrD'
+
+[[tweets]]
+id = 1585976792829267968
+created_at = '2022-10-28T12:48:28Z'
+text = '''That's a loooot of tweets https://t.co/yjvMrgtOtR'''
+[[tweets.entities.media]]
+id = 1585976535449739265
+type = 'photo'
+url = 'https://pbs.twimg.com/media/FgKFQZGWIAEpU3X.png'
+
+[[tweets]]
+id = 1585848541913968641
+created_at = '2022-10-28T04:18:50Z'
+text = '@rickasaurus Must be a backlog 😅'
+
+[tweets.in_reply_to]
+status_id = 1585848018917625856
+user_id = 16377511
+user_name = 'rickasaurus'
+
+[[tweets]]
+id = 1585847325716422656
+created_at = '2022-10-28T04:14:00Z'
+text = '@rickasaurus Mine’s generating now! I think it’s been over 24 hours at this point'
+
+[tweets.in_reply_to]
+status_id = 1585846802204368897
+user_id = 16377511
+user_name = 'rickasaurus'
+
+[[tweets]]
 id = 1585796022583922688
 created_at = '2022-10-28T00:50:09Z'
 text = '''
