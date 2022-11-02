@@ -1,4 +1,238 @@
 [[tracks]]
+name = 'Missing You'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T18:01:55Z'
+
+[[tracks]]
+name = 'Somebody Loves You'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T17:58:25Z'
+
+[[tracks]]
+name = 'Glory Days'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T17:54:22Z'
+
+[[tracks]]
+name = 'High Society'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T17:50:21Z'
+
+[[tracks]]
+name = 'Just Like Me'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T17:46:45Z'
+
+[[tracks]]
+name = 'Heavy Metal Heart'
+artist = 'Sky Ferreira'
+album = 'Night Time, My Time'
+listened_at = '2022-11-02T16:56:33Z'
+
+[[tracks]]
+name = 'You’re Not the One'
+artist = 'Sky Ferreira'
+album = 'Night Time, My Time'
+listened_at = '2022-11-02T16:52:39Z'
+
+[[tracks]]
+name = 'Omanko'
+artist = 'Sky Ferreira'
+album = 'Night Time, My Time'
+listened_at = '2022-11-02T16:48:07Z'
+
+[[tracks]]
+name = 'I Blame Myself'
+artist = 'Sky Ferreira'
+album = 'Night Time, My Time'
+listened_at = '2022-11-02T16:44:10Z'
+
+[[tracks]]
+name = 'Nobody Asked Me (If I Was Okay)'
+artist = 'Sky Ferreira'
+album = 'Night Time, My Time'
+listened_at = '2022-11-02T16:40:04Z'
+
+[[tracks]]
+name = '24 Hours'
+artist = 'Sky Ferreira'
+album = 'Night Time, My Time'
+listened_at = '2022-11-02T16:36:00Z'
+
+[[tracks]]
+name = 'Ain’t Your Right'
+artist = 'Sky Ferreira'
+album = 'Night Time, My Time'
+listened_at = '2022-11-02T16:32:38Z'
+
+[[tracks]]
+name = 'Boys'
+artist = 'Sky Ferreira'
+album = 'Night Time, My Time'
+listened_at = '2022-11-02T16:28:00Z'
+
+[[tracks]]
+name = 'MOMENTS BEFORE THE STORM'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T16:22:52Z'
+
+[[tracks]]
+name = 'CUT THE FENCE'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T16:19:23Z'
+
+[[tracks]]
+name = 'HOWARD'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T16:16:06Z'
+
+[[tracks]]
+name = 'I Found My Tree'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T16:13:53Z'
+
+[[tracks]]
+name = 'ROSE PETAL'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T16:11:19Z'
+
+[[tracks]]
+name = 'THE TURN'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T16:08:58Z'
+
+[[tracks]]
+name = 'FLUSHED AWAY'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T16:05:25Z'
+
+[[tracks]]
+name = 'GRATUS'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T16:00:26Z'
+
+[[tracks]]
+name = 'Hallucinations 2'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:56:55Z'
+
+[[tracks]]
+name = 'U RUN U DIE'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:54:48Z'
+
+[[tracks]]
+name = 'MOMENTS BEFORE THE STORM'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:50:38Z'
+
+[[tracks]]
+name = 'CUT THE FENCE'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:47:08Z'
+
+[[tracks]]
+name = 'HOWARD'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:43:51Z'
+
+[[tracks]]
+name = 'I Found My Tree'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:41:38Z'
+
+[[tracks]]
+name = 'ROSE PETAL'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:39:04Z'
+
+[[tracks]]
+name = 'THE TURN'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:36:43Z'
+
+[[tracks]]
+name = 'FLUSHED AWAY'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:33:10Z'
+
+[[tracks]]
+name = 'GRATUS'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:28:11Z'
+
+[[tracks]]
+name = 'Hallucinations 2'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:24:40Z'
+
+[[tracks]]
+name = 'U RUN U DIE'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:22:33Z'
+
+[[tracks]]
+name = 'MOMENTS BEFORE THE STORM'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:18:22Z'
+
+[[tracks]]
+name = 'CUT THE FENCE'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:14:53Z'
+
+[[tracks]]
+name = 'HOWARD'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:11:36Z'
+
+[[tracks]]
+name = 'I Found My Tree'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:09:23Z'
+
+[[tracks]]
+name = 'ROSE PETAL'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:06:49Z'
+
+[[tracks]]
+name = 'THE TURN'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-11-02T15:04:28Z'
+
+[[tracks]]
 name = 'FLUSHED AWAY'
 artist = 'Blvck Ceiling'
 album = 'LITE'
