@@ -2,6 +2,84 @@
 name = 'Missing You'
 artist = 'Betty Who'
 album = 'Take Me When You Go'
+listened_at = '2022-11-02T20:24:07Z'
+
+[[tracks]]
+name = 'Somebody Loves You'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T20:20:33Z'
+
+[[tracks]]
+name = 'Glory Days'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T20:16:30Z'
+
+[[tracks]]
+name = 'High Society'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T20:12:30Z'
+
+[[tracks]]
+name = 'Just Like Me'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T20:08:51Z'
+
+[[tracks]]
+name = 'California Rain'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T20:04:17Z'
+
+[[tracks]]
+name = 'Dreaming About You'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T20:00:28Z'
+
+[[tracks]]
+name = 'Alone Again'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T19:56:42Z'
+
+[[tracks]]
+name = 'Heartbreak Dream'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T19:52:52Z'
+
+[[tracks]]
+name = 'A Night to Remember'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T19:48:57Z'
+
+[[tracks]]
+name = 'Runaways'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T19:45:28Z'
+
+[[tracks]]
+name = 'All of You'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T19:41:29Z'
+
+[[tracks]]
+name = 'Better'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
+listened_at = '2022-11-02T18:05:27Z'
+
+[[tracks]]
+name = 'Missing You'
+artist = 'Betty Who'
+album = 'Take Me When You Go'
 listened_at = '2022-11-02T18:01:55Z'
 
 [[tracks]]
