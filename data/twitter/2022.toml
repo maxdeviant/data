@@ -1,4 +1,140 @@
 [[tweets]]
+id = 1587608116635570176
+created_at = '2022-11-02T00:50:45Z'
+text = '@chompie1337 @yoshuawuyts They chose C; writing correct code was never an option.'
+
+[tweets.in_reply_to]
+status_id = 1587544987117539328
+user_id = 1179223837742915584
+user_name = 'chompie1337'
+
+[[tweets]]
+id = 1587433061691842561
+created_at = '2022-11-01T13:15:09Z'
+text = '@ReinH WTF'
+
+[tweets.in_reply_to]
+status_id = 1587310408125206528
+user_id = 10255262
+user_name = 'ReinH'
+
+[[tweets]]
+id = 1587297475731365888
+created_at = '2022-11-01T04:16:23Z'
+text = '@lethalbit Aki, it is bedtime!'
+
+[tweets.in_reply_to]
+status_id = 1587296801761157121
+user_id = 622405560
+user_name = 'lethalbit'
+
+[[tweets]]
+id = 1587294697583771650
+created_at = '2022-11-01T04:05:21Z'
+text = '@eigenbom Death srand()ing'
+
+[tweets.in_reply_to]
+status_id = 1587294521846816769
+user_id = 42345318
+user_name = 'eigenbom'
+
+[[tweets]]
+id = 1587090018442645504
+created_at = '2022-10-31T14:32:01Z'
+text = '''@krishofer @spickermann @WorkOS Also, if you're using OmniAuth there is a gem that makes it easy to add WorkOS SSO as an OmniAuth strategy: https://t.co/6j6dwsXe0F'''
+[[tweets.entities.urls]]
+display_url = 'github.com/jcmfernandes/o…'
+expanded_url = 'https://github.com/jcmfernandes/omniauth-workos'
+url = 'https://t.co/6j6dwsXe0F'
+
+[tweets.in_reply_to]
+status_id = 1587019173493764098
+user_id = 263101606
+user_name = 'krishofer'
+
+[[tweets]]
+id = 1587088067860520960
+created_at = '2022-10-31T14:24:16Z'
+text = '''
+@_alanbsmith We’re hiring product designers at @WorkOS.
+
+Fully remote in US and European timezones.
+
+https://t.co/IfmiJc19Sz'''
+[[tweets.entities.urls]]
+display_url = 'jobs.lever.co/workos/dfde45e…'
+expanded_url = 'https://jobs.lever.co/workos/dfde45ea-18fe-4aef-9660-0374f13ebe1c'
+url = 'https://t.co/IfmiJc19Sz'
+
+[tweets.in_reply_to]
+status_id = 1587081815449251841
+user_id = 977286368
+user_name = '_alanbsmith'
+
+[[tweets]]
+id = 1586914568688861186
+created_at = '2022-10-31T02:54:51Z'
+text = '''
+Inside me are two wolves.
+
+One wants to write Rust. The other one wants to write Haskell.'''
+
+[[tweets]]
+id = 1586809027295678469
+created_at = '2022-10-30T19:55:28Z'
+text = '@jlongster Range hood/exhaust for me. I cook with a wok a lot and really wish I had one.'
+
+[tweets.in_reply_to]
+status_id = 1586805696523370496
+user_id = 14615235
+user_name = 'jlongster'
+
+[[tweets]]
+id = 1586353247492902914
+created_at = '2022-10-29T13:44:21Z'
+text = '@fasterthanlime https://t.co/cDAGzUVMg0'
+[[tweets.entities.media]]
+id = 1586353237552254977
+type = 'photo'
+url = 'https://pbs.twimg.com/tweet_video_thumb/FgPb3VyX0AEP5cS.jpg'
+
+[tweets.in_reply_to]
+status_id = 1586351964279177217
+user_id = 2589716941
+user_name = 'fasterthanlime'
+
+[[tweets]]
+id = 1586200730196529152
+created_at = '2022-10-29T03:38:18Z'
+text = '@depthsofwiki This seems right up your alley.'
+
+[tweets.in_reply_to]
+status_id = 1586200654472790020
+user_id = 36209210
+user_name = 'maxdeviant'
+
+[[tweets]]
+id = 1586200654472790020
+created_at = '2022-10-29T03:38:00Z'
+text = 'https://t.co/tFoRpcxw99'
+[[tweets.entities.urls]]
+display_url = 'en.wikipedia.org/wiki/Longest_p…'
+expanded_url = 'https://en.wikipedia.org/wiki/Longest_professional_baseball_game'
+url = 'https://t.co/tFoRpcxw99'
+
+[[tweets]]
+id = 1586171224337809409
+created_at = '2022-10-29T01:41:04Z'
+text = '''
+Just finished sorting through my Twitter archive and moving all of my tweet data over to flat files.
+
+Code's a bit of mess still, but if you're also looking to clean up your Twitter archive: https://t.co/MUcXv7xA1e'''
+[[tweets.entities.urls]]
+display_url = 'github.com/maxdeviant/plu…'
+expanded_url = 'https://github.com/maxdeviant/pluck'
+url = 'https://t.co/MUcXv7xA1e'
+
+[[tweets]]
 id = 1586032736824950784
 created_at = '2022-10-28T16:30:46Z'
 text = 'I guess @willmanduffy was feeling ad-Ventura-ous this week. https://t.co/13Zc7sNCrD'
