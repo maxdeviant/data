@@ -1,4 +1,47 @@
 [[tweets]]
+id = 1588154802357379081
+created_at = '2022-11-03T13:03:06Z'
+text = '“Refactor” https://t.co/AGMsg6z943'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/vboykis/status…'
+expanded_url = 'https://twitter.com/vboykis/status/1588153469483061249'
+url = 'https://t.co/AGMsg6z943'
+
+[[tweets]]
+id = 1588146477011968002
+created_at = '2022-11-03T12:30:01Z'
+text = '@willmanduffy Well, shoot, you figured it out!'
+
+[tweets.in_reply_to]
+status_id = 1588145612947861505
+user_id = 351346221
+user_name = 'willmanduffy'
+
+[[tweets]]
+id = 1588139326550183937
+created_at = '2022-11-03T12:01:36Z'
+text = '''
+Today marks two whole years at @WorkOS!
+
+I missed this on my one-year anniversary, but I wrote about how I ended up here and what the journey has been like so far:
+
+https://t.co/NVMpjqMJXL'''
+[[tweets.entities.urls]]
+display_url = 'maxdeviant.com/posts/2022/two…'
+expanded_url = 'https://maxdeviant.com/posts/2022/two-years-at-workos/'
+url = 'https://t.co/NVMpjqMJXL'
+
+[[tweets]]
+id = 1587808462314037249
+created_at = '2022-11-02T14:06:52Z'
+text = '@willmanduffy Was he in the house before you? Squatter’s rights!'
+
+[tweets.in_reply_to]
+status_id = 1587804952100995073
+user_id = 351346221
+user_name = 'willmanduffy'
+
+[[tweets]]
 id = 1587608116635570176
 created_at = '2022-11-02T00:50:45Z'
 text = '@chompie1337 @yoshuawuyts They chose C; writing correct code was never an option.'
