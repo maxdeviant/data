@@ -2,6 +2,54 @@
 name = 'Manifesto'
 artist = 'Harakiri for the Sky'
 album = 'Arson'
+listened_at = '2022-11-10T20:52:04Z'
+
+[[tracks]]
+name = 'Voidgazer'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-11-10T20:42:49Z'
+
+[[tracks]]
+name = 'Stillborn'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-11-10T20:33:11Z'
+
+[[tracks]]
+name = 'Tomb Omnia'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-11-10T19:32:29Z'
+
+[[tracks]]
+name = 'Heroin Waltz'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-11-10T19:22:42Z'
+
+[[tracks]]
+name = 'You Are the Scars'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-11-10T19:12:05Z'
+
+[[tracks]]
+name = '''The Graves We've Dug'''
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-11-10T19:02:00Z'
+
+[[tracks]]
+name = 'Fire, Walk with Me'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-11-10T17:50:17Z'
+
+[[tracks]]
+name = 'Manifesto'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
 listened_at = '2022-11-10T17:45:19Z'
 
 [[tracks]]
