@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Fire, Walk with Me'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-11-11T20:13:50Z'
+
+[[tracks]]
 name = 'Circles'
 artist = 'Brian Vaughn'
 album = 'Yesterday'
