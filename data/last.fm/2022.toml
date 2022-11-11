@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'You Are the Scars'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-11-10T21:16:16Z'
+
+[[tracks]]
+name = '''The Graves We've Dug'''
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-11-10T21:06:11Z'
+
+[[tracks]]
+name = 'Fire, Walk with Me'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2022-11-10T20:57:03Z'
+
+[[tracks]]
 name = 'Manifesto'
 artist = 'Harakiri for the Sky'
 album = 'Arson'
