@@ -1,4 +1,144 @@
 [[tweets]]
+id = 1590713612317863937
+created_at = '2022-11-10T14:30:53Z'
+text = '@willmanduffy Request for Comedy?'
+
+[tweets.in_reply_to]
+status_id = 1590713248587792384
+user_id = 351346221
+user_name = 'willmanduffy'
+
+[[tweets]]
+id = 1590187118042619904
+created_at = '2022-11-09T03:38:47Z'
+text = '@willmanduffy ZZ Switch'
+
+[tweets.in_reply_to]
+status_id = 1590186952766410752
+user_id = 351346221
+user_name = 'willmanduffy'
+
+[[tweets]]
+id = 1590171360655179776
+created_at = '2022-11-09T02:36:10Z'
+text = '''
+@IanJBattaglia They certainly don't make it easy to get the raw data out of the archive, though.
+
+I had to write some rather gnarly parsing code to extract it.'''
+
+[tweets.in_reply_to]
+status_id = 1590169250429222917
+user_id = 250462576
+user_name = 'IanJBattaglia'
+
+[[tweets]]
+id = 1589470652657901568
+created_at = '2022-11-07T04:11:49Z'
+text = '@brian_d_vaughn Looking forward to hearing it!'
+
+[tweets.in_reply_to]
+status_id = 1589405683778457602
+user_id = 99973385
+user_name = 'brian_d_vaughn'
+
+[[tweets]]
+id = 1589445476281389056
+created_at = '2022-11-07T02:31:46Z'
+text = '''
+Here's where you can find me once the RMS Twitanic is at the bottom of the ocean:
+
+My website: https://t.co/fsHZhqdBdV
+Mastodon: @maxdeviant@merveilles.town
+Cohost: https://t.co/rsSfPtH8Iv'''
+[[tweets.entities.urls]]
+display_url = 'maxdeviant.com'
+expanded_url = 'https://maxdeviant.com'
+url = 'https://t.co/fsHZhqdBdV'
+
+[[tweets.entities.urls]]
+display_url = 'cohost.org/maxdeviant'
+expanded_url = 'https://cohost.org/maxdeviant'
+url = 'https://t.co/rsSfPtH8Iv'
+
+[[tweets]]
+id = 1589313255146917888
+created_at = '2022-11-06T17:46:22Z'
+text = '@willmanduffy @maxdeviant@merveilles.town'
+
+[tweets.in_reply_to]
+status_id = 1589309248264994816
+user_id = 351346221
+user_name = 'willmanduffy'
+
+[[tweets]]
+id = 1589100982536794113
+created_at = '2022-11-06T03:42:52Z'
+text = '@eigenbom Time to start a GoFundMe campaign'
+
+[tweets.in_reply_to]
+status_id = 1589100342301822976
+user_id = 42345318
+user_name = 'eigenbom'
+
+[[tweets]]
+id = 1589091168523911169
+created_at = '2022-11-06T03:03:53Z'
+text = '@tometo_dev @dan_abramov This one should be the real deal: https://t.co/RLwHjhIAAR'
+[[tweets.entities.urls]]
+display_url = 'madewithlau.com/recipes/eggpla…'
+expanded_url = 'https://www.madewithlau.com/recipes/eggplant-with-garlic-sauce'
+url = 'https://t.co/RLwHjhIAAR'
+
+[tweets.in_reply_to]
+status_id = 1589090747965661185
+user_id = 444553931
+user_name = 'tometo_dev'
+
+[[tweets]]
+id = 1589089837080260609
+created_at = '2022-11-06T02:58:35Z'
+text = '''
+@dan_abramov 鱼香茄子 (eggplant with garlic sauce) is one of the best ways I’ve had eggplant prepared.
+
+https://t.co/XZB61tlp0C'''
+[[tweets.entities.urls]]
+display_url = 'm.xinshipu.com/zuofa/83'
+expanded_url = 'https://m.xinshipu.com/zuofa/83'
+url = 'https://t.co/XZB61tlp0C'
+
+[tweets.in_reply_to]
+status_id = 1589087487217238017
+user_id = 70345946
+user_name = 'dan_abramov'
+
+[[tweets]]
+id = 1589088631704412161
+created_at = '2022-11-06T02:53:48Z'
+text = '@sophiebits @dan_abramov I will go to bat for both zucchini and eggplant!'
+
+[tweets.in_reply_to]
+status_id = 1589088382394970112
+user_id = 5697222
+user_name = 'sophiebits'
+
+[[tweets]]
+id = 1588652003152236546
+created_at = '2022-11-04T21:58:47Z'
+text = '''
+@jeanqasaur We're hiring across engineering/product/design at @WorkOS: https://t.co/KM95QBrEkb
+
+Fully remote in US and European timezones.'''
+[[tweets.entities.urls]]
+display_url = 'workos.com/careers'
+expanded_url = 'https://workos.com/careers'
+url = 'https://t.co/KM95QBrEkb'
+
+[tweets.in_reply_to]
+status_id = 1588647200409546752
+user_id = 271516623
+user_name = 'jeanqasaur'
+
+[[tweets]]
 id = 1588154802357379081
 created_at = '2022-11-03T13:03:06Z'
 text = '“Refactor” https://t.co/AGMsg6z943'
