@@ -1,4 +1,88 @@
 [[tweets]]
+id = 1593411759850901505
+created_at = '2022-11-18T01:12:22Z'
+text = '🫡'
+
+[[tweets]]
+id = 1592540650972811270
+created_at = '2022-11-15T15:30:53Z'
+text = '@mitsuhiko Guess I have to go change my password now…'
+
+[tweets.in_reply_to]
+status_id = 1592540028093501440
+user_id = 12963432
+user_name = 'mitsuhiko'
+
+[[tweets]]
+id = 1592383822662107136
+created_at = '2022-11-15T05:07:43Z'
+text = '@rickasaurus I think Debirdify supports lists: https://t.co/FilHwzVVDz'
+[[tweets.entities.urls]]
+display_url = 'pruvisto.org/debirdify/'
+expanded_url = 'https://pruvisto.org/debirdify/'
+url = 'https://t.co/FilHwzVVDz'
+
+[tweets.in_reply_to]
+status_id = 1592380076272017408
+user_id = 16377511
+user_name = 'rickasaurus'
+
+[[tweets]]
+id = 1591667778867630081
+created_at = '2022-11-13T05:42:24Z'
+text = '@willmanduffy But you see, all of these accounts have Blue checkmarks so we know they’re legit and Definitely Not Bots™️'
+
+[tweets.in_reply_to]
+status_id = 1591639703488696320
+user_id = 351346221
+user_name = 'willmanduffy'
+
+[[tweets]]
+id = 1591574551754084353
+created_at = '2022-11-12T23:31:57Z'
+text = '''
+Just put out a devlog on a small tool I wrote and have been using at work for the past year to help streamline some of my processes:
+
+https://t.co/zI8hLUfMgb'''
+[[tweets.entities.urls]]
+display_url = 'maxdeviant.com/posts/2022/dev…'
+expanded_url = 'https://maxdeviant.com/posts/2022/devlog-today-i-did/'
+url = 'https://t.co/zI8hLUfMgb'
+
+[[tweets]]
+id = 1591416374697787392
+created_at = '2022-11-12T13:03:25Z'
+text = '@bodil Can’t believe this is the first I’ve noticed this 😨'
+
+[tweets.in_reply_to]
+status_id = 1591383566562516992
+user_id = 12503922
+user_name = 'bodil'
+
+[[tweets]]
+id = 1591289650131312641
+created_at = '2022-11-12T04:39:51Z'
+text = '''
+@makeavoy *me writing Rust*: "Ugh, I can't believe this function has to allocate"
+
+*me writing TypeScript*: *does 20 allocations in the span of 2 lines*'''
+
+[tweets.in_reply_to]
+status_id = 1591288011660165120
+user_id = 1092486800206188545
+user_name = 'makeavoy'
+
+[[tweets]]
+id = 1591267544866123778
+created_at = '2022-11-12T03:12:01Z'
+text = '@perrymetzger Just got mine today!'
+
+[tweets.in_reply_to]
+status_id = 1591266913958899713
+user_id = 127100323
+user_name = 'perrymetzger'
+
+[[tweets]]
 id = 1590713612317863937
 created_at = '2022-11-10T14:30:53Z'
 text = '@willmanduffy Request for Comedy?'
