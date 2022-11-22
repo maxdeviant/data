@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Golden Age'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-11-22T14:57:37Z'
+
+[[tracks]]
 name = 'Troublemaker'
 artist = 'Akon'
 album = 'Freedom'
