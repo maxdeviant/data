@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Atlantic'
+artist = 'Sleep Token'
+album = 'This Place Will Become Your Tomb'
+listened_at = '2022-11-27T15:28:47Z'
+
+[[tracks]]
+name = 'Taurus (feat. Naomi Wild) - From The Motion Picture Taurus'
+artist = 'Machine Gun Kelly'
+album = 'Taurus (feat. Naomi Wild) [From The Motion Picture Taurus]'
+listened_at = '2022-11-27T15:25:20Z'
+
+[[tracks]]
+name = 'Taurus (feat. Naomi Wild) - From The Motion Picture Taurus'
+artist = 'Machine Gun Kelly'
+album = 'Taurus (feat. Naomi Wild) [From The Motion Picture Taurus]'
+listened_at = '2022-11-27T15:22:21Z'
+
+[[tracks]]
+name = 'Iridescent'
+artist = 'Sound Surfer'
+album = 'Fall Apart'
+listened_at = '2022-11-27T15:17:04Z'
+
+[[tracks]]
+name = 'Fall Apart'
+artist = 'Sound Surfer'
+album = 'Fall Apart'
+listened_at = '2022-11-27T15:12:56Z'
+
+[[tracks]]
+name = 'Iridescent'
+artist = 'Sound Surfer'
+album = 'Fall Apart'
+listened_at = '2022-11-27T15:08:49Z'
+
+[[tracks]]
+name = 'Fall Apart'
+artist = 'Sound Surfer'
+album = 'Fall Apart'
+listened_at = '2022-11-27T15:04:42Z'
+
+[[tracks]]
 name = 'Iridescent'
 artist = 'Sound Surfer'
 album = 'Fall Apart'
