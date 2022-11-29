@@ -1,4 +1,136 @@
 [[tracks]]
+name = 'Never Again'
+artist = 'Hannah Diamond'
+album = 'Reflections'
+listened_at = '2022-11-29T21:00:09Z'
+
+[[tracks]]
+name = 'Love Goes On'
+artist = 'Hannah Diamond'
+album = 'Reflections'
+listened_at = '2022-11-29T20:55:33Z'
+
+[[tracks]]
+name = 'Invisible'
+artist = 'Hannah Diamond'
+album = 'Reflections'
+listened_at = '2022-11-29T20:52:14Z'
+
+[[tracks]]
+name = 'Reflections'
+artist = 'Hannah Diamond'
+album = 'Reflections'
+listened_at = '2022-11-29T20:48:22Z'
+
+[[tracks]]
+name = 'Staring At The Ceiling'
+artist = 'Hannah Diamond'
+album = 'Staring At The Ceiling'
+listened_at = '2022-11-29T20:45:41Z'
+
+[[tracks]]
+name = 'Staring At The Ceiling'
+artist = 'Hannah Diamond'
+album = 'Staring At The Ceiling'
+listened_at = '2022-11-29T20:41:59Z'
+
+[[tracks]]
+name = 'Le Ravissement (Beatless Version)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T20:37:17Z'
+
+[[tracks]]
+name = 'Les Etoiles (Live Epic Version)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T20:33:05Z'
+
+[[tracks]]
+name = 'Taking the Space (Shado Dub Remix)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T20:28:18Z'
+
+[[tracks]]
+name = 'A Prey (Gyp Remix)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T20:23:16Z'
+
+[[tracks]]
+name = 'The Underworld (Hypnoshado Remix)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T20:18:16Z'
+
+[[tracks]]
+name = 'A Prey (Glissando Remix)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T20:13:06Z'
+
+[[tracks]]
+name = 'Aliens (Night Gem Extended Remix)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T20:06:39Z'
+
+[[tracks]]
+name = 'Le Ravissement (Beatless Version)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T20:02:48Z'
+
+[[tracks]]
+name = 'Les Etoiles (Live Epic Version)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T19:58:36Z'
+
+[[tracks]]
+name = 'Taking the Space (Shado Dub Remix)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T19:53:50Z'
+
+[[tracks]]
+name = 'A Prey (Gyp Remix)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T19:48:47Z'
+
+[[tracks]]
+name = 'The Underworld (Hypnoshado Remix)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T19:43:48Z'
+
+[[tracks]]
+name = 'A Prey (Glissando Remix)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T19:38:38Z'
+
+[[tracks]]
+name = 'Aliens (Night Gem Extended Remix)'
+artist = 'Echoberyl'
+album = 'The Awakening Remixes'
+listened_at = '2022-11-29T19:32:12Z'
+
+[[tracks]]
+name = 'They Quiet the Room'
+artist = 'Skullcrusher'
+album = 'Quiet the Room'
+listened_at = '2022-11-29T19:10:43Z'
+
+[[tracks]]
+name = 'Anti-Hero - Acoustic Version'
+artist = 'Taylor Swift'
+album = 'Anti-Hero (Acoustic Version)'
+listened_at = '2022-11-29T19:07:11Z'
+
+[[tracks]]
 name = 'Helena'
 artist = 'Ruin Of Romantics'
 album = 'Velvet Dawn'
