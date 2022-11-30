@@ -1,4 +1,94 @@
 [[tracks]]
+name = 'Birthday Girl'
+artist = 'FLETCHER'
+album = 'Girl of My Dreams (Deluxe)'
+listened_at = '2022-11-30T03:06:55Z'
+
+[[tracks]]
+name = 'Suckerpunch'
+artist = 'FLETCHER'
+album = 'Girl of My Dreams (Deluxe)'
+listened_at = '2022-11-30T03:04:37Z'
+
+[[tracks]]
+name = 'Healing'
+artist = 'FLETCHER'
+album = 'Girl of My Dreams (Deluxe)'
+listened_at = '2022-11-30T03:01:29Z'
+
+[[tracks]]
+name = 'Girl of My Dreams'
+artist = 'FLETCHER'
+album = 'Girl of My Dreams (Deluxe)'
+listened_at = '2022-11-30T02:57:57Z'
+
+[[tracks]]
+name = '''I Think I'm Growing?'''
+artist = 'FLETCHER'
+album = 'Girl of My Dreams (Deluxe)'
+listened_at = '2022-11-30T02:56:23Z'
+
+[[tracks]]
+name = '20 Something'
+artist = 'FLETCHER'
+album = 'Girl of My Dreams (Deluxe)'
+listened_at = '2022-11-30T02:52:52Z'
+
+[[tracks]]
+name = 'Catherine Wheel'
+artist = 'shedfromthebody'
+album = 'Destruction / Breathing / Healing'
+listened_at = '2022-11-30T02:46:49Z'
+
+[[tracks]]
+name = 'In Waves'
+artist = 'shedfromthebody'
+album = 'Destruction / Breathing / Healing'
+listened_at = '2022-11-30T02:41:18Z'
+
+[[tracks]]
+name = 'Giver'
+artist = 'shedfromthebody'
+album = 'Destruction / Breathing / Healing'
+listened_at = '2022-11-30T02:36:48Z'
+
+[[tracks]]
+name = 'Lungs'
+artist = 'shedfromthebody'
+album = 'Destruction / Breathing / Healing'
+listened_at = '2022-11-30T02:29:44Z'
+
+[[tracks]]
+name = 'Catherine Wheel'
+artist = 'shedfromthebody'
+album = 'Destruction / Breathing / Healing'
+listened_at = '2022-11-30T02:24:15Z'
+
+[[tracks]]
+name = 'In Waves'
+artist = 'shedfromthebody'
+album = 'Destruction / Breathing / Healing'
+listened_at = '2022-11-30T02:18:44Z'
+
+[[tracks]]
+name = 'Giver'
+artist = 'shedfromthebody'
+album = 'Destruction / Breathing / Healing'
+listened_at = '2022-11-30T02:14:13Z'
+
+[[tracks]]
+name = 'Lungs'
+artist = 'shedfromthebody'
+album = 'Destruction / Breathing / Healing'
+listened_at = '2022-11-30T02:07:09Z'
+
+[[tracks]]
+name = 'Catherine Wheel'
+artist = 'shedfromthebody'
+album = 'Destruction / Breathing / Healing'
+listened_at = '2022-11-30T02:01:30Z'
+
+[[tracks]]
 name = 'Giver'
 artist = 'shedfromthebody'
 album = 'Destruction / Breathing / Healing'
