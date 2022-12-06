@@ -1,4 +1,136 @@
 [[tracks]]
+name = 'Breathe'
+artist = 'Black Foxxes'
+album = 'Reiði'
+listened_at = '2022-12-06T20:56:10Z'
+
+[[tracks]]
+name = 'Box in a Heart (with renforshort)'
+artist = 'The Maine'
+album = 'Box in a Heart (with renforshort)'
+listened_at = '2022-12-06T20:53:18Z'
+
+[[tracks]]
+name = 'Family Tree (Intro)'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-12-06T20:49:36Z'
+
+[[tracks]]
+name = 'American Teenager'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2022-12-06T20:45:17Z'
+
+[[tracks]]
+name = 'Golden Age'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2022-12-06T20:39:13Z'
+
+[[tracks]]
+name = 'uh oh'
+artist = 'Tate McRae'
+album = 'uh oh'
+listened_at = '2022-12-06T20:36:23Z'
+
+[[tracks]]
+name = 'My Way'
+artist = 'I Set My Friends on Fire'
+album = 'My Way'
+listened_at = '2022-12-06T20:13:46Z'
+
+[[tracks]]
+name = 'Fall In'
+artist = 'Nomra'
+album = 'Fall In'
+listened_at = '2022-12-06T20:09:28Z'
+
+[[tracks]]
+name = 'Somebody Else'
+artist = 'Lucy Daydream'
+album = 'Awake & Dreaming'
+listened_at = '2022-12-06T20:06:01Z'
+
+[[tracks]]
+name = 'Dream Of You'
+artist = 'Josha Daniel'
+album = 'Dream Of You'
+listened_at = '2022-12-06T20:01:53Z'
+
+[[tracks]]
+name = 'Summer 2019'
+artist = 'Caroline Culver'
+album = 'Summer 2019'
+listened_at = '2022-12-06T19:59:33Z'
+
+[[tracks]]
+name = 'Night Drives'
+artist = 'Ky Vöss'
+album = 'The After'
+listened_at = '2022-12-06T19:56:39Z'
+
+[[tracks]]
+name = '10th Avenue'
+artist = 'Charli Adams'
+album = '10th Avenue'
+listened_at = '2022-12-06T19:53:16Z'
+
+[[tracks]]
+name = 'ANIMAL'
+artist = 'PVRIS'
+album = 'ANIMAL / ANYWHERE BUT HERE'
+listened_at = '2022-12-06T19:50:24Z'
+
+[[tracks]]
+name = 'THE TURN'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-12-06T19:48:03Z'
+
+[[tracks]]
+name = 'Altar'
+artist = 'machineheart'
+album = 'People Change'
+listened_at = '2022-12-06T19:42:59Z'
+
+[[tracks]]
+name = 'I Know the End'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-12-06T19:37:13Z'
+
+[[tracks]]
+name = 'Suckerpunch'
+artist = 'FLETCHER'
+album = 'Girl of My Dreams (Deluxe)'
+listened_at = '2022-12-06T19:34:55Z'
+
+[[tracks]]
+name = 'Clearest Blue - Gryffin Remix'
+artist = 'CHVRCHES'
+album = 'Every Open Eye (Extended Edition)'
+listened_at = '2022-12-06T19:30:36Z'
+
+[[tracks]]
+name = '10th Avenue'
+artist = 'Charli Adams'
+album = '10th Avenue'
+listened_at = '2022-12-06T18:10:40Z'
+
+[[tracks]]
+name = 'ANIMAL'
+artist = 'PVRIS'
+album = 'ANIMAL / ANYWHERE BUT HERE'
+listened_at = '2022-12-06T18:07:49Z'
+
+[[tracks]]
+name = 'THE TURN'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-12-06T17:27:43Z'
+
+[[tracks]]
 name = 'Altar'
 artist = 'machineheart'
 album = 'People Change'
