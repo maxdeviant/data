@@ -1,4 +1,76 @@
 [[tracks]]
+name = 'Somebody Else'
+artist = 'Lucy Daydream'
+album = 'Awake & Dreaming'
+listened_at = '2022-12-07T14:58:24Z'
+
+[[tracks]]
+name = 'Dream Of You'
+artist = 'Josha Daniel'
+album = 'Dream Of You'
+listened_at = '2022-12-07T14:54:16Z'
+
+[[tracks]]
+name = 'Summer 2019'
+artist = 'Caroline Culver'
+album = 'Summer 2019'
+listened_at = '2022-12-07T14:51:56Z'
+
+[[tracks]]
+name = 'Night Drives'
+artist = 'Ky Vöss'
+album = 'The After'
+listened_at = '2022-12-07T14:49:02Z'
+
+[[tracks]]
+name = '10th Avenue'
+artist = 'Charli Adams'
+album = '10th Avenue'
+listened_at = '2022-12-07T14:45:39Z'
+
+[[tracks]]
+name = 'ANIMAL'
+artist = 'PVRIS'
+album = 'ANIMAL / ANYWHERE BUT HERE'
+listened_at = '2022-12-07T14:42:46Z'
+
+[[tracks]]
+name = 'THE TURN'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-12-07T14:40:26Z'
+
+[[tracks]]
+name = 'Altar'
+artist = 'machineheart'
+album = 'People Change'
+listened_at = '2022-12-07T14:35:21Z'
+
+[[tracks]]
+name = 'I Know the End'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2022-12-07T14:29:36Z'
+
+[[tracks]]
+name = 'Suckerpunch'
+artist = 'FLETCHER'
+album = 'Girl of My Dreams (Deluxe)'
+listened_at = '2022-12-07T14:27:18Z'
+
+[[tracks]]
+name = 'Clearest Blue - Gryffin Remix'
+artist = 'CHVRCHES'
+album = 'Every Open Eye (Extended Edition)'
+listened_at = '2022-12-07T14:22:59Z'
+
+[[tracks]]
+name = 'Scared Together'
+artist = 'Silversun Pickups'
+album = 'Physical Thrills'
+listened_at = '2022-12-06T21:42:55Z'
+
+[[tracks]]
 name = 'I EXIST'
 artist = 'VUKOVI'
 album = 'I EXIST'
