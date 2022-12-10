@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Singular'
+artist = 'White Flowers'
+album = 'Are You'
+listened_at = '2022-12-09T22:46:07Z'
+
+[[tracks]]
 name = 'This is Not'
 artist = 'White Flowers'
 album = 'Are You'
