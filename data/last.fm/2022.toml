@@ -1,4 +1,28 @@
 [[tracks]]
+name = '10th Avenue'
+artist = 'Charli Adams'
+album = '10th Avenue'
+listened_at = '2022-12-10T15:29:40Z'
+
+[[tracks]]
+name = 'ANIMAL'
+artist = 'PVRIS'
+album = 'ANIMAL / ANYWHERE BUT HERE'
+listened_at = '2022-12-10T15:26:47Z'
+
+[[tracks]]
+name = 'THE TURN'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2022-12-10T15:24:27Z'
+
+[[tracks]]
+name = 'Altar'
+artist = 'machineheart'
+album = 'People Change'
+listened_at = '2022-12-10T15:19:24Z'
+
+[[tracks]]
 name = 'Afterglow'
 artist = 'CHVRCHES'
 album = 'Every Open Eye (Extended Edition)'
