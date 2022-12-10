@@ -1,4 +1,100 @@
 [[tracks]]
+name = 'This is Not'
+artist = 'White Flowers'
+album = 'Are You'
+listened_at = '2022-12-09T22:42:17Z'
+
+[[tracks]]
+name = 'Foreground'
+artist = 'White Flowers'
+album = 'Are You'
+listened_at = '2022-12-09T22:39:52Z'
+
+[[tracks]]
+name = 'Are You'
+artist = 'White Flowers'
+album = 'Are You'
+listened_at = '2022-12-09T22:35:58Z'
+
+[[tracks]]
+name = 'Make Them Gold'
+artist = 'CHVRCHES'
+album = 'Every Open Eye (Extended Edition)'
+listened_at = '2022-12-09T22:30:05Z'
+
+[[tracks]]
+name = 'Keep You on My Side'
+artist = 'CHVRCHES'
+album = 'Every Open Eye (Extended Edition)'
+listened_at = '2022-12-09T22:25:39Z'
+
+[[tracks]]
+name = 'Leave a Trace'
+artist = 'CHVRCHES'
+album = 'Every Open Eye (Extended Edition)'
+listened_at = '2022-12-09T22:21:41Z'
+
+[[tracks]]
+name = 'Never Ending Circles'
+artist = 'CHVRCHES'
+album = 'Every Open Eye (Extended Edition)'
+listened_at = '2022-12-09T22:18:35Z'
+
+[[tracks]]
+name = 'Clearest Blue - Gryffin Remix'
+artist = 'CHVRCHES'
+album = 'Every Open Eye (Extended Edition)'
+listened_at = '2022-12-09T22:14:16Z'
+
+[[tracks]]
+name = 'When I Talk'
+artist = 'deadmau5'
+album = 'When I Talk'
+listened_at = '2022-12-09T22:08:11Z'
+
+[[tracks]]
+name = 'When I Talk'
+artist = 'deadmau5'
+album = 'When I Talk'
+listened_at = '2022-12-09T22:04:43Z'
+
+[[tracks]]
+name = 'When I Talk'
+artist = 'deadmau5'
+album = 'When I Talk'
+listened_at = '2022-12-09T22:01:14Z'
+
+[[tracks]]
+name = 'When I Talk'
+artist = 'deadmau5'
+album = 'When I Talk'
+listened_at = '2022-12-09T21:57:46Z'
+
+[[tracks]]
+name = 'When I Talk'
+artist = 'deadmau5'
+album = 'When I Talk'
+listened_at = '2022-12-09T21:54:17Z'
+
+[[tracks]]
+name = 'When I Talk'
+artist = 'deadmau5'
+album = 'When I Talk'
+listened_at = '2022-12-09T21:50:51Z'
+
+[[tracks]]
+name = 'The Fire Within'
+artist = 'Within Temptation'
+album = 'Forgotten Songs'
+listened_at = '2022-12-09T21:47:03Z'
+
+[[tracks]]
+name = 'Static Noise'
+artist = 'Ritualz'
+album = 'RADICAL MACABRO'
+listened_at = '2022-12-09T20:44:49Z'
+
+[[tracks]]
 name = 'DOSE'
 artist = 'Ritualz'
 album = 'RADICAL MACABRO'
