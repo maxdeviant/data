@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'I Might'
+artist = 'iann dior'
+album = 'On To Better Things'
+listened_at = '2022-12-14T01:03:43Z'
+
+[[tracks]]
+name = 'Voices (feat. TheHxliday)'
+artist = '12AM'
+album = 'Voices (feat. TheHxliday)'
+listened_at = '2022-12-14T01:00:36Z'
+
+[[tracks]]
+name = 'The Mixed Tape - 2015 Remastered'
+artist = '''Jack's Mannequin'''
+album = 'Everything in Transit'
+listened_at = '2022-12-14T00:57:23Z'
+
+[[tracks]]
+name = 'Pallbearer'
+artist = 'Destroy the Runner'
+album = 'Saints'
+listened_at = '2022-12-14T00:54:11Z'
+
+[[tracks]]
+name = 'u shld chill - sainty edit'
+artist = 'Sainty'
+album = 'u shld chill (sainty edit)'
+listened_at = '2022-12-14T00:41:08Z'
+
+[[tracks]]
+name = 'King of Disappointment'
+artist = 'Echos'
+album = 'King of Disappointment'
+listened_at = '2022-12-14T00:38:33Z'
+
+[[tracks]]
+name = '三'
+artist = 'Aether'
+album = '三'
+listened_at = '2022-12-14T00:34:59Z'
+
+[[tracks]]
+name = 'Big Shot'
+artist = 'Flor'
+album = 'Future Shine'
+listened_at = '2022-12-14T00:31:49Z'
+
+[[tracks]]
+name = 'Anaheim'
+artist = 'Don Broco'
+album = 'Amazing Things'
+listened_at = '2022-12-14T00:27:20Z'
+
+[[tracks]]
 name = 'Interlude'
 artist = 'Soccer Mommy'
 album = 'Clean'
