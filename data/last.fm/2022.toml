@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Jubilee'
+artist = 'Blvck Ceiling'
+album = 'She Drowned'
+listened_at = '2022-12-21T00:51:04Z'
+
+[[tracks]]
+name = 'Water'
+artist = 'Blvck Ceiling'
+album = 'She Drowned'
+listened_at = '2022-12-21T00:49:28Z'
+
+[[tracks]]
+name = 'She Drowned'
+artist = 'Blvck Ceiling'
+album = 'She Drowned'
+listened_at = '2022-12-21T00:45:41Z'
+
+[[tracks]]
+name = 'Dangerous Moonlite'
+artist = 'Blvck Ceiling'
+album = 'She Drowned'
+listened_at = '2022-12-21T00:43:42Z'
+
+[[tracks]]
 name = 'Crystal Lake'
 artist = 'Blvck Ceiling'
 album = 'She Drowned'
