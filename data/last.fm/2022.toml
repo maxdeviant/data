@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'If We Make It Through December'
+artist = 'Phoebe Bridgers'
+album = 'So Much Wine'
+listened_at = '2022-12-24T19:42:45Z'
+
+[[tracks]]
+name = 'Day After Tomorrow'
+artist = 'Phoebe Bridgers'
+album = 'So Much Wine'
+listened_at = '2022-12-24T19:36:41Z'
+
+[[tracks]]
+name = 'So Much Wine'
+artist = 'Phoebe Bridgers'
+album = 'So Much Wine'
+listened_at = '2022-12-24T19:32:38Z'
+
+[[tracks]]
+name = 'Have Yourself a Merry Little Christmas'
+artist = 'Phoebe Bridgers'
+album = 'So Much Wine'
+listened_at = '2022-12-24T19:28:50Z'
+
+[[tracks]]
+name = 'Pine Barrens'
+artist = 'Jakey'
+album = 'ROMCOM'
+listened_at = '2022-12-24T18:18:21Z'
+
+[[tracks]]
+name = 'Flurries'
+artist = 'August Burns Red'
+album = '''August Burns Red Presents: Sleddin' Hill, A Holiday Album'''
+listened_at = '2022-12-24T16:43:06Z'
+
+[[tracks]]
 name = 'Joy to the World'
 artist = 'August Burns Red'
 album = '''August Burns Red Presents: Sleddin' Hill, A Holiday Album'''
