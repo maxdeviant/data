@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Joy to the World'
+artist = 'August Burns Red'
+album = '''August Burns Red Presents: Sleddin' Hill, A Holiday Album'''
+listened_at = '2022-12-24T16:39:58Z'
+
+[[tracks]]
+name = 'Dance of the Sugar Plum Fairy'
+artist = 'August Burns Red'
+album = '''August Burns Red Presents: Sleddin' Hill, A Holiday Album'''
+listened_at = '2022-12-24T16:37:12Z'
+
+[[tracks]]
+name = 'Carol of the Bells'
+artist = 'August Burns Red'
+album = '''August Burns Red Presents: Sleddin' Hill, A Holiday Album'''
+listened_at = '2022-12-24T16:34:18Z'
+
+[[tracks]]
+name = 'O Come, O Come Emmanuel'
+artist = 'August Burns Red'
+album = '''August Burns Red Presents: Sleddin' Hill, A Holiday Album'''
+listened_at = '2022-12-24T16:29:23Z'
+
+[[tracks]]
+name = 'Seven Years (Shine a Light on Me)'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood'
+listened_at = '2022-12-24T02:10:15Z'
+
+[[tracks]]
 name = 'Blood'
 artist = 'Our Hollow, Our Home'
 album = 'Burn in the Flood'
