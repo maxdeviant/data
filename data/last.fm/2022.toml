@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Thanksgiving'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2022-12-25T19:32:44Z'
+
+[[tracks]]
+name = 'Peace'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2022-12-25T19:28:39Z'
+
+[[tracks]]
+name = 'Some Children See Him'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2022-12-25T19:24:55Z'
+
+[[tracks]]
+name = 'The Holly and the Ivy'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2022-12-25T15:11:26Z'
+
+[[tracks]]
 name = 'Variations On The Kanon'
 artist = 'George Winston'
 album = 'December'
