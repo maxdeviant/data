@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Better Daze'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood'
+listened_at = '2022-12-25T00:52:15Z'
+
+[[tracks]]
+name = 'Monarch'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood'
+listened_at = '2022-12-25T00:48:40Z'
+
+[[tracks]]
+name = 'In Retrospect'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood'
+listened_at = '2022-12-25T00:45:17Z'
+
+[[tracks]]
+name = '''7 O'Clock News / Silent Night'''
+artist = 'Phoebe Bridgers'
+album = 'So Much Wine'
+listened_at = '2022-12-24T19:45:44Z'
+
+[[tracks]]
 name = 'If We Make It Through December'
 artist = 'Phoebe Bridgers'
 album = 'So Much Wine'
