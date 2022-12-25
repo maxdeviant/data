@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Night, Pt. 2: Midnight'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2022-12-25T15:02:06Z'
+
+[[tracks]]
+name = 'Night, Pt. 1: Snow'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2022-12-25T14:49:11Z'
+
+[[tracks]]
+name = 'Carol of the Bells'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2022-12-25T14:45:14Z'
+
+[[tracks]]
+name = 'Prelude'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2022-12-25T14:43:58Z'
+
+[[tracks]]
+name = 'Joy'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2022-12-25T14:40:43Z'
+
+[[tracks]]
+name = 'Rest Your Head'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2022-12-25T14:38:07Z'
+
+[[tracks]]
+name = 'Thanksgiving'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2022-12-25T14:34:02Z'
+
+[[tracks]]
 name = 'Better Daze'
 artist = 'Our Hollow, Our Home'
 album = 'Burn in the Flood'
