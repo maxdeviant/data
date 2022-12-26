@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Seek & Destroy'
+artist = 'SZA'
+album = 'SOS'
+listened_at = '2022-12-26T02:39:40Z'
+
+[[tracks]]
+name = 'Kill Bill'
+artist = 'SZA'
+album = 'SOS'
+listened_at = '2022-12-26T02:37:07Z'
+
+[[tracks]]
+name = 'This Is Why'
+artist = 'Paramore'
+album = 'This Is Why'
+listened_at = '2022-12-26T02:33:39Z'
+
+[[tracks]]
+name = 'The News'
+artist = 'Paramore'
+album = 'The News'
+listened_at = '2022-12-26T02:30:32Z'
+
+[[tracks]]
+name = 'Not Another Rockstar'
+artist = 'Maisie Peters'
+album = 'Not Another Rockstar'
+listened_at = '2022-12-26T02:27:38Z'
+
+[[tracks]]
 name = 'Thanksgiving'
 artist = 'George Winston'
 album = 'December'
