@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Paralyzed'
+artist = 'Glaring'
+album = 'Paralyzed'
+listened_at = '2022-12-27T14:58:57Z'
+
+[[tracks]]
+name = 'Uncontrollable'
+artist = 'Miserable'
+album = 'Uncontrollable'
+listened_at = '2022-12-27T14:55:08Z'
+
+[[tracks]]
+name = 'Kissing Someone Else'
+artist = 'Caroline Kingsbury'
+album = '''Heaven's Just a Flight'''
+listened_at = '2022-12-27T14:51:14Z'
+
+[[tracks]]
+name = 'Thin Air (WaterBABii_MiiX)'
+artist = 'Waterbaby'
+album = 'Thin Air (WaterBABii_MiiX)'
+listened_at = '2022-12-26T19:11:35Z'
+
+[[tracks]]
 name = 'Seek & Destroy'
 artist = 'SZA'
 album = 'SOS'
