@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Smoldering Woodland'
+artist = 'Olhava'
+album = 'Ladoga'
+listened_at = '2022-12-29T01:11:26Z'
+
+[[tracks]]
+name = 'Ageless River I'
+artist = 'Olhava'
+album = 'Ladoga'
+listened_at = '2022-12-29T01:05:44Z'
+
+[[tracks]]
+name = 'Void'
+artist = 'Sunken'
+album = 'Departure'
+listened_at = '2022-12-28T21:57:21Z'
+
+[[tracks]]
 name = 'A Solemn Initiation'
 artist = 'Sunken'
 album = 'Departure'
