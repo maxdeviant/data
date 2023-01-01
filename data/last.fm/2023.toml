@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Shine'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T16:15:03Z'
+
+[[tracks]]
+name = 'Inu'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T16:11:18Z'
+
+[[tracks]]
+name = 'Lost In Isolation'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T16:07:33Z'
+
+[[tracks]]
+name = 'Pilgrim'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T16:03:33Z'
+
+[[tracks]]
+name = 'Seconds'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T15:59:40Z'
+
+[[tracks]]
+name = 'Sequence'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T15:55:46Z'
+
+[[tracks]]
+name = 'Deep Forest'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T15:51:50Z'
+
+[[tracks]]
+name = 'Beneath The Surface'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T15:48:02Z'
+
+[[tracks]]
+name = 'Fall Into You'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T15:43:39Z'
+
+[[tracks]]
 name = 'Red Point'
 artist = 'Protoculture'
 album = 'Lost In Isolation'
