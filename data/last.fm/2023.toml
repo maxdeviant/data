@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Inu'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T22:56:57Z'
+
+[[tracks]]
+name = 'Lost In Isolation'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T22:53:12Z'
+
+[[tracks]]
+name = 'Pilgrim'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T22:49:12Z'
+
+[[tracks]]
+name = 'Seconds'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-01-01T17:32:45Z'
+
+[[tracks]]
 name = 'Shine'
 artist = 'Protoculture'
 album = 'Lost In Isolation'
