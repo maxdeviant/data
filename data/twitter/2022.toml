@@ -1,4 +1,129 @@
 [[tweets]]
+id = 1608322592372400128
+created_at = '2022-12-29T04:42:41Z'
+text = 'Sourced from here: https://t.co/XWR64IhqyH'
+[[tweets.entities.urls]]
+display_url = 'blog.rust-lang.org/inside-rust/20…'
+expanded_url = 'https://blog.rust-lang.org/inside-rust/2022/04/19/imposter-syndrome.html'
+url = 'https://t.co/XWR64IhqyH'
+
+[tweets.in_reply_to]
+status_id = 1608322421505032192
+user_id = 36209210
+user_name = 'maxdeviant'
+
+[[tweets]]
+id = 1608322421505032192
+created_at = '2022-12-29T04:42:01Z'
+text = '''"This is the most fundamental philosophy of both the Rust language and the Rust project: we don't think it's sufficient to build robust systems by only including people who don't make mistakes; we think it's better to provide tooling and process to catch and prevent mistakes."'''
+
+[[tweets]]
+id = 1605636791981178880
+created_at = '2022-12-21T18:50:17Z'
+text = '''
+The only Go I'm interested in learning:
+
+https://t.co/Cmv6Rf9Nun'''
+[[tweets.entities.urls]]
+display_url = 'en.wikipedia.org/wiki/Go_(game)'
+expanded_url = 'https://en.wikipedia.org/wiki/Go_(game)'
+url = 'https://t.co/Cmv6Rf9Nun'
+
+[[tweets]]
+id = 1603131261282762752
+created_at = '2022-12-14T20:54:12Z'
+text = 'Liminal spaces? Right on, dude! https://t.co/qu8VlORvi6'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/snackowska/sta…'
+expanded_url = 'https://twitter.com/snackowska/status/1602643897443930112'
+url = 'https://t.co/qu8VlORvi6'
+
+[[tweets]]
+id = 1594381515600830465
+created_at = '2022-11-20T17:25:50Z'
+text = '@rickasaurus Have to pay for all that efficiency'
+
+[tweets.in_reply_to]
+status_id = 1594377577161818113
+user_id = 16377511
+user_name = 'rickasaurus'
+
+[[tweets]]
+id = 1594208599617998848
+created_at = '2022-11-20T05:58:43Z'
+text = 'This is too relatable. https://t.co/cIVcy5mMyD'
+[[tweets.entities.urls]]
+display_url = 'twitter.com/hemlocksnowfal…'
+expanded_url = 'https://twitter.com/hemlocksnowfall/status/1593825419157213184'
+url = 'https://t.co/cIVcy5mMyD'
+
+[[tweets]]
+id = 1594166627267911680
+created_at = '2022-11-20T03:11:56Z'
+text = 'I love seeing bad takes on my timeline and then remembering I simply don’t have to follow that person.'
+
+[[tweets]]
+id = 1594153013693673473
+created_at = '2022-11-20T02:17:51Z'
+text = '@_alanbsmith I 100% support this decision!'
+
+[tweets.in_reply_to]
+status_id = 1594138747721109504
+user_id = 977286368
+user_name = '_alanbsmith'
+
+[[tweets]]
+id = 1593843848911937538
+created_at = '2022-11-19T05:49:20Z'
+text = '@chris__martin Hardcore Tweet Transfer Protocol?'
+
+[tweets.in_reply_to]
+status_id = 1593841951778181120
+user_id = 18271443
+user_name = 'chris__martin'
+
+[[tweets]]
+id = 1593831672717377537
+created_at = '2022-11-19T05:00:57Z'
+text = '''
+@ChevyRay We use TypeScript at work, so this comes up (on a smaller scale, because no real immutability) a decent amount when I'm reviewing code.
+
+I generally use the term "bindings" now like the PL nerd I am.'''
+
+[tweets.in_reply_to]
+status_id = 1593664608421961729
+user_id = 55472734
+user_name = 'ChevyRay'
+
+[[tweets]]
+id = 1593606816390316033
+created_at = '2022-11-18T14:07:27Z'
+text = '@YellzHeard @AREdotNA https://t.co/v6TnVpRmt9'
+[[tweets.entities.urls]]
+display_url = 'are.na/marshall-bowers'
+expanded_url = 'https://www.are.na/marshall-bowers'
+url = 'https://t.co/v6TnVpRmt9'
+
+[tweets.in_reply_to]
+status_id = 1593598930536878081
+user_id = 178016800
+user_name = 'YellzHeard'
+
+[[tweets]]
+id = 1593600690537889793
+created_at = '2022-11-18T13:43:06Z'
+text = '@willmanduffy https://t.co/jsaLNIBRI1'
+[[tweets.entities.media]]
+id = 1593600680429756416
+type = 'photo'
+url = 'https://pbs.twimg.com/tweet_video_thumb/Fh2bYCbWIAAK25k.jpg'
+
+[tweets.in_reply_to]
+status_id = 1593585621515337728
+user_id = 351346221
+user_name = 'willmanduffy'
+
+[[tweets]]
 id = 1593411759850901505
 created_at = '2022-11-18T01:12:22Z'
 text = '🫡'

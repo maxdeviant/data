@@ -1,0 +1,19 @@
+[[tweets]]
+id = 1609766149633228800
+created_at = '2023-01-02T04:18:52Z'
+text = '@brian_d_vaughn A tiling window manager'
+
+[tweets.in_reply_to]
+status_id = 1609765818874884097
+user_id = 99973385
+user_name = 'brian_d_vaughn'
+
+[[tweets]]
+id = 1609732057403457536
+created_at = '2023-01-02T02:03:24Z'
+text = '''@rickasaurus Write them all down somewhere and hook them up to a dead man's switch that's triggered on the execution of your will.'''
+
+[tweets.in_reply_to]
+status_id = 1609731717484654592
+user_id = 16377511
+user_name = 'rickasaurus'
