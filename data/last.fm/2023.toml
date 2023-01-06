@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Space'
+artist = 'No Mana'
+album = 'Space'
+listened_at = '2023-01-06T17:56:00Z'
+
+[[tracks]]
+name = 'Remember Me'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood'
+listened_at = '2023-01-06T17:52:28Z'
+
+[[tracks]]
+name = 'Not Another Rockstar'
+artist = 'Maisie Peters'
+album = 'Not Another Rockstar'
+listened_at = '2023-01-06T17:49:59Z'
+
+[[tracks]]
+name = 'I Really F**ked It Up'
+artist = 'GIRLI'
+album = 'I Really F**ked It Up'
+listened_at = '2023-01-06T17:47:31Z'
+
+[[tracks]]
+name = 'I Really F**ked It Up'
+artist = 'GIRLI'
+album = 'I Really F**ked It Up'
+listened_at = '2023-01-06T16:51:57Z'
+
+[[tracks]]
+name = 'Go Easy on Yourself'
+artist = 'Brian Vaughn'
+album = 'Go Easy on Yourself'
+listened_at = '2023-01-05T22:42:09Z'
+
+[[tracks]]
 name = 'I LOSE WHATEVER I OWN'
 artist = 'Blood Red Shoes'
 album = 'GHOSTS ON TAPE'
