@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Infinite Reflection'
+artist = 'City of the Lost'
+album = 'Wasteland Guide II'
+listened_at = '2023-01-07T16:46:00Z'
+
+[[tracks]]
+name = 'Before the Rain'
+artist = 'City of the Lost'
+album = 'Wasteland Guide II'
+listened_at = '2023-01-07T16:41:58Z'
+
+[[tracks]]
+name = 'Lizard Foundation'
+artist = 'City of the Lost'
+album = 'Wasteland Guide II'
+listened_at = '2023-01-07T16:37:53Z'
+
+[[tracks]]
+name = 'Streams and Flows'
+artist = 'City of the Lost'
+album = 'Wasteland Guide II'
+listened_at = '2023-01-07T16:33:41Z'
+
+[[tracks]]
 name = 'Down by the River of Tears'
 artist = 'City of the Lost'
 album = 'Wasteland Guide III'
