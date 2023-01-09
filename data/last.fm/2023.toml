@@ -1,4 +1,28 @@
 [[tracks]]
+name = '~soft words~'
+artist = 'Chayr'
+album = 'THE SONDER'
+listened_at = '2023-01-08T21:45:58Z'
+
+[[tracks]]
+name = 'woodtypebeat'
+artist = 'Chayr'
+album = 'THE SONDER'
+listened_at = '2023-01-08T21:42:19Z'
+
+[[tracks]]
+name = 'Exigency'
+artist = 'Hazard'
+album = 'Exigency'
+listened_at = '2023-01-08T21:38:23Z'
+
+[[tracks]]
+name = 'Before the Rain'
+artist = 'City of the Lost'
+album = 'Wasteland Guide II'
+listened_at = '2023-01-08T20:28:17Z'
+
+[[tracks]]
 name = 'Lizard Foundation'
 artist = 'City of the Lost'
 album = 'Wasteland Guide II'
