@@ -53,6 +53,132 @@ album = 'Wasteland Guide II'
 listened_at = '2023-01-08T15:37:46Z'
 
 [[tracks]]
+name = 'SÁBADO DE MIERDA'
+artist = 'Bhavi'
+album = 'POCHOCLOS'
+listened_at = '2023-01-07T21:47:33Z'
+
+[[tracks]]
+name = '22HS'
+artist = 'Bhavi'
+album = 'POCHOCLOS'
+listened_at = '2023-01-07T21:44:58Z'
+
+[[tracks]]
+name = 'ALGO RICO'
+artist = 'Bhavi'
+album = 'POCHOCLOS'
+listened_at = '2023-01-07T21:42:56Z'
+
+[[tracks]]
+name = 'POCHOCLOS'
+artist = 'Bhavi'
+album = 'POCHOCLOS'
+listened_at = '2023-01-07T21:40:37Z'
+
+[[tracks]]
+name = 'PRESUPUESTO Y MELODÍA'
+artist = 'Marlku'
+album = 'PRESUPUESTO Y MELODÍA'
+listened_at = '2023-01-07T21:37:54Z'
+
+[[tracks]]
+name = 'CHARTS N HARTS'
+artist = 'Bhavi'
+album = 'CINEMA'
+listened_at = '2023-01-07T21:35:45Z'
+
+[[tracks]]
+name = 'HIJO UNICO'
+artist = 'Bhavi'
+album = 'CINEMA'
+listened_at = '2023-01-07T21:33:09Z'
+
+[[tracks]]
+name = 'TE SENTI'
+artist = 'Bhavi'
+album = 'CINEMA'
+listened_at = '2023-01-07T21:29:31Z'
+
+[[tracks]]
+name = 'Persiana Americana - Remasterizado 2007'
+artist = 'Soda Stereo'
+album = 'Me Verás Volver (Hits & Más)'
+listened_at = '2023-01-07T21:24:16Z'
+
+[[tracks]]
+name = 'En La Ciudad De La Furia - Remasterizado 2007'
+artist = 'Soda Stereo'
+album = 'Me Verás Volver (Hits & Más)'
+listened_at = '2023-01-07T21:18:32Z'
+
+[[tracks]]
+name = 'Wanna Be Loved'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-07T18:15:41Z'
+
+[[tracks]]
+name = 'Show Me'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-07T18:11:18Z'
+
+[[tracks]]
+name = 'Welcome Back'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-07T18:07:16Z'
+
+[[tracks]]
+name = 'One of Us'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-07T18:03:14Z'
+
+[[tracks]]
+name = 'Zipcodes'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-07T17:58:46Z'
+
+[[tracks]]
+name = 'Eulogy'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-07T17:54:21Z'
+
+[[tracks]]
+name = 'Cruise Control'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-07T17:50:54Z'
+
+[[tracks]]
+name = 'Brand New 911'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-07T17:47:55Z'
+
+[[tracks]]
+name = 'Where I Belong'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-07T17:44:47Z'
+
+[[tracks]]
+name = 'Make Me Feel'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-07T17:41:49Z'
+
+[[tracks]]
+name = 'The Baddest'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-07T17:38:19Z'
+
+[[tracks]]
 name = 'Paper Man'
 artist = 'City of the Lost'
 album = 'Wasteland Guide II'
@@ -233,10 +359,28 @@ album = 'Fate'
 listened_at = '2023-01-06T22:40:41Z'
 
 [[tracks]]
+name = 'Tamo Loco'
+artist = 'Ysy A'
+album = 'Antezana 247 (Deluxe Edition)'
+listened_at = '2023-01-06T22:40:32Z'
+
+[[tracks]]
+name = 'Linaje'
+artist = 'Ysy A'
+album = 'Antezana 247 (Deluxe Edition)'
+listened_at = '2023-01-06T22:37:45Z'
+
+[[tracks]]
 name = 'Eukarya'
 artist = 'Rodg'
 album = 'Fate'
 listened_at = '2023-01-06T22:37:06Z'
+
+[[tracks]]
+name = 'Casi un G'
+artist = 'Ysy A'
+album = 'Casi un G'
+listened_at = '2023-01-06T22:35:15Z'
 
 [[tracks]]
 name = 'Our Generation'
@@ -245,10 +389,22 @@ album = 'Fate'
 listened_at = '2023-01-06T22:33:24Z'
 
 [[tracks]]
+name = 'El Amanecer'
+artist = 'Ysy A'
+album = 'Antezana 247 (Deluxe Edition)'
+listened_at = '2023-01-06T22:31:58Z'
+
+[[tracks]]
 name = 'The Coaster'
 artist = 'Rodg'
 album = 'Fate'
 listened_at = '2023-01-06T22:30:18Z'
+
+[[tracks]]
+name = 'Sobre el Agua'
+artist = 'Ysy A'
+album = 'Mordiendo el Bozal'
+listened_at = '2023-01-06T22:28:43Z'
 
 [[tracks]]
 name = 'Sudden'
@@ -257,10 +413,22 @@ album = 'Fate'
 listened_at = '2023-01-06T22:27:06Z'
 
 [[tracks]]
+name = 'Pastel Con Nutella'
+artist = 'Ysy A'
+album = 'Pastel Con Nutella'
+listened_at = '2023-01-06T22:24:38Z'
+
+[[tracks]]
 name = '9th Ave'
 artist = 'Rodg'
 album = 'Fate'
 listened_at = '2023-01-06T22:22:44Z'
+
+[[tracks]]
+name = 'Vuelta a la Luna - Remix'
+artist = 'Ysy A'
+album = 'Vuelta a la Luna (Remix)'
+listened_at = '2023-01-06T22:20:14Z'
 
 [[tracks]]
 name = 'Only a Flight Away'
@@ -273,6 +441,18 @@ name = 'Cinnamon'
 artist = 'Rodg'
 album = 'Fate'
 listened_at = '2023-01-06T22:17:10Z'
+
+[[tracks]]
+name = 'Mi Chain De Roque'
+artist = 'Duki'
+album = 'Mi Chain De Roque'
+listened_at = '2023-01-06T22:16:31Z'
+
+[[tracks]]
+name = 'Hijo De La Noche'
+artist = 'Duki'
+album = 'Hijo De La Noche'
+listened_at = '2023-01-06T22:16:31Z'
 
 [[tracks]]
 name = 'In-Flight Entertainment'
@@ -323,6 +503,12 @@ album = 'Fate'
 listened_at = '2023-01-06T21:50:30Z'
 
 [[tracks]]
+name = 'Hidro'
+artist = 'Ysy A'
+album = 'Antezana 247 (Deluxe Edition)'
+listened_at = '2023-01-06T21:41:07Z'
+
+[[tracks]]
 name = 'Beam'
 artist = 'Rodg'
 album = 'Fate'
@@ -353,10 +539,22 @@ album = 'Fate'
 listened_at = '2023-01-06T21:18:31Z'
 
 [[tracks]]
+name = 'Hablamos Mañana'
+artist = 'Bad Bunny'
+album = 'YHLQMDLG'
+listened_at = '2023-01-06T21:17:02Z'
+
+[[tracks]]
 name = 'The Coaster'
 artist = 'Rodg'
 album = 'Fate'
 listened_at = '2023-01-06T21:15:25Z'
+
+[[tracks]]
+name = 'Sin Frenos'
+artist = 'Eladio Carrion'
+album = 'Sauce Boyz 2'
+listened_at = '2023-01-06T21:13:46Z'
 
 [[tracks]]
 name = 'Sudden'
@@ -497,10 +695,178 @@ album = 'I Really F**ked It Up'
 listened_at = '2023-01-06T17:47:31Z'
 
 [[tracks]]
+name = 'SER EL TRAP'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T17:12:50Z'
+
+[[tracks]]
 name = 'I Really F**ked It Up'
 artist = 'GIRLI'
 album = 'I Really F**ked It Up'
 listened_at = '2023-01-06T16:51:57Z'
+
+[[tracks]]
+name = 'UN PISO MÁS'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T16:49:16Z'
+
+[[tracks]]
+name = 'CÓMO CHILLA ELLA'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T16:47:01Z'
+
+[[tracks]]
+name = 'TODO PAGO'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T16:43:04Z'
+
+[[tracks]]
+name = 'HERIDAS AL FUEGO'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T16:40:11Z'
+
+[[tracks]]
+name = 'PA ESTA SOLEDAD'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T16:36:56Z'
+
+[[tracks]]
+name = 'CUÁL?'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T16:34:24Z'
+
+[[tracks]]
+name = 'A POR TODO'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T16:31:37Z'
+
+[[tracks]]
+name = 'CUÁNTO VALE HACER EL AMOR?'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T16:29:00Z'
+
+[[tracks]]
+name = 'CUÁNTOS TÉRMINOS?'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T16:26:35Z'
+
+[[tracks]]
+name = 'UOH OH OH'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T16:25:05Z'
+
+[[tracks]]
+name = 'RELOJES REVENTADOS'
+artist = 'Ysy A'
+album = 'YSYSMO'
+listened_at = '2023-01-06T16:22:26Z'
+
+[[tracks]]
+name = 'Milagrosa'
+artist = 'Milo j'
+album = 'Milagrosa'
+listened_at = '2023-01-06T16:19:45Z'
+
+[[tracks]]
+name = 'Morocha'
+artist = 'Milo j'
+album = 'Morocha'
+listened_at = '2023-01-06T16:19:42Z'
+
+[[tracks]]
+name = '1 7 0 8'
+artist = 'Milo j'
+album = '1 7 0 8'
+listened_at = '2023-01-06T16:17:31Z'
+
+[[tracks]]
+name = 'De madrugada'
+artist = 'ALVDESC'
+album = 'De madrugada'
+listened_at = '2023-01-06T16:12:08Z'
+
+[[tracks]]
+name = 'U Bitcrushed My Heart'
+artist = 'Slowboy'
+album = 'Not Your Average Phonk'
+listened_at = '2023-01-05T23:45:51Z'
+
+[[tracks]]
+name = 'You Say Run Hardstyle'
+artist = 'Bobash'
+album = 'You Say Run Hardstyle'
+listened_at = '2023-01-05T23:37:35Z'
+
+[[tracks]]
+name = 'You Say Run Hardstyle'
+artist = 'Bobash'
+album = 'You Say Run Hardstyle'
+listened_at = '2023-01-05T23:24:37Z'
+
+[[tracks]]
+name = 'Spit in My Face! (Hardstyle Remix)'
+artist = 'Wejoell'
+album = 'Spit in My Face! (Hardstyle Remix)'
+listened_at = '2023-01-05T23:22:27Z'
+
+[[tracks]]
+name = 'Home'
+artist = 'Dionysus'
+album = 'Home'
+listened_at = '2023-01-05T23:13:46Z'
+
+[[tracks]]
+name = 'Exodus'
+artist = 'lucaf.'
+album = 'Dirt to Grass'
+listened_at = '2023-01-05T23:11:29Z'
+
+[[tracks]]
+name = 'RAVE'
+artist = 'Dxrk ダーク'
+album = 'RAVE'
+listened_at = '2023-01-05T23:08:41Z'
+
+[[tracks]]
+name = 'владыка'
+artist = 'Ghostemane'
+album = 'LXRDMAGE'
+listened_at = '2023-01-05T23:06:46Z'
+
+[[tracks]]
+name = 'Legend'
+artist = 'Tevvez'
+album = 'Phantom'
+listened_at = '2023-01-05T23:03:32Z'
+
+[[tracks]]
+name = 'LIKE YXU WXULD KNXW (AUTUMN TREES)'
+artist = 'Kordhell'
+album = 'PSYCHX'
+listened_at = '2023-01-05T23:00:05Z'
+
+[[tracks]]
+name = 'Feel Nothing'
+artist = 'The Plot in You'
+album = 'Dispose'
+listened_at = '2023-01-05T22:56:33Z'
+
+[[tracks]]
+name = '6IXSPEED'
+artist = '7oh2'
+album = '6IXSPEED'
+listened_at = '2023-01-05T22:44:52Z'
 
 [[tracks]]
 name = 'Go Easy on Yourself'
@@ -521,6 +887,12 @@ album = 'GHOSTS ON TAPE'
 listened_at = '2023-01-05T22:36:20Z'
 
 [[tracks]]
+name = 'U Bitcrushed My Heart'
+artist = 'Slowboy'
+album = 'Not Your Average Phonk'
+listened_at = '2023-01-05T22:33:13Z'
+
+[[tracks]]
 name = 'I AM NOT YOU'
 artist = 'Blood Red Shoes'
 album = 'GHOSTS ON TAPE'
@@ -537,6 +909,12 @@ name = 'BEGGING'
 artist = 'Blood Red Shoes'
 album = 'GHOSTS ON TAPE'
 listened_at = '2023-01-05T22:29:01Z'
+
+[[tracks]]
+name = 'Where Is My Mind?'
+artist = 'Pixies'
+album = 'Death to the Pixies'
+listened_at = '2023-01-05T22:27:12Z'
 
 [[tracks]]
 name = 'SUCKER'
@@ -575,6 +953,12 @@ album = 'GHOSTS ON TAPE'
 listened_at = '2023-01-05T22:09:40Z'
 
 [[tracks]]
+name = 'One of Us'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-05T22:07:12Z'
+
+[[tracks]]
 name = 'FOUR TWO SEVEN'
 artist = 'Blood Red Shoes'
 album = 'GHOSTS ON TAPE'
@@ -587,10 +971,100 @@ album = 'GHOSTS ON TAPE'
 listened_at = '2023-01-05T22:05:33Z'
 
 [[tracks]]
+name = 'Zipcodes'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-05T22:02:46Z'
+
+[[tracks]]
 name = 'I LOSE WHATEVER I OWN'
 artist = 'Blood Red Shoes'
 album = 'GHOSTS ON TAPE'
 listened_at = '2023-01-05T22:01:25Z'
+
+[[tracks]]
+name = 'Eulogy'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-05T21:58:41Z'
+
+[[tracks]]
+name = 'Cruise Control'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-05T21:55:14Z'
+
+[[tracks]]
+name = 'Brand New 911'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-05T21:52:15Z'
+
+[[tracks]]
+name = 'Where I Belong'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-05T21:48:54Z'
+
+[[tracks]]
+name = 'Make Me Feel'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-05T21:46:08Z'
+
+[[tracks]]
+name = 'The Baddest'
+artist = 'Joey Bada$$'
+album = '2000'
+listened_at = '2023-01-05T21:43:29Z'
+
+[[tracks]]
+name = 'Agua en Mi Pieza'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-05T13:00:21Z'
+
+[[tracks]]
+name = 'Diamantes'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-05T12:52:07Z'
+
+[[tracks]]
+name = 'Bato una Sprite'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-05T12:48:57Z'
+
+[[tracks]]
+name = 'Bajo Mi Piel'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-05T12:45:12Z'
+
+[[tracks]]
+name = 'Fotosíntesis'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-05T12:43:10Z'
+
+[[tracks]]
+name = 'Dark Knight Dummo (feat. Travis Scott)'
+artist = 'Trippie Redd'
+album = 'Dark Knight Dummo (Feat. Travis Scott)'
+listened_at = '2023-01-05T12:39:20Z'
+
+[[tracks]]
+name = 'Besame Sin Sentir'
+artist = 'Micro TDH'
+album = 'Besame Sin Sentir'
+listened_at = '2023-01-05T12:35:11Z'
+
+[[tracks]]
+name = 'Crazy'
+artist = 'Fazzini'
+album = 'Puff Puff Pass, Vol. 2'
+listened_at = '2023-01-05T12:32:23Z'
 
 [[tracks]]
 name = 'DIG A HOLE'
@@ -857,10 +1331,172 @@ album = 'I Really F**ked It Up'
 listened_at = '2023-01-04T02:49:15Z'
 
 [[tracks]]
+name = 'Cuesta Arriba'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-04T00:10:34Z'
+
+[[tracks]]
+name = 'Solo en la Capital'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-03T23:47:59Z'
+
+[[tracks]]
+name = 'Kristal'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-03T23:44:43Z'
+
+[[tracks]]
+name = 'Mil Pisos'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-03T23:42:25Z'
+
+[[tracks]]
+name = 'Playboi'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-03T23:39:44Z'
+
+[[tracks]]
+name = 'Wasted'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-03T23:36:45Z'
+
+[[tracks]]
+name = 'Problemas'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-03T23:34:18Z'
+
+[[tracks]]
+name = 'Diamantes'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-03T23:31:32Z'
+
+[[tracks]]
+name = 'Bato una Sprite'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-03T23:28:22Z'
+
+[[tracks]]
+name = 'Bajo Mi Piel'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-03T23:24:36Z'
+
+[[tracks]]
+name = 'Fotosíntesis'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-03T23:22:24Z'
+
+[[tracks]]
+name = 'Solo en la Capital'
+artist = 'Tobi'
+album = 'Atrapado en las Colinas'
+listened_at = '2023-01-03T23:18:37Z'
+
+[[tracks]]
+name = 'Morocha'
+artist = 'Milo j'
+album = 'Morocha'
+listened_at = '2023-01-03T23:13:48Z'
+
+[[tracks]]
+name = '1 7 0 8'
+artist = 'Milo j'
+album = '1 7 0 8'
+listened_at = '2023-01-03T23:11:25Z'
+
+[[tracks]]
+name = 'De madrugada'
+artist = 'ALVDESC'
+album = 'De madrugada'
+listened_at = '2023-01-03T23:08:31Z'
+
+[[tracks]]
+name = 'CÍRCULO CERRADO'
+artist = 'Bhavi'
+album = 'POCHOCLOS'
+listened_at = '2023-01-03T23:06:08Z'
+
+[[tracks]]
+name = 'Bien'
+artist = 'Bhavi'
+album = 'POCHOCLOS'
+listened_at = '2023-01-03T23:04:03Z'
+
+[[tracks]]
+name = 'CANAPÉ'
+artist = 'Bhavi'
+album = 'POCHOCLOS'
+listened_at = '2023-01-03T23:01:36Z'
+
+[[tracks]]
+name = 'Dame Más'
+artist = 'Bhavi'
+album = 'Dame Más'
+listened_at = '2023-01-03T22:59:22Z'
+
+[[tracks]]
+name = 'AYER'
+artist = 'Bhavi'
+album = 'POCHOCLOS'
+listened_at = '2023-01-03T22:56:18Z'
+
+[[tracks]]
+name = 'LIBRE'
+artist = 'Bhavi'
+album = 'POCHOCLOS'
+listened_at = '2023-01-03T22:54:17Z'
+
+[[tracks]]
+name = 'PUFF'
+artist = 'Bhavi'
+album = 'POCHOCLOS'
+listened_at = '2023-01-03T22:51:57Z'
+
+[[tracks]]
+name = 'Bésame'
+artist = 'Bhavi'
+album = 'Besame'
+listened_at = '2023-01-03T22:48:23Z'
+
+[[tracks]]
+name = 'Mojaa'
+artist = 'TrapArgContent'
+album = 'Mojaa'
+listened_at = '2023-01-03T22:45:16Z'
+
+[[tracks]]
+name = 'Dark Knight Dummo (feat. Travis Scott)'
+artist = 'Trippie Redd'
+album = 'Dark Knight Dummo (Feat. Travis Scott)'
+listened_at = '2023-01-03T22:40:54Z'
+
+[[tracks]]
 name = 'At the Length the Darkness Parted and We Beheld the Fiery Abyss'
 artist = 'Ante-Inferno'
 album = 'A Dream of the Devil'
 listened_at = '2023-01-03T22:38:19Z'
+
+[[tracks]]
+name = 'Besame Sin Sentir'
+artist = 'Micro TDH'
+album = 'Besame Sin Sentir'
+listened_at = '2023-01-03T22:36:34Z'
+
+[[tracks]]
+name = 'Crazy'
+artist = 'Fazzini'
+album = 'Puff Puff Pass, Vol. 2'
+listened_at = '2023-01-03T22:33:45Z'
 
 [[tracks]]
 name = 'Two Thousand Years'
@@ -1007,6 +1643,186 @@ album = 'SHINE ONTO ME'
 listened_at = '2023-01-03T20:08:31Z'
 
 [[tracks]]
+name = 'Spit in My Face! (Hardstyle Remix)'
+artist = 'Wejoell'
+album = 'Spit in My Face! (Hardstyle Remix)'
+listened_at = '2023-01-03T14:24:22Z'
+
+[[tracks]]
+name = 'Spit in My Face! (Hardstyle Remix)'
+artist = 'Wejoell'
+album = 'Spit in My Face! (Hardstyle Remix)'
+listened_at = '2023-01-03T14:21:33Z'
+
+[[tracks]]
+name = 'MALO TEBYA - Pxlish Beatz Remix'
+artist = 'Pxlish Beatz'
+album = 'Malo Tebya'
+listened_at = '2023-01-03T14:17:11Z'
+
+[[tracks]]
+name = 'Queen of Pain'
+artist = 'VØj'
+album = 'Queen of Pain'
+listened_at = '2023-01-03T14:12:12Z'
+
+[[tracks]]
+name = 'Glock Cock'
+artist = 'Ghostface Playa'
+album = 'High As Fuck'
+listened_at = '2023-01-03T14:10:29Z'
+
+[[tracks]]
+name = 'NEON BLADE'
+artist = 'MoonDeity'
+album = 'NEON BLADE'
+listened_at = '2023-01-03T14:01:35Z'
+
+[[tracks]]
+name = 'Spit in My Face! (Hardstyle Remix)'
+artist = 'Wejoell'
+album = 'Spit in My Face! (Hardstyle Remix)'
+listened_at = '2023-01-03T13:59:29Z'
+
+[[tracks]]
+name = 'Spit in My Face! (Hardstyle Remix)'
+artist = 'Wejoell'
+album = 'Spit in My Face! (Hardstyle Remix)'
+listened_at = '2023-01-03T13:56:40Z'
+
+[[tracks]]
+name = 'STREET FIGHTER'
+artist = 'FXRR'
+album = 'STREET FIGHTER'
+listened_at = '2023-01-03T13:54:16Z'
+
+[[tracks]]
+name = 'Chilli Cheese'
+artist = 'lucaf.'
+album = 'Dirt to Grass'
+listened_at = '2023-01-03T13:50:49Z'
+
+[[tracks]]
+name = 'Trip To Mars (Astronauts)'
+artist = 'Sub Zero Project'
+album = 'Trip To Mars (Astronauts)'
+listened_at = '2023-01-03T13:44:27Z'
+
+[[tracks]]
+name = 'Hardeyes'
+artist = 'Tevvez'
+album = 'Aesthetic Dream'
+listened_at = '2023-01-03T13:40:25Z'
+
+[[tracks]]
+name = 'Home'
+artist = 'Dionysus'
+album = 'Home'
+listened_at = '2023-01-03T13:37:12Z'
+
+[[tracks]]
+name = 'Exodus'
+artist = 'lucaf.'
+album = 'Dirt to Grass'
+listened_at = '2023-01-03T13:34:56Z'
+
+[[tracks]]
+name = 'владыка'
+artist = 'Ghostemane'
+album = 'LXRDMAGE'
+listened_at = '2023-01-03T13:33:11Z'
+
+[[tracks]]
+name = 'Legend'
+artist = 'Tevvez'
+album = 'Phantom'
+listened_at = '2023-01-03T13:30:00Z'
+
+[[tracks]]
+name = 'LIKE YXU WXULD KNXW (AUTUMN TREES)'
+artist = 'Kordhell'
+album = 'PSYCHX'
+listened_at = '2023-01-03T13:26:12Z'
+
+[[tracks]]
+name = 'Feel Nothing'
+artist = 'The Plot in You'
+album = 'Dispose'
+listened_at = '2023-01-03T13:22:36Z'
+
+[[tracks]]
+name = 'Fake'
+artist = 'Slowboy'
+album = 'Not Your Average Phonk'
+listened_at = '2023-01-03T13:20:59Z'
+
+[[tracks]]
+name = 'Rage'
+artist = 'Aviana'
+album = 'Rage'
+listened_at = '2023-01-03T13:17:23Z'
+
+[[tracks]]
+name = 'Miss You - Remix'
+artist = 'Oliver Tree'
+album = 'Miss You (Remix)'
+listened_at = '2023-01-03T13:14:01Z'
+
+[[tracks]]
+name = 'Nihil'
+artist = 'Ghostemane'
+album = 'N / O / I / S / E'
+listened_at = '2023-01-03T13:11:34Z'
+
+[[tracks]]
+name = 'AK'
+artist = 'Slowboy'
+album = 'AK'
+listened_at = '2023-01-03T13:07:38Z'
+
+[[tracks]]
+name = 'Live Another Day'
+artist = 'Kordhell'
+album = 'Phonkageddon'
+listened_at = '2023-01-03T13:05:24Z'
+
+[[tracks]]
+name = 'Techno Cats'
+artist = 'Slowboy'
+album = 'Not Your Average Phonk'
+listened_at = '2023-01-03T13:02:31Z'
+
+[[tracks]]
+name = 'By the Sword'
+artist = 'iAmJakeHill'
+album = 'By the Sword'
+listened_at = '2023-01-03T13:00:06Z'
+
+[[tracks]]
+name = 'Hell'
+artist = 'Slowboy'
+album = 'Not Your Average Phonk'
+listened_at = '2023-01-03T12:57:59Z'
+
+[[tracks]]
+name = '6IXSPEED'
+artist = '7oh2'
+album = '6IXSPEED'
+listened_at = '2023-01-03T12:55:29Z'
+
+[[tracks]]
+name = 'U Bitcrushed My Heart'
+artist = 'Slowboy'
+album = 'Not Your Average Phonk'
+listened_at = '2023-01-03T12:53:14Z'
+
+[[tracks]]
+name = 'Where Is My Mind?'
+artist = 'Pixies'
+album = 'Death to the Pixies'
+listened_at = '2023-01-03T12:48:25Z'
+
+[[tracks]]
 name = 'Clearest Blue - Gryffin Remix'
 artist = 'CHVRCHES'
 album = 'Every Open Eye (Extended Edition)'
@@ -1071,6 +1887,30 @@ name = 'I Really F**ked It Up'
 artist = 'GIRLI'
 album = 'I Really F**ked It Up'
 listened_at = '2023-01-03T00:53:12Z'
+
+[[tracks]]
+name = 'Feel Nothing'
+artist = 'The Plot in You'
+album = 'Dispose'
+listened_at = '2023-01-02T22:42:48Z'
+
+[[tracks]]
+name = 'U Bitcrushed My Heart'
+artist = 'Slowboy'
+album = 'Not Your Average Phonk'
+listened_at = '2023-01-02T22:18:33Z'
+
+[[tracks]]
+name = 'You Say Run Hardstyle'
+artist = 'Bobash'
+album = 'You Say Run Hardstyle'
+listened_at = '2023-01-02T22:16:34Z'
+
+[[tracks]]
+name = 'Where Is My Mind?'
+artist = 'Pixies'
+album = 'Death to the Pixies'
+listened_at = '2023-01-02T22:12:45Z'
 
 [[tracks]]
 name = 'Let Them Eat Cake'
