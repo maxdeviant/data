@@ -1,4 +1,106 @@
 [[tracks]]
+name = 'IV'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T15:03:18Z'
+
+[[tracks]]
+name = 'Filum'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T15:00:00Z'
+
+[[tracks]]
+name = 'Felidae'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T14:56:03Z'
+
+[[tracks]]
+name = 'Febris'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T14:51:38Z'
+
+[[tracks]]
+name = 'IV'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T14:49:36Z'
+
+[[tracks]]
+name = 'Filum'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T14:46:17Z'
+
+[[tracks]]
+name = 'Felidae'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T14:36:44Z'
+
+[[tracks]]
+name = 'Febris'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T14:32:19Z'
+
+[[tracks]]
+name = 'IV'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T14:30:18Z'
+
+[[tracks]]
+name = 'Filum'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T14:26:59Z'
+
+[[tracks]]
+name = 'Felidae'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T14:23:02Z'
+
+[[tracks]]
+name = 'Febris'
+artist = 'Gish'
+album = 'Febris / Felidae / Filum'
+listened_at = '2023-01-10T14:18:39Z'
+
+[[tracks]]
+name = 'Garden of Eden'
+artist = 'Airghoul'
+album = 'Deceptio'
+listened_at = '2023-01-10T14:17:35Z'
+
+[[tracks]]
+name = 'Valley of Tears'
+artist = 'Airghoul'
+album = 'Deceptio'
+listened_at = '2023-01-10T14:15:48Z'
+
+[[tracks]]
+name = 'The Snake'
+artist = 'Airghoul'
+album = 'Deceptio'
+listened_at = '2023-01-10T14:13:21Z'
+
+[[tracks]]
+name = 'Garden of Eden'
+artist = 'Airghoul'
+album = 'Deceptio'
+listened_at = '2023-01-10T14:11:53Z'
+
+[[tracks]]
+name = 'Cold Lights'
+artist = 'The Birthday Massacre'
+album = 'Fascination'
+listened_at = '2023-01-09T23:33:26Z'
+
+[[tracks]]
 name = 'Dreams of You'
 artist = 'The Birthday Massacre'
 album = 'Fascination'
