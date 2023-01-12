@@ -1,4 +1,376 @@
 [[tracks]]
+name = 'Verweilen'
+artist = '''Paysage d'Hiver'''
+album = 'Im Wald'
+listened_at = '2023-01-12T18:02:23Z'
+
+[[tracks]]
+name = 'Intro'
+artist = 'Ellende'
+album = 'Lebensnehmer'
+listened_at = '2023-01-12T18:00:26Z'
+
+[[tracks]]
+name = 'Along the Waves'
+artist = 'Skyforest'
+album = 'A New Dawn'
+listened_at = '2023-01-12T17:52:24Z'
+
+[[tracks]]
+name = 'The White'
+artist = 'Heretoir'
+album = 'The Circle'
+listened_at = '2023-01-12T17:47:58Z'
+
+[[tracks]]
+name = 'Forever In Memories (Instrumental)'
+artist = 'Nordicwinter'
+album = 'Beneath the Fleeting Light'
+listened_at = '2023-01-12T17:44:55Z'
+
+[[tracks]]
+name = 'Vtrata'
+artist = 'svrm'
+album = 'Lykhiyi Vitry Stognut Bez Upynu'
+listened_at = '2023-01-12T17:43:35Z'
+
+[[tracks]]
+name = 'Warm Quiet Centuries of Rains'
+artist = 'Falls of Rauros'
+album = 'Vigilance Perennial'
+listened_at = '2023-01-12T17:41:17Z'
+
+[[tracks]]
+name = 'Dreamy Forests'
+artist = 'Nebula Orionis'
+album = 'Summer'
+listened_at = '2023-01-12T17:36:19Z'
+
+[[tracks]]
+name = 'Ageless River V'
+artist = 'Olhava'
+album = 'Ladoga'
+listened_at = '2023-01-12T17:33:15Z'
+
+[[tracks]]
+name = 'He knew and did not know'
+artist = 'Ultha'
+album = 'All That Has Never Been True'
+listened_at = '2023-01-12T17:30:08Z'
+
+[[tracks]]
+name = 'Song 64'
+artist = 'Dubdelay'
+album = 'Song 64'
+listened_at = '2023-01-12T17:29:04Z'
+
+[[tracks]]
+name = 'VII'
+artist = 'Tardigrada'
+album = 'Vom Bruch bis zur Freiheit'
+listened_at = '2023-01-12T17:27:19Z'
+
+[[tracks]]
+name = 'Cronus'
+artist = 'White Ward'
+album = 'False Light'
+listened_at = '2023-01-12T17:20:58Z'
+
+[[tracks]]
+name = 'Forever Always Comes To An End'
+artist = 'Ultha'
+album = 'Floors Of Heaven'
+listened_at = '2023-01-12T17:16:15Z'
+
+[[tracks]]
+name = 'De Dunkli Ort'
+artist = 'ATEIGGÄR'
+album = 'Tyrannemord'
+listened_at = '2023-01-12T17:14:43Z'
+
+[[tracks]]
+name = 'Glemsomhedens elv'
+artist = 'Afsky'
+album = 'Sorg'
+listened_at = '2023-01-12T17:13:19Z'
+
+[[tracks]]
+name = 'Alkusointu'
+artist = 'Vermilia'
+album = 'Ruska'
+listened_at = '2023-01-12T17:11:22Z'
+
+[[tracks]]
+name = 'II'
+artist = 'Turia'
+album = 'Degen van Licht'
+listened_at = '2023-01-12T17:08:38Z'
+
+[[tracks]]
+name = 'A Solemn Initiation'
+artist = 'Sunken'
+album = 'Departure'
+listened_at = '2023-01-12T17:05:39Z'
+
+[[tracks]]
+name = 'Chapter IV: Interlude - "Mists of Oneiros"'
+artist = 'Pestilent Hex'
+album = 'The Ashen Abhorrence'
+listened_at = '2023-01-12T17:03:20Z'
+
+[[tracks]]
+name = 'I'
+artist = 'Tardigrada'
+album = 'Emotionale Ödnis'
+listened_at = '2023-01-12T17:00:59Z'
+
+[[tracks]]
+name = 'Balnaa-Kheil the Bleak'
+artist = 'The Ruins of Beverast'
+album = 'Rain Upon the Impure'
+listened_at = '2023-01-12T16:58:56Z'
+
+[[tracks]]
+name = 'Aargesang - Aare II'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-01-12T16:53:29Z'
+
+[[tracks]]
+name = 'Introspection I'
+artist = 'Tómarúm'
+album = 'Ash in Realms of Stone Icons'
+listened_at = '2023-01-12T16:50:59Z'
+
+[[tracks]]
+name = 'Opus Cælestis'
+artist = 'Funeral Harvest'
+album = 'Redemptio'
+listened_at = '2023-01-12T16:49:13Z'
+
+[[tracks]]
+name = 'Pustyr'
+artist = 'svrm'
+album = 'Rozpad'
+listened_at = '2023-01-12T16:47:11Z'
+
+[[tracks]]
+name = 'V'
+artist = 'Tardigrada'
+album = 'Emotionale Ödnis'
+listened_at = '2023-01-12T16:45:14Z'
+
+[[tracks]]
+name = 'Birth'
+artist = 'Unreqvited'
+album = 'Disquiet'
+listened_at = '2023-01-12T16:42:29Z'
+
+[[tracks]]
+name = 'Fragments'
+artist = 'A Light in the Dark'
+album = 'Insomnia'
+listened_at = '2023-01-12T16:37:46Z'
+
+[[tracks]]
+name = 'Merging Within Nothingness'
+artist = 'Epitaphe'
+album = 'Epitaphe II'
+listened_at = '2023-01-12T16:35:00Z'
+
+[[tracks]]
+name = 'VIII'
+artist = 'Tardigrada'
+album = 'Vom Bruch bis zur Freiheit'
+listened_at = '2023-01-12T16:33:32Z'
+
+[[tracks]]
+name = 'The Fear (Interlude)'
+artist = 'Panzerfaust'
+album = 'The Suns of Perdition - Chapter III: The Astral Drain'
+listened_at = '2023-01-12T16:27:52Z'
+
+[[tracks]]
+name = 'Nocebo'
+artist = 'Numenorean'
+album = 'Adore'
+listened_at = '2023-01-12T16:25:19Z'
+
+[[tracks]]
+name = 'III'
+artist = 'Tardigrada'
+album = 'Emotionale Ödnis'
+listened_at = '2023-01-12T16:23:19Z'
+
+[[tracks]]
+name = 'Geilt'
+artist = 'Ante-Inferno'
+album = 'A Dream of the Devil'
+listened_at = '2023-01-12T16:21:22Z'
+
+[[tracks]]
+name = 'Bevezetõ'
+artist = 'Autumn Nostalgie'
+album = 'Ataraxia'
+listened_at = '2023-01-12T16:20:03Z'
+
+[[tracks]]
+name = 'Cotard'
+artist = 'Enisum'
+album = '''Moth's Illusion'''
+listened_at = '2023-01-12T16:18:12Z'
+
+[[tracks]]
+name = 'Ageless River II'
+artist = 'Olhava'
+album = 'Ladoga'
+listened_at = '2023-01-12T16:17:11Z'
+
+[[tracks]]
+name = 'Decaying Virtualities Yearn For Asymptopia'
+artist = 'Inferno'
+album = 'PARADEIGMA (Phosphenes of Aphotic Eternity)'
+listened_at = '2023-01-12T16:16:09Z'
+
+[[tracks]]
+name = 'Nonesuch River Chant'
+artist = 'Falls of Rauros'
+album = 'The Light That Dwells in Rotten Wood'
+listened_at = '2023-01-12T16:14:32Z'
+
+[[tracks]]
+name = 'Untenkutoja'
+artist = 'Moonlight Sorcery'
+album = 'Piercing Through The Frozen Eternity'
+listened_at = '2023-01-12T16:13:27Z'
+
+[[tracks]]
+name = 'II'
+artist = 'Tardigrada'
+album = 'Emotionale Ödnis'
+listened_at = '2023-01-12T16:11:41Z'
+
+[[tracks]]
+name = 'Erebus'
+artist = 'Vanum'
+album = 'Ageless Fire'
+listened_at = '2023-01-12T16:09:55Z'
+
+[[tracks]]
+name = 'Alpha'
+artist = 'Heretoir'
+album = 'The Circle'
+listened_at = '2023-01-12T16:08:09Z'
+
+[[tracks]]
+name = 'Fane'
+artist = 'Ante-Inferno'
+album = 'Fane'
+listened_at = '2023-01-12T16:07:03Z'
+
+[[tracks]]
+name = 'XXVI'
+artist = 'Negativa'
+album = '04'
+listened_at = '2023-01-12T16:04:57Z'
+
+[[tracks]]
+name = 'Ansiedad'
+artist = 'A Rose Dying In The Rain'
+album = 'Ausencia'
+listened_at = '2023-01-12T16:03:17Z'
+
+[[tracks]]
+name = 'Prologue'
+artist = 'Autumn Nostalgie'
+album = 'Esse Est Percipi'
+listened_at = '2023-01-12T16:01:39Z'
+
+[[tracks]]
+name = 'Forlist'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-01-12T16:00:05Z'
+
+[[tracks]]
+name = 'Odal II (Interludium)'
+artist = 'Nahtrunar'
+album = 'Wolfsstunde'
+listened_at = '2023-01-12T15:58:08Z'
+
+[[tracks]]
+name = 'Solemn Repose (Instrumental)'
+artist = 'Nordicwinter'
+album = 'Beneath the Fleeting Light'
+listened_at = '2023-01-12T15:56:25Z'
+
+[[tracks]]
+name = 'A Lullaby To A Dying World'
+artist = 'Ante-Inferno'
+album = 'Antediluvian Dreamscapes'
+listened_at = '2023-01-12T15:54:16Z'
+
+[[tracks]]
+name = 'Virtus Tenebris'
+artist = 'Warmoon Lord'
+album = 'Battlespells'
+listened_at = '2023-01-12T15:51:44Z'
+
+[[tracks]]
+name = 'IV'
+artist = 'Tardigrada'
+album = 'Emotionale Ödnis'
+listened_at = '2023-01-12T15:50:40Z'
+
+[[tracks]]
+name = 'Shadowed Waters'
+artist = 'Ante-Inferno'
+album = 'Antediluvian Dreamscapes'
+listened_at = '2023-01-12T15:49:22Z'
+
+[[tracks]]
+name = 'Rapture'
+artist = 'The Ruins of Beverast'
+album = 'Rain Upon the Impure'
+listened_at = '2023-01-12T15:48:06Z'
+
+[[tracks]]
+name = 'Зовёт меня'
+artist = 'Рожь'
+album = 'Всё'
+listened_at = '2023-01-12T15:46:26Z'
+
+[[tracks]]
+name = 'Wildfire'
+artist = 'Periphery'
+album = 'Wildfire / Zagreus'
+listened_at = '2023-01-12T15:38:20Z'
+
+[[tracks]]
+name = 'Too Many Nights (feat. Don Toliver & with Future)'
+artist = 'Metro Boomin'
+album = 'Heroes & Villains'
+listened_at = '2023-01-12T15:35:21Z'
+
+[[tracks]]
+name = 'Superhero (Heroes & Villains) [with Future & Chris Brown]'
+artist = 'Metro Boomin'
+album = 'Heroes & Villains'
+listened_at = '2023-01-12T15:32:18Z'
+
+[[tracks]]
+name = 'On Time (with John Legend)'
+artist = 'Metro Boomin'
+album = 'Heroes & Villains'
+listened_at = '2023-01-12T15:29:30Z'
+
+[[tracks]]
+name = 'Black Mountain'
+artist = 'Hiroe'
+album = 'Wrought'
+listened_at = '2023-01-12T05:20:58Z'
+
+[[tracks]]
 name = 'Everything Is Fine'
 artist = 'Hiroe'
 album = 'Wrought'
