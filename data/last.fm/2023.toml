@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Frozen Bloom I'
+artist = 'Olhava'
+album = 'Frozen Bloom'
+listened_at = '2023-01-13T16:41:12Z'
+
+[[tracks]]
+name = 'Adrift'
+artist = 'Olhava'
+album = 'Frozen Bloom'
+listened_at = '2023-01-13T16:33:30Z'
+
+[[tracks]]
+name = 'The Queen Of Fields'
+artist = 'Olhava'
+album = 'Frozen Bloom'
+listened_at = '2023-01-13T16:10:07Z'
+
+[[tracks]]
+name = 'Old Woods'
+artist = 'Hermóðr'
+album = 'The Heart of the Frozen Woods'
+listened_at = '2023-01-13T16:01:02Z'
+
+[[tracks]]
+name = 'Frozen Silence'
+artist = 'Hermóðr'
+album = 'The Heart of the Frozen Woods'
+listened_at = '2023-01-13T15:44:56Z'
+
+[[tracks]]
+name = 'Heart of solitude'
+artist = 'Hermóðr'
+album = 'The Heart of the Frozen Woods'
+listened_at = '2023-01-13T15:27:31Z'
+
+[[tracks]]
+name = 'War Spirit'
+artist = 'Hermóðr'
+album = 'The Heart of the Frozen Woods'
+listened_at = '2023-01-13T15:09:07Z'
+
+[[tracks]]
+name = 'Old Woods'
+artist = 'Hermóðr'
+album = 'The Heart of the Frozen Woods'
+listened_at = '2023-01-13T14:54:09Z'
+
+[[tracks]]
 name = 'Phantasmagorie'
 artist = 'Aara'
 album = 'Triade II : Hemera'
