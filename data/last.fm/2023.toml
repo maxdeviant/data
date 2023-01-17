@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Gossamer'
+artist = 'Sink'
+album = 'Gossamer'
+listened_at = '2023-01-17T20:21:35Z'
+
+[[tracks]]
+name = 'Last Daze - Funland Mix'
+artist = 'Left Spine Down'
+album = 'Voltage 2.3: Remixed And Revisited'
+listened_at = '2023-01-17T20:17:52Z'
+
+[[tracks]]
+name = 'Bitter End'
+artist = 'CHVRCHES'
+album = 'Screen Violence: Director’s Cut'
+listened_at = '2023-01-17T17:24:09Z'
+
+[[tracks]]
 name = 'Be On Your Way'
 artist = 'Daughter'
 album = 'Be On Your Way'
