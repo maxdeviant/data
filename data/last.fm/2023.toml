@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Left to Bleed'
+artist = 'Bebopovsky And The Orkestry Podyezdov'
+album = 'Roses Like Dead Hearts'
+listened_at = '2023-01-18T14:58:06Z'
+
+[[tracks]]
+name = 'The Way of Drifter'
+artist = 'Bebopovsky And The Orkestry Podyezdov'
+album = 'Roses Like Dead Hearts'
+listened_at = '2023-01-18T14:54:49Z'
+
+[[tracks]]
+name = 'Roses Like Dead Hearts'
+artist = 'Bebopovsky And The Orkestry Podyezdov'
+album = 'Roses Like Dead Hearts'
+listened_at = '2023-01-18T14:51:29Z'
+
+[[tracks]]
+name = 'Gossamer'
+artist = 'Sink'
+album = 'Gossamer'
+listened_at = '2023-01-18T14:44:53Z'
+
+[[tracks]]
+name = 'Last Daze - Funland Mix'
+artist = 'Left Spine Down'
+album = 'Voltage 2.3: Remixed And Revisited'
+listened_at = '2023-01-18T14:41:10Z'
+
+[[tracks]]
+name = 'Bitter End'
+artist = 'CHVRCHES'
+album = 'Screen Violence: Director’s Cut'
+listened_at = '2023-01-18T14:36:33Z'
+
+[[tracks]]
 name = 'Stezhka'
 artist = 'Zavoloka'
 album = 'Amulet'
