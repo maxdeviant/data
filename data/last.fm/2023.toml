@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Vanity'
+artist = 'The Last Sighs Of The Wind'
+album = 'We Are Trees'
+listened_at = '2023-01-18T18:34:06Z'
+
+[[tracks]]
+name = 'Phobia'
+artist = 'The Last Sighs Of The Wind'
+album = 'We Are Trees'
+listened_at = '2023-01-18T18:29:41Z'
+
+[[tracks]]
+name = 'Euphoria'
+artist = 'The Last Sighs Of The Wind'
+album = 'We Are Trees'
+listened_at = '2023-01-18T18:25:12Z'
+
+[[tracks]]
+name = '''Bird's Song'''
+artist = 'The Last Sighs Of The Wind'
+album = 'We Are Trees'
+listened_at = '2023-01-18T18:21:06Z'
+
+[[tracks]]
+name = 'New Horizons'
+artist = 'The Last Sighs Of The Wind'
+album = 'We Are Trees'
+listened_at = '2023-01-18T18:16:11Z'
+
+[[tracks]]
+name = 'The Return of Thunder'
+artist = 'The Last Sighs Of The Wind'
+album = 'We Are Trees'
+listened_at = '2023-01-18T18:10:05Z'
+
+[[tracks]]
+name = 'Despair'
+artist = 'The Last Sighs Of The Wind'
+album = 'We Are Trees'
+listened_at = '2023-01-18T18:04:53Z'
+
+[[tracks]]
+name = 'Anxiety'
+artist = 'The Last Sighs Of The Wind'
+album = 'We Are Trees'
+listened_at = '2023-01-18T18:01:06Z'
+
+[[tracks]]
 name = 'Your Wave Caresses Me'
 artist = 'The Last Sighs Of The Wind'
 album = 'We Are Trees'
