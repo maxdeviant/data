@@ -1,4 +1,148 @@
 [[tracks]]
+name = 'Stezhka'
+artist = 'Zavoloka'
+album = 'Amulet'
+listened_at = '2023-01-17T23:23:43Z'
+
+[[tracks]]
+name = 'The Dissociation Song'
+artist = 'Desmond Doom'
+album = 'Surf - Goth'
+listened_at = '2023-01-17T23:19:33Z'
+
+[[tracks]]
+name = 'Midnight Walk and Reminiscences of Necromancy'
+artist = 'Ultar'
+album = 'At The Gates of Dusk'
+listened_at = '2023-01-17T23:13:13Z'
+
+[[tracks]]
+name = 'Pulse'
+artist = 'Keyan'
+album = 'Pulse'
+listened_at = '2023-01-17T23:09:31Z'
+
+[[tracks]]
+name = 'Barking Dog'
+artist = 'Dizzy'
+album = 'Barking Dog'
+listened_at = '2023-01-17T23:06:23Z'
+
+[[tracks]]
+name = 'Rats'
+artist = 'Mr.Kitty'
+album = 'TIME'
+listened_at = '2023-01-17T23:02:54Z'
+
+[[tracks]]
+name = 'The Tower'
+artist = 'Aleah'
+album = 'Aleah'
+listened_at = '2023-01-17T22:57:30Z'
+
+[[tracks]]
+name = 'Cross the Line'
+artist = 'Nightlane'
+album = 'Cross the Line'
+listened_at = '2023-01-17T22:53:53Z'
+
+[[tracks]]
+name = 'And Over The Ashes I Shall Reign'
+artist = 'King Stephen'
+album = 'Kingdom'
+listened_at = '2023-01-17T22:48:08Z'
+
+[[tracks]]
+name = 'Narc'
+artist = 'Cutouts'
+album = 'Narc'
+listened_at = '2023-01-17T22:45:23Z'
+
+[[tracks]]
+name = 'Grow'
+artist = 'Patchnotes'
+album = 'Grow'
+listened_at = '2023-01-17T22:41:07Z'
+
+[[tracks]]
+name = 'Coldharbour'
+artist = 'Daedric'
+album = 'Coldharbour'
+listened_at = '2023-01-17T22:38:05Z'
+
+[[tracks]]
+name = 'Trainwreck'
+artist = 'Kailee Morgue'
+album = 'Girl Next Door'
+listened_at = '2023-01-17T22:35:33Z'
+
+[[tracks]]
+name = 'A Signal in the Noise'
+artist = 'Priest'
+album = 'Body Machine'
+listened_at = '2023-01-17T22:30:34Z'
+
+[[tracks]]
+name = 'Dark Sun'
+artist = 'Dayseeker'
+album = 'Dark Sun'
+listened_at = '2023-01-17T22:26:55Z'
+
+[[tracks]]
+name = 'Where the Clouds End'
+artist = 'I Feel Fine'
+album = 'The Cold in Every Shelter'
+listened_at = '2023-01-17T22:24:33Z'
+
+[[tracks]]
+name = 'We Who Lament'
+artist = 'Earthside'
+album = 'We Who Lament'
+listened_at = '2023-01-17T22:15:44Z'
+
+[[tracks]]
+name = 'Feed The Dream'
+artist = 'Castle Rat'
+album = 'Feed The Dream'
+listened_at = '2023-01-17T22:11:13Z'
+
+[[tracks]]
+name = 'Ambrosia'
+artist = 'Ari Mason'
+album = 'Prodrome'
+listened_at = '2023-01-17T22:08:31Z'
+
+[[tracks]]
+name = 'SLOW DANCING IN THE DARK'
+artist = 'Galleons'
+album = 'SLOW DANCING IN THE DARK'
+listened_at = '2023-01-17T22:04:00Z'
+
+[[tracks]]
+name = 'Gossamer'
+artist = 'Sink'
+album = 'Gossamer'
+listened_at = '2023-01-17T21:59:26Z'
+
+[[tracks]]
+name = 'Last Daze - Funland Mix'
+artist = 'Left Spine Down'
+album = 'Voltage 2.3: Remixed And Revisited'
+listened_at = '2023-01-17T21:55:43Z'
+
+[[tracks]]
+name = 'Bitter End'
+artist = 'CHVRCHES'
+album = 'Screen Violence: Director’s Cut'
+listened_at = '2023-01-17T21:51:06Z'
+
+[[tracks]]
+name = 'SLOW DANCING IN THE DARK'
+artist = 'Galleons'
+album = 'SLOW DANCING IN THE DARK'
+listened_at = '2023-01-17T20:26:09Z'
+
+[[tracks]]
 name = 'Gossamer'
 artist = 'Sink'
 album = 'Gossamer'
