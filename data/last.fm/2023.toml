@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Avstånd'
+artist = 'Sagor Som Leder Mot Slutet'
+album = 'III'
+listened_at = '2023-01-19T14:18:39Z'
+
+[[tracks]]
+name = 'Holocene'
+artist = 'Release The Long Ships'
+album = 'Holocene'
+listened_at = '2023-01-19T03:21:45Z'
+
+[[tracks]]
 name = 'Gathering'
 artist = 'Ijdelheid'
 album = 'Unholy'
