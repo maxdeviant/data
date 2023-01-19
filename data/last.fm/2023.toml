@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Gathering'
+artist = 'Ijdelheid'
+album = 'Unholy'
+listened_at = '2023-01-19T03:18:48Z'
+
+[[tracks]]
+name = 'Sadism'
+artist = 'Ijdelheid'
+album = 'Unholy'
+listened_at = '2023-01-19T03:15:59Z'
+
+[[tracks]]
+name = 'once more from that frozen bottom'
+artist = 'Jambinai'
+album = 'Apparition'
+listened_at = '2023-01-19T02:23:21Z'
+
+[[tracks]]
+name = 'Astra'
+artist = 'Sagor Som Leder Mot Slutet'
+album = 'III'
+listened_at = '2023-01-19T02:13:26Z'
+
+[[tracks]]
+name = 'Solaris'
+artist = 'Sagor Som Leder Mot Slutet'
+album = 'III'
+listened_at = '2023-01-19T02:06:06Z'
+
+[[tracks]]
+name = 'Avstånd'
+artist = 'Sagor Som Leder Mot Slutet'
+album = 'III'
+listened_at = '2023-01-19T01:54:54Z'
+
+[[tracks]]
+name = 'Eter'
+artist = 'Sagor Som Leder Mot Slutet'
+album = 'III'
+listened_at = '2023-01-18T23:32:31Z'
+
+[[tracks]]
 name = 'Tomhet'
 artist = 'Sagor Som Leder Mot Slutet'
 album = 'III'
