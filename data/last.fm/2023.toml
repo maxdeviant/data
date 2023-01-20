@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Granite'
+artist = 'Sleep Token'
+album = 'Aqua Regia'
+listened_at = '2023-01-20T20:39:20Z'
+
+[[tracks]]
+name = 'Aqua Regia'
+artist = 'Sleep Token'
+album = 'Aqua Regia'
+listened_at = '2023-01-20T20:35:24Z'
+
+[[tracks]]
+name = 'Chokehold'
+artist = 'Sleep Token'
+album = 'Aqua Regia'
+listened_at = '2023-01-20T20:30:19Z'
+
+[[tracks]]
+name = 'The Summoning'
+artist = 'Sleep Token'
+album = 'Aqua Regia'
+listened_at = '2023-01-20T20:23:43Z'
+
+[[tracks]]
+name = 'Granite'
+artist = 'Sleep Token'
+album = 'Aqua Regia'
+listened_at = '2023-01-20T19:51:22Z'
+
+[[tracks]]
+name = 'Aqua Regia'
+artist = 'Sleep Token'
+album = 'Aqua Regia'
+listened_at = '2023-01-20T19:47:27Z'
+
+[[tracks]]
 name = 'Mist Pillars'
 artist = 'Release The Long Ships'
 album = 'Wilderness'
