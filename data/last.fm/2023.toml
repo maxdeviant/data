@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'CONTAKT'
+artist = 'Kill Script'
+album = 'FIRST CONTAKT EP'
+listened_at = '2023-01-21T19:30:20Z'
+
+[[tracks]]
+name = 'Two Steps From Heaven'
+artist = 'I Hate Models'
+album = 'Disco Inferno 01'
+listened_at = '2023-01-21T19:20:53Z'
+
+[[tracks]]
+name = 'Jalek'
+artist = 'Ejeca'
+album = 'Contemplation'
+listened_at = '2023-01-21T19:14:59Z'
+
+[[tracks]]
+name = 'The Ocean'
+artist = 'aKKi (DE)'
+album = 'The Ocean'
+listened_at = '2023-01-21T19:07:59Z'
+
+[[tracks]]
+name = 'Walpurgis Night'
+artist = 'I Hate Models'
+album = 'Midnight Cults'
+listened_at = '2023-01-21T18:03:05Z'
+
+[[tracks]]
 name = 'Grey'
 artist = 'Kölsch'
 album = '1989'
