@@ -1,4 +1,88 @@
 [[tracks]]
+name = 'Grey'
+artist = 'Kölsch'
+album = '1989'
+listened_at = '2023-01-21T17:58:14Z'
+
+[[tracks]]
+name = 'Trauma - Worakls Remix'
+artist = 'NTO'
+album = 'Hungry 5 (The Best of 5 Years)'
+listened_at = '2023-01-21T17:15:17Z'
+
+[[tracks]]
+name = 'Planet X'
+artist = 'Space 92'
+album = 'Planet X'
+listened_at = '2023-01-21T17:11:28Z'
+
+[[tracks]]
+name = 'Hard & Bright Times'
+artist = 'Klanglos'
+album = 'Rise & Fall'
+listened_at = '2023-01-21T17:04:23Z'
+
+[[tracks]]
+name = 'For a Feeling (feat. RHODES) - Layton Giordani Remix'
+artist = 'CamelPhat'
+album = 'For a Feeling (feat. RHODES) [Layton Giordani Remix]'
+listened_at = '2023-01-21T16:56:19Z'
+
+[[tracks]]
+name = 'Moon Rocks'
+artist = 'Enrico Sangiuliano'
+album = 'Moon Rocks'
+listened_at = '2023-01-21T16:48:45Z'
+
+[[tracks]]
+name = 'Rave'
+artist = 'Sam Paganini'
+album = 'Satellite'
+listened_at = '2023-01-21T16:41:59Z'
+
+[[tracks]]
+name = 'Surreal'
+artist = 'Julian Wassermann'
+album = 'Elysion'
+listened_at = '2023-01-21T16:33:44Z'
+
+[[tracks]]
+name = 'Groovy Filth - Original Mix'
+artist = 'Maksim Dark'
+album = 'Groovy Filth'
+listened_at = '2023-01-21T16:26:41Z'
+
+[[tracks]]
+name = 'Epoque'
+artist = 'Joris Delacroix'
+album = 'Night Visions'
+listened_at = '2023-01-21T16:19:41Z'
+
+[[tracks]]
+name = 'Cosmic Ratio'
+artist = 'Enrico Sangiuliano'
+album = 'Biomorph'
+listened_at = '2023-01-21T16:12:57Z'
+
+[[tracks]]
+name = 'Symbiosis'
+artist = 'Enrico Sangiuliano'
+album = 'Biomorph'
+listened_at = '2023-01-21T16:04:03Z'
+
+[[tracks]]
+name = 'Aphrodite'
+artist = 'Township Rebellion'
+album = 'Township Rebellion, Marc Holstege'
+listened_at = '2023-01-21T15:55:29Z'
+
+[[tracks]]
+name = 'Shoegaze Rave'
+artist = 'Violet Cold'
+album = 'Səni Uzaq Kainatlarda Axtarıram'
+listened_at = '2023-01-21T14:27:47Z'
+
+[[tracks]]
 name = 'The Summoning'
 artist = 'Sleep Token'
 album = 'Aqua Regia'
