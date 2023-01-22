@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Symbiosis'
+artist = 'Enrico Sangiuliano'
+album = 'Biomorph'
+listened_at = '2023-01-21T21:58:09Z'
+
+[[tracks]]
+name = 'Aphrodite'
+artist = 'Township Rebellion'
+album = 'Township Rebellion, Marc Holstege'
+listened_at = '2023-01-21T19:36:45Z'
+
+[[tracks]]
 name = 'CONTAKT'
 artist = 'Kill Script'
 album = 'FIRST CONTAKT EP'
