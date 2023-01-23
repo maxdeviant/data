@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Dark Haired Girls'
+artist = 'Tor Lundvall'
+album = 'A Dark Place (Expanded)'
+listened_at = '2023-01-23T14:42:49Z'
+
+[[tracks]]
+name = 'Curse'
+artist = 'Snow Ghosts'
+album = 'Curse'
+listened_at = '2023-01-23T14:38:38Z'
+
+[[tracks]]
+name = 'Shazam The Void'
+artist = 'Violet Cold'
+album = 'Shazam the Void'
+listened_at = '2023-01-23T14:34:23Z'
+
+[[tracks]]
+name = 'Ghost'
+artist = 'Sleeping Wolf'
+album = 'Ghost'
+listened_at = '2023-01-23T02:23:45Z'
+
+[[tracks]]
 name = 'Dreaming'
 artist = 'Sleeping Wolf'
 album = 'The Dark'
