@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Dreaming'
+artist = 'Sleeping Wolf'
+album = 'The Dark'
+listened_at = '2023-01-23T02:20:40Z'
+
+[[tracks]]
+name = 'The Girl'
+artist = 'City and Colour'
+album = 'Bring Me Your Love (Special Edition)'
+listened_at = '2023-01-23T02:15:51Z'
+
+[[tracks]]
+name = 'Follow You Down'
+artist = 'Lights'
+album = 'Midnight Machines'
+listened_at = '2023-01-23T02:11:07Z'
+
+[[tracks]]
+name = 'Ready For You'
+artist = 'Hunter Hunted'
+album = 'Ready For You'
+listened_at = '2023-01-23T02:07:42Z'
+
+[[tracks]]
+name = 'Water'
+artist = 'Blvck Ceiling'
+album = 'She Drowned'
+listened_at = '2023-01-22T22:56:43Z'
+
+[[tracks]]
 name = 'French Toast'
 artist = 'Blvck Ceiling'
 album = 'She Drowned'
