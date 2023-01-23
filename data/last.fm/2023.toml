@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'French Toast'
+artist = 'Blvck Ceiling'
+album = 'She Drowned'
+listened_at = '2023-01-22T22:54:04Z'
+
+[[tracks]]
+name = 'Not Another Rockstar'
+artist = 'Maisie Peters'
+album = 'Not Another Rockstar'
+listened_at = '2023-01-22T22:51:28Z'
+
+[[tracks]]
+name = 'I Really Fucked It Up'
+artist = 'GIRLI'
+album = 'I Really F**ked It Up'
+listened_at = '2023-01-22T22:48:42Z'
+
+[[tracks]]
+name = 'You Can Do It'
+artist = 'Krishtina Adhikari'
+album = 'You Can Do It'
+listened_at = '2023-01-22T22:46:36Z'
+
+[[tracks]]
+name = 'R0CKST4RS'
+artist = 'GEISTHA'
+album = 'starchild'
+listened_at = '2023-01-22T22:44:01Z'
+
+[[tracks]]
+name = 'Best Day'
+artist = 'Hannah Cole'
+album = 'Best Day'
+listened_at = '2023-01-22T22:40:08Z'
+
+[[tracks]]
+name = 'SLAY!'
+artist = 'GEISTHA'
+album = 'starchild'
+listened_at = '2023-01-22T01:01:34Z'
+
+[[tracks]]
 name = '<cyberghosts>'
 artist = 'GEISTHA'
 album = 'starchild'
