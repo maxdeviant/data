@@ -1,4 +1,100 @@
 [[tracks]]
+name = 'You Can Do It'
+artist = 'Krishtina Adhikari'
+album = 'You Can Do It'
+listened_at = '2023-01-25T03:00:20Z'
+
+[[tracks]]
+name = 'R0CKST4RS'
+artist = 'GEISTHA'
+album = 'starchild'
+listened_at = '2023-01-25T02:57:46Z'
+
+[[tracks]]
+name = 'Best Day'
+artist = 'Hannah Cole'
+album = 'Best Day'
+listened_at = '2023-01-25T02:53:52Z'
+
+[[tracks]]
+name = 'Shazam The Void'
+artist = 'Violet Cold'
+album = 'Shazam the Void'
+listened_at = '2023-01-25T02:49:52Z'
+
+[[tracks]]
+name = 'Boiled Frogs'
+artist = 'Alexisonfire'
+album = 'Crisis'
+listened_at = '2023-01-25T02:46:09Z'
+
+[[tracks]]
+name = 'Rave'
+artist = 'Sam Paganini'
+album = 'Satellite'
+listened_at = '2023-01-25T02:15:06Z'
+
+[[tracks]]
+name = 'Surreal'
+artist = 'Julian Wassermann'
+album = 'Elysion'
+listened_at = '2023-01-25T02:06:51Z'
+
+[[tracks]]
+name = 'Groovy Filth - Original Mix'
+artist = 'Maksim Dark'
+album = 'Groovy Filth'
+listened_at = '2023-01-25T01:59:49Z'
+
+[[tracks]]
+name = 'Epoque'
+artist = 'Joris Delacroix'
+album = 'Night Visions'
+listened_at = '2023-01-25T01:52:49Z'
+
+[[tracks]]
+name = 'Cosmic Ratio'
+artist = 'Enrico Sangiuliano'
+album = 'Biomorph'
+listened_at = '2023-01-25T01:46:04Z'
+
+[[tracks]]
+name = 'Symbiosis'
+artist = 'Enrico Sangiuliano'
+album = 'Biomorph'
+listened_at = '2023-01-25T01:37:10Z'
+
+[[tracks]]
+name = 'Aphrodite'
+artist = 'Township Rebellion'
+album = 'Township Rebellion, Marc Holstege'
+listened_at = '2023-01-25T01:28:37Z'
+
+[[tracks]]
+name = 'The Revealer'
+artist = 'subtractiveLAD'
+album = 'Minor Deities'
+listened_at = '2023-01-25T01:20:18Z'
+
+[[tracks]]
+name = 'Best Laid Plans'
+artist = 'subtractiveLAD'
+album = 'Minor Deities'
+listened_at = '2023-01-25T01:15:08Z'
+
+[[tracks]]
+name = 'The Fires of Night'
+artist = 'subtractiveLAD'
+album = 'Minor Deities'
+listened_at = '2023-01-25T01:05:37Z'
+
+[[tracks]]
+name = 'Mountain-Dweller'
+artist = 'subtractiveLAD'
+album = 'Minor Deities'
+listened_at = '2023-01-24T22:53:32Z'
+
+[[tracks]]
 name = 'More Beautiful Than Ever'
 artist = 'subtractiveLAD'
 album = 'Minor Deities'
