@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Le Temps Detruit Tout'
+artist = 'Nostalghia'
+album = '''Au milieu de l'hiver'''
+listened_at = '2023-01-29T20:51:19Z'
+
+[[tracks]]
+name = 'Elegy'
+artist = 'Nostalghia'
+album = '''Au milieu de l'hiver'''
+listened_at = '2023-01-29T20:39:57Z'
+
+[[tracks]]
+name = 'Phthonos II'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-01-29T20:32:50Z'
+
+[[tracks]]
+name = 'Phthonos II'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-01-29T20:26:05Z'
+
+[[tracks]]
+name = 'Phthonos I'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-01-29T20:21:49Z'
+
+[[tracks]]
+name = 'To The Other Shore Of The Night'
+artist = 'Ultha'
+album = 'Forget Everything And Remember - The Lost And Obscure'
+listened_at = '2023-01-29T20:12:37Z'
+
+[[tracks]]
+name = 'Forever Always Comes To An End'
+artist = 'Ultha'
+album = 'Forget Everything And Remember - The Lost And Obscure'
+listened_at = '2023-01-29T20:07:56Z'
+
+[[tracks]]
+name = 'Wild Find'
+artist = 'Breakfast'
+album = 'Morning Ambience'
+listened_at = '2023-01-28T20:37:33Z'
+
+[[tracks]]
 name = 'Tabu Soru (FYHYM2022)'
 artist = 'Richard Durand'
 album = 'Find Your Harmony Radio Year Mix 2022'
