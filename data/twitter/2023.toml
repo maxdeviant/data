@@ -1,4 +1,192 @@
 [[tweets]]
+id = 1615927350415482882
+created_at = '2023-01-19T04:21:17Z'
+text = '@skooookum @Jonathan_Blow Was probably trying to liberate himself from the von Neumann style'
+
+[tweets.in_reply_to]
+status_id = 1615755389596798976
+user_id = 1480199691639873544
+user_name = 'skooookum'
+
+[[tweets]]
+id = 1614615889533612035
+created_at = '2023-01-15T13:30:00Z'
+text = '@kdy1dev On the latter point: https://t.co/jAFyHRdReZ'
+[[tweets.entities.urls]]
+display_url = 'maxdeviant.com/posts/2020/why…'
+expanded_url = 'https://maxdeviant.com/posts/2020/why-i-dislike-vb-net/#lax-compiler-defaults'
+url = 'https://t.co/jAFyHRdReZ'
+
+[tweets.in_reply_to]
+status_id = 1614615709471875075
+user_id = 36209210
+user_name = 'maxdeviant'
+
+[[tweets]]
+id = 1614615709471875075
+created_at = '2023-01-15T13:29:17Z'
+text = '''
+@kdy1dev I couldn’t agree more!
+
+Especially when the defaults are bad and it’s easy to forget to turn on some important safety checks.
+
+At least TypeScript makes it easy to extend a base config. Can’t say the same for when I used to work with https://t.co/9w8VrqPv3b 😒'''
+[[tweets.entities.urls]]
+display_url = 'VB.NET'
+expanded_url = 'http://VB.NET'
+url = 'https://t.co/9w8VrqPv3b'
+
+[tweets.in_reply_to]
+status_id = 1614603145702936578
+user_id = 716328412042756096
+user_name = 'kdy1dev'
+
+[[tweets]]
+id = 1614614854874062848
+created_at = '2023-01-15T13:25:54Z'
+text = '''
+@mshirlaw @aarondjents @saarw On new projects I would definitely look into enabling `--exactOptionalPropertyTypes`.
+
+This one I don’t have any experience using, as introducing it in a large, existing codebase would be a decent bit of work.
+
+https://t.co/g3ESuuGmWR'''
+[[tweets.entities.urls]]
+display_url = 'typescriptlang.org/tsconfig#exact…'
+expanded_url = 'https://www.typescriptlang.org/tsconfig#exactOptionalPropertyTypes'
+url = 'https://t.co/g3ESuuGmWR'
+
+[tweets.in_reply_to]
+status_id = 1614614000024670208
+user_id = 36209210
+user_name = 'maxdeviant'
+
+[[tweets]]
+id = 1614614000024670208
+created_at = '2023-01-15T13:22:30Z'
+text = '''
+@mshirlaw @aarondjents @saarw Any of the strictness settings that aren’t already enabled as part of `strict` are good candidates.
+
+`--noFallthroughCasesInSwitch` is a must for me, as I’ve had bugs that did get shipped that it would have caught.
+
+https://t.co/W8XvC6eQTb'''
+[[tweets.entities.urls]]
+display_url = 'typescriptlang.org/tsconfig#noFal…'
+expanded_url = 'https://www.typescriptlang.org/tsconfig#noFallthroughCasesInSwitch'
+url = 'https://t.co/W8XvC6eQTb'
+
+[tweets.in_reply_to]
+status_id = 1614303741985054720
+user_id = 389817399
+user_name = 'mshirlaw'
+
+[[tweets]]
+id = 1614130455145582595
+created_at = '2023-01-14T05:21:04Z'
+text = '@jmduke I hope Telemachus has a good weekend as well!'
+
+[tweets.in_reply_to]
+status_id = 1614051586321403905
+user_id = 20491193
+user_name = 'jmduke'
+
+[[tweets]]
+id = 1614042959091060737
+created_at = '2023-01-13T23:33:23Z'
+text = '@aarondjents @saarw (and then also make `strict: true` the default 😄)'
+
+[tweets.in_reply_to]
+status_id = 1614042783576113152
+user_id = 36209210
+user_name = 'maxdeviant'
+
+[[tweets]]
+id = 1614042783576113152
+created_at = '2023-01-13T23:32:41Z'
+text = '''
+@aarondjents @saarw It really should be!
+
+I wish TypeScript had something similar to Rust's editions so that they could add more of the additional strictness options into `strict` by default.'''
+
+[tweets.in_reply_to]
+status_id = 1614031766582337538
+user_id = 2605899914
+user_name = 'aarondjents'
+
+[[tweets]]
+id = 1614030957287186432
+created_at = '2023-01-13T22:45:42Z'
+text = '''
+@aarondjents @saarw If you enable `--noUncheckedIndexedAccess` it should type `firstMeow` as `number | undefined` here.
+
+https://t.co/j4t54w3PeS'''
+[[tweets.entities.urls]]
+display_url = 'typescriptlang.org/tsconfig#noUnc…'
+expanded_url = 'https://www.typescriptlang.org/tsconfig#noUncheckedIndexedAccess'
+url = 'https://t.co/j4t54w3PeS'
+
+[tweets.in_reply_to]
+status_id = 1614021147020136449
+user_id = 2605899914
+user_name = 'aarondjents'
+
+[[tweets]]
+id = 1611133038183829505
+created_at = '2023-01-05T22:50:24Z'
+text = '''
+@newswim Oh, specifically the memory layout part!
+
+I was wondering why Andrew Kelley would be talking about code style in a talk on data-oriented design 😁'''
+
+[tweets.in_reply_to]
+status_id = 1610829171848261633
+user_id = 36209210
+user_name = 'maxdeviant'
+
+[[tweets]]
+id = 1610829171848261633
+created_at = '2023-01-05T02:42:56Z'
+text = '@newswim I haven’t seen this talk yet, but I’ll give it a watch!'
+
+[tweets.in_reply_to]
+status_id = 1610797825654231043
+user_id = 1115106086
+user_name = 'newswim'
+
+[[tweets]]
+id = 1610090702611816449
+created_at = '2023-01-03T01:48:32Z'
+text = '@ohhoe Sounds like a deal breaker, to me.'
+
+[tweets.in_reply_to]
+status_id = 1610081395371610118
+user_id = 2141321
+user_name = 'ohhoe'
+
+[[tweets]]
+id = 1609997587506921474
+created_at = '2023-01-02T19:38:31Z'
+text = '''
+Just published "Alphabetization Soup", wherein I discuss why you may (or may not) want to alphabetize certain constructs within your code:
+
+https://t.co/nUGV1Dtaxs'''
+[[tweets.entities.urls]]
+display_url = 'maxdeviant.com/posts/2023/alp…'
+expanded_url = 'https://maxdeviant.com/posts/2023/alphabetization-soup/'
+url = 'https://t.co/nUGV1Dtaxs'
+
+[[tweets]]
+id = 1609778860907761668
+created_at = '2023-01-02T05:09:23Z'
+text = '''
+Some goals for 2023:
+
+https://t.co/XE20EXGjQP'''
+[[tweets.entities.urls]]
+display_url = 'maxdeviant.com/shards/2023/he…'
+expanded_url = 'https://maxdeviant.com/shards/2023/hello-2023/'
+url = 'https://t.co/XE20EXGjQP'
+
+[[tweets]]
 id = 1609766149633228800
 created_at = '2023-01-02T04:18:52Z'
 text = '@brian_d_vaughn A tiling window manager'
