@@ -1,4 +1,14 @@
 [[tweets]]
+id = 1619842516567867392
+created_at = '2023-01-29T23:38:45Z'
+text = '@ChevyRay I’d totally forgotten about this movie until just now!'
+
+[tweets.in_reply_to]
+status_id = 1619524688459481088
+user_id = 55472734
+user_name = 'ChevyRay'
+
+[[tweets]]
 id = 1615927350415482882
 created_at = '2023-01-19T04:21:17Z'
 text = '@skooookum @Jonathan_Blow Was probably trying to liberate himself from the von Neumann style'
