@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'With Open Heart'
+artist = 'Soul Dissolution'
+album = 'SORA'
+listened_at = '2023-02-04T00:49:32Z'
+
+[[tracks]]
+name = 'The Absolving Tide'
+artist = 'Soul Dissolution'
+album = 'SORA'
+listened_at = '2023-02-04T00:41:27Z'
+
+[[tracks]]
+name = 'SORA III'
+artist = 'Soul Dissolution'
+album = 'SORA'
+listened_at = '2023-02-04T00:32:19Z'
+
+[[tracks]]
+name = 'SORA II'
+artist = 'Soul Dissolution'
+album = 'SORA'
+listened_at = '2023-02-04T00:26:36Z'
+
+[[tracks]]
+name = 'SORA I'
+artist = 'Soul Dissolution'
+album = 'SORA'
+listened_at = '2023-02-04T00:19:13Z'
+
+[[tracks]]
+name = 'National Anthem'
+artist = 'Lana Del Rey'
+album = 'Born To Die (Bonus Track Version)'
+listened_at = '2023-02-04T00:15:00Z'
+
+[[tracks]]
 name = 'March of the Defilers'
 artist = 'Malist'
 album = 'As I Become Darkness'
