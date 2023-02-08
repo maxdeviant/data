@@ -1,4 +1,124 @@
 [[tracks]]
+name = 'Mirror'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-02-08T17:27:42Z'
+
+[[tracks]]
+name = 'Dødslængsel'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-02-08T17:18:57Z'
+
+[[tracks]]
+name = 'Delirium'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-02-08T17:09:59Z'
+
+[[tracks]]
+name = 'Foragt'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-02-08T16:58:28Z'
+
+[[tracks]]
+name = 'Ensomhed'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-02-08T16:46:02Z'
+
+[[tracks]]
+name = 'Forlist'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-02-08T16:44:28Z'
+
+[[tracks]]
+name = 'Ghost Dance'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-02-08T16:40:06Z'
+
+[[tracks]]
+name = 'Face of the Sun'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-02-08T16:36:36Z'
+
+[[tracks]]
+name = 'Centaur'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-02-08T16:31:41Z'
+
+[[tracks]]
+name = 'Heart of Sky'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-02-08T16:27:48Z'
+
+[[tracks]]
+name = 'Telos'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-02-08T16:20:12Z'
+
+[[tracks]]
+name = 'Entelechie'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-02-08T16:14:13Z'
+
+[[tracks]]
+name = 'Aargesang - Aare II'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-02-08T16:08:47Z'
+
+[[tracks]]
+name = 'Stein auf Stein'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-02-08T16:03:00Z'
+
+[[tracks]]
+name = 'Arkanum'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-02-08T15:53:59Z'
+
+[[tracks]]
+name = 'Phthonos II'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-02-08T15:47:14Z'
+
+[[tracks]]
+name = 'Phthonos I'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-02-08T15:42:56Z'
+
+[[tracks]]
+name = 'Аминь'
+artist = 'Рожь'
+album = 'Всё'
+listened_at = '2023-02-08T15:28:27Z'
+
+[[tracks]]
+name = 'Навсегда'
+artist = 'Рожь'
+album = 'Всё'
+listened_at = '2023-02-08T15:15:42Z'
+
+[[tracks]]
+name = 'Зовёт меня'
+artist = 'Рожь'
+album = 'Всё'
+listened_at = '2023-02-07T23:35:24Z'
+
+[[tracks]]
 name = 'Истина'
 artist = 'Рожь'
 album = 'Всё'
