@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Evening Star'
+artist = 'Ultar'
+album = 'At The Gates of Dusk'
+listened_at = '2023-02-08T21:44:33Z'
+
+[[tracks]]
+name = 'Midnight Walk and Reminiscences of Necromancy'
+artist = 'Ultar'
+album = 'At The Gates of Dusk'
+listened_at = '2023-02-08T21:38:14Z'
+
+[[tracks]]
+name = 'Innsmouth'
+artist = 'Ultar'
+album = 'At The Gates of Dusk'
+listened_at = '2023-02-08T21:32:08Z'
+
+[[tracks]]
+name = 'Through the Golden Gates of Dawn'
+artist = 'Ultar'
+album = 'At The Gates of Dusk'
+listened_at = '2023-02-08T21:10:44Z'
+
+[[tracks]]
+name = 'Rats in the Walls'
+artist = 'Ultar'
+album = 'At The Gates of Dusk'
+listened_at = '2023-02-08T21:04:55Z'
+
+[[tracks]]
+name = 'My Rope'
+artist = 'Ultar'
+album = 'At The Gates of Dusk'
+listened_at = '2023-02-08T20:57:31Z'
+
+[[tracks]]
 name = 'Antiques'
 artist = 'Ultar'
 album = 'At The Gates of Dusk'
