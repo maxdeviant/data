@@ -1,4 +1,22 @@
 [[tracks]]
+name = '17 New Years'
+artist = 'Polyenso'
+album = 'EP1'
+listened_at = '2023-02-12T01:26:41Z'
+
+[[tracks]]
+name = 'Boiled Frogs'
+artist = 'Alexisonfire'
+album = 'Crisis'
+listened_at = '2023-02-12T00:23:34Z'
+
+[[tracks]]
+name = 'Matter'
+artist = 'Moderns'
+album = 'Moderns'
+listened_at = '2023-02-12T00:19:30Z'
+
+[[tracks]]
 name = 'Heartbreak Feels So Good'
 artist = 'Fall Out Boy'
 album = 'Heartbreak Feels So Good'
