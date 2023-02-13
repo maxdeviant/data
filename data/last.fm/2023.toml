@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Rude Boy'
+artist = 'Rihanna'
+album = 'Rated R'
+listened_at = '2023-02-13T03:56:16Z'
+
+[[tracks]]
+name = 'ROCKSTAR 101'
+artist = 'Rihanna'
+album = 'Rated R'
+listened_at = '2023-02-13T03:51:07Z'
+
+[[tracks]]
+name = 'Hard'
+artist = 'Rihanna'
+album = 'Rated R'
+listened_at = '2023-02-13T03:46:19Z'
+
+[[tracks]]
+name = 'Wait Your Turn'
+artist = 'Rihanna'
+album = 'Rated R'
+listened_at = '2023-02-13T03:42:44Z'
+
+[[tracks]]
 name = 'Televised'
 artist = 'Hunny'
 album = 'Windows I'
