@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Face of the Sun'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-02-14T01:53:27Z'
+
+[[tracks]]
+name = 'Centaur'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-02-14T01:48:33Z'
+
+[[tracks]]
+name = 'Heart of Sky'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-02-14T01:44:41Z'
+
+[[tracks]]
+name = 'Cathedral'
+artist = 'Yellow Eyes'
+album = '''Silence Threads The Evening's Cloth'''
+listened_at = '2023-02-13T23:47:16Z'
+
+[[tracks]]
 name = 'Origins'
 artist = 'Saor'
 album = 'Origins'
