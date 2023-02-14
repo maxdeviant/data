@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Dverima Noći'
+artist = 'Bròn'
+album = 'Pred dverima noći'
+listened_at = '2023-02-14T16:37:13Z'
+
+[[tracks]]
+name = 'Et Siste Skrik'
+artist = 'Syning'
+album = 'Syning'
+listened_at = '2023-02-14T16:32:25Z'
+
+[[tracks]]
+name = 'Atter Igjen Kommer Mørket Krypende'
+artist = 'Syning'
+album = 'Syning'
+listened_at = '2023-02-14T16:18:17Z'
+
+[[tracks]]
+name = 'Fortapt'
+artist = 'Syning'
+album = 'Syning'
+listened_at = '2023-02-14T16:11:39Z'
+
+[[tracks]]
+name = 'Et Siste Skrik'
+artist = 'Syning'
+album = 'Syning'
+listened_at = '2023-02-14T15:58:18Z'
+
+[[tracks]]
+name = 'Atter Igjen Kommer Mørket Krypende'
+artist = 'Syning'
+album = 'Syning'
+listened_at = '2023-02-14T15:44:12Z'
+
+[[tracks]]
 name = 'Face of the Sun'
 artist = 'Vital Spirit'
 album = 'In The Faith That Looks Through Death'
