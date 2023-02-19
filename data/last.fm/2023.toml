@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Caves'
+artist = 'Deposed King'
+album = '''One Man's Grief'''
+listened_at = '2023-02-19T14:56:51Z'
+
+[[tracks]]
+name = 'First Light'
+artist = 'Deposed King'
+album = '''One Man's Grief'''
+listened_at = '2023-02-19T14:54:47Z'
+
+[[tracks]]
+name = 'Vore'
+artist = 'Sleep Token'
+album = 'Vore'
+listened_at = '2023-02-18T18:06:10Z'
+
+[[tracks]]
 name = 'Destroy Me'
 artist = 'Rebecca Black'
 album = 'Let Her Burn'
