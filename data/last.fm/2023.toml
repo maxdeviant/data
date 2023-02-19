@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Endless Hours'
+artist = 'Deposed King'
+album = '''One Man's Grief'''
+listened_at = '2023-02-19T20:33:59Z'
+
+[[tracks]]
+name = 'Caves'
+artist = 'Deposed King'
+album = '''One Man's Grief'''
+listened_at = '2023-02-19T18:10:17Z'
+
+[[tracks]]
+name = 'First Light'
+artist = 'Deposed King'
+album = '''One Man's Grief'''
+listened_at = '2023-02-19T18:08:10Z'
+
+[[tracks]]
+name = 'Last Light'
+artist = 'Deposed King'
+album = '''One Man's Grief'''
+listened_at = '2023-02-19T18:02:59Z'
+
+[[tracks]]
 name = 'Ceasing to Exist'
 artist = 'Deposed King'
 album = '''One Man's Grief'''
