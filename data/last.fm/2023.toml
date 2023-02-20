@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Doe Eyed'
+artist = 'Rebecca Black'
+album = 'Let Her Burn'
+listened_at = '2023-02-19T22:32:43Z'
+
+[[tracks]]
+name = 'Crumbs'
+artist = 'Rebecca Black'
+album = 'Let Her Burn'
+listened_at = '2023-02-19T22:29:29Z'
+
+[[tracks]]
+name = 'Misery Loves Company'
+artist = 'Rebecca Black'
+album = 'Let Her Burn'
+listened_at = '2023-02-19T22:26:40Z'
+
+[[tracks]]
+name = 'Destroy Me'
+artist = 'Rebecca Black'
+album = 'Let Her Burn'
+listened_at = '2023-02-19T22:23:36Z'
+
+[[tracks]]
+name = 'Erase You'
+artist = 'Rebecca Black'
+album = 'Let Her Burn'
+listened_at = '2023-02-19T22:20:20Z'
+
+[[tracks]]
+name = 'Path of Forlorn'
+artist = 'Deposed King'
+album = '''One Man's Grief'''
+listened_at = '2023-02-19T20:41:19Z'
+
+[[tracks]]
 name = 'Endless Hours'
 artist = 'Deposed King'
 album = '''One Man's Grief'''
