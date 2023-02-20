@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Performer'
+artist = 'Rebecca Black'
+album = 'Let Her Burn'
+listened_at = '2023-02-20T02:34:58Z'
+
+[[tracks]]
+name = 'Look At You'
+artist = 'Rebecca Black'
+album = 'Let Her Burn'
+listened_at = '2023-02-20T02:32:13Z'
+
+[[tracks]]
+name = 'Cry Hard Enough'
+artist = 'Rebecca Black'
+album = 'Let Her Burn'
+listened_at = '2023-02-20T02:29:23Z'
+
+[[tracks]]
+name = 'What Am I Gonna Do With You'
+artist = 'Rebecca Black'
+album = 'Let Her Burn'
+listened_at = '2023-02-20T02:26:44Z'
+
+[[tracks]]
+name = 'Sick To My Stomach'
+artist = 'Rebecca Black'
+album = 'Let Her Burn'
+listened_at = '2023-02-19T22:35:17Z'
+
+[[tracks]]
 name = 'Doe Eyed'
 artist = 'Rebecca Black'
 album = 'Let Her Burn'
