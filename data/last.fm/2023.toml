@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Faith'
+artist = 'The Weeknd'
+album = 'After Hours'
+listened_at = '2023-02-22T00:31:52Z'
+
+[[tracks]]
+name = 'Heartless'
+artist = 'The Weeknd'
+album = 'After Hours'
+listened_at = '2023-02-22T00:28:36Z'
+
+[[tracks]]
+name = 'Vendetta'
+artist = 'Værisa'
+album = 'Heliograph'
+listened_at = '2023-02-21T23:36:38Z'
+
+[[tracks]]
 name = 'Trillium'
 artist = 'Værisa'
 album = 'Heliograph'
