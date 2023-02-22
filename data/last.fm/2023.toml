@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Blinding Lights'
+artist = 'The Weeknd'
+album = 'After Hours'
+listened_at = '2023-02-22T00:36:36Z'
+
+[[tracks]]
 name = 'Faith'
 artist = 'The Weeknd'
 album = 'After Hours'
