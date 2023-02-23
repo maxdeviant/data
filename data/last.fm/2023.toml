@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Void'
+artist = 'ColdWorld'
+album = 'Autumn'
+listened_at = '2023-02-23T20:57:54Z'
+
+[[tracks]]
+name = 'Retreat to Hibernate'
+artist = 'Heretoir'
+album = 'Heretoir'
+listened_at = '2023-02-23T20:51:14Z'
+
+[[tracks]]
+name = 'Shoreless'
+artist = 'Numenorean'
+album = 'Home'
+listened_at = '2023-02-23T20:47:48Z'
+
+[[tracks]]
+name = 'Paysages polaires II'
+artist = 'Cantique Lépreux'
+album = 'Paysages polaires'
+listened_at = '2023-02-23T18:11:49Z'
+
+[[tracks]]
+name = 'White Granite'
+artist = 'Falls of Rauros'
+album = 'Vigilance Perennial'
+listened_at = '2023-02-23T18:01:37Z'
+
+[[tracks]]
 name = 'Hearth'
 artist = 'Saor'
 album = 'Guardians'
