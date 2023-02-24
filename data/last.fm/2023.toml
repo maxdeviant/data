@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Над гробом ветхим'
+artist = 'Путь'
+album = 'Песни смерти'
+listened_at = '2023-02-23T21:13:29Z'
+
+[[tracks]]
+name = 'Dreamy Forests'
+artist = 'Nebula Orionis'
+album = 'Summer'
+listened_at = '2023-02-23T21:08:31Z'
+
+[[tracks]]
+name = '''L'Échappée'''
+artist = 'Les Discrets'
+album = 'Septembre et ses dernières pensées'
+listened_at = '2023-02-23T21:04:28Z'
+
+[[tracks]]
 name = 'Void'
 artist = 'ColdWorld'
 album = 'Autumn'
