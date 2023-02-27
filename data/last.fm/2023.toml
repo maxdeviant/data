@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Blinding Lights'
+artist = 'The Weeknd'
+album = 'After Hours'
+listened_at = '2023-02-27T00:45:07Z'
+
+[[tracks]]
+name = 'Faith'
+artist = 'The Weeknd'
+album = 'After Hours'
+listened_at = '2023-02-27T00:40:24Z'
+
+[[tracks]]
+name = 'Heartless'
+artist = 'The Weeknd'
+album = 'After Hours'
+listened_at = '2023-02-27T00:37:08Z'
+
+[[tracks]]
 name = 'Miles > Motion'
 artist = 'Our Hollow, Our Home'
 album = 'Miles > Motion'
