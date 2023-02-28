@@ -1,4 +1,94 @@
 [[tracks]]
+name = 'Delirium'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-02-27T22:31:09Z'
+
+[[tracks]]
+name = 'Foragt'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-02-27T22:19:38Z'
+
+[[tracks]]
+name = 'Ensomhed'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-02-27T22:07:11Z'
+
+[[tracks]]
+name = 'Forlist'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-02-27T22:04:33Z'
+
+[[tracks]]
+name = 'Ghost Dance'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-02-27T22:00:11Z'
+
+[[tracks]]
+name = 'Face of the Sun'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-02-27T21:56:41Z'
+
+[[tracks]]
+name = 'Centaur'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-02-27T21:51:46Z'
+
+[[tracks]]
+name = 'Heart of Sky'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-02-27T21:47:53Z'
+
+[[tracks]]
+name = 'Telos'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-02-27T21:40:16Z'
+
+[[tracks]]
+name = 'Entelechie'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-02-27T21:34:18Z'
+
+[[tracks]]
+name = 'Aargesang - Aare II'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-02-27T21:28:51Z'
+
+[[tracks]]
+name = 'Stein auf Stein'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-02-27T21:23:05Z'
+
+[[tracks]]
+name = 'Arkanum'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-02-27T21:14:03Z'
+
+[[tracks]]
+name = 'Phthonos II'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-02-27T21:07:19Z'
+
+[[tracks]]
+name = 'Phthonos I'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-02-27T21:03:00Z'
+
+[[tracks]]
 name = 'Аминь'
 artist = 'Рожь'
 album = 'Всё'
