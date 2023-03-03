@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Memento Mori (feat. Killstation)'
+artist = 'Polyphia'
+album = 'Remember That You Will Die'
+listened_at = '2023-03-03T16:45:13Z'
+
+[[tracks]]
+name = 'ABC (feat. Sophia Black)'
+artist = 'Polyphia'
+album = 'Remember That You Will Die'
+listened_at = '2023-03-03T16:34:30Z'
+
+[[tracks]]
+name = 'Reverie'
+artist = 'Polyphia'
+album = 'Remember That You Will Die'
+listened_at = '2023-03-03T16:30:27Z'
+
+[[tracks]]
+name = 'The Audacity (feat. Anomalie)'
+artist = 'Polyphia'
+album = 'Remember That You Will Die'
+listened_at = '2023-03-03T16:25:39Z'
+
+[[tracks]]
+name = 'Playing God'
+artist = 'Polyphia'
+album = 'Remember That You Will Die'
+listened_at = '2023-03-03T14:56:19Z'
+
+[[tracks]]
 name = 'Playing God'
 artist = 'Polyphia'
 album = 'Remember That You Will Die'
