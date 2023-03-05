@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Neurotica'
+artist = 'Polyphia'
+album = 'Remember That You Will Die'
+listened_at = '2023-03-05T01:06:05Z'
+
+[[tracks]]
+name = 'All Falls Apart'
+artist = 'Polyphia'
+album = 'Remember That You Will Die'
+listened_at = '2023-03-05T01:04:45Z'
+
+[[tracks]]
+name = 'Fuck Around and Find Out (feat. $not)'
+artist = 'Polyphia'
+album = 'Remember That You Will Die'
+listened_at = '2023-03-05T01:02:14Z'
+
+[[tracks]]
+name = 'Memento Mori (feat. Killstation)'
+artist = 'Polyphia'
+album = 'Remember That You Will Die'
+listened_at = '2023-03-05T00:59:31Z'
+
+[[tracks]]
+name = 'ABC (feat. Sophia Black)'
+artist = 'Polyphia'
+album = 'Remember That You Will Die'
+listened_at = '2023-03-04T22:45:58Z'
+
+[[tracks]]
+name = 'O.D.'
+artist = 'Polyphia'
+album = 'New Levels New Devils'
+listened_at = '2023-03-04T22:38:01Z'
+
+[[tracks]]
 name = 'Nasty (feat. Jason Richardson)'
 artist = 'Polyphia'
 album = 'New Levels New Devils'
