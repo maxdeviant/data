@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Children of the Urn'
+artist = 'Funeral Mist'
+album = 'Deiform'
+listened_at = '2023-03-09T20:53:23Z'
+
+[[tracks]]
+name = 'In Here'
+artist = 'Funeral Mist'
+album = 'Deiform'
+listened_at = '2023-03-09T20:44:26Z'
+
+[[tracks]]
+name = 'Apokalyptikon'
+artist = 'Funeral Mist'
+album = 'Deiform'
+listened_at = '2023-03-09T20:39:59Z'
+
+[[tracks]]
+name = 'Twilight of the Flesh'
+artist = 'Funeral Mist'
+album = 'Deiform'
+listened_at = '2023-03-09T20:30:23Z'
+
+[[tracks]]
+name = 'Death Veneration'
+artist = 'Sargeist'
+album = 'Death Veneration'
+listened_at = '2023-03-09T18:11:01Z'
+
+[[tracks]]
+name = 'Lunar Curse'
+artist = 'Sargeist'
+album = 'Death Veneration'
+listened_at = '2023-03-09T18:07:08Z'
+
+[[tracks]]
+name = 'To Feast on Astral Blood'
+artist = 'Sargeist'
+album = 'Death Veneration'
+listened_at = '2023-03-09T17:59:50Z'
+
+[[tracks]]
 name = 'To Make Wolves of Men'
 artist = 'Sargeist'
 album = 'Death Veneration'
