@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'In The Tall Grass'
+artist = 'Chrome Ghost'
+album = 'House of Falling Ash'
+listened_at = '2023-03-10T21:00:56Z'
+
+[[tracks]]
+name = 'The Furnace'
+artist = 'Chrome Ghost'
+album = 'House of Falling Ash'
+listened_at = '2023-03-10T20:52:19Z'
+
+[[tracks]]
+name = 'Rose In Bloom'
+artist = 'Chrome Ghost'
+album = 'House of Falling Ash'
+listened_at = '2023-03-10T20:38:07Z'
+
+[[tracks]]
+name = 'Neurodegeneration'
+artist = 'Anachronism'
+album = 'Orogeny'
+listened_at = '2023-03-10T16:56:52Z'
+
+[[tracks]]
 name = 'Hidden Relief'
 artist = 'Anachronism'
 album = 'Orogeny'
