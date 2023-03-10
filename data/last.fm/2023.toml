@@ -2,6 +2,12 @@
 name = 'SPARK'
 artist = 'Kilo Kish'
 album = 'SPARK'
+listened_at = '2023-03-10T00:06:05Z'
+
+[[tracks]]
+name = 'SPARK'
+artist = 'Kilo Kish'
+album = 'SPARK'
 listened_at = '2023-03-10T00:01:51Z'
 
 [[tracks]]
