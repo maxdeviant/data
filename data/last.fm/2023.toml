@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Dreaded Still'
+artist = 'Lustre'
+album = 'Still Innocence'
+listened_at = '2023-03-12T00:36:11Z'
+
+[[tracks]]
+name = 'I buried myself at the edge of the sky'
+artist = 'Photophobia'
+album = 'The Seven States of Mourning'
+listened_at = '2023-03-12T00:29:48Z'
+
+[[tracks]]
+name = 'Västerås'
+artist = 'Ofdrykkja'
+album = 'A Life Worth Losing'
+listened_at = '2023-03-12T00:24:11Z'
+
+[[tracks]]
+name = 'In My Last Mourning... - 2012 Remaster'
+artist = 'Thy Light'
+album = 'Suici.De.Pression (2012 Remastered Version)'
+listened_at = '2023-03-12T00:13:10Z'
+
+[[tracks]]
 name = 'Melancholic Overdose'
 artist = 'My Useless Life'
 album = 'My Useless Life'
