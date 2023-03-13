@@ -1,4 +1,82 @@
 [[tracks]]
+name = 'Brain Of Steel'
+artist = 'Thomas Barrandon'
+album = 'The Unsleeping Eye'
+listened_at = '2023-03-13T17:06:40Z'
+
+[[tracks]]
+name = 'A Dream of Earth'
+artist = 'Khonsu'
+album = 'The Xun Protectorate'
+listened_at = '2023-03-13T16:58:48Z'
+
+[[tracks]]
+name = 'Enemy'
+artist = 'Djerv'
+album = 'Enemy'
+listened_at = '2023-03-13T16:54:05Z'
+
+[[tracks]]
+name = 'An Ode To Breakdown'
+artist = '''Hangman's Chair'''
+album = 'A Loner'
+listened_at = '2023-03-13T16:47:23Z'
+
+[[tracks]]
+name = 'Hunt'
+artist = 'Alunah'
+album = 'Violet Hour'
+listened_at = '2023-03-13T16:41:45Z'
+
+[[tracks]]
+name = 'Equus'
+artist = 'Ne Obliviscaris'
+album = 'Equus'
+listened_at = '2023-03-13T16:29:15Z'
+
+[[tracks]]
+name = 'The Vessel'
+artist = 'We Lost the Sea'
+album = 'Crimea (Remastered)'
+listened_at = '2023-03-13T16:26:17Z'
+
+[[tracks]]
+name = 'The Brush Descends the Length'
+artist = 'Domkraft'
+album = 'Ascend/Descend'
+listened_at = '2023-03-13T16:22:38Z'
+
+[[tracks]]
+name = 'Metastases'
+artist = 'Acid Row'
+album = 'Metastases'
+listened_at = '2023-03-13T15:23:15Z'
+
+[[tracks]]
+name = 'Severed'
+artist = 'irisT'
+album = 'Order Of The Mind'
+listened_at = '2023-03-13T15:19:35Z'
+
+[[tracks]]
+name = 'In the Void'
+artist = 'Perturbator'
+album = 'Final Light'
+listened_at = '2023-03-13T15:10:37Z'
+
+[[tracks]]
+name = 'Funeral Dreams'
+artist = 'Harakiri for the Sky'
+album = 'III:Trauma'
+listened_at = '2023-03-13T15:08:33Z'
+
+[[tracks]]
+name = 'Ascend'
+artist = 'Coldbones'
+album = 'The Cataclysm'
+listened_at = '2023-03-13T15:08:32Z'
+
+[[tracks]]
 name = 'Dreaded Still'
 artist = 'Lustre'
 album = 'Still Innocence'
