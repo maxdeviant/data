@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Que Sera'
+artist = 'Foxblood'
+album = 'Dissociation Vacation'
+listened_at = '2023-03-14T14:45:58Z'
+
+[[tracks]]
+name = 'Secondhand Lions'
+artist = 'Foxblood'
+album = 'Dissociation Vacation'
+listened_at = '2023-03-14T14:42:26Z'
+
+[[tracks]]
+name = 'Hollywood'
+artist = 'Foxblood'
+album = 'Dissociation Vacation'
+listened_at = '2023-03-13T21:35:55Z'
+
+[[tracks]]
 name = 'Kingdom Come'
 artist = 'Foxblood'
 album = 'Dissociation Vacation'
