@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'No swimming'
+artist = 'PURE BEDLAM'
+album = 'Taking Shape'
+listened_at = '2023-03-15T14:52:44Z'
+
+[[tracks]]
+name = 'Gris Gris'
+artist = 'PURE BEDLAM'
+album = 'Taking Shape'
+listened_at = '2023-03-15T14:48:47Z'
+
+[[tracks]]
+name = 'Please replace me'
+artist = 'PURE BEDLAM'
+album = 'Taking Shape'
+listened_at = '2023-03-15T14:46:55Z'
+
+[[tracks]]
+name = 'Ode to Aorai'
+artist = 'Silent Island'
+album = 'The Curse of Coleodeia'
+listened_at = '2023-03-14T20:12:16Z'
+
+[[tracks]]
 name = 'A Thousand Night Aboard'
 artist = 'Silent Island'
 album = 'The Curse of Coleodeia'
