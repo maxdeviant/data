@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Des chemins crépusculaires II'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T14:53:01Z'
+
+[[tracks]]
+name = 'Des chemins crépusculaires I'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T14:46:32Z'
+
+[[tracks]]
+name = 'Never Able'
+artist = 'Feed Me To The Waves'
+album = 'Apart'
+listened_at = '2023-03-16T21:42:24Z'
+
+[[tracks]]
 name = 'Triumph of Existing'
 artist = 'Feed Me To The Waves'
 album = 'Apart'
