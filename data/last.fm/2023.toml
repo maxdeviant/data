@@ -1,4 +1,88 @@
 [[tracks]]
+name = 'Tympanum'
+artist = 'Thief'
+album = 'Thieves Hymn in D Minor'
+listened_at = '2023-03-17T17:15:17Z'
+
+[[tracks]]
+name = 'Au fond de cette nuit, une lueur II'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:56:58Z'
+
+[[tracks]]
+name = 'Au fond de cette nuit, une lueur I'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:51:45Z'
+
+[[tracks]]
+name = 'Lento Tenebroso'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:48:37Z'
+
+[[tracks]]
+name = 'Des chemins crépusculaires III'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:43:20Z'
+
+[[tracks]]
+name = 'Des chemins crépusculaires II'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:36:31Z'
+
+[[tracks]]
+name = 'Des chemins crépusculaires I'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:30:01Z'
+
+[[tracks]]
+name = 'Vers L’immensité De L’aurore Éternelle'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:22:58Z'
+
+[[tracks]]
+name = 'Melas'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:21:46Z'
+
+[[tracks]]
+name = 'Au fond de cette nuit, une lueur III'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:18:34Z'
+
+[[tracks]]
+name = 'Au fond de cette nuit, une lueur II'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:13:27Z'
+
+[[tracks]]
+name = 'Au fond de cette nuit, une lueur I'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:08:15Z'
+
+[[tracks]]
+name = 'Lento Tenebroso'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T15:05:07Z'
+
+[[tracks]]
+name = 'Des chemins crépusculaires III'
+artist = 'A Noend of Mine'
+album = 'Sanctuaires'
+listened_at = '2023-03-17T14:59:50Z'
+
+[[tracks]]
 name = 'Des chemins crépusculaires II'
 artist = 'A Noend of Mine'
 album = 'Sanctuaires'
