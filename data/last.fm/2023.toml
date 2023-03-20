@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Hollywood'
+artist = 'Foxblood'
+album = 'Dissociation Vacation'
+listened_at = '2023-03-20T00:13:18Z'
+
+[[tracks]]
+name = 'Kind Regards'
+artist = 'Foxblood'
+album = 'Dissociation Vacation'
+listened_at = '2023-03-20T00:08:05Z'
+
+[[tracks]]
 name = 'The Dance I'
 artist = 'Prag 83'
 album = 'The Dance'
