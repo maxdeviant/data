@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Home'
+artist = 'vvilderness'
+album = 'As Above, So Below'
+listened_at = '2023-03-23T00:27:04Z'
+
+[[tracks]]
+name = 'Grey And Gold'
+artist = 'vvilderness'
+album = 'As Above, So Below'
+listened_at = '2023-03-23T00:20:23Z'
+
+[[tracks]]
+name = 'Our Souls Bear The Weight Of The Stars'
+artist = 'vvilderness'
+album = 'As Above, So Below'
+listened_at = '2023-03-23T00:16:06Z'
+
+[[tracks]]
 name = 'Heart-Shaped Box (Orchestral)'
 artist = 'Ramin Djawadi'
 album = 'Westworld: Season 2 (Music from the HBO Series)'
