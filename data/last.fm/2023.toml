@@ -2,6 +2,42 @@
 name = 'Myndhöggvari lífsins og dauðans'
 artist = 'Vosbúð'
 album = 'Heklugjá'
+listened_at = '2023-03-24T17:38:33Z'
+
+[[tracks]]
+name = 'Heklugjá'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2023-03-24T17:21:36Z'
+
+[[tracks]]
+name = 'Eldorgía'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2023-03-24T15:50:51Z'
+
+[[tracks]]
+name = 'Aska sigursæl'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2023-03-24T15:45:10Z'
+
+[[tracks]]
+name = 'Hraun og ástríða'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2023-03-24T15:32:35Z'
+
+[[tracks]]
+name = 'Myndhöggvari lífsins og dauðans'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2023-03-24T15:15:34Z'
+
+[[tracks]]
+name = 'Myndhöggvari lífsins og dauðans'
+artist = 'Vosbúð'
+album = 'Heklugjá'
 listened_at = '2023-03-23T22:44:21Z'
 
 [[tracks]]
