@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Fjallið'
+artist = 'Vosbúð'
+album = 'Almannagjá'
+listened_at = '2023-03-25T19:26:05Z'
+
+[[tracks]]
+name = 'Almannagjá'
+artist = 'Vosbúð'
+album = 'Almannagjá'
+listened_at = '2023-03-25T19:17:06Z'
+
+[[tracks]]
+name = 'Miðnætursól'
+artist = 'Vosbúð'
+album = 'Almannagjá'
+listened_at = '2023-03-25T19:10:28Z'
+
+[[tracks]]
+name = 'Fjallið'
+artist = 'Vosbúð'
+album = 'Almannagjá'
+listened_at = '2023-03-25T19:01:20Z'
+
+[[tracks]]
+name = 'Eldur á Ís'
+artist = 'Vosbúð'
+album = 'Almannagjá'
+listened_at = '2023-03-25T18:54:57Z'
+
+[[tracks]]
+name = 'Eldorgía'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2023-03-24T23:00:17Z'
+
+[[tracks]]
 name = 'Aska sigursæl'
 artist = 'Vosbúð'
 album = 'Heklugjá'
