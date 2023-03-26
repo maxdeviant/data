@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Miðnætursól'
+artist = 'Vosbúð'
+album = 'Almannagjá'
+listened_at = '2023-03-26T14:32:41Z'
+
+[[tracks]]
+name = 'Fjallið'
+artist = 'Vosbúð'
+album = 'Almannagjá'
+listened_at = '2023-03-26T14:23:33Z'
+
+[[tracks]]
+name = 'Eldur á Ís'
+artist = 'Vosbúð'
+album = 'Almannagjá'
+listened_at = '2023-03-25T22:46:34Z'
+
+[[tracks]]
 name = 'Eldorgía'
 artist = 'Vosbúð'
 album = 'Heklugjá'
