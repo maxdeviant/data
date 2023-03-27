@@ -2,6 +2,12 @@
 name = 'Fjallið'
 artist = 'Vosbúð'
 album = 'Almannagjá'
+listened_at = '2023-03-26T22:22:29Z'
+
+[[tracks]]
+name = 'Fjallið'
+artist = 'Vosbúð'
+album = 'Almannagjá'
 listened_at = '2023-03-26T20:24:16Z'
 
 [[tracks]]
