@@ -2,6 +2,30 @@
 name = 'Ten Ton Heart'
 artist = 'Heavy Ocean'
 album = 'H/O'
+listened_at = '2023-03-28T14:54:12Z'
+
+[[tracks]]
+name = 'Numb'
+artist = 'Heavy Ocean'
+album = 'H/O'
+listened_at = '2023-03-28T14:47:23Z'
+
+[[tracks]]
+name = 'Pale Horse'
+artist = 'Heavy Ocean'
+album = 'H/O'
+listened_at = '2023-03-28T14:30:51Z'
+
+[[tracks]]
+name = 'Solace'
+artist = 'Heavy Ocean'
+album = 'H/O'
+listened_at = '2023-03-27T22:32:25Z'
+
+[[tracks]]
+name = 'Ten Ton Heart'
+artist = 'Heavy Ocean'
+album = 'H/O'
 listened_at = '2023-03-27T22:22:26Z'
 
 [[tracks]]
