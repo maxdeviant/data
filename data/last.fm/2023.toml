@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Meet You At the Frozen Lake'
+artist = 'Black Hill'
+album = 'Slumbering winter'
+listened_at = '2023-03-29T03:06:20Z'
+
+[[tracks]]
+name = 'Children of the Snow'
+artist = 'Black Hill'
+album = 'Slumbering winter'
+listened_at = '2023-03-29T03:03:26Z'
+
+[[tracks]]
 name = 'Winter Solstice'
 artist = 'Black Hill'
 album = 'Slumbering winter'
