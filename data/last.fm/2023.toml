@@ -1,4 +1,16 @@
 [[tracks]]
+name = '''last time i wasn't in a hurry'''
+artist = 'yinshi'
+album = 'lastmessiah'
+listened_at = '2023-03-30T14:58:27Z'
+
+[[tracks]]
+name = 'Adored'
+artist = 'Laurel'
+album = 'DOGVIOLET'
+listened_at = '2023-03-30T14:53:56Z'
+
+[[tracks]]
 name = 'The Death Of Death'
 artist = 'PlayGrounded'
 album = 'The Death of Death'
