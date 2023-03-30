@@ -1,4 +1,88 @@
 [[tracks]]
+name = 'All Star'
+artist = 'Laurel'
+album = 'DOGVIOLET'
+listened_at = '2023-03-30T00:12:00Z'
+
+[[tracks]]
+name = 'Life Worth Living'
+artist = 'Laurel'
+album = 'DOGVIOLET'
+listened_at = '2023-03-30T00:07:56Z'
+
+[[tracks]]
+name = 'Rituals'
+artist = 'PlayGrounded'
+album = 'The Death of Death'
+listened_at = '2023-03-29T22:03:59Z'
+
+[[tracks]]
+name = 'The Swan'
+artist = 'PlayGrounded'
+album = 'The Death of Death'
+listened_at = '2023-03-29T21:58:16Z'
+
+[[tracks]]
+name = 'Our Fire'
+artist = 'PlayGrounded'
+album = 'The Death of Death'
+listened_at = '2023-03-29T21:50:47Z'
+
+[[tracks]]
+name = 'A Road Out Of The Flood'
+artist = 'PlayGrounded'
+album = 'The Death of Death'
+listened_at = '2023-03-29T21:43:44Z'
+
+[[tracks]]
+name = '''Tomorrow's Rainbow'''
+artist = 'PlayGrounded'
+album = 'The Death of Death'
+listened_at = '2023-03-29T21:38:51Z'
+
+[[tracks]]
+name = 'The Death Of Death'
+artist = 'PlayGrounded'
+album = 'The Death of Death'
+listened_at = '2023-03-29T21:31:18Z'
+
+[[tracks]]
+name = 'Rituals'
+artist = 'PlayGrounded'
+album = 'The Death of Death'
+listened_at = '2023-03-29T21:24:01Z'
+
+[[tracks]]
+name = 'The Swan'
+artist = 'PlayGrounded'
+album = 'The Death of Death'
+listened_at = '2023-03-29T21:18:19Z'
+
+[[tracks]]
+name = 'Gold'
+artist = 'Animal Ghosts'
+album = 'Wake'
+listened_at = '2023-03-29T21:16:54Z'
+
+[[tracks]]
+name = 'Glowing'
+artist = 'Animal Ghosts'
+album = 'Wake'
+listened_at = '2023-03-29T21:12:10Z'
+
+[[tracks]]
+name = 'Sleep'
+artist = 'Animal Ghosts'
+album = 'Wake'
+listened_at = '2023-03-29T21:07:32Z'
+
+[[tracks]]
+name = 'Drift'
+artist = 'Animal Ghosts'
+album = 'Wake'
+listened_at = '2023-03-29T21:02:59Z'
+
+[[tracks]]
 name = 'Bloom'
 artist = 'Animal Ghosts'
 album = 'Wake'
