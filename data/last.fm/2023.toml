@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'HV1'
+artist = 'Nick DePirro'
+album = 'Allthehvs'
+listened_at = '2023-04-04T15:01:24Z'
+
+[[tracks]]
+name = 'Hv3 (0)'
+artist = 'Nick DePirro'
+album = 'Allthehvs'
+listened_at = '2023-04-04T14:56:17Z'
+
+[[tracks]]
+name = 'Hv2 (0)'
+artist = 'Nick DePirro'
+album = 'Allthehvs'
+listened_at = '2023-04-04T14:52:05Z'
+
+[[tracks]]
+name = 'Hv1 (0)'
+artist = 'Nick DePirro'
+album = 'Allthehvs'
+listened_at = '2023-04-04T14:47:38Z'
+
+[[tracks]]
+name = 'Half Moon'
+artist = 'Nick DePirro'
+album = 'Half Moon'
+listened_at = '2023-04-04T14:45:18Z'
+
+[[tracks]]
+name = 'Half Moon'
+artist = 'Nick DePirro'
+album = 'Half Moon'
+listened_at = '2023-04-04T14:43:10Z'
+
+[[tracks]]
+name = 'Twitch 132'
+artist = 'Nick DePirro'
+album = 'Twitch Sessions 2021'
+listened_at = '2023-04-03T22:34:32Z'
+
+[[tracks]]
 name = 'Twitch 126'
 artist = 'Nick DePirro'
 album = 'Twitch Sessions 2021'
