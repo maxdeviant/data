@@ -1,4 +1,112 @@
 [[tracks]]
+name = 'Sapphire'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T20:19:27Z'
+
+[[tracks]]
+name = 'Protection'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T20:13:36Z'
+
+[[tracks]]
+name = 'Les Jardins de minuit'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T20:05:43Z'
+
+[[tracks]]
+name = 'Spiritual Instinct'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T19:58:00Z'
+
+[[tracks]]
+name = 'Le Miroir'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T19:52:30Z'
+
+[[tracks]]
+name = '''L'Île des morts'''
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T19:43:25Z'
+
+[[tracks]]
+name = 'Sapphire'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T19:38:24Z'
+
+[[tracks]]
+name = 'Protection'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T19:32:35Z'
+
+[[tracks]]
+name = 'Les Jardins de minuit'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T19:24:41Z'
+
+[[tracks]]
+name = 'Spiritual Instinct'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T19:16:58Z'
+
+[[tracks]]
+name = 'Le Miroir'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T19:11:26Z'
+
+[[tracks]]
+name = '''L'Île des morts'''
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T19:02:23Z'
+
+[[tracks]]
+name = 'Sapphire'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T18:57:22Z'
+
+[[tracks]]
+name = 'Protection'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T18:51:32Z'
+
+[[tracks]]
+name = 'Les Jardins de minuit'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2023-04-05T18:43:41Z'
+
+[[tracks]]
+name = 'Eclosion'
+artist = 'Alcest'
+album = 'Kodama'
+listened_at = '2023-04-05T18:14:49Z'
+
+[[tracks]]
+name = 'Kodama'
+artist = 'Alcest'
+album = 'Kodama'
+listened_at = '2023-04-05T18:05:41Z'
+
+[[tracks]]
+name = 'Onyx'
+artist = 'Alcest'
+album = 'Kodama'
+listened_at = '2023-04-05T18:01:49Z'
+
+[[tracks]]
 name = 'Oiseaux de proie'
 artist = 'Alcest'
 album = 'Kodama'
