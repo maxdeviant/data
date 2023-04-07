@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'The Entertainment'
+artist = 'Ben Haskins'
+album = 'Dinner Party'
+listened_at = '2023-04-07T15:58:26Z'
+
+[[tracks]]
 name = 'Every Ounce You Sink Your Teeth Into'
 artist = 'Ben Haskins'
 album = 'Dinner Party'
