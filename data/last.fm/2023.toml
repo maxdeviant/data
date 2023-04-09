@@ -1,4 +1,34 @@
 [[tracks]]
+name = '''I Can't Tell (feat. LAUREL)'''
+artist = 'Flume'
+album = 'Palaces'
+listened_at = '2023-04-09T14:22:17Z'
+
+[[tracks]]
+name = 'Half Moon'
+artist = 'Nick DePirro'
+album = 'Half Moon'
+listened_at = '2023-04-09T14:20:08Z'
+
+[[tracks]]
+name = 'Heartwood'
+artist = 'Haavard'
+album = 'Haavard'
+listened_at = '2023-04-09T14:17:23Z'
+
+[[tracks]]
+name = 'Alien Friends'
+artist = 'Droodle'
+album = 'goblins are real.'
+listened_at = '2023-04-09T14:16:04Z'
+
+[[tracks]]
+name = '''Party's Over'''
+artist = 'Droodle'
+album = 'goblins are real.'
+listened_at = '2023-04-09T14:14:08Z'
+
+[[tracks]]
 name = 'The Kiss Of Venus'
 artist = 'Hermyth'
 album = 'Starseeds'
