@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Faerie Soirée'
+artist = 'Melanie Martinez'
+album = 'PORTALS (Deluxe)'
+listened_at = '2023-04-09T17:59:24Z'
+
+[[tracks]]
+name = 'TUNNEL VISION'
+artist = 'Melanie Martinez'
+album = 'PORTALS (Deluxe)'
+listened_at = '2023-04-09T17:54:39Z'
+
+[[tracks]]
+name = 'VOID'
+artist = 'Melanie Martinez'
+album = 'PORTALS (Deluxe)'
+listened_at = '2023-04-09T17:50:31Z'
+
+[[tracks]]
+name = 'DEATH'
+artist = 'Melanie Martinez'
+album = 'PORTALS (Deluxe)'
+listened_at = '2023-04-09T17:45:25Z'
+
+[[tracks]]
+name = 'The Cry of Silence'
+artist = 'Those Who Ride With Giants'
+album = 'Forlorn'
+listened_at = '2023-04-09T16:07:17Z'
+
+[[tracks]]
+name = 'The Resilience Born in Fire'
+artist = 'Those Who Ride With Giants'
+album = 'Forlorn'
+listened_at = '2023-04-09T16:02:18Z'
+
+[[tracks]]
+name = 'The Passage of Wonder'
+artist = 'Those Who Ride With Giants'
+album = 'Forlorn'
+listened_at = '2023-04-09T15:58:25Z'
+
+[[tracks]]
+name = 'The Lure'
+artist = 'Those Who Ride With Giants'
+album = 'Forlorn'
+listened_at = '2023-04-09T15:57:44Z'
+
+[[tracks]]
+name = 'Matter and Energy'
+artist = 'Mesarthim'
+album = 'Vacuum Solution'
+listened_at = '2023-04-09T14:26:09Z'
+
+[[tracks]]
 name = '''I Can't Tell (feat. LAUREL)'''
 artist = 'Flume'
 album = 'Palaces'
