@@ -1,4 +1,64 @@
 [[tracks]]
+name = 'Remember Me'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood (Deluxe)'
+listened_at = '2023-04-11T21:55:25Z'
+
+[[tracks]]
+name = 'Overcast'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood (Deluxe)'
+listened_at = '2023-04-11T21:51:43Z'
+
+[[tracks]]
+name = 'Nerv'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood (Deluxe)'
+listened_at = '2023-04-11T21:48:22Z'
+
+[[tracks]]
+name = 'Better Daze'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood (Deluxe)'
+listened_at = '2023-04-11T21:44:31Z'
+
+[[tracks]]
+name = 'Monarch'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood (Deluxe)'
+listened_at = '2023-04-11T21:40:56Z'
+
+[[tracks]]
+name = 'In Retrospect'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood (Deluxe)'
+listened_at = '2023-04-11T21:37:31Z'
+
+[[tracks]]
+name = 'Failsafe'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood (Deluxe)'
+listened_at = '2023-04-11T21:34:08Z'
+
+[[tracks]]
+name = 'Burn in the Flood'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood (Deluxe)'
+listened_at = '2023-04-11T21:30:14Z'
+
+[[tracks]]
+name = 'Tes yeux ouverts, le reflet du soleil'
+artist = 'FARGUE'
+album = 'Ruines, Irradiées'
+listened_at = '2023-04-11T21:06:28Z'
+
+[[tracks]]
+name = 'La masse noire'
+artist = 'FARGUE'
+album = 'Ruines, Irradiées'
+listened_at = '2023-04-11T20:59:27Z'
+
+[[tracks]]
 name = 'Laissons tarir ces poumons'
 artist = 'FARGUE'
 album = 'Ruines, Irradiées'
