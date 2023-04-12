@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Real Thing - dEd version'
+artist = 'Lights'
+album = 'dEd'
+listened_at = '2023-04-12T15:00:15Z'
+
+[[tracks]]
+name = 'Easy Money - dEd version'
+artist = 'Lights'
+album = 'dEd'
+listened_at = '2023-04-12T14:56:03Z'
+
+[[tracks]]
+name = 'Okay Okay - dEd version'
+artist = 'Lights'
+album = 'dEd'
+listened_at = '2023-04-12T14:50:55Z'
+
+[[tracks]]
+name = 'Voices Carry - dEd version'
+artist = 'Lights'
+album = 'dEd'
+listened_at = '2023-04-12T14:46:31Z'
+
+[[tracks]]
+name = 'Grip - dEd version'
+artist = 'Lights'
+album = 'dEd'
+listened_at = '2023-04-12T14:42:49Z'
+
+[[tracks]]
+name = 'Children of Manus'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood (Deluxe)'
+listened_at = '2023-04-12T00:59:21Z'
+
+[[tracks]]
+name = 'Miles > Motion'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood (Deluxe)'
+listened_at = '2023-04-12T00:47:18Z'
+
+[[tracks]]
 name = 'Vermilion Pt.1: Arrival'
 artist = 'Oddland'
 album = 'Vermilion'
