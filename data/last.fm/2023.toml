@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Vermilion Pt.1: Arrival'
+artist = 'Oddland'
+album = 'Vermilion'
+listened_at = '2023-04-12T00:45:31Z'
+
+[[tracks]]
+name = 'Total Garbage'
+artist = 'Tim Hecker'
+album = 'No Highs'
+listened_at = '2023-04-12T00:39:12Z'
+
+[[tracks]]
+name = 'Glissalia'
+artist = 'Tim Hecker'
+album = 'No Highs'
+listened_at = '2023-04-12T00:36:14Z'
+
+[[tracks]]
+name = 'Monotony'
+artist = 'Tim Hecker'
+album = 'No Highs'
+listened_at = '2023-04-12T00:27:52Z'
+
+[[tracks]]
+name = 'Children of Manus'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood (Deluxe)'
+listened_at = '2023-04-11T21:58:56Z'
+
+[[tracks]]
 name = 'Remember Me'
 artist = 'Our Hollow, Our Home'
 album = 'Burn in the Flood (Deluxe)'
