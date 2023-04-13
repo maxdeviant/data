@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Portræt I Skygger'
+artist = 'Nordsind'
+album = 'Lys'
+listened_at = '2023-04-13T14:57:25Z'
+
+[[tracks]]
+name = 'Io'
+artist = 'Nordsind'
+album = 'Lys'
+listened_at = '2023-04-13T14:51:51Z'
+
+[[tracks]]
+name = 'Обречение: Часть 2'
+artist = 'Wowod'
+album = 'Split'
+listened_at = '2023-04-13T14:51:50Z'
+
+[[tracks]]
 name = 'Обречение: Часть 2'
 artist = 'Wowod'
 album = 'Split'
