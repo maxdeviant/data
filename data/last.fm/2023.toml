@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Frozen Bloom I'
+artist = 'Olhava'
+album = 'Frozen Bloom'
+listened_at = '2023-04-17T21:57:07Z'
+
+[[tracks]]
+name = 'Навсегда'
+artist = 'Рожь'
+album = 'Всё'
+listened_at = '2023-04-17T21:48:13Z'
+
+[[tracks]]
+name = 'Reflection'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-04-17T21:25:44Z'
+
+[[tracks]]
+name = 'Enter The Storm'
+artist = 'vvilderness'
+album = 'Path'
+listened_at = '2023-04-17T21:20:41Z'
+
+[[tracks]]
+name = 'VIII'
+artist = 'Tardigrada'
+album = 'Vom Bruch bis zur Freiheit'
+listened_at = '2023-04-17T21:19:13Z'
+
+[[tracks]]
+name = 'Fane'
+artist = 'Ante-Inferno'
+album = 'Fane'
+listened_at = '2023-04-17T21:18:07Z'
+
+[[tracks]]
+name = 'Smoldering Woodland'
+artist = 'Olhava'
+album = 'Ladoga'
+listened_at = '2023-04-17T21:08:51Z'
+
+[[tracks]]
+name = 'Прощай'
+artist = 'Рожь'
+album = 'Всё'
+listened_at = '2023-04-17T21:02:45Z'
+
+[[tracks]]
 name = 'Loyalty'
 artist = 'Olhava'
 album = 'Olhava'
