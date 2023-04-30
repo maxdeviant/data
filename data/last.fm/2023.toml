@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'A Memory Of Hope'
+artist = 'Magic Sword'
+album = 'Badlands'
+listened_at = '2023-04-30T19:11:44Z'
+
+[[tracks]]
+name = 'I Just Want To Feel Something'
+artist = 'Magic Sword'
+album = 'Badlands'
+listened_at = '2023-04-30T19:09:43Z'
+
+[[tracks]]
+name = 'Cruel Intentions'
+artist = 'Magic Sword'
+album = 'Badlands'
+listened_at = '2023-04-30T19:06:25Z'
+
+[[tracks]]
+name = 'Mirage'
+artist = 'Magic Sword'
+album = 'Badlands'
+listened_at = '2023-04-30T19:04:33Z'
+
+[[tracks]]
+name = 'Badlands'
+artist = 'Magic Sword'
+album = 'Badlands'
+listened_at = '2023-04-30T19:02:26Z'
+
+[[tracks]]
+name = 'The Thief'
+artist = 'Magic Sword'
+album = 'Badlands'
+listened_at = '2023-04-30T19:00:39Z'
+
+[[tracks]]
+name = 'X'
+artist = 'Mark Sixma'
+album = 'The World of Six (Incl. Bonus Remixes)'
+listened_at = '2023-04-30T15:53:39Z'
+
+[[tracks]]
 name = 'Razor'
 artist = 'Somna'
 album = 'Razor'
