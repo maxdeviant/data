@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'BRAINWASHED'
+artist = 'Waterparks'
+album = 'INTELLECTUAL PROPERTY'
+listened_at = '2023-04-30T23:58:36Z'
+
+[[tracks]]
+name = 'Celestia'
+artist = 'Nick DePirro'
+album = 'Celestia'
+listened_at = '2023-04-30T23:55:28Z'
+
+[[tracks]]
+name = 'Miss Americana & the Heartbreak Prince'
+artist = 'Taylor Swift'
+album = 'Lover'
+listened_at = '2023-04-30T23:51:35Z'
+
+[[tracks]]
 name = 'A Memory Of Hope'
 artist = 'Magic Sword'
 album = 'Badlands'
