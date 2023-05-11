@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Funeral'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2023-05-11T14:02:50Z'
+
+[[tracks]]
 name = 'Voyeuristic Schism'
 artist = 'Gospelheim'
 album = 'Ritual & Repetition'
