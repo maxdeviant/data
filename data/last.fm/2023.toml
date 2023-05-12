@@ -1,4 +1,82 @@
 [[tracks]]
+name = 'Ghost Dance'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-05-12T17:47:19Z'
+
+[[tracks]]
+name = 'Face of the Sun'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-05-12T17:43:50Z'
+
+[[tracks]]
+name = 'Centaur'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-05-12T17:38:55Z'
+
+[[tracks]]
+name = 'Heart of Sky'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-05-12T17:35:02Z'
+
+[[tracks]]
+name = 'Telos'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-05-12T17:27:25Z'
+
+[[tracks]]
+name = 'Entelechie'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-05-12T15:56:14Z'
+
+[[tracks]]
+name = 'Aargesang - Aare II'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-05-12T15:50:48Z'
+
+[[tracks]]
+name = 'Stein auf Stein'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-05-12T15:45:01Z'
+
+[[tracks]]
+name = 'Arkanum'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2023-05-12T15:36:00Z'
+
+[[tracks]]
+name = 'Phthonos II'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-05-12T15:29:15Z'
+
+[[tracks]]
+name = 'Phthonos I'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-05-12T15:24:57Z'
+
+[[tracks]]
+name = 'Аминь'
+artist = 'Рожь'
+album = 'Всё'
+listened_at = '2023-05-12T15:10:28Z'
+
+[[tracks]]
+name = 'Навсегда'
+artist = 'Рожь'
+album = 'Всё'
+listened_at = '2023-05-12T15:01:35Z'
+
+[[tracks]]
 name = 'Зовёт меня'
 artist = 'Рожь'
 album = 'Всё'
