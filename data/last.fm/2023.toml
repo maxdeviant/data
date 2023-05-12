@@ -1,4 +1,64 @@
 [[tracks]]
+name = 'Dødslængsel'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-05-12T20:55:33Z'
+
+[[tracks]]
+name = 'Delirium'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-05-12T20:01:53Z'
+
+[[tracks]]
+name = 'Foragt'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-05-12T19:50:22Z'
+
+[[tracks]]
+name = 'Ensomhed'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-05-12T19:37:56Z'
+
+[[tracks]]
+name = 'Forlist'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-05-12T19:36:22Z'
+
+[[tracks]]
+name = 'Heklugjá'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2023-05-12T19:19:26Z'
+
+[[tracks]]
+name = 'Eldorgía'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2023-05-12T19:08:08Z'
+
+[[tracks]]
+name = 'Aska sigursæl'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2023-05-12T19:02:27Z'
+
+[[tracks]]
+name = 'Hraun og ástríða'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2023-05-12T18:49:52Z'
+
+[[tracks]]
+name = 'Myndhöggvari lífsins og dauðans'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2023-05-12T17:51:41Z'
+
+[[tracks]]
 name = 'Ghost Dance'
 artist = 'Vital Spirit'
 album = 'In The Faith That Looks Through Death'
