@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Трехногая слава'
+artist = 'Рожь'
+album = 'Всё'
+listened_at = '2023-05-12T03:27:29Z'
+
+[[tracks]]
+name = 'Прощай'
+artist = 'Рожь'
+album = 'Всё'
+listened_at = '2023-05-12T03:21:58Z'
+
+[[tracks]]
+name = 'Reborn - Pt. II'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-05-12T03:21:58Z'
+
+[[tracks]]
+name = 'Reborn - Pt. I'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-05-12T03:04:03Z'
+
+[[tracks]]
+name = 'Reborn II'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-05-12T03:04:02Z'
+
+[[tracks]]
 name = 'Reborn I'
 artist = 'Olhava'
 album = 'Reborn'
