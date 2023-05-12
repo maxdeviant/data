@@ -1,4 +1,64 @@
 [[tracks]]
+name = 'Reborn I'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-05-12T02:46:02Z'
+
+[[tracks]]
+name = 'Reflection'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-05-12T02:23:34Z'
+
+[[tracks]]
+name = 'Mirror'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-05-12T02:01:03Z'
+
+[[tracks]]
+name = 'Dødslængsel'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-05-12T01:52:11Z'
+
+[[tracks]]
+name = 'Delirium'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-05-12T01:43:14Z'
+
+[[tracks]]
+name = 'Foragt'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-05-12T01:31:43Z'
+
+[[tracks]]
+name = 'Imprisoned Between Worlds'
+artist = 'Ocean of Grief'
+album = 'Pale Existence'
+listened_at = '2023-05-12T01:26:25Z'
+
+[[tracks]]
+name = 'Ensomhed'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-05-12T01:19:16Z'
+
+[[tracks]]
+name = 'Forlist'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-05-12T01:17:44Z'
+
+[[tracks]]
+name = 'Any Colour You Desire'
+artist = 'Pridelands'
+album = 'Any Colour You Desire'
+listened_at = '2023-05-12T01:13:54Z'
+
+[[tracks]]
 name = 'Unspoken Actions'
 artist = 'Ocean of Grief'
 album = 'Pale Existence'
