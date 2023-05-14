@@ -1,0 +1,623 @@
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvp3lkfpvq2k'
+created_at = '2023-05-14T14:45:17.892Z'
+text = 'Time to dive into the AT Protocol.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvp3eyuy5g2m'
+created_at = '2023-05-14T14:41:38.180Z'
+text = 'Everyone knows fathers don’t exist.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3jvozmbugyq2k'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvoykwzcu726'
+created_at = '2023-05-14T13:51:16.313Z'
+text = 'Can’t believe they called it “cargo vet” and not “Rust, but verify”.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvowg5mv622q'
+created_at = '2023-05-14T13:12:48.011Z'
+text = '''
+Sending good vibes your way. I know how hard that can be.
+
+My parents recently sold the home I spent the later part of my teens and early 20s in after a big move back from overseas. It was a painful loss.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nehvjrqlcz766irejep43jnw/app.bsky.feed.post/3jvorxqhadm24'
+author_did = 'did:plc:nehvjrqlcz766irejep43jnw'
+author_handle = 'tomtomorrow.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvow7d56s22q'
+created_at = '2023-05-14T13:08:58.909Z'
+text = '''
+They’re not purposefully trying to hide the information.
+
+Unless you’re objecting to the “!no-promote” labels existence in the first place?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:be56gicnvg3tlhiz5wqu2mob/app.bsky.feed.post/3jvoueezgyv2m'
+author_did = 'did:plc:be56gicnvg3tlhiz5wqu2mob'
+author_handle = 'tolgamert.nl'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvovnevuzw26'
+created_at = '2023-05-14T12:58:56.788Z'
+text = 'A measly 633 blocks.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nywb5oene54cllowkfwouxzz/app.bsky.feed.post/3jvo54mbafh2r'
+author_did = 'did:plc:nywb5oene54cllowkfwouxzz'
+author_handle = 'chadloder.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvovcgnf5m24'
+created_at = '2023-05-14T12:52:49.508Z'
+text = 'What kind of sauce do you have on the side there? It looks spicy and probably delicious.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:g5r4vwf3djtzwtpfxivmvlst/app.bsky.feed.post/3jvog7ui5r72r'
+author_did = 'did:plc:g5r4vwf3djtzwtpfxivmvlst'
+author_handle = '54m.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvov364ql62j'
+created_at = '2023-05-14T12:48:45.684Z'
+text = 'Apparently there are multiple collective nouns for a group of ravens, and one of them is an “unkindness”.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:jcrgfze4hwg55l5r64be64el/app.bsky.feed.post/3jvoussx3p32k'
+author_did = 'did:plc:jcrgfze4hwg55l5r64be64el'
+author_handle = 'a2.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvous5rmyo2j'
+created_at = '2023-05-14T12:43:43.337Z'
+text = 'Our lips are sealed 🤐'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:cnq2fajxvdjlvptyxjay4ef7/app.bsky.feed.post/3jvoqpf3uow2j'
+author_did = 'did:plc:cnq2fajxvdjlvptyxjay4ef7'
+author_handle = 'nopeitslily.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvouoejqqx2p'
+created_at = '2023-05-14T12:41:36.201Z'
+text = '> Pet him gently'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:oky5czdrnfjpqslsw2a5iclo/app.bsky.feed.post/3jvo2um2zbm2f'
+author_did = 'did:plc:oky5czdrnfjpqslsw2a5iclo'
+author_handle = 'jay.bsky.team'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvoumdlfvw26'
+created_at = '2023-05-14T12:40:28.079Z'
+text = 'I sense some orb-pondering in the near future.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mwflzjsq7bp37blwnoxq57wt/app.bsky.feed.post/3jvhvbo26wo2n'
+author_did = 'did:plc:mwflzjsq7bp37blwnoxq57wt'
+author_handle = 'p0ng.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvnzc3qbdv2b'
+created_at = '2023-05-14T04:31:33.288Z'
+text = 'Please tell me you’ve been editing your site’s files in Notepad and uploading them over FTP to really round out the experience.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:timyhhv2q2b3dr5xphjpqp2n/app.bsky.feed.post/3jvnz5y34zx2j'
+author_did = 'did:plc:timyhhv2q2b3dr5xphjpqp2n'
+author_handle = 'panic.gay'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvnz6turs52j'
+created_at = '2023-05-14T04:29:44.389Z'
+text = 'I have been reminded of how great Silicon Valley S1E8 is.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvnz37f7kv2j'
+created_at = '2023-05-14T04:27:42.244Z'
+text = 'And on the perfect domain, too!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:timyhhv2q2b3dr5xphjpqp2n/app.bsky.feed.post/3jvnxzrjucm2f'
+author_did = 'did:plc:timyhhv2q2b3dr5xphjpqp2n'
+author_handle = 'panic.gay'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvnvzxgnxv2p'
+created_at = '2023-05-14T03:33:19.110Z'
+text = 'Rewatched The Social Network last night and tonight I’m starting to rewatch Silicon Valley.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvnvwg4rne26'
+created_at = '2023-05-14T03:31:20.300Z'
+text = 'All hail THE CUBE!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:katl2n3xfpfwpv45aiwwtbrb/app.bsky.feed.post/3jvnszyeapl26'
+author_did = 'did:plc:katl2n3xfpfwpv45aiwwtbrb'
+author_handle = 'cara.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvnqzffr5424'
+created_at = '2023-05-14T02:03:31.527Z'
+text = 'Double boop!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i6lso6br37r7xglfw5onhcmg/app.bsky.feed.post/3jvneszs33b26'
+author_did = 'did:plc:i6lso6br37r7xglfw5onhcmg'
+author_handle = 'agdubs.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvnkqtn76v2m'
+created_at = '2023-05-14T00:11:22.005Z'
+text = 'This would also be acceptable:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rlfsrnc4kvcgatjaykqvxfql/app.bsky.feed.post/3jvniv6uqxv2m'
+author_did = 'did:plc:rlfsrnc4kvcgatjaykqvxfql'
+author_handle = 'nicetryofficer.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvnhh3wsyf2m'
+created_at = '2023-05-13T23:12:13.706Z'
+text = 'Was out doing some shopping and decided to stop at a ramen place I’ve been meaning to try out.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvneq3q2r42j'
+created_at = '2023-05-13T22:23:34.273Z'
+text = 'Whoa, this is 🔥🔥'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mceyt3qjswifxtikqqwvnnge/app.bsky.feed.post/3jvndmwugfx2r'
+author_did = 'did:plc:mceyt3qjswifxtikqqwvnnge'
+author_handle = 'johnspurlock.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvncd64heb2j'
+created_at = '2023-05-13T21:40:33.312Z'
+text = '''
+Looks like it might be a dark mode bug.
+
+I see the name there in light mode:'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvnc3mrgn72j'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvnc3mrgn72j'
+created_at = '2023-05-13T21:36:20.242Z'
+text = '''
+@support.bsky.team Noticed a small issues with mute lists in the web client not showing the owner's name when viewing the list.
+
+It is shown on the list of mute lists.
+
+This is on the web client (staging.bsky.app) on Google Chrome v113.0.5672.92 on macOS.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvn75s5pwf2m'
+created_at = '2023-05-13T20:43:51.761Z'
+text = 'Realized my shoulders were tensed as a read this, thank you.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:timyhhv2q2b3dr5xphjpqp2n/app.bsky.feed.post/3jvn6rdgrsa2j'
+author_did = 'did:plc:timyhhv2q2b3dr5xphjpqp2n'
+author_handle = 'panic.gay'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvn5235cgw2k'
+created_at = '2023-05-13T20:05:59.491Z'
+text = '''
+Starting a list of Bluesky and AT Protocol-related resources:
+
+https://github.com/maxdeviant/awesome-bluesky
+
+Contributions welcome!'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvn4ajysif2k'
+created_at = '2023-05-13T19:51:42.650Z'
+text = '''
+Meta:
+
+https://firesky.tv/?filter=firesky'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvn43bo4hr26'
+created_at = '2023-05-13T19:48:46.143Z'
+text = '''Oh, nice! I figured it was possible, just wasn't sure which query parameter to use 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mceyt3qjswifxtikqqwvnnge/app.bsky.feed.post/3jvn3mskhx52n'
+author_did = 'did:plc:mceyt3qjswifxtikqqwvnnge'
+author_handle = 'johnspurlock.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvn3yhsc3t2j'
+created_at = '2023-05-13T19:47:11.910Z'
+text = '''I feel like I'm a cross between flowerviolence and darkdeep.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:oky5czdrnfjpqslsw2a5iclo/app.bsky.feed.post/3jvmzxn32l62p'
+author_did = 'did:plc:oky5czdrnfjpqslsw2a5iclo'
+author_handle = 'jay.bsky.team'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvn3fzwknw2r'
+created_at = '2023-05-13T19:36:53.387Z'
+text = '''
+Nice!
+
+Not sure if it supports it already, but would it be possible to input filters via the URL/query params?
+
+Could be handy for sharing Firesky links with filters already in place.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mceyt3qjswifxtikqqwvnnge/app.bsky.feed.post/3jvn363mvfa2j'
+author_did = 'did:plc:mceyt3qjswifxtikqqwvnnge'
+author_handle = 'johnspurlock.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvn33y4liy2j'
+created_at = '2023-05-13T19:31:15.946Z'
+text = 'Made by @johnspurlock.com!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2noa3xfejgmgqjz3h2chts3y/app.bsky.feed.post/3jvn2xndhc32b'
+author_did = 'did:plc:2noa3xfejgmgqjz3h2chts3y'
+author_handle = 'chrisbivins.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmzpigf7a26'
+created_at = '2023-05-13T19:06:23.067Z'
+text = '''
+Not currently, but I always thought it would be interesting to try.
+
+I took an OS class in college, but it didn't really teach me much about actually how an OS works under the hood.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:cvzdmr3ssm2qvcx4xe5zwt74/app.bsky.feed.post/3jvmz7kfdr424'
+author_did = 'did:plc:cvzdmr3ssm2qvcx4xe5zwt74'
+author_handle = 'x86.wtf'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmzhttm6g2p'
+created_at = '2023-05-13T19:02:06.602Z'
+text = '''
+I've been using https://firesky.tv/ with keyword filters as a way to find accounts and skeets to interact with.
+
+Seems to work reasonably well (although depending on the keywords you can definitely end up drinking from the firehose).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2noa3xfejgmgqjz3h2chts3y/app.bsky.feed.post/3jvmz3hvqmm24'
+author_did = 'did:plc:2noa3xfejgmgqjz3h2chts3y'
+author_handle = 'chrisbivins.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmz66y2q52k'
+created_at = '2023-05-13T18:56:42.743Z'
+text = '''
+Ashamed to admit this is what I ate for lunch at work for a while.
+
+Just kept a loaf of bread and jar of peanut butter at the office.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:fdytgs4gaqz33b5zi7hntjur/app.bsky.feed.post/3jvmyi6akca2j'
+author_did = 'did:plc:fdytgs4gaqz33b5zi7hntjur'
+author_handle = 'fazz.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmys4gubn2k'
+created_at = '2023-05-13T18:49:57.432Z'
+text = '''Always hate it when I find a cool project I want to contribute to but it's hosted somewhere other than GitHub.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmyofpcdm2f'
+created_at = '2023-05-13T18:47:52.930Z'
+text = '''Having done this plenty of times in my childhood, it's almost certainly the side with the dinosaur that's going to come out on top.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:pdac24jyypwultrppa457voe/app.bsky.feed.post/3jvmyfbff5e2n'
+author_did = 'did:plc:pdac24jyypwultrppa457voe'
+author_handle = 'vishal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmwwtplav2r'
+created_at = '2023-05-13T18:16:48.594Z'
+text = '@yui.bsky.social /card'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmv2z7qul2b'
+created_at = '2023-05-13T17:43:21.105Z'
+text = 'Necroposting (necroskeeting?) on people’s old skeets and I’m not even sorry about it.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmt2o4s4w26'
+created_at = '2023-05-13T17:07:21.963Z'
+text = 'What kind of hardware upgrade?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:amotxl3i7fbejbparrfdkxeo/app.bsky.feed.post/3jvmsr5ofc626'
+author_did = 'did:plc:amotxl3i7fbejbparrfdkxeo'
+author_handle = 'ruby0x1.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmsxdly3w26'
+created_at = '2023-05-13T17:05:30.263Z'
+text = '''
+Nice! I played support for a lot of my League career before I switched to jungling.
+
+Support is definitely an underappreciated role, IMO.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:p7gxyfr5vii5ntpwo7f6dhe2/app.bsky.feed.post/3jvmspvdlmv2j'
+author_did = 'did:plc:p7gxyfr5vii5ntpwo7f6dhe2'
+author_handle = 'aoc.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmsotslow26'
+created_at = '2023-05-13T17:00:45.250Z'
+text = '''I don't think you have, no 🥲'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:o5lokplgjgp37v7a5qbjdzpz/app.bsky.feed.post/3jvmrpa5p3324'
+author_did = 'did:plc:o5lokplgjgp37v7a5qbjdzpz'
+author_handle = 'howdoibluesky.hellthread.vet'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmsm7ol5y2j'
+created_at = '2023-05-13T16:59:17.033Z'
+text = 'I wonder if Bluesky will bring about an increase in people owning their own domains?'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmsfsfm4v2r'
+created_at = '2023-05-13T16:55:41.791Z'
+text = 'Do you have a champ that you main in League?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:p7gxyfr5vii5ntpwo7f6dhe2/app.bsky.feed.post/3jvmrtzgdcu2e'
+author_did = 'did:plc:p7gxyfr5vii5ntpwo7f6dhe2'
+author_handle = 'aoc.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvms3yobdm2k'
+created_at = '2023-05-13T16:50:12.827Z'
+text = '''If @willman.online gets his hands on this he'll become unstoppable: https://www.raycast.com/dharamkapila/bluesky'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmqizclr52j'
+created_at = '2023-05-13T16:21:42.210Z'
+text = '''I've been thinking about picking up TotK, but seeing this makes me think I should wait until the new Switch is available so I can experience it properly.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:tbo4hkau3p2itkar2vsnb3gp/app.bsky.feed.post/3jvlcgfuaik26'
+author_did = 'did:plc:tbo4hkau3p2itkar2vsnb3gp'
+author_handle = 'thomasfuchs.at'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmqd23hb52j'
+created_at = '2023-05-13T16:18:21.701Z'
+text = '''Doing the Lord's work.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmq7kxhbe2m'
+created_at = '2023-05-13T16:16:25.184Z'
+text = 'How many dicks in a mile?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:o7xt7svg2xtjbb4e2xqahqqc/app.bsky.feed.post/3jvmjxjn2ai2j'
+author_did = 'did:plc:o7xt7svg2xtjbb4e2xqahqqc'
+author_handle = 'spavel.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmq5i3awv2r'
+created_at = '2023-05-13T16:15:15.047Z'
+text = '''The "What's hot" tab but it's just photos of yourself on repeat.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmq3kplzw2p'
+created_at = '2023-05-13T16:14:10.707Z'
+text = '(yes, I do)'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmq3d45yf26'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmq3d45yf26'
+created_at = '2023-05-13T16:14:02.731Z'
+text = '''
+I don't know what I know anymore.
+
+This has shattered my world.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3jvmonbuhe52j'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmpmizqud2e'
+created_at = '2023-05-13T16:05:45.628Z'
+text = 'Made a different version for you; use it wisely.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmp6f2ho52j'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmp6f2ho52j'
+created_at = '2023-05-13T15:57:51.698Z'
+text = '''
+No Photoshop needed; just a little browser devtools action.
+
+Although this one was slightly trickier than expected.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:o5lokplgjgp37v7a5qbjdzpz/app.bsky.feed.post/3jvmoe4dk4d2e'
+author_did = 'did:plc:o5lokplgjgp37v7a5qbjdzpz'
+author_handle = 'howdoibluesky.hellthread.vet'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmodp2qen2p'
+created_at = '2023-05-13T15:42:56.251Z'
+text = '''
+Noticed this as well.
+
+Opened a skeet with two photos and was surprised when the arrow keys didn't navigate between them.
+
+I'm sure it will come in due time 🙂'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dc4mcpgvbjmhlaj54encgcnt/app.bsky.feed.post/3jtbatwcgpu2w'
+author_did = 'did:plc:dc4mcpgvbjmhlaj54encgcnt'
+author_handle = 'ptm.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmntm3keu2m'
+created_at = '2023-05-13T15:33:56.262Z'
+text = '''Can't believe you'd reuse content like this.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3juz73sckag2v'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmmkso3fl2k'
+created_at = '2023-05-13T15:11:07.428Z'
+text = '''Waiting for the next Bluesky Atlas update so I can see which cluster I'm in.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmm5djfb42m'
+created_at = '2023-05-13T15:03:35.332Z'
+text = '''
+I retract my previous statement.
+
+It was only raining lightly and the rain was warm.
+
+Reminded me of rain showers in Chiang Mai.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmlxjezql24'
+created_at = '2023-05-13T15:00:20.165Z'
+text = '''What if it's in the display name and not the bio?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:exrxvyu6bpoym6mbnctke5tn/app.bsky.feed.post/3jvmlvfl4am2k'
+author_did = 'did:plc:exrxvyu6bpoym6mbnctke5tn'
+author_handle = 'molly.wiki'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmlldhu7l24'
+created_at = '2023-05-13T14:53:31.310Z'
+text = '''
+I've got my desktop still wired in, but everything else is wireless.
+
+For the most part I don't even think about it.
+
+If only I could say the same for Bluetooth...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:yym5dkfbnzf6lspvh4hnstjg/app.bsky.feed.post/3jvhurht2w326'
+author_did = 'did:plc:yym5dkfbnzf6lspvh4hnstjg'
+author_handle = 'mitsuhiko.at'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmjl6dbbe2r'
+created_at = '2023-05-13T14:17:38.388Z'
+text = '''
+Weather app says it’s just cloudy and I look outside and see it’s actually raining.
+
+I refuse to be gaslit like this!'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmj6szcgt24'
+created_at = '2023-05-13T14:10:43.877Z'
+text = 'Those slides are the reason I have a persistent fear of static shocks.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3fqlgbxrthcjqc652t2da6ob/app.bsky.feed.post/3jvmiyrdciu2m'
+author_did = 'did:plc:3fqlgbxrthcjqc652t2da6ob'
+author_handle = 'grahamc.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvmhnxlhee2m'
+created_at = '2023-05-13T13:43:24.505Z'
+text = '''
+I’ve been on Bluesky for less than a day and I feel like I’ve seen a disproportionate number of spider pictures being posted.
+
+As someone who is mildly arachnophobic, this should bother me. But for some reason I’ve been fine with seeing them?
+
+Are the vibes here just that good?!'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvlisvjq7s2j'
+created_at = '2023-05-13T04:31:24.134Z'
+text = 'You want thingamabobs?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2at4u3jduat6ba7hee2myqek/app.bsky.feed.post/3jvlh6ff5gg2j'
+author_did = 'did:plc:2at4u3jduat6ba7hee2myqek'
+author_handle = 'sexdracula.rocks'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvlg7qp2uf2j'
+created_at = '2023-05-13T03:44:54.037Z'
+text = 'Good to see you on here!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qykcybqwbdzh744x67dbfvzd/app.bsky.feed.post/3jttt5lszj522'
+author_did = 'did:plc:qykcybqwbdzh744x67dbfvzd'
+author_handle = 'somnius.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvlfj57xvl2p'
+created_at = '2023-05-13T03:32:15.424Z'
+text = '''
+Going to try to be better about post/repost ratio on here.
+
+My Twitter for the past few years has been a retweet firehose.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvlfe5qies2v'
+created_at = '2023-05-13T03:29:28.196Z'
+text = 'Will be looking forward to seeing it, assuming it gets to see the light of day!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3fqlgbxrthcjqc652t2da6ob/app.bsky.feed.post/3jvlfbno3cl2p'
+author_did = 'did:plc:3fqlgbxrthcjqc652t2da6ob'
+author_handle = 'grahamc.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvlexo4ngt2b'
+created_at = '2023-05-13T03:22:29.162Z'
+text = '''
+Oh, your Twitter poll didn’t say it was *GitHub*.
+
+I’d definitely tread more carefully, since that’s a service I wouldn’t want to get in hot water with 😬'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3fqlgbxrthcjqc652t2da6ob/app.bsky.feed.post/3jvldlbytc32b'
+author_did = 'did:plc:3fqlgbxrthcjqc652t2da6ob'
+author_handle = 'grahamc.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvkynu6lp22j'
+created_at = '2023-05-12T23:42:15.107Z'
+text = '''It's the weekend which means I can stop coding in the bad language (TypeScript) and instead code in the good language (Rust).'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvklh3i3d52o'
+created_at = '2023-05-12T19:45:49.187Z'
+text = 'Hello Bluesky ☁️'
