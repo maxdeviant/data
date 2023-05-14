@@ -1,4 +1,123 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpebelyhh26'
+created_at = '2023-05-14T17:20:39.958Z'
+text = 'Hey there! 🦀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:lhhwwevzhcxyi72uvg6ip762/app.bsky.feed.post/3jvpc6xuc352e'
+author_did = 'did:plc:lhhwwevzhcxyi72uvg6ip762'
+author_handle = '347online.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpeaysyxu2k'
+created_at = '2023-05-14T17:20:27.606Z'
+text = '🦀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gjhsgntiwpxbicer2tsmlfag/app.bsky.feed.post/3jvpcb5itkh2j'
+author_did = 'did:plc:gjhsgntiwpxbicer2tsmlfag'
+author_handle = 'im.fckn.gay'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpbkjarrh26'
+created_at = '2023-05-14T16:32:05.600Z'
+text = '''
+Indeed!
+
+It seems that's already happening with this skeet 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sfvpv6dfrug3rnjewn7gyx62/app.bsky.feed.post/3jvpb77uvsv2b'
+author_did = 'did:plc:sfvpv6dfrug3rnjewn7gyx62'
+author_handle = 'buttplug.engineer'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpb7wfy262j'
+created_at = '2023-05-14T16:26:10.233Z'
+text = '''
+Would be great if we could get a nice Rust community going on here 🙂
+
+Put up the 🦀-signal!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpb32swwk2q'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpb32swwk2q'
+created_at = '2023-05-14T16:23:27.153Z'
+text = '''
+🦀👋🏻
+
+I've been looking for other Rust users too.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ngxp6flaqrq4ev6gltfzlumn/app.bsky.feed.post/3jvp45drbc72r'
+author_did = 'did:plc:ngxp6flaqrq4ev6gltfzlumn'
+author_handle = 'carlosmendonca.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpaych4ph26'
+created_at = '2023-05-14T16:21:54.485Z'
+text = '''
+Been trying to find my fellow Rustaceans here on Bluesky.
+
+It's a bit hard since searches for "Rust" inevitably turn up skeets with "rust" appearing in other words, like "frustrated".
+
+This Firesky filter seems to work pretty well so far:
+
+https://firesky.tv/?filter=Rust%20-trust%20-frust%20-thrust'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpamit57g2j'
+created_at = '2023-05-14T16:15:18.523Z'
+text = 'Next run is in ~2 hours, and then it should keep pulling new skeets every 3 hours after that.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpaaftcxy2k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpafbzjea2k'
+created_at = '2023-05-14T16:11:16.507Z'
+text = '''
+Hey @sugyan.com!
+
+I just tried out your `atrium-api` crate and found it super easy to use. Thanks for making it 😄
+
+I'll probably be using it more as I'm playing around with building more stuff on the AT Protocol.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpaaftcxy2k'
+created_at = '2023-05-14T16:08:32.704Z'
+text = '''If you're curious to see what the output looks like: https://github.com/maxdeviant/data/blob/4366635efce4fddf6f682fdf7a2c40ce828473bd/data/bluesky/2023.toml'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpa762ji22q'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpa762ji22q'
+created_at = '2023-05-14T16:07:51Z'
+text = '''
+I ended up using the `atrium-api` crate to interact with Bluesky.
+
+Made the fetching of skeets quite easy.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpa4zvv7e24'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpa4zvv7e24'
+created_at = '2023-05-14T16:06:39.556Z'
+text = 'Updated Pluck—a CLI I wrote to sync data from various sites to flat files—to support pulling Bluesky posts: https://github.com/maxdeviant/pluck'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvp3lkfpvq2k'
 created_at = '2023-05-14T14:45:17.892Z'
 text = 'Time to dive into the AT Protocol.'
