@@ -24,9 +24,17 @@ jobs:
 
       - name: Sync Last.fm
         run: pluck lastfm data/last.fm
+        continue-on-error: true
         env:
           LASTFM_USER: maxdeviant
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+
+      - name: Sync Bluesky
+        run: pluck bluesky data/bluesky
+        continue-on-error: true
+        env:
+          BLUESKY_HANDLE: maxdeviant.com
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
 
       - name: Commit and push (if changed)
         if: github.ref == 'refs/heads/master'
