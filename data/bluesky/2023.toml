@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpvvigbut2q'
+created_at = '2023-05-14T22:36:08.600Z'
+text = 'We might be able to setup a custom Rust algorithm soon, though!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpnxbzvli26'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpvfsiffy2k'
+created_at = '2023-05-14T22:27:22.286Z'
+text = 'Man, that is fucked up!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:kef63ihhci7f5xhriu4asjhb/app.bsky.feed.post/3jvpuunvogy2j'
+author_did = 'did:plc:kef63ihhci7f5xhriu4asjhb'
+author_handle = 'tautologer.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvptjdi56j26'
+created_at = '2023-05-14T21:53:33.253Z'
+text = 'Bluesky Hellthread speedrun any%'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvpnxbzvli26'
 created_at = '2023-05-14T20:13:59.026Z'
 text = 'Not yet 😄'
