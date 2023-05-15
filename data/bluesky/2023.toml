@@ -1,4 +1,55 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvrk6za25l2j'
+created_at = '2023-05-15T14:12:02.836Z'
+text = '''
+It feels like we don’t talk enough about the impact of showers on the software development process.
+
+I’ve been stuck on a tricky API design problem for a week and a half and this morning in the shower I had some fresh insight into a solution.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvrhfjozd62j'
+created_at = '2023-05-15T13:22:00.235Z'
+text = '''
+I feel like everyone is just using JWTs (gross).
+
+I also wish for an actually good token standard that would take off.
+
+I’m not super familiar with macaroons, but I’ve heard some good things about them.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:yym5dkfbnzf6lspvh4hnstjg/app.bsky.feed.post/3jvr2dnsdzv2j'
+author_did = 'did:plc:yym5dkfbnzf6lspvh4hnstjg'
+author_handle = 'mitsuhiko.at'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvrgoarcod2r'
+created_at = '2023-05-15T13:08:59.079Z'
+text = 'Just waiting til I subscribe to a mute list without realizing that I’m on it.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvrfkhdayc24'
+created_at = '2023-05-15T12:48:58.006Z'
+text = '''
+I don’t really remember text-only forum signatures (might just be slightly too old for me).
+
+I was all about those forum banner signatures.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:aja7vavtqap24242oiksx5rh/app.bsky.feed.post/3jvqnitqjjj2q'
+author_did = 'did:plc:aja7vavtqap24242oiksx5rh'
+author_handle = 'wet.church'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvrf72omiu2m'
+created_at = '2023-05-15T12:42:35.651Z'
+text = 'Hope you have a great first day!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:j3xfqnikocae5m4ailwhm2yb/app.bsky.feed.post/3jvr5pvfklv2j'
+author_did = 'did:plc:j3xfqnikocae5m4ailwhm2yb'
+author_handle = 'pareinoia.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvqg4c72ol2m'
 created_at = '2023-05-15T03:26:16.899Z'
 text = 'Need to stop accidentally opening Twitter.'
