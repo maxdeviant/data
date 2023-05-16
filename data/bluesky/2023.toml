@@ -1,4 +1,89 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvu2zhejig2e'
+created_at = '2023-05-16T14:18:29.420Z'
+text = 'Can we hardcode his name into the muted words list in the client source so no one has to see him?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:z2rokxrttw5254hogmucux2x/app.bsky.feed.post/3jvu2tzbqtk2u'
+author_did = 'did:plc:z2rokxrttw5254hogmucux2x'
+author_handle = 'lookitup.baby'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvtz6s6m6m2o'
+created_at = '2023-05-16T13:45:41.020Z'
+text = 'Also, for only $8/mo you’ll be able to pay your way into it.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvtyzkumzs2u'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvtyzkumzs2u'
+created_at = '2023-05-16T13:42:45.607Z'
+text = '''
+Going to make a custom algorithm called “Who’s Hot” and it will be based on the average number of likes your skeets get.
+
+You better hope you’re batting a thousand, because one or two bad skeets could really pull you down.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvtygecwcc2o'
+created_at = '2023-05-16T13:32:01.231Z'
+text = 'This reminds me, I should go rewatch もののけ姫.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4qfqokc7d4le54c3xz5qmty5/app.bsky.feed.post/3jvt7hewnd626'
+author_did = 'did:plc:4qfqokc7d4le54c3xz5qmty5'
+author_handle = 'fukafuka.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvtwt5avvs24'
+created_at = '2023-05-16T13:03:22.516Z'
+text = '@yui.bsky.social /card -b'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4hqjfn7m6n5hno3doamuhgef/app.bsky.feed.post/3jvtw2qxmdh26'
+author_did = 'did:plc:4hqjfn7m6n5hno3doamuhgef'
+author_handle = 'yui.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvtwiiu3lw2e'
+created_at = '2023-05-16T12:57:25.571Z'
+text = 'Had some very intense dreams last night about returning to the city I grew up in and going through my phone trying to get in touch with any of my friends who still lived there. Most of them were gone.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvtw2anchk2o'
+created_at = '2023-05-16T12:49:27.203Z'
+text = '@yui.bsky.social /card'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4hqjfn7m6n5hno3doamuhgef/app.bsky.feed.post/3jvphferouq2k'
+author_did = 'did:plc:4hqjfn7m6n5hno3doamuhgef'
+author_handle = 'yui.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvtvripd6t2t'
+created_at = '2023-05-16T12:44:33.670Z'
+text = '''
+I think the Bluesky iOS client might have a memory leak.
+
+I’ve noticed that after using the app for a while scrolling through my skyline will start to get slow and slightly janky.
+
+Problem goes away when I close and reopen the app.
+
+Maybe it just never evicts loaded skeets from memory?'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvtvbig46l2k'
+created_at = '2023-05-16T12:35:36.498Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3jvttxzvqjm2o'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvsd6qtmr72p'
 created_at = '2023-05-15T21:39:17.574Z'
 text = 'This look is giving me “proning on a picnic blanket out in the mountains while you setup your shot” vibes.'
