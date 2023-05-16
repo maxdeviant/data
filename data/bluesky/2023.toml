@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvuegf63kf2o'
+created_at = '2023-05-16T17:06:46.826Z'
+text = 'Bleats on the b(sk)yline.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvuef3fyo72e'
+created_at = '2023-05-16T17:06:03.058Z'
+text = '''
+Was just thinking about this this morning.
+
+🐑'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:psqralexigiufgtswkszy6zr/app.bsky.feed.post/3jvudtzle2c2o'
+author_did = 'did:plc:psqralexigiufgtswkszy6zr'
+author_handle = 'charliejane.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvu2zhejig2e'
 created_at = '2023-05-16T14:18:29.420Z'
 text = 'Can we hardcode his name into the muted words list in the client source so no one has to see him?'
