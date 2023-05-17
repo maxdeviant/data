@@ -1,4 +1,32 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvwlvfmu7u22'
+created_at = '2023-05-17T14:25:46.466Z'
+text = 'Good morning, Bluesky.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvwh7iyq6r2j'
+created_at = '2023-05-17T13:01:56.835Z'
+text = '''
+I should really switch my Twitter to light mode or something so it’s easier to tell the difference.
+
+Sometimes I’ll open Twitter out of habit and scroll for a while before I realize it’s not Bluesky.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gvcc5225m35yqlwz3v3e7zqf/app.bsky.feed.post/3jvvok57du52c'
+author_did = 'did:plc:gvcc5225m35yqlwz3v3e7zqf'
+author_handle = 'globalcitizen.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvwg3f6dpu2k'
+created_at = '2023-05-17T12:41:44.868Z'
+text = 'Then you just keep faking in perpetuity.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wpznphv6cih7p5dqjjspknkd/app.bsky.feed.post/3jvvxtvurbq25'
+author_did = 'did:plc:wpznphv6cih7p5dqjjspknkd'
+author_handle = 'timclicks.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvvkfxk5zq25'
 created_at = '2023-05-17T04:26:34.898Z'
 text = 'Might be time for my midlife crisis.'
