@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jw3kxm7sdm2c'
+created_at = '2023-05-19T13:52:25.490Z'
+text = '@yui.bsky.social /card'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4hqjfn7m6n5hno3doamuhgef/app.bsky.feed.post/3jvyzq6e3uk2j'
+author_did = 'did:plc:4hqjfn7m6n5hno3doamuhgef'
+author_handle = 'yui.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jvyzpp3e7y2t'
 created_at = '2023-05-18T13:38:26.969Z'
 text = '@yui.bsky.social /card'
