@@ -1,4 +1,22 @@
 [[tracks]]
+name = '''I'm Your Passenger'''
+artist = 'Dance With The Dead'
+album = 'Driven to Madness'
+listened_at = '2023-05-24T14:59:23Z'
+
+[[tracks]]
+name = 'Start the Thaw'
+artist = 'Dance With The Dead'
+album = 'Driven to Madness'
+listened_at = '2023-05-24T14:55:11Z'
+
+[[tracks]]
+name = 'Wyrm of Doom'
+artist = 'Dance With The Dead'
+album = 'Driven to Madness'
+listened_at = '2023-05-24T03:38:07Z'
+
+[[tracks]]
 name = 'Kiss of the Creature'
 artist = 'Dance With The Dead'
 album = 'Driven to Madness'
