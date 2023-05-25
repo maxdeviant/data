@@ -2,6 +2,30 @@
 name = 'ANIMAL'
 artist = 'PVRIS'
 album = 'LOVE IS A...'
+listened_at = '2023-05-25T00:26:26Z'
+
+[[tracks]]
+name = 'GOOD ENEMY'
+artist = 'PVRIS'
+album = 'LOVE IS A...'
+listened_at = '2023-05-25T00:24:15Z'
+
+[[tracks]]
+name = 'GODDESS'
+artist = 'PVRIS'
+album = 'LOVE IS A...'
+listened_at = '2023-05-25T00:21:44Z'
+
+[[tracks]]
+name = 'LOVE IS A...'
+artist = 'PVRIS'
+album = 'LOVE IS A...'
+listened_at = '2023-05-25T00:18:03Z'
+
+[[tracks]]
+name = 'ANIMAL'
+artist = 'PVRIS'
+album = 'LOVE IS A...'
 listened_at = '2023-05-24T21:22:04Z'
 
 [[tracks]]
