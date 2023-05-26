@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jwnh66y6dd2g'
+created_at = '2023-05-26T16:32:26.757Z'
+text = '(This is a DM, please no one else read) U up?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vpkhqolt662uhesyj6nxm7ys/app.bsky.feed.post/3jwnfq7wqpv2u'
+author_did = 'did:plc:vpkhqolt662uhesyj6nxm7ys'
+author_handle = 'why.bsky.team'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jwnedmkpvs23'
+created_at = '2023-05-26T15:41:47.476Z'
+text = 'Trying to build robust and reliable production systems with TypeScript feels like trying to cook a Michelin star meal with an Easy-Bake Oven.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jwd75myzd32r'
 created_at = '2023-05-22T14:42:20.547Z'
 text = ''
