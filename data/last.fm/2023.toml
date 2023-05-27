@@ -1,4 +1,316 @@
 [[tracks]]
+name = 'Something to Believe In'
+artist = 'Kesha'
+album = 'Gag Order'
+listened_at = '2023-05-27T18:58:59Z'
+
+[[tracks]]
+name = 'LOVE IS A...'
+artist = 'PVRIS'
+album = 'LOVE IS A...'
+listened_at = '2023-05-27T18:55:18Z'
+
+[[tracks]]
+name = 'River of Dementia'
+artist = 'Marianas Rest'
+album = 'Marianas Rest'
+listened_at = '2023-05-26T21:59:05Z'
+
+[[tracks]]
+name = 'Down With the Sky'
+artist = 'Marianas Rest'
+album = 'Marianas Rest'
+listened_at = '2023-05-26T21:52:25Z'
+
+[[tracks]]
+name = 'Cut Down in a Wave'
+artist = 'Marianas Rest'
+album = 'Marianas Rest'
+listened_at = '2023-05-26T21:48:29Z'
+
+[[tracks]]
+name = 'River of Dementia'
+artist = 'Marianas Rest'
+album = 'Marianas Rest'
+listened_at = '2023-05-26T21:41:06Z'
+
+[[tracks]]
+name = 'Down With the Sky'
+artist = 'Marianas Rest'
+album = 'Marianas Rest'
+listened_at = '2023-05-26T21:34:26Z'
+
+[[tracks]]
+name = 'Cut Down in a Wave'
+artist = 'Marianas Rest'
+album = 'Marianas Rest'
+listened_at = '2023-05-26T21:30:30Z'
+
+[[tracks]]
+name = 'River of Dementia'
+artist = 'Marianas Rest'
+album = 'Marianas Rest'
+listened_at = '2023-05-26T21:23:06Z'
+
+[[tracks]]
+name = 'Down With the Sky'
+artist = 'Marianas Rest'
+album = 'Marianas Rest'
+listened_at = '2023-05-26T21:16:27Z'
+
+[[tracks]]
+name = 'Cut Down in a Wave'
+artist = 'Marianas Rest'
+album = 'Marianas Rest'
+listened_at = '2023-05-26T21:12:31Z'
+
+[[tracks]]
+name = 'Speak to the Moon'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T21:02:01Z'
+
+[[tracks]]
+name = 'Camera Obscura'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:59:13Z'
+
+[[tracks]]
+name = 'You Will Be There'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:56:06Z'
+
+[[tracks]]
+name = 'Foreword'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:52:52Z'
+
+[[tracks]]
+name = 'Epilogue'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:51:22Z'
+
+[[tracks]]
+name = 'Домой'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:50:09Z'
+
+[[tracks]]
+name = 'Forever Young'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:46:44Z'
+
+[[tracks]]
+name = 'Somewhere in Between Us'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:43:27Z'
+
+[[tracks]]
+name = 'Stranger Times'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:40:14Z'
+
+[[tracks]]
+name = 'Deep Inside'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:37:02Z'
+
+[[tracks]]
+name = 'Summer'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:34:00Z'
+
+[[tracks]]
+name = 'Speak to the Moon'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:30:34Z'
+
+[[tracks]]
+name = 'Camera Obscura'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:27:47Z'
+
+[[tracks]]
+name = 'You Will Be There'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:24:39Z'
+
+[[tracks]]
+name = 'Foreword'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:21:25Z'
+
+[[tracks]]
+name = 'Epilogue'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:19:55Z'
+
+[[tracks]]
+name = 'Домой'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:18:42Z'
+
+[[tracks]]
+name = 'Forever Young'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:15:17Z'
+
+[[tracks]]
+name = 'Somewhere in Between Us'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:12:00Z'
+
+[[tracks]]
+name = 'Stranger Times'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:08:46Z'
+
+[[tracks]]
+name = 'Deep Inside'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:05:35Z'
+
+[[tracks]]
+name = 'Summer'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T20:02:33Z'
+
+[[tracks]]
+name = 'Speak to the Moon'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T19:59:08Z'
+
+[[tracks]]
+name = 'Camera Obscura'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T19:56:21Z'
+
+[[tracks]]
+name = 'You Will Be There'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T19:53:13Z'
+
+[[tracks]]
+name = 'Foreword'
+artist = 'Life On Venus'
+album = 'Homewards'
+listened_at = '2023-05-26T19:49:58Z'
+
+[[tracks]]
+name = 'Burning The Iron Age'
+artist = 'Trade Wind'
+album = 'The Day We Got What We Deserved'
+listened_at = '2023-05-26T19:48:08Z'
+
+[[tracks]]
+name = 'Walk Me In // Plant Me In Your Garden'
+artist = 'Trade Wind'
+album = 'The Day We Got What We Deserved'
+listened_at = '2023-05-26T19:44:41Z'
+
+[[tracks]]
+name = 'Weather Eyes'
+artist = 'Trade Wind'
+album = 'The Day We Got What We Deserved'
+listened_at = '2023-05-26T19:41:13Z'
+
+[[tracks]]
+name = 'Untitled III'
+artist = 'Trade Wind'
+album = 'The Day We Got What We Deserved'
+listened_at = '2023-05-26T19:38:20Z'
+
+[[tracks]]
+name = '''Don't Rush'''
+artist = 'Trade Wind'
+album = 'The Day We Got What We Deserved'
+listened_at = '2023-05-26T19:36:04Z'
+
+[[tracks]]
+name = 'Fade On You'
+artist = 'Trade Wind'
+album = 'The Day We Got What We Deserved'
+listened_at = '2023-05-26T19:33:55Z'
+
+[[tracks]]
+name = 'Blue Notes'
+artist = 'Trade Wind'
+album = 'The Day We Got What We Deserved'
+listened_at = '2023-05-26T19:31:39Z'
+
+[[tracks]]
+name = 'Bishop'
+artist = 'Trade Wind'
+album = 'The Day We Got What We Deserved'
+listened_at = '2023-05-26T19:29:38Z'
+
+[[tracks]]
+name = 'Nine Tails'
+artist = 'Trade Wind'
+album = 'The Day We Got What We Deserved'
+listened_at = '2023-05-26T19:26:57Z'
+
+[[tracks]]
+name = 'DIE! DIE! DIE!'
+artist = 'Trade Wind'
+album = 'The Day We Got What We Deserved'
+listened_at = '2023-05-26T19:23:45Z'
+
+[[tracks]]
+name = 'Burning The Iron Age'
+artist = 'Trade Wind'
+album = 'The Day We Got What We Deserved'
+listened_at = '2023-05-26T19:20:34Z'
+
+[[tracks]]
+name = 'Before I Forget'
+artist = 'Public Memory'
+album = 'Illusion of Choice'
+listened_at = '2023-05-26T19:16:01Z'
+
+[[tracks]]
+name = 'The Maze'
+artist = 'Public Memory'
+album = 'Illusion of Choice'
+listened_at = '2023-05-26T19:11:47Z'
+
+[[tracks]]
+name = 'Ledge Of Ash'
+artist = 'Public Memory'
+album = 'Illusion of Choice'
+listened_at = '2023-05-26T19:08:23Z'
+
+[[tracks]]
+name = 'Before I Forget'
+artist = 'Public Memory'
+album = 'Illusion of Choice'
+listened_at = '2023-05-26T19:04:27Z'
+
+[[tracks]]
 name = 'ANIMAL'
 artist = 'PVRIS'
 album = 'LOVE IS A...'

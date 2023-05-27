@@ -1,4 +1,20 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jwq6p2cq332t'
+created_at = '2023-05-27T18:38:47.784Z'
+text = '''
+Put a repo up for my Gleam exploration: https://github.com/maxdeviant/hello-gleam
+
+There are a few tiny programs up there at the moment.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jwq5bs4eyq2h'
+created_at = '2023-05-27T18:13:29.291Z'
+text = '''
+Decided to play around with Gleam a bit today and I am *incredibly* impressed with the state of the tooling.
+
+So far everything has Just Worked out of the box, and this is even with me using a (perhaps) non-typical setup (Nix on macOS).'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jwnh66y6dd2g'
 created_at = '2023-05-26T16:32:26.757Z'
 text = '(This is a DM, please no one else read) U up?'
