@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Court of the Matriarch'
+artist = 'Dvne'
+album = 'Etemen Ænka'
+listened_at = '2023-05-28T15:20:07Z'
+
+[[tracks]]
+name = 'BRAINWASHED'
+artist = 'Waterparks'
+album = 'INTELLECTUAL PROPERTY'
+listened_at = '2023-05-28T15:17:06Z'
+
+[[tracks]]
+name = 'Celestia'
+artist = 'Nick DePirro'
+album = 'Celestia'
+listened_at = '2023-05-28T15:13:59Z'
+
+[[tracks]]
+name = 'Miss Americana & the Heartbreak Prince'
+artist = 'Taylor Swift'
+album = 'Lover'
+listened_at = '2023-05-28T15:10:05Z'
+
+[[tracks]]
+name = 'Eschatology (Instrumental)'
+artist = 'Walking Across Jupiter'
+album = 'Eschatology (Instrumental)'
+listened_at = '2023-05-28T15:04:34Z'
+
+[[tracks]]
 name = 'Zman'
 artist = 'Textures'
 album = 'Phenotype'

@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jwsf2atff32o'
+created_at = '2023-05-28T15:37:45.688Z'
+text = 'Day 2 of playing around with Gleam and I am now opening compiler PRs.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jwqsen3vnf2i'
 created_at = '2023-05-28T00:30:53.269Z'
 text = '''No I'm not thinking about Diablo IV, why do you ask?'''
