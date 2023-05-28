@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Bass 2.0'
+artist = 'Manuel Gardner Fernandes'
+album = 'Bass 2.0'
+listened_at = '2023-05-28T19:04:28Z'
+
+[[tracks]]
+name = 'The Deep Blue Silent'
+artist = 'Allt'
+album = 'The Seed of Self-Destruction'
+listened_at = '2023-05-28T19:01:12Z'
+
+[[tracks]]
+name = 'Peace & Quiet'
+artist = 'Kesha'
+album = 'Gag Order'
+listened_at = '2023-05-28T18:58:14Z'
+
+[[tracks]]
+name = 'Something to Believe In'
+artist = 'Kesha'
+album = 'Gag Order'
+listened_at = '2023-05-28T18:50:41Z'
+
+[[tracks]]
+name = 'LOVE IS A...'
+artist = 'PVRIS'
+album = 'LOVE IS A...'
+listened_at = '2023-05-28T18:47:01Z'
+
+[[tracks]]
 name = 'Court of the Matriarch'
 artist = 'Dvne'
 album = 'Etemen Ænka'
