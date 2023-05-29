@@ -1,4 +1,28 @@
 [[tracks]]
+name = '10th Avenue'
+artist = 'Charli Adams'
+album = '10th Avenue'
+listened_at = '2023-05-29T03:36:26Z'
+
+[[tracks]]
+name = 'ANIMAL'
+artist = 'PVRIS'
+album = 'ANIMAL / ANYWHERE BUT HERE'
+listened_at = '2023-05-29T03:33:34Z'
+
+[[tracks]]
+name = 'THE TURN'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2023-05-29T03:21:35Z'
+
+[[tracks]]
+name = 'I Know the End'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2023-05-29T02:10:43Z'
+
+[[tracks]]
 name = 'Suckerpunch'
 artist = 'FLETCHER'
 album = 'Girl of My Dreams (Deluxe)'
