@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jwx77r27uk2e'
+created_at = '2023-05-30T13:36:46.751Z'
+text = 'Can’t believe Rust didn’t name their linter `cargo cult`.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jww4t6qmsk2v'
 created_at = '2023-05-30T03:21:17.643Z'
 text = '''
