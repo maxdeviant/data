@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jww4t6qmsk2v'
+created_at = '2023-05-30T03:21:17.643Z'
+text = '''
+Published my first Gleam library earlier today!
+
+`glenvy` provides a pleasant way to interact with your environment, namely loading `.env` files.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jwsf2atff32o'
 created_at = '2023-05-28T15:37:45.688Z'
 text = 'Day 2 of playing around with Gleam and I am now opening compiler PRs.'
