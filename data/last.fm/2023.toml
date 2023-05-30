@@ -1,4 +1,136 @@
 [[tracks]]
+name = 'Golden Age'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2023-05-29T22:18:40Z'
+
+[[tracks]]
+name = 'uh oh'
+artist = 'Tate McRae'
+album = 'uh oh'
+listened_at = '2023-05-29T22:15:50Z'
+
+[[tracks]]
+name = 'My Way'
+artist = 'I Set My Friends on Fire'
+album = 'My Way'
+listened_at = '2023-05-29T22:11:20Z'
+
+[[tracks]]
+name = 'Fall In'
+artist = 'Nomra'
+album = 'Fall In'
+listened_at = '2023-05-29T22:07:04Z'
+
+[[tracks]]
+name = 'Somebody Else'
+artist = 'Lucy Daydream'
+album = 'Awake & Dreaming'
+listened_at = '2023-05-29T22:03:36Z'
+
+[[tracks]]
+name = 'Dream Of You'
+artist = 'Josha Daniel'
+album = 'Dream Of You'
+listened_at = '2023-05-29T21:59:29Z'
+
+[[tracks]]
+name = 'Summer 2019'
+artist = 'Caroline Culver'
+album = 'Summer 2019'
+listened_at = '2023-05-29T21:57:09Z'
+
+[[tracks]]
+name = 'Night Drives'
+artist = 'Ky Vöss'
+album = 'The After'
+listened_at = '2023-05-29T21:54:15Z'
+
+[[tracks]]
+name = '10th Avenue'
+artist = 'Charli Adams'
+album = '10th Avenue'
+listened_at = '2023-05-29T21:50:51Z'
+
+[[tracks]]
+name = 'ANIMAL'
+artist = 'PVRIS'
+album = 'ANIMAL / ANYWHERE BUT HERE'
+listened_at = '2023-05-29T21:47:59Z'
+
+[[tracks]]
+name = 'THE TURN'
+artist = 'Blvck Ceiling'
+album = 'LITE'
+listened_at = '2023-05-29T21:45:38Z'
+
+[[tracks]]
+name = 'Altar'
+artist = 'machineheart'
+album = 'People Change'
+listened_at = '2023-05-29T21:40:34Z'
+
+[[tracks]]
+name = 'I Know the End'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2023-05-29T21:34:49Z'
+
+[[tracks]]
+name = 'Suckerpunch'
+artist = 'FLETCHER'
+album = 'Girl of My Dreams (Deluxe)'
+listened_at = '2023-05-29T21:32:30Z'
+
+[[tracks]]
+name = 'Clearest Blue - Gryffin Remix'
+artist = 'CHVRCHES'
+album = 'Every Open Eye (Extended Edition)'
+listened_at = '2023-05-29T21:28:10Z'
+
+[[tracks]]
+name = 'Lies'
+artist = 'Pale Waves'
+album = 'Unwanted'
+listened_at = '2023-05-29T21:25:19Z'
+
+[[tracks]]
+name = 'Beyond Infinity'
+artist = 'RYDEX'
+album = 'Beyond Infinity'
+listened_at = '2023-05-29T21:21:54Z'
+
+[[tracks]]
+name = '9th Ave'
+artist = 'Rodg'
+album = 'Fate'
+listened_at = '2023-05-29T21:18:33Z'
+
+[[tracks]]
+name = 'Seconds'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-05-29T21:14:39Z'
+
+[[tracks]]
+name = 'Water'
+artist = 'Blvck Ceiling'
+album = 'She Drowned'
+listened_at = '2023-05-29T21:13:02Z'
+
+[[tracks]]
+name = 'French Toast'
+artist = 'Blvck Ceiling'
+album = 'She Drowned'
+listened_at = '2023-05-29T21:10:23Z'
+
+[[tracks]]
+name = 'Kyoto'
+artist = 'Phoebe Bridgers'
+album = 'Kyoto'
+listened_at = '2023-05-29T20:36:43Z'
+
+[[tracks]]
 name = 'Motion Sickness'
 artist = 'Phoebe Bridgers'
 album = 'Stranger in the Alps'
