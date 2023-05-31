@@ -1,4 +1,70 @@
 [[tracks]]
+name = 'Mirror'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-05-30T22:23:05Z'
+
+[[tracks]]
+name = 'Oiseaux de proie'
+artist = 'Alcest'
+album = 'Kodama'
+listened_at = '2023-05-30T22:14:51Z'
+
+[[tracks]]
+name = 'Shoreless'
+artist = 'Numenorean'
+album = 'Home'
+listened_at = '2023-05-30T22:11:25Z'
+
+[[tracks]]
+name = '''L'appel du vide'''
+artist = 'Karg'
+album = 'Dornenvögel'
+listened_at = '2023-05-30T22:03:21Z'
+
+[[tracks]]
+name = 'Redemption'
+artist = 'Sorrow Plagues'
+album = 'Sorrow Plagues'
+listened_at = '2023-05-30T21:53:02Z'
+
+[[tracks]]
+name = 'The Golden Age'
+artist = 'Downfall of Nur'
+album = 'Umbras de Barbagia'
+listened_at = '2023-05-30T21:35:16Z'
+
+[[tracks]]
+name = 'Endurance'
+artist = 'Any Given Day'
+album = 'Everlasting'
+listened_at = '2023-05-30T21:30:30Z'
+
+[[tracks]]
+name = 'Coward King'
+artist = 'Any Given Day'
+album = 'Everlasting'
+listened_at = '2023-05-30T21:26:37Z'
+
+[[tracks]]
+name = 'Sentinel - Original Mix'
+artist = 'Clap Codex'
+album = 'Sentinel'
+listened_at = '2023-05-30T21:20:08Z'
+
+[[tracks]]
+name = 'Huys'
+artist = 'Anahit Vardanyan'
+album = 'Huys'
+listened_at = '2023-05-30T21:12:47Z'
+
+[[tracks]]
+name = '1981'
+artist = 'Simina Grigoriu'
+album = '1981'
+listened_at = '2023-05-30T21:06:38Z'
+
+[[tracks]]
 name = 'Nothing Lost'
 artist = 'Anberlin'
 album = 'Silverline'
