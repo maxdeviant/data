@@ -1,4 +1,70 @@
 [[tracks]]
+name = 'Shazam The Void'
+artist = 'Violet Cold'
+album = 'Shazam the Void'
+listened_at = '2023-06-01T18:51:32Z'
+
+[[tracks]]
+name = 'Boiled Frogs'
+artist = 'Alexisonfire'
+album = 'Crisis'
+listened_at = '2023-06-01T18:47:35Z'
+
+[[tracks]]
+name = 'Le Temps Detruit Tout'
+artist = 'Nostalghia'
+album = '''Au milieu de l'hiver'''
+listened_at = '2023-06-01T18:36:24Z'
+
+[[tracks]]
+name = 'Kingdom of Misery'
+artist = 'Eternal Valley'
+album = 'Kingdom of Misery'
+listened_at = '2023-06-01T18:30:18Z'
+
+[[tracks]]
+name = 'Matter'
+artist = 'Moderns'
+album = 'Moderns'
+listened_at = '2023-06-01T18:26:30Z'
+
+[[tracks]]
+name = 'Heartbreak Feels So Good'
+artist = 'Fall Out Boy'
+album = 'Heartbreak Feels So Good'
+listened_at = '2023-06-01T18:22:52Z'
+
+[[tracks]]
+name = 'Destroy Me'
+artist = 'Rebecca Black'
+album = 'Let Her Burn'
+listened_at = '2023-06-01T18:19:49Z'
+
+[[tracks]]
+name = 'Heartless'
+artist = 'The Weeknd'
+album = 'After Hours'
+listened_at = '2023-06-01T18:16:28Z'
+
+[[tracks]]
+name = 'As Above, So Below'
+artist = 'vvilderness'
+album = 'As Above, So Below'
+listened_at = '2023-06-01T18:09:34Z'
+
+[[tracks]]
+name = 'Andalusia'
+artist = 'City of the Sun'
+album = 'Segunda Alma'
+listened_at = '2023-06-01T18:05:00Z'
+
+[[tracks]]
+name = 'Iris'
+artist = 'DIAMANTE'
+album = 'American Dream'
+listened_at = '2023-06-01T18:01:15Z'
+
+[[tracks]]
 name = 'Playing God'
 artist = 'Polyphia'
 album = 'Remember That You Will Die'
