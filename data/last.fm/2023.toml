@@ -1,7 +1,115 @@
 [[tracks]]
+name = 'Altar'
+artist = 'machineheart'
+album = 'People Change'
+listened_at = '2023-06-04T14:57:42Z'
+
+[[tracks]]
+name = 'I Know the End'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2023-06-04T14:51:58Z'
+
+[[tracks]]
+name = 'Clearest Blue - Gryffin Remix'
+artist = 'CHVRCHES'
+album = 'Every Open Eye (Extended Edition)'
+listened_at = '2023-06-04T14:47:31Z'
+
+[[tracks]]
+name = 'Lies'
+artist = 'Pale Waves'
+album = 'Unwanted'
+listened_at = '2023-06-04T14:44:40Z'
+
+[[tracks]]
+name = 'Beyond Infinity'
+artist = 'RYDEX'
+album = 'Beyond Infinity'
+listened_at = '2023-06-04T14:41:16Z'
+
+[[tracks]]
+name = '9th Ave'
+artist = 'Rodg'
+album = 'Fate'
+listened_at = '2023-06-04T14:37:53Z'
+
+[[tracks]]
+name = 'Seconds'
+artist = 'Protoculture'
+album = 'Lost In Isolation'
+listened_at = '2023-06-04T14:34:01Z'
+
+[[tracks]]
+name = 'Water'
+artist = 'Blvck Ceiling'
+album = 'She Drowned'
+listened_at = '2023-06-04T14:32:24Z'
+
+[[tracks]]
+name = 'French Toast'
+artist = 'Blvck Ceiling'
+album = 'She Drowned'
+listened_at = '2023-06-04T14:29:44Z'
+
+[[tracks]]
+name = 'Pine Barrens'
+artist = 'Jakey'
+album = 'ROMCOM'
+listened_at = '2023-06-04T14:25:54Z'
+
+[[tracks]]
+name = 'Space'
+artist = 'No Mana'
+album = 'Space'
+listened_at = '2023-06-04T14:22:06Z'
+
+[[tracks]]
+name = 'Remember Me'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood'
+listened_at = '2023-06-04T14:18:35Z'
+
+[[tracks]]
+name = 'Not Another Rockstar'
+artist = 'Maisie Peters'
+album = 'Not Another Rockstar'
+listened_at = '2023-06-04T14:16:05Z'
+
+[[tracks]]
+name = 'I Really F**ked It Up'
+artist = 'GIRLI'
+album = 'I Really F**ked It Up'
+listened_at = '2023-06-04T14:13:19Z'
+
+[[tracks]]
+name = 'R0CKST4RS'
+artist = 'GEISTHA'
+album = 'starchild'
+listened_at = '2023-06-04T14:10:45Z'
+
+[[tracks]]
+name = 'Best Day'
+artist = 'Hannah Cole'
+album = 'Best Day'
+listened_at = '2023-06-01T18:58:11Z'
+
+[[tracks]]
 name = 'Shazam The Void'
 artist = 'Violet Cold'
 album = 'Shazam the Void'
+listened_at = '2023-06-01T18:55:33Z'
+
+[[tracks]]
+name = 'Shazam The Void'
+artist = 'Violet Cold'
+album = 'Shazam the Void'
+listened_at = '2023-06-01T18:51:32Z'
+
+[[tracks]]
+name = 'Boiled Frogs'
+artist = 'Alexisonfire'
+album = 'Crisis'
 listened_at = '2023-06-01T18:51:32Z'
 
 [[tracks]]
