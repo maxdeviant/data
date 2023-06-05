@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Oranges'
+artist = 'Beacon'
+album = 'Along the Lethe'
+listened_at = '2023-06-05T14:57:48Z'
+
+[[tracks]]
+name = 'Soul'
+artist = 'Buzz'
+album = 'Soul'
+listened_at = '2023-06-05T14:51:44Z'
+
+[[tracks]]
+name = 'Rust'
+artist = 'Igor Gritsay'
+album = 'Rust'
+listened_at = '2023-06-05T14:44:23Z'
+
+[[tracks]]
+name = 'Romance (feat. Gost)'
+artist = 'Blanket'
+album = 'Modern Escapism'
+listened_at = '2023-06-05T14:39:01Z'
+
+[[tracks]]
+name = 'coronal'
+artist = 'Covet'
+album = 'catharsis'
+listened_at = '2023-06-05T14:35:14Z'
+
+[[tracks]]
+name = 'Cry'
+artist = 'David Maxim Micic'
+album = 'BILO IV'
+listened_at = '2023-06-05T14:25:52Z'
+
+[[tracks]]
+name = 'Haunted'
+artist = 'FOXCULT'
+album = 'Haunted'
+listened_at = '2023-06-05T14:21:52Z'
+
+[[tracks]]
+name = 'DATURA [paroxysm]'
+artist = 'Crywolf'
+album = 'exuvium [OBLIVIØN Pt. II]'
+listened_at = '2023-06-05T14:18:18Z'
+
+[[tracks]]
 name = 'Empty Nest'
 artist = 'Silversun Pickups'
 album = 'Physical Thrills'
