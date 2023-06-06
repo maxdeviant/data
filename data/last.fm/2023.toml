@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Overkill'
+artist = 'Bosses'
+album = 'Overkill'
+listened_at = '2023-06-06T14:58:50Z'
+
+[[tracks]]
+name = 'Seven Winds of Sekhmet'
+artist = 'Djunah'
+album = 'Femina Furens'
+listened_at = '2023-06-05T19:48:08Z'
+
+[[tracks]]
 name = 'Rust Genome'
 artist = 'Iglooghost'
 album = 'Rust Genome'
