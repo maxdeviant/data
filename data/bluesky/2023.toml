@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jxjj7cztek2b'
+created_at = '2023-06-06T20:23:24.714Z'
+text = '''
+If you ever find yourself in a situation where you’re adding a boolean parameter to a function, consider not doing that.
+
+Bare boolean parameters in the absence of named parameters make for inscrutable call sites.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jx35eatp4e2k'
 created_at = '2023-06-01T03:14:08.974Z'
 text = '''
