@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'The Life of a Wolf'
+artist = 'Blvck Ceiling'
+album = '808'
+listened_at = '2023-06-09T22:31:23Z'
+
+[[tracks]]
+name = 'Dunes'
+artist = 'Blvck Ceiling'
+album = '808'
+listened_at = '2023-06-09T22:28:32Z'
+
+[[tracks]]
+name = 'Crystal Stars'
+artist = 'Blvck Ceiling'
+album = '808'
+listened_at = '2023-06-09T22:25:32Z'
+
+[[tracks]]
+name = 'Painting Shadows'
+artist = 'Blvck Ceiling'
+album = '808'
+listened_at = '2023-06-09T22:22:51Z'
+
+[[tracks]]
+name = 'Last Dance - Turbotito Remix'
+artist = 'Scratch Massive'
+album = 'Last Dance (Remixes)'
+listened_at = '2023-06-09T18:59:21Z'
+
+[[tracks]]
 name = '''If There's Smoke, There's a Fire'''
 artist = 'First and Forever'
 album = 'Til Death Do Us Part'
