@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jxz3xe57i72t'
+created_at = '2023-06-13T01:08:54.621Z'
+text = 'Building LLVM and it hurts so good.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jxjj7cztek2b'
 created_at = '2023-06-06T20:23:24.714Z'
 text = '''
