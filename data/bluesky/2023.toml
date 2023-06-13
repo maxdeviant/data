@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jxzetkvav42n'
+created_at = '2023-06-13T03:47:51.151Z'
+text = '''
+Ironically, the time I spent trying to *avoid* building LLVM by hand ended up being longer than just building it by hand.
+
+Should have just RTFM in the first place.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jxz3xe57i72t'
 created_at = '2023-06-13T01:08:54.621Z'
 text = 'Building LLVM and it hurts so good.'
