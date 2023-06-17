@@ -1,4 +1,100 @@
 [[tracks]]
+name = 'Soft'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T20:58:09Z'
+
+[[tracks]]
+name = 'Ricochet'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T20:53:47Z'
+
+[[tracks]]
+name = 'Vanish'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T20:51:20Z'
+
+[[tracks]]
+name = 'Blush'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T20:47:12Z'
+
+[[tracks]]
+name = 'Violator'
+artist = 'The Afterimage'
+album = 'Eve'
+listened_at = '2023-06-17T20:05:57Z'
+
+[[tracks]]
+name = 'Wrath'
+artist = 'The Afterimage'
+album = 'Eve'
+listened_at = '2023-06-17T20:02:07Z'
+
+[[tracks]]
+name = 'Sapphire'
+artist = 'The Afterimage'
+album = 'Eve'
+listened_at = '2023-06-17T19:58:56Z'
+
+[[tracks]]
+name = 'Mirrors'
+artist = 'The Afterimage'
+album = 'Eve'
+listened_at = '2023-06-17T19:55:28Z'
+
+[[tracks]]
+name = 'Eve'
+artist = 'The Afterimage'
+album = 'Eve'
+listened_at = '2023-06-17T19:53:21Z'
+
+[[tracks]]
+name = 'Secrets'
+artist = 'The Afterimage'
+album = 'Eve'
+listened_at = '2023-06-17T19:48:48Z'
+
+[[tracks]]
+name = 'Floodgates'
+artist = 'The Afterimage'
+album = 'Eve'
+listened_at = '2023-06-17T19:45:21Z'
+
+[[tracks]]
+name = 'Amethyst (feat. Kennedy Lapenna)'
+artist = 'The Afterimage'
+album = 'Eve'
+listened_at = '2023-06-17T19:41:58Z'
+
+[[tracks]]
+name = 'Deadlines'
+artist = 'The Afterimage'
+album = 'Eve'
+listened_at = '2023-06-17T19:38:07Z'
+
+[[tracks]]
+name = 'Cerulean'
+artist = 'The Afterimage'
+album = 'Eve'
+listened_at = '2023-06-17T19:34:45Z'
+
+[[tracks]]
+name = 'Aquamarine'
+artist = 'The Afterimage'
+album = 'Eve'
+listened_at = '2023-06-17T19:33:17Z'
+
+[[tracks]]
+name = 'Hyperion'
+artist = 'Death Engine'
+album = 'Ocean'
+listened_at = '2023-06-16T22:17:02Z'
+
+[[tracks]]
 name = 'Empire'
 artist = 'Death Engine'
 album = 'Ocean'
