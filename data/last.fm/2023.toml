@@ -1,4 +1,82 @@
 [[tracks]]
+name = '''<maybe> it's my fault'''
+artist = 'Willow'
+album = '<COPINGMECHANISM>'
+listened_at = '2023-06-18T00:18:01Z'
+
+[[tracks]]
+name = 'Witness Marks'
+artist = 'Devil Sold His Soul'
+album = 'Loss'
+listened_at = '2023-06-17T21:48:35Z'
+
+[[tracks]]
+name = 'Ardour'
+artist = 'Devil Sold His Soul'
+album = 'Loss'
+listened_at = '2023-06-17T21:43:01Z'
+
+[[tracks]]
+name = 'Vanish'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T21:40:06Z'
+
+[[tracks]]
+name = 'Blush'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T21:35:56Z'
+
+[[tracks]]
+name = 'Soft'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T21:30:39Z'
+
+[[tracks]]
+name = 'Ricochet'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T21:26:17Z'
+
+[[tracks]]
+name = 'Vanish'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T21:23:50Z'
+
+[[tracks]]
+name = 'Blush'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T21:19:40Z'
+
+[[tracks]]
+name = 'Soft'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T21:14:24Z'
+
+[[tracks]]
+name = 'Ricochet'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T21:10:02Z'
+
+[[tracks]]
+name = 'Vanish'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T21:07:35Z'
+
+[[tracks]]
+name = 'Blush'
+artist = 'Iress'
+album = 'Solace'
+listened_at = '2023-06-17T21:03:24Z'
+
+[[tracks]]
 name = 'Soft'
 artist = 'Iress'
 album = 'Solace'
