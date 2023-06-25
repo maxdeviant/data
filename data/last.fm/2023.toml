@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Hereditary'
+artist = 'Mirrors'
+album = '''The Ego's Weight'''
+listened_at = '2023-06-25T20:58:59Z'
+
+[[tracks]]
+name = 'Rebirth'
+artist = 'Mirrors'
+album = '''The Ego's Weight'''
+listened_at = '2023-06-25T20:55:56Z'
+
+[[tracks]]
+name = '''What We'll Never See'''
+artist = 'Mirrors'
+album = '''The Ego's Weight'''
+listened_at = '2023-06-25T20:52:02Z'
+
+[[tracks]]
+name = 'Purple Static'
+artist = 'Mirrors'
+album = '''The Ego's Weight'''
+listened_at = '2023-06-25T20:48:12Z'
+
+[[tracks]]
+name = 'Automata'
+artist = 'Mirrors'
+album = '''The Ego's Weight'''
+listened_at = '2023-06-25T20:44:47Z'
+
+[[tracks]]
+name = 'Leave Them Behind'
+artist = 'Mirrors'
+album = '''The Ego's Weight'''
+listened_at = '2023-06-25T20:40:30Z'
+
+[[tracks]]
+name = 'Beneath the Sand'
+artist = 'Mirrors'
+album = '''The Ego's Weight'''
+listened_at = '2023-06-25T20:36:34Z'
+
+[[tracks]]
+name = 'Hypnagogia'
+artist = 'Mirrors'
+album = '''The Ego's Weight'''
+listened_at = '2023-06-25T20:35:40Z'
+
+[[tracks]]
 name = 'Space Cookie Drama'
 artist = 'Summer of Haze'
 album = 'Space Cookie Drama'
