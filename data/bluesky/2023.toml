@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jz24bqpxpg2t'
+created_at = '2023-06-26T04:12:34.767Z'
+text = 'Just posted my first devlog up on the brand new crane-lang.org site: https://crane-lang.org/blog/2023/devlog-001/'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jyfyvxj5wr2z'
 created_at = '2023-06-18T04:19:03.195Z'
 text = '''
