@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Frostbyte'
+artist = 'Nuclear Mansion'
+album = 'Act I: The Catalyst'
+listened_at = '2023-06-27T14:56:29Z'
+
+[[tracks]]
+name = 'The Deal You Brokered'
+artist = 'Nuclear Mansion'
+album = 'Act I: The Catalyst'
+listened_at = '2023-06-27T14:52:24Z'
+
+[[tracks]]
+name = 'New Resistance (Ouverture)'
+artist = 'Nuclear Mansion'
+album = 'Act I: The Catalyst'
+listened_at = '2023-06-27T14:47:09Z'
+
+[[tracks]]
 name = 'Pulse - Instrumental'
 artist = 'Revaira'
 album = 'In Between (Instrumental)'
