@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'CODE MISTAKE'
+artist = 'Corpse'
+album = 'CODE MISTAKE'
+listened_at = '2023-07-02T16:54:58Z'
+
+[[tracks]]
+name = 'Two Hands'
+artist = 'We Came as Romans'
+album = 'Cold Like War'
+listened_at = '2023-07-02T16:52:27Z'
+
+[[tracks]]
+name = 'It Never Ends'
+artist = 'Bring Me the Horizon'
+album = '''There Is A Hell Believe Me I've Seen It. There Is A Heaven Let's Keep It A Secret'''
+listened_at = '2023-07-02T16:47:51Z'
+
+[[tracks]]
+name = 'Pride: Lieoness'
+artist = 'Our Hollow, Our Home'
+album = 'Hartsick'
+listened_at = '2023-07-02T16:44:10Z'
+
+[[tracks]]
 name = 'MORNING SHIFT'
 artist = 'Ben Haskins'
 album = 'MORNING SHIFT'
