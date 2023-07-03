@@ -1,4 +1,88 @@
 [[tracks]]
+name = 'Animals'
+artist = 'Anberlin'
+album = 'Convinced'
+listened_at = '2023-07-03T20:53:01Z'
+
+[[tracks]]
+name = 'Banshee'
+artist = 'Anberlin'
+album = 'Convinced'
+listened_at = '2023-07-03T20:49:05Z'
+
+[[tracks]]
+name = 'Decoder'
+artist = 'Anberlin'
+album = 'Convinced'
+listened_at = '2023-07-03T20:46:32Z'
+
+[[tracks]]
+name = 'EVERGREEN'
+artist = 'PVRIS'
+album = 'EVERGREEN'
+listened_at = '2023-07-03T20:42:56Z'
+
+[[tracks]]
+name = 'Cracker Island (feat. Thundercat)'
+artist = 'Gorillaz'
+album = 'Cracker Island (Deluxe)'
+listened_at = '2023-07-03T20:40:31Z'
+
+[[tracks]]
+name = 'Dumbest Girl Alive'
+artist = '100 gecs'
+album = '10,000 gecs'
+listened_at = '2023-07-03T20:38:15Z'
+
+[[tracks]]
+name = 'The Elephant Man in the Room'
+artist = 'The Callous Daoboys'
+album = 'Celebrity Therapist'
+listened_at = '2023-07-03T19:04:17Z'
+
+[[tracks]]
+name = 'Come undone'
+artist = 'Underlet'
+album = 'Come undone'
+listened_at = '2023-07-03T19:00:31Z'
+
+[[tracks]]
+name = 'Outlier'
+artist = 'Ashen'
+album = 'Outlier'
+listened_at = '2023-07-03T18:32:55Z'
+
+[[tracks]]
+name = 'Delirious'
+artist = 'swim school'
+album = 'delirious'
+listened_at = '2023-07-03T18:30:02Z'
+
+[[tracks]]
+name = 'Жуки в янтаре'
+artist = 'Грязь'
+album = 'Сундук мертвеца'
+listened_at = '2023-07-03T18:25:23Z'
+
+[[tracks]]
+name = 'The Gift'
+artist = 'Cursetheknife'
+album = 'The Gift'
+listened_at = '2023-07-03T18:21:54Z'
+
+[[tracks]]
+name = 'Permanent Rebellion'
+artist = 'L.S. Dunes'
+album = 'Past Lives'
+listened_at = '2023-07-03T18:18:39Z'
+
+[[tracks]]
+name = 'This is Not the End'
+artist = 'Oh Hiroshima'
+album = 'Resistance Is Futile'
+listened_at = '2023-07-03T17:22:13Z'
+
+[[tracks]]
 name = 'Helena'
 artist = 'She Must Burn'
 album = 'Helena'
