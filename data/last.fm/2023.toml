@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Terrible Lie'
+artist = 'Nine Inch Nails'
+album = 'Pretty Hate Machine'
+listened_at = '2023-07-03T03:56:30Z'
+
+[[tracks]]
+name = 'Head Like a Hole'
+artist = 'Nine Inch Nails'
+album = 'Pretty Hate Machine'
+listened_at = '2023-07-03T03:51:31Z'
+
+[[tracks]]
 name = 'Mimic'
 artist = 'For the Fallen Dreams'
 album = 'Heavy Hearts'
