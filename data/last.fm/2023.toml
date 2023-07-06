@@ -1,4 +1,16 @@
 [[tracks]]
+name = '7AM'
+artist = 'Ruin Of Romantics'
+album = 'Velvet Dawn'
+listened_at = '2023-07-06T14:58:43Z'
+
+[[tracks]]
+name = 'From Above'
+artist = 'Ruin Of Romantics'
+album = 'Velvet Dawn'
+listened_at = '2023-07-06T14:51:46Z'
+
+[[tracks]]
 name = 'The Canary (Instrumental)'
 artist = 'Protest the Hero'
 album = 'Palimpsest - Instrumentals'
