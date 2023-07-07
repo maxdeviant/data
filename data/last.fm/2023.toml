@@ -1,4 +1,196 @@
 [[tracks]]
+name = 'Intro'
+artist = '''There's a Light'''
+album = 'A Long Lost Silence'
+listened_at = '2023-07-07T20:54:37Z'
+
+[[tracks]]
+name = '''don't hurt me'''
+artist = 'yinshi'
+album = '''don't hurt me'''
+listened_at = '2023-07-07T20:50:50Z'
+
+[[tracks]]
+name = 'Alvin and the Chip in his Head'
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:49:59Z'
+
+[[tracks]]
+name = 'Ghoul'
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:48:05Z'
+
+[[tracks]]
+name = 'Diphenhydramine'
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:44:55Z'
+
+[[tracks]]
+name = '''L'esorcismo'''
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:42:36Z'
+
+[[tracks]]
+name = 'A Loss of Hope'
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:39:36Z'
+
+[[tracks]]
+name = 'Nearer My God to Thee'
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:35:09Z'
+
+[[tracks]]
+name = 'Pain Recedes'
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:33:39Z'
+
+[[tracks]]
+name = 'Alvin and the Chip in his Head'
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:32:09Z'
+
+[[tracks]]
+name = 'Ghoul'
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:30:15Z'
+
+[[tracks]]
+name = 'Diphenhydramine'
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:27:05Z'
+
+[[tracks]]
+name = '''L'esorcismo'''
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:24:46Z'
+
+[[tracks]]
+name = 'A Loss of Hope'
+artist = 'Beautiful Death'
+album = 'Eiriel'
+listened_at = '2023-07-07T20:21:48Z'
+
+[[tracks]]
+name = 'Celestia'
+artist = 'Nick DePirro'
+album = 'Maridaze'
+listened_at = '2023-07-07T20:17:39Z'
+
+[[tracks]]
+name = 'Maridaze'
+artist = 'Nick DePirro'
+album = 'Maridaze'
+listened_at = '2023-07-07T20:15:11Z'
+
+[[tracks]]
+name = 'Out of Nothing'
+artist = 'Gates'
+album = 'Here and Now'
+listened_at = '2023-07-07T20:11:37Z'
+
+[[tracks]]
+name = 'If I Could'
+artist = 'Gates'
+album = 'Here and Now'
+listened_at = '2023-07-07T20:07:25Z'
+
+[[tracks]]
+name = 'Lie in Wait'
+artist = 'Gates'
+album = 'Here and Now'
+listened_at = '2023-07-07T20:03:18Z'
+
+[[tracks]]
+name = 'We Are'
+artist = 'Gates'
+album = 'Here and Now'
+listened_at = '2023-07-07T19:58:59Z'
+
+[[tracks]]
+name = 'Pretending'
+artist = 'Gates'
+album = 'Here and Now'
+listened_at = '2023-07-07T19:52:47Z'
+
+[[tracks]]
+name = 'Where to Begin'
+artist = 'Gates'
+album = 'Here and Now'
+listened_at = '2023-07-07T19:48:29Z'
+
+[[tracks]]
+name = 'Out of Nothing'
+artist = 'Gates'
+album = 'Here and Now'
+listened_at = '2023-07-07T19:46:27Z'
+
+[[tracks]]
+name = 'Sparks Fly (Taylor’s Version)'
+artist = 'Taylor Swift'
+album = '''Speak Now (Taylor's Version)'''
+listened_at = '2023-07-07T19:40:02Z'
+
+[[tracks]]
+name = '''Mine (Taylor's Version)'''
+artist = 'Taylor Swift'
+album = '''Speak Now (Taylor's Version)'''
+listened_at = '2023-07-07T19:36:10Z'
+
+[[tracks]]
+name = 'Timeless (Taylor’s Version) (From the Vault)'
+artist = 'Taylor Swift'
+album = '''Speak Now (Taylor's Version)'''
+listened_at = '2023-07-07T19:29:13Z'
+
+[[tracks]]
+name = 'Foolish One (Taylor’s Version) (From the Vault)'
+artist = 'Taylor Swift'
+album = '''Speak Now (Taylor's Version)'''
+listened_at = '2023-07-07T19:04:19Z'
+
+[[tracks]]
+name = 'Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From the Vault)'
+artist = 'Taylor Swift'
+album = '''Speak Now (Taylor's Version)'''
+listened_at = '2023-07-07T18:51:21Z'
+
+[[tracks]]
+name = 'I Can See You (Taylor’s Version) (From the Vault)'
+artist = 'Taylor Swift'
+album = '''Speak Now (Taylor's Version)'''
+listened_at = '2023-07-07T18:46:48Z'
+
+[[tracks]]
+name = 'When Emma Falls in Love (Taylor’s Version) (From the Vault)'
+artist = 'Taylor Swift'
+album = '''Speak Now (Taylor's Version)'''
+listened_at = '2023-07-07T18:24:22Z'
+
+[[tracks]]
+name = 'Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From the Vault)'
+artist = 'Taylor Swift'
+album = '''Speak Now (Taylor's Version)'''
+listened_at = '2023-07-07T18:19:55Z'
+
+[[tracks]]
+name = 'Superman (Taylor’s Version)'
+artist = 'Taylor Swift'
+album = '''Speak Now (Taylor's Version)'''
+listened_at = '2023-07-07T18:04:28Z'
+
+[[tracks]]
 name = 'Ours (Taylor’s Version)'
 artist = 'Taylor Swift'
 album = '''Speak Now (Taylor's Version)'''
