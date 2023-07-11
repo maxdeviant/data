@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Forever Yours'
+artist = 'Resolve'
+album = 'Between Me and The Machine'
+listened_at = '2023-07-10T21:16:22Z'
+
+[[tracks]]
+name = 'Who We Are'
+artist = 'Ghostseeker'
+album = 'Who We Are'
+listened_at = '2023-07-10T21:12:05Z'
+
+[[tracks]]
+name = 'Terrified'
+artist = 'The Old Dead Tree'
+album = 'Terrified'
+listened_at = '2023-07-10T21:08:11Z'
+
+[[tracks]]
+name = 'Lowlands'
+artist = 'Alura'
+album = 'Alura'
+listened_at = '2023-07-10T21:04:27Z'
+
+[[tracks]]
 name = 'Anomaly'
 artist = 'I See Stars'
 album = 'Anomaly / Drift'
