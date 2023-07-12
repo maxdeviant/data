@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Gone (feat. Goo Munday)'
+artist = 'Sidewalks and Skeletons'
+album = 'Entity'
+listened_at = '2023-07-12T14:59:28Z'
+
+[[tracks]]
+name = 'Ancient Ruins'
+artist = 'Chainless'
+album = 'Grey Veils'
+listened_at = '2023-07-12T14:56:54Z'
+
+[[tracks]]
+name = 'Burial'
+artist = 'ShiningXHollow'
+album = 'FrailTomb Pt. 2'
+listened_at = '2023-07-12T14:53:05Z'
+
+[[tracks]]
+name = 'Frozen'
+artist = 'ShiningXHollow'
+album = 'FrailTomb Pt. 2'
+listened_at = '2023-07-12T14:50:26Z'
+
+[[tracks]]
+name = 'Liminal'
+artist = 'Da Vosk Docta'
+album = 'Liminal / Wolfram'
+listened_at = '2023-07-12T14:46:45Z'
+
+[[tracks]]
+name = 'LESSER'
+artist = 'Essex'
+album = 'Okay'
+listened_at = '2023-07-11T21:59:42Z'
+
+[[tracks]]
 name = 'no sleep'
 artist = 'cosmic wildling'
 album = 'no sleep'
