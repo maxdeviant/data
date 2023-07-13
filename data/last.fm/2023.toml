@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'A Distant Epitaph'
+artist = 'Woe'
+album = 'Hope Attrition'
+listened_at = '2023-07-13T14:57:05Z'
+
+[[tracks]]
+name = 'No Blood Has Honor'
+artist = 'Woe'
+album = 'Hope Attrition'
+listened_at = '2023-07-13T14:50:49Z'
+
+[[tracks]]
+name = 'Unending Call Of Woe'
+artist = 'Woe'
+album = 'Hope Attrition'
+listened_at = '2023-07-12T22:54:58Z'
+
+[[tracks]]
 name = 'Abject In Defeat'
 artist = 'Woe'
 album = 'Hope Attrition'
