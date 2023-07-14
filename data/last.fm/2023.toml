@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Mirror'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-07-13T22:50:15Z'
+
+[[tracks]]
 name = 'Dødslængsel'
 artist = 'Sunken'
 album = 'Livslede'
