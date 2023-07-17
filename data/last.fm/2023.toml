@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Resonance'
+artist = 'A. Yarmak'
+album = 'Lofi Goes Metal'
+listened_at = '2023-07-17T15:00:30Z'
+
+[[tracks]]
+name = '''Things To Do In Denver When You're Dead'''
+artist = 'Dead On A Sunday'
+album = '''Things To Do In Denver When You're Dead'''
+listened_at = '2023-07-17T14:58:05Z'
+
+[[tracks]]
+name = 'Forever Infinity'
+artist = 'Tyler Rossow'
+album = 'Forever Infinity'
+listened_at = '2023-07-17T14:54:58Z'
+
+[[tracks]]
+name = 'Dark Signs'
+artist = 'Sleep Token'
+album = 'Sundowning'
+listened_at = '2023-07-17T14:50:30Z'
+
+[[tracks]]
+name = 'Venenosa'
+artist = 'Future Static'
+album = 'Venenosa'
+listened_at = '2023-07-17T14:46:59Z'
+
+[[tracks]]
+name = 'Depths III'
+artist = 'Silent Planet'
+album = 'When The End Began'
+listened_at = '2023-07-17T14:43:12Z'
+
+[[tracks]]
+name = 'Lavender'
+artist = 'Senna'
+album = 'Lavender'
+listened_at = '2023-07-17T14:39:30Z'
+
+[[tracks]]
 name = 'Deeper Than Truth'
 artist = 'Zymosis'
 album = 'Timeless'
