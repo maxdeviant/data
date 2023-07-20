@@ -2,6 +2,66 @@
 name = 'Nothing New'
 artist = 'City State'
 album = 'Equinox'
+listened_at = '2023-07-20T01:17:39Z'
+
+[[tracks]]
+name = 'Bitter Sleep'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-20T01:14:33Z'
+
+[[tracks]]
+name = 'White Lies'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-20T01:11:38Z'
+
+[[tracks]]
+name = 'Exploit'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-20T01:08:04Z'
+
+[[tracks]]
+name = 'Reflections'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-20T01:03:46Z'
+
+[[tracks]]
+name = 'Wilt'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-20T01:00:22Z'
+
+[[tracks]]
+name = 'Vein'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-20T00:57:02Z'
+
+[[tracks]]
+name = 'Crooked Walls'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-20T00:53:08Z'
+
+[[tracks]]
+name = 'Dissolve'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-20T00:49:00Z'
+
+[[tracks]]
+name = 'Requiem'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-19T22:14:18Z'
+
+[[tracks]]
+name = 'Nothing New'
+artist = 'City State'
+album = 'Equinox'
 listened_at = '2023-07-19T22:11:16Z'
 
 [[tracks]]
