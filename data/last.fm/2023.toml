@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Exploit'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-20T18:28:54Z'
+
+[[tracks]]
+name = 'Reflections'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-20T17:12:49Z'
+
+[[tracks]]
 name = 'Wilt'
 artist = 'City State'
 album = 'Equinox'
