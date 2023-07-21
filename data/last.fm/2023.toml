@@ -1,4 +1,82 @@
 [[tracks]]
+name = 'My Worst Enemy'
+artist = 'Aviana'
+album = 'Epicenter'
+listened_at = '2023-07-21T14:57:27Z'
+
+[[tracks]]
+name = 'Oil Rigs'
+artist = 'Atena'
+album = 'Possessed'
+listened_at = '2023-07-21T14:54:12Z'
+
+[[tracks]]
+name = 'Fenrir'
+artist = 'So It Begins'
+album = 'Fenrir'
+listened_at = '2023-07-21T14:49:40Z'
+
+[[tracks]]
+name = 'Reflections'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-21T14:45:21Z'
+
+[[tracks]]
+name = 'Sapien'
+artist = 'Rogue'
+album = 'Sapien'
+listened_at = '2023-07-21T14:41:43Z'
+
+[[tracks]]
+name = 'Can You Hear the Silence'
+artist = 'Mirrors'
+album = 'Can You Hear the Silence'
+listened_at = '2023-07-21T14:38:38Z'
+
+[[tracks]]
+name = 'Abhor'
+artist = 'Neon Graves'
+album = 'Disarray'
+listened_at = '2023-07-21T14:37:19Z'
+
+[[tracks]]
+name = 'Heavy Feather'
+artist = 'Aviana'
+album = 'Epicenter'
+listened_at = '2023-07-21T14:32:48Z'
+
+[[tracks]]
+name = 'She Wept As I Told Her'
+artist = 'Atena'
+album = 'Drowning Regret & Lungs Filled With Water'
+listened_at = '2023-07-21T14:29:30Z'
+
+[[tracks]]
+name = 'Wilt'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-21T14:26:05Z'
+
+[[tracks]]
+name = 'Archetype'
+artist = 'Rogue'
+album = 'Aeon'
+listened_at = '2023-07-21T14:22:46Z'
+
+[[tracks]]
+name = 'Stain the Page'
+artist = 'Mirrors'
+album = 'Cold Sanctuary'
+listened_at = '2023-07-21T14:19:23Z'
+
+[[tracks]]
+name = 'Frustration'
+artist = 'Memorist'
+album = 'Frustration'
+listened_at = '2023-07-20T21:31:18Z'
+
+[[tracks]]
 name = 'Look Away'
 artist = 'Aviana'
 album = 'Epicenter'
