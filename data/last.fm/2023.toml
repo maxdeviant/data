@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Epoque'
+artist = 'Joris Delacroix'
+album = 'Night Visions'
+listened_at = '2023-07-23T02:27:49Z'
+
+[[tracks]]
 name = 'Cosmic Ratio'
 artist = 'Enrico Sangiuliano'
 album = 'Biomorph'
