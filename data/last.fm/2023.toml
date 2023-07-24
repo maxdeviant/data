@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Impressed'
+artist = 'Solee'
+album = 'Nocturnal Flowers'
+listened_at = '2023-07-24T02:53:45Z'
+
+[[tracks]]
+name = 'Gravity'
+artist = 'Boris Brejcha'
+album = 'Gravity'
+listened_at = '2023-07-24T02:50:09Z'
+
+[[tracks]]
+name = 'We Do What We Want'
+artist = 'Alan Fitzpatrick'
+album = 'We Do What We Want'
+listened_at = '2023-07-24T02:41:44Z'
+
+[[tracks]]
+name = 'Embers'
+artist = 'Rezz'
+album = '''IT'S NOT A PHASE'''
+listened_at = '2023-07-24T00:26:48Z'
+
+[[tracks]]
+name = 'Blue In The Face'
+artist = 'Rezz'
+album = '''IT'S NOT A PHASE'''
+listened_at = '2023-07-24T00:24:01Z'
+
+[[tracks]]
+name = 'Haunted Eyes'
+artist = 'Rezz'
+album = '''IT'S NOT A PHASE'''
+listened_at = '2023-07-24T00:21:24Z'
+
+[[tracks]]
+name = 'Signal'
+artist = 'Rezz'
+album = '''IT'S NOT A PHASE'''
+listened_at = '2023-07-24T00:18:11Z'
+
+[[tracks]]
 name = 'Space Date - Pleasurekraft Remix'
 artist = 'Adam Beyer'
 album = 'Space Date Remixes'
