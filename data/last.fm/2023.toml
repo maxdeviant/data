@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Voodoo'
+artist = 'Gorgon City'
+album = 'Salvation'
+listened_at = '2023-07-27T03:13:53Z'
+
+[[tracks]]
+name = 'Wreckage'
+artist = 'Gorgon City'
+album = 'Salvation'
+listened_at = '2023-07-27T03:09:34Z'
+
+[[tracks]]
+name = 'Should’ve Known'
+artist = 'Gorgon City'
+album = 'Salvation'
+listened_at = '2023-07-27T03:03:51Z'
+
+[[tracks]]
 name = 'Gasoline'
 artist = 'Gorgon City'
 album = 'Salvation'
