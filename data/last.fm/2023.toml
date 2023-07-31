@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Wilt'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-31T00:14:17Z'
+
+[[tracks]]
+name = 'Vein'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-31T00:10:57Z'
+
+[[tracks]]
+name = 'Crooked Walls'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-31T00:07:02Z'
+
+[[tracks]]
+name = 'Dissolve'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-31T00:02:56Z'
+
+[[tracks]]
+name = 'Ein Langer Weg - Extended Version'
+artist = 'Violet Cold'
+album = 'Ein Langer Weg (Extended Version)'
+listened_at = '2023-07-30T19:59:03Z'
+
+[[tracks]]
 name = 'Groves'
 artist = 'Ludwig Göransson'
 album = 'Oppenheimer (Original Motion Picture Soundtrack)'
