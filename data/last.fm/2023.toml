@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'IMAGO'
+artist = 'Space of Variations'
+album = 'IMAGO'
+listened_at = '2023-07-31T14:57:36Z'
+
+[[tracks]]
+name = 'Heart Wrapped in Suicide'
+artist = 'Dawn of Ashes'
+album = 'Heart Wrapped in Suicide'
+listened_at = '2023-07-31T14:51:54Z'
+
+[[tracks]]
+name = 'Drip Feed (feat. REEBZ)'
+artist = 'Toronto Is Broken'
+album = 'Drip Feed'
+listened_at = '2023-07-31T14:46:54Z'
+
+[[tracks]]
+name = 'Half Alive'
+artist = 'Headcave'
+album = '1'
+listened_at = '2023-07-31T14:43:20Z'
+
+[[tracks]]
+name = 'Eyes'
+artist = 'Astronoid'
+album = 'Radiant Bloom'
+listened_at = '2023-07-31T14:38:11Z'
+
+[[tracks]]
+name = 'Reflections'
+artist = 'City State'
+album = 'Equinox'
+listened_at = '2023-07-31T00:17:41Z'
+
+[[tracks]]
 name = 'Wilt'
 artist = 'City State'
 album = 'Equinox'
