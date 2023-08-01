@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'The Altered'
+artist = 'Stömb'
+album = 'Massive Disturbed Meta Art'
+listened_at = '2023-08-01T14:55:21Z'
+
+[[tracks]]
+name = 'Of Absolute White'
+artist = 'Stömb'
+album = 'Massive Disturbed Meta Art'
+listened_at = '2023-08-01T14:49:13Z'
+
+[[tracks]]
+name = 'An Absence of Sun'
+artist = 'Stömb'
+album = 'Massive Disturbed Meta Art'
+listened_at = '2023-08-01T14:44:58Z'
+
+[[tracks]]
+name = 'In The Eye Of Aghemahra'
+artist = 'Stömb'
+album = 'Massive Disturbed Meta Art'
+listened_at = '2023-08-01T14:36:36Z'
+
+[[tracks]]
+name = 'Meta Art'
+artist = 'Stömb'
+album = 'Massive Disturbed Meta Art'
+listened_at = '2023-08-01T14:29:14Z'
+
+[[tracks]]
+name = 'The Extantrasy'
+artist = 'Stömb'
+album = 'Massive Disturbed Meta Art'
+listened_at = '2023-08-01T14:19:01Z'
+
+[[tracks]]
+name = 'GUMMO'
+artist = '6ix9ine'
+album = 'Day69'
+listened_at = '2023-08-01T00:08:51Z'
+
+[[tracks]]
 name = 'Kaleidoscope'
 artist = 'Stömb'
 album = 'Massive Disturbed Meta Art'
