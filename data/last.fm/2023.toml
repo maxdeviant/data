@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Crave'
+artist = 'Paramore'
+album = 'This Is Why'
+listened_at = '2023-08-10T21:02:54Z'
+
+[[tracks]]
 name = 'Liar'
 artist = 'Paramore'
 album = 'This Is Why'
