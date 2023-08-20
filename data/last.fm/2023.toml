@@ -1,4 +1,76 @@
 [[tracks]]
+name = 'Mirror'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-08-20T02:37:12Z'
+
+[[tracks]]
+name = 'Dødslængsel'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-08-20T02:28:27Z'
+
+[[tracks]]
+name = 'Delirium'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-08-20T02:13:43Z'
+
+[[tracks]]
+name = 'Foragt'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-08-20T02:02:13Z'
+
+[[tracks]]
+name = 'Ensomhed'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-08-20T01:49:46Z'
+
+[[tracks]]
+name = 'Forlist'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-08-20T01:48:13Z'
+
+[[tracks]]
+name = 'Apathetic Tongues'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2023-08-20T01:38:38Z'
+
+[[tracks]]
+name = 'Mortal Coil'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2023-08-20T01:30:01Z'
+
+[[tracks]]
+name = 'Shallow Graves'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2023-08-20T01:22:39Z'
+
+[[tracks]]
+name = 'The Third Door'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2023-08-20T01:00:45Z'
+
+[[tracks]]
+name = 'Spirit Crusher'
+artist = 'Dödsrit'
+album = 'Spirit Crusher'
+listened_at = '2023-08-20T00:45:34Z'
+
+[[tracks]]
+name = 'A Drowning Voice'
+artist = 'Dödsrit'
+album = 'Spirit Crusher'
+listened_at = '2023-08-19T21:13:05Z'
+
+[[tracks]]
 name = 'Ändlösa ådror'
 artist = 'Dödsrit'
 album = 'Spirit Crusher'
