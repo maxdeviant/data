@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Mourning'
+artist = 'Post Malone'
+album = 'AUSTIN (Bonus)'
+listened_at = '2023-08-25T00:05:43Z'
+
+[[tracks]]
+name = 'Novacandy'
+artist = 'Post Malone'
+album = 'AUSTIN (Bonus)'
+listened_at = '2023-08-25T00:02:27Z'
+
+[[tracks]]
+name = 'Chemical'
+artist = 'Post Malone'
+album = 'AUSTIN (Bonus)'
+listened_at = '2023-08-24T23:59:23Z'
+
+[[tracks]]
+name = 'Something Real'
+artist = 'Post Malone'
+album = 'AUSTIN (Bonus)'
+listened_at = '2023-08-24T23:55:59Z'
+
+[[tracks]]
+name = 'The Dream'
+artist = 'Georgia'
+album = 'Euphoric'
+listened_at = '2023-08-24T22:45:42Z'
+
+[[tracks]]
+name = 'Live Like We’re Dancing (Part II)'
+artist = 'Georgia'
+album = 'Euphoric'
+listened_at = '2023-08-24T22:41:56Z'
+
+[[tracks]]
+name = 'All Night'
+artist = 'Georgia'
+album = 'Euphoric'
+listened_at = '2023-08-24T22:38:56Z'
+
+[[tracks]]
+name = 'Mountain Song'
+artist = 'Georgia'
+album = 'Euphoric'
+listened_at = '2023-08-24T22:34:28Z'
+
+[[tracks]]
 name = 'Empyrean Glow/Crystal Canyon (Somnia)'
 artist = 'God Is an Astronaut'
 album = 'Somnia'
