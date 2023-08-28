@@ -1,4 +1,16 @@
 [[tracks]]
+name = '''you'll never be alone again'''
+artist = 'newshapes'
+album = 'alone again'
+listened_at = '2023-08-28T15:00:26Z'
+
+[[tracks]]
+name = 'EVERGREEN'
+artist = 'PVRIS'
+album = 'EVERGREEN'
+listened_at = '2023-08-27T23:34:22Z'
+
+[[tracks]]
 name = 'LOVE IS A…'
 artist = 'PVRIS'
 album = 'EVERGREEN'
