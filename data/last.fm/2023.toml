@@ -1,4 +1,40 @@
 [[tracks]]
+name = '7 years'
+artist = 'Charli XCX'
+album = '''how i'm feeling now'''
+listened_at = '2023-09-03T14:59:17Z'
+
+[[tracks]]
+name = 'claws'
+artist = 'Charli XCX'
+album = '''how i'm feeling now'''
+listened_at = '2023-09-03T14:56:48Z'
+
+[[tracks]]
+name = 'forever'
+artist = 'Charli XCX'
+album = '''how i'm feeling now'''
+listened_at = '2023-09-03T14:52:45Z'
+
+[[tracks]]
+name = 'Coma Year'
+artist = 'Limbs'
+album = 'Coma Year'
+listened_at = '2023-09-03T14:30:16Z'
+
+[[tracks]]
+name = '10:35'
+artist = 'Tiësto'
+album = 'DRIVE'
+listened_at = '2023-09-03T14:27:25Z'
+
+[[tracks]]
+name = 'Good Ones'
+artist = 'Charli XCX'
+album = 'Good Ones'
+listened_at = '2023-09-03T02:21:45Z'
+
+[[tracks]]
 name = 'Constant Repeat'
 artist = 'Charli XCX'
 album = 'CRASH (Deluxe)'
