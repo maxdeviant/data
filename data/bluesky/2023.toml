@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3k6nxpzijs22b'
+created_at = '2023-09-05T16:50:17.892Z'
+text = '''
+After 3 years at WorkOS I'm looking for my next role.
+
+I'm bringing over 10 years of full-stack experience building web applications, a strong sense of ownership, and a deep care of and commitment to the craft of building software products.
+
+Check out my résumé to see if I'd be a good fit.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3jzybuue56d26'
 created_at = '2023-07-08T04:12:36.912Z'
 text = 'Been feeling so damn empty inside.'
