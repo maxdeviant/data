@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Something Real'
+artist = 'Post Malone'
+album = 'AUSTIN (Bonus)'
+listened_at = '2023-09-06T16:53:57Z'
+
+[[tracks]]
+name = 'Apathetic Tongues'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2023-09-06T15:37:46Z'
+
+[[tracks]]
+name = 'Mortal Coil'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2023-09-06T15:29:09Z'
+
+[[tracks]]
+name = 'Shallow Graves'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2023-09-06T15:21:48Z'
+
+[[tracks]]
+name = 'The Third Door'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2023-09-06T15:10:30Z'
+
+[[tracks]]
+name = 'Gräva Sin Egna Grav'
+artist = 'Dödsrit'
+album = 'Dödsrit'
+listened_at = '2023-09-05T21:35:26Z'
+
+[[tracks]]
 name = 'The Void'
 artist = 'Dödsrit'
 album = 'Dödsrit'
