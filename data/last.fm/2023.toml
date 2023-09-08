@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Good Ones'
+artist = 'Charli XCX'
+album = 'Good Ones'
+listened_at = '2023-09-08T14:46:17Z'
+
+[[tracks]]
+name = 'Constant Repeat'
+artist = 'Charli XCX'
+album = 'CRASH (Deluxe)'
+listened_at = '2023-09-08T14:43:09Z'
+
+[[tracks]]
 name = 'Ешь меня, пей меня, следуй за мной'
 artist = 'Above The Stars'
 album = 'Пять лет хаоса'
