@@ -1,4 +1,16 @@
 [[tracks]]
+name = '7 years'
+artist = 'Charli XCX'
+album = '''how i'm feeling now'''
+listened_at = '2023-09-08T15:15:58Z'
+
+[[tracks]]
+name = 'claws'
+artist = 'Charli XCX'
+album = '''how i'm feeling now'''
+listened_at = '2023-09-08T15:13:30Z'
+
+[[tracks]]
 name = 'Good Ones'
 artist = 'Charli XCX'
 album = 'Good Ones'
