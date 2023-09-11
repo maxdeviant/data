@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'The Lodge'
+artist = 'Agalloch'
+album = 'The Mantle'
+listened_at = '2023-09-11T01:00:13Z'
+
+[[tracks]]
+name = 'I Am the Wooden Doors'
+artist = 'Agalloch'
+album = 'The Mantle'
+listened_at = '2023-09-11T00:54:03Z'
+
+[[tracks]]
+name = 'Wrath of Nature'
+artist = 'Voyage In Solitude'
+album = 'The Isle of Death and Rebirth'
+listened_at = '2023-09-11T00:09:47Z'
+
+[[tracks]]
 name = 'Set Sail for the Isle'
 artist = 'Voyage In Solitude'
 album = 'The Isle of Death and Rebirth'
