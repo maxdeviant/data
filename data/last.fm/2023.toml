@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Set Sail for the Isle'
+artist = 'Voyage In Solitude'
+album = 'The Isle of Death and Rebirth'
+listened_at = '2023-09-11T00:00:11Z'
+
+[[tracks]]
+name = 'Odal'
+artist = 'Agalloch'
+album = 'The Mantle'
+listened_at = '2023-09-10T22:12:43Z'
+
+[[tracks]]
+name = 'In the Shadow of Our Pale Companion'
+artist = 'Agalloch'
+album = 'The Mantle'
+listened_at = '2023-09-10T21:57:58Z'
+
+[[tracks]]
 name = 'pretty isn’t pretty'
 artist = 'Olivia Rodrigo'
 album = 'GUTS'
