@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Clarity'
+artist = 'Northlane'
+album = 'Obsidian'
+listened_at = '2023-09-11T14:50:09Z'
+
+[[tracks]]
 name = 'The Lodge'
 artist = 'Agalloch'
 album = 'The Mantle'
