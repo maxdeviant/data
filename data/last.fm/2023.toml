@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Escape'
+artist = 'SHEORU'
+album = 'Forever Sleep'
+listened_at = '2023-09-15T00:10:06Z'
+
+[[tracks]]
+name = 'Stardust'
+artist = 'Violet Cold'
+album = 'Multiverse'
+listened_at = '2023-09-15T00:08:18Z'
+
+[[tracks]]
 name = 'Shazam The Void'
 artist = 'Violet Cold'
 album = 'Shazam the Void'
