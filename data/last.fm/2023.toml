@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Là où naissent les couleurs nouvelles'
+artist = 'Alcest'
+album = '''Les voyages de l'Âme'''
+listened_at = '2023-09-15T18:43:40Z'
+
+[[tracks]]
+name = 'Autre Temps'
+artist = 'Alcest'
+album = '''Les voyages de l'Âme'''
+listened_at = '2023-09-15T18:37:50Z'
+
+[[tracks]]
+name = 'Peace Or Quiet'
+artist = 'Explosions in the Sky'
+album = 'End'
+listened_at = '2023-09-15T16:23:00Z'
+
+[[tracks]]
 name = 'Loved Ones'
 artist = 'Explosions in the Sky'
 album = 'End'
