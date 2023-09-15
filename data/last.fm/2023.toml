@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Shazam The Void'
+artist = 'Violet Cold'
+album = 'Shazam the Void'
+listened_at = '2023-09-15T00:04:19Z'
+
+[[tracks]]
+name = 'Shegnificant - Slowave Remix'
+artist = 'Violet Cold'
+album = 'Shegnificant (Slowave Remix)'
+listened_at = '2023-09-15T00:02:25Z'
+
+[[tracks]]
+name = 'Synergy - Remix'
+artist = 'Violet Cold'
+album = 'Synergy (Remix)'
+listened_at = '2023-09-14T23:59:02Z'
+
+[[tracks]]
 name = 'ITB'
 artist = 'SHEORU'
 album = 'Forever Sleep'
