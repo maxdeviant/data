@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Motsols'
+artist = 'Kvelertak'
+album = 'Endling'
+listened_at = '2023-09-16T03:05:21Z'
+
+[[tracks]]
+name = 'Likvoke'
+artist = 'Kvelertak'
+album = 'Endling'
+listened_at = '2023-09-16T03:00:02Z'
+
+[[tracks]]
 name = 'Fedrekult'
 artist = 'Kvelertak'
 album = 'Endling'
