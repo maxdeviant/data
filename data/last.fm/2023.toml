@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'A Graceful Spirit'
+artist = 'Skyforest'
+album = 'Unity'
+listened_at = '2023-09-17T15:23:42Z'
+
+[[tracks]]
+name = 'Overpass'
+artist = 'A Light in the Dark'
+album = 'Vanished'
+listened_at = '2023-09-17T15:21:31Z'
+
+[[tracks]]
+name = 'the ghost of my things'
+artist = 'Cold Body Radiation'
+album = 'The Orphean Lyre'
+listened_at = '2023-09-17T15:17:45Z'
+
+[[tracks]]
+name = 'Heliacal Rising'
+artist = 'Mare Cognitum'
+album = 'Luminiferous Aether'
+listened_at = '2023-09-17T15:08:56Z'
+
+[[tracks]]
 name = 'Fedrekult'
 artist = 'Kvelertak'
 album = 'Endling'
