@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Butterfly'
+artist = 'Germ'
+album = 'Grief'
+listened_at = '2023-09-18T14:19:59Z'
+
+[[tracks]]
+name = 'Blame Brett'
+artist = 'The Beaches'
+album = 'Blame My Ex'
+listened_at = '2023-09-18T13:29:01Z'
+
+[[tracks]]
 name = 'A Graceful Spirit'
 artist = 'Skyforest'
 album = 'Unity'
