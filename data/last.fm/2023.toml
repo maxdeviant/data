@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Will'
+artist = 'Blacklit Canopy'
+album = 'Will'
+listened_at = '2023-09-18T19:19:35Z'
+
+[[tracks]]
+name = 'Pop the Balloon'
+artist = 'Nothing But Thieves'
+album = 'Dead Club City'
+listened_at = '2023-09-18T17:21:59Z'
+
+[[tracks]]
 name = 'Parabiosis'
 artist = 'The Ocean'
 album = 'Holocene'
