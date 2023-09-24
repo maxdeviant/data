@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'The Void'
+artist = 'Dödsrit'
+album = 'Dödsrit'
+listened_at = '2023-09-23T21:13:39Z'
+
+[[tracks]]
+name = 'Cataract'
+artist = 'Wiegedood'
+album = 'De Doden Hebben Het Goed II'
+listened_at = '2023-09-23T21:02:28Z'
+
+[[tracks]]
 name = 'I Am The Alpha And The Omega'
 artist = 'Abyssal'
 album = 'Antikatastaseis'
