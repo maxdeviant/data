@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Verlieren'
+artist = 'Sperling'
+album = 'Verlieren'
+listened_at = '2023-09-25T15:01:37Z'
+
+[[tracks]]
+name = 'Cascade'
+artist = 'Vaudlow'
+album = 'Cascade'
+listened_at = '2023-09-25T14:57:39Z'
+
+[[tracks]]
+name = 'Way Out'
+artist = 'Birdmask'
+album = 'Way Out'
+listened_at = '2023-09-25T14:54:45Z'
+
+[[tracks]]
+name = 'Once'
+artist = 'Stoneside.'
+album = 'God of the Mountain'
+listened_at = '2023-09-25T14:48:56Z'
+
+[[tracks]]
+name = 'Apparitions'
+artist = 'Sinmara'
+album = 'Hvísl Stjarnanna'
+listened_at = '2023-09-25T14:32:27Z'
+
+[[tracks]]
+name = 'SLAVES OF FEAR'
+artist = 'HEALTH'
+album = 'VOL. 4 :: SLAVES OF FEAR'
+listened_at = '2023-09-25T14:30:36Z'
+
+[[tracks]]
+name = 'Feel Nothing'
+artist = 'HEALTH'
+album = 'VOL. 4 :: SLAVES OF FEAR'
+listened_at = '2023-09-25T14:27:15Z'
+
+[[tracks]]
 name = 'The Void'
 artist = 'Dödsrit'
 album = 'Dödsrit'
