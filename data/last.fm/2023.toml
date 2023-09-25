@@ -1,4 +1,100 @@
 [[tracks]]
+name = 'Spoopy'
+artist = 'Trident'
+album = 'Spoopy'
+listened_at = '2023-09-25T18:00:59Z'
+
+[[tracks]]
+name = '''It's So Cold'''
+artist = 'GVLLOW'
+album = '''It's So Cold'''
+listened_at = '2023-09-25T17:58:14Z'
+
+[[tracks]]
+name = 'Everybody Just Wants To'
+artist = 'johnny goth'
+album = 'Everybody Just Wants To'
+listened_at = '2023-09-25T17:55:47Z'
+
+[[tracks]]
+name = 'Le Vent et la Mer'
+artist = 'Ifernach'
+album = 'Le Vent Et La Mer'
+listened_at = '2023-09-25T17:52:06Z'
+
+[[tracks]]
+name = '(sequence.sin)'
+artist = 'A Mixtape Catastrophe'
+album = '''please don't.'''
+listened_at = '2023-09-25T15:57:56Z'
+
+[[tracks]]
+name = 'Latent Noise'
+artist = 'The Algorithm'
+album = 'Latent Noise'
+listened_at = '2023-09-25T15:54:39Z'
+
+[[tracks]]
+name = 'Undertow (feat. King Woman)'
+artist = 'Harms Way'
+album = 'Undertow (feat. King Woman)'
+listened_at = '2023-09-25T15:50:56Z'
+
+[[tracks]]
+name = 'West Peak'
+artist = 'Cam Lasky'
+album = 'Whisper, Vol. 4 Ultimate Edition'
+listened_at = '2023-09-25T15:46:36Z'
+
+[[tracks]]
+name = 'Swoon'
+artist = 'Tigercub'
+album = 'The Perfume of Decay'
+listened_at = '2023-09-25T15:43:17Z'
+
+[[tracks]]
+name = 'Twenty Seven'
+artist = 'Adam Dodson'
+album = 'The Risk Of Dreaming'
+listened_at = '2023-09-25T15:42:13Z'
+
+[[tracks]]
+name = 'autographs in hell'
+artist = 'Maren'
+album = 'autographs in hell'
+listened_at = '2023-09-25T15:18:51Z'
+
+[[tracks]]
+name = 'Sport of Form'
+artist = 'The Armed'
+album = 'Perfect Saviors'
+listened_at = '2023-09-25T15:15:23Z'
+
+[[tracks]]
+name = 'Padding for Time'
+artist = 'Aric Fowler'
+album = 'Art Imitates Life Imitates'
+listened_at = '2023-09-25T15:14:00Z'
+
+[[tracks]]
+name = 'BRING BACK THE COLOR'
+artist = 'San Holo'
+album = 'EXISTENTIAL DANCE MUSIC'
+listened_at = '2023-09-25T15:11:11Z'
+
+[[tracks]]
+name = 'A Beautiful Life'
+artist = 'Einar Solberg'
+album = '16'
+listened_at = '2023-09-25T15:06:35Z'
+
+[[tracks]]
+name = 'Miles Away'
+artist = 'Brutus'
+album = 'Unison Life'
+listened_at = '2023-09-25T15:04:33Z'
+
+[[tracks]]
 name = 'Verlieren'
 artist = 'Sperling'
 album = 'Verlieren'
