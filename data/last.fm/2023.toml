@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'SLUM LORD'
+artist = 'HEALTH'
+album = 'DISCO3'
+listened_at = '2023-09-26T14:58:45Z'
+
+[[tracks]]
+name = 'MEN TOMORROW - PREOCCUPATIONS RMX'
+artist = 'HEALTH'
+album = 'DISCO3'
+listened_at = '2023-09-26T14:56:45Z'
+
+[[tracks]]
+name = 'EUPHORIA'
+artist = 'HEALTH'
+album = 'DISCO3'
+listened_at = '2023-09-26T14:53:18Z'
+
+[[tracks]]
+name = 'Stonefist'
+artist = 'HEALTH'
+album = 'Death Magic'
+listened_at = '2023-09-26T13:49:05Z'
+
+[[tracks]]
+name = 'Victim'
+artist = 'HEALTH'
+album = 'Death Magic'
+listened_at = '2023-09-26T13:47:06Z'
+
+[[tracks]]
+name = 'Pursuit of Happiness'
+artist = 'Adventurer'
+album = 'Adventurer'
+listened_at = '2023-09-25T22:51:42Z'
+
+[[tracks]]
 name = 'Living With A Ghost'
 artist = 'Adventurer'
 album = 'Adventurer'
