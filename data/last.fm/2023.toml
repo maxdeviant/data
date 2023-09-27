@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Pink Pony Club'
+artist = 'Chappell Roan'
+album = 'The Rise and Fall of a Midwest Princess'
+listened_at = '2023-09-27T00:10:44Z'
+
+[[tracks]]
 name = 'Claustrophobic'
 artist = 'Fixation'
 album = 'More Subtle Than Death'
