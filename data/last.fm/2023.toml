@@ -2,6 +2,48 @@
 name = 'Ritual'
 artist = 'Within Temptation'
 album = 'Ritual'
+listened_at = '2023-09-30T21:26:41Z'
+
+[[tracks]]
+name = 'Entertain You'
+artist = 'Within Temptation'
+album = 'Ritual'
+listened_at = '2023-09-30T21:23:10Z'
+
+[[tracks]]
+name = 'The Purge'
+artist = 'Within Temptation'
+album = 'Ritual'
+listened_at = '2023-09-30T21:18:53Z'
+
+[[tracks]]
+name = 'Shed My Skin'
+artist = 'Within Temptation'
+album = 'Ritual'
+listened_at = '2023-09-30T21:14:23Z'
+
+[[tracks]]
+name = '''Don't Pray For Me'''
+artist = 'Within Temptation'
+album = 'Ritual'
+listened_at = '2023-09-30T21:10:41Z'
+
+[[tracks]]
+name = 'Wireless'
+artist = 'Within Temptation'
+album = 'Ritual'
+listened_at = '2023-09-30T21:05:59Z'
+
+[[tracks]]
+name = 'Bleed Out'
+artist = 'Within Temptation'
+album = 'Ritual'
+listened_at = '2023-09-30T21:01:30Z'
+
+[[tracks]]
+name = 'Ritual'
+artist = 'Within Temptation'
+album = 'Ritual'
 listened_at = '2023-09-30T20:57:52Z'
 
 [[tracks]]
