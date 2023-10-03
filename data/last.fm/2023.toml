@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Damaged'
+artist = 'Worthy of the Crown'
+album = 'Damaged'
+listened_at = '2023-10-03T17:47:13Z'
+
+[[tracks]]
+name = 'Graveyard Words'
+artist = 'OXYMORRONS'
+album = 'Graveyard Words'
+listened_at = '2023-10-03T17:44:18Z'
+
+[[tracks]]
+name = 'A La Carte'
+artist = 'The Intersphere'
+album = 'Wanderer'
+listened_at = '2023-10-03T17:40:53Z'
+
+[[tracks]]
+name = '''What We'll Never Be'''
+artist = 'ACCVSED'
+album = '''What We'll Never Be'''
+listened_at = '2023-10-02T22:58:06Z'
+
+[[tracks]]
 name = 'The Center of Celestial Existence'
 artist = 'ENEMY AC130 ABOVE'
 album = 'The Center of Celestial Existence'
