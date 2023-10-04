@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Tentative'
+artist = 'System of a Down'
+album = 'Hypnotize'
+listened_at = '2023-10-04T20:06:18Z'
+
+[[tracks]]
+name = 'Stealing Society'
+artist = 'System of a Down'
+album = 'Hypnotize'
+listened_at = '2023-10-04T20:03:20Z'
+
+[[tracks]]
+name = 'Hypnotize'
+artist = 'System of a Down'
+album = 'Hypnotize'
+listened_at = '2023-10-04T20:00:10Z'
+
+[[tracks]]
+name = '''Kill Rock 'n Roll'''
+artist = 'System of a Down'
+album = 'Hypnotize'
+listened_at = '2023-10-04T19:51:53Z'
+
+[[tracks]]
+name = 'Dreaming'
+artist = 'System of a Down'
+album = 'Hypnotize'
+listened_at = '2023-10-04T19:47:53Z'
+
+[[tracks]]
+name = 'Attack'
+artist = 'System of a Down'
+album = 'Hypnotize'
+listened_at = '2023-10-04T19:15:19Z'
+
+[[tracks]]
+name = 'Question!'
+artist = 'System of a Down'
+album = 'Mezmerize'
+listened_at = '2023-10-04T18:54:26Z'
+
+[[tracks]]
+name = 'Memory Reboot'
+artist = 'VØj'
+album = 'Memory Reboot'
+listened_at = '2023-10-04T18:50:26Z'
+
+[[tracks]]
+name = 'Revenga'
+artist = 'System of a Down'
+album = 'Mezmerize'
+listened_at = '2023-10-04T17:52:04Z'
+
+[[tracks]]
 name = 'B.Y.O.B.'
 artist = 'System of a Down'
 album = 'Mezmerize'
