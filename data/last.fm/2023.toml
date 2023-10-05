@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Chop Suey!'
+artist = 'System of a Down'
+album = 'Toxicity'
+listened_at = '2023-10-05T00:11:53Z'
+
+[[tracks]]
+name = 'X'
+artist = 'System of a Down'
+album = 'Toxicity'
+listened_at = '2023-10-05T00:09:55Z'
+
+[[tracks]]
+name = 'Jet Pilot'
+artist = 'System of a Down'
+album = 'Toxicity'
+listened_at = '2023-10-05T00:07:48Z'
+
+[[tracks]]
+name = 'Deer Dance'
+artist = 'System of a Down'
+album = 'Toxicity'
+listened_at = '2023-10-05T00:04:53Z'
+
+[[tracks]]
+name = 'Needles'
+artist = 'System of a Down'
+album = 'Toxicity'
+listened_at = '2023-10-05T00:01:39Z'
+
+[[tracks]]
+name = 'Prison Song'
+artist = 'System of a Down'
+album = 'Toxicity'
+listened_at = '2023-10-04T23:58:20Z'
+
+[[tracks]]
 name = 'Tentative'
 artist = 'System of a Down'
 album = 'Hypnotize'
