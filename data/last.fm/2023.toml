@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Black Ocean'
+artist = 'Rise to Fall'
+album = 'The Fifth Dimension'
+listened_at = '2023-10-05T19:35:12Z'
+
+[[tracks]]
+name = 'Beam of Light'
+artist = 'Rise to Fall'
+album = 'The Fifth Dimension'
+listened_at = '2023-10-05T19:30:50Z'
+
+[[tracks]]
+name = 'The Great Chain'
+artist = 'Rise to Fall'
+album = 'The Fifth Dimension'
+listened_at = '2023-10-05T19:26:40Z'
+
+[[tracks]]
+name = 'Heroes'
+artist = 'Rise to Fall'
+album = 'The Fifth Dimension'
+listened_at = '2023-10-05T16:39:38Z'
+
+[[tracks]]
 name = 'What Lies Beneath'
 artist = 'Rise to Fall'
 album = 'The Fifth Dimension'
