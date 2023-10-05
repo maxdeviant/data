@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Science'
+artist = 'System of a Down'
+album = 'Toxicity'
+listened_at = '2023-10-05T00:24:13Z'
+
+[[tracks]]
+name = 'ATWA'
+artist = 'System of a Down'
+album = 'Toxicity'
+listened_at = '2023-10-05T00:21:17Z'
+
+[[tracks]]
+name = 'Forest'
+artist = 'System of a Down'
+album = 'Toxicity'
+listened_at = '2023-10-05T00:17:17Z'
+
+[[tracks]]
+name = 'Bounce'
+artist = 'System of a Down'
+album = 'Toxicity'
+listened_at = '2023-10-05T00:15:23Z'
+
+[[tracks]]
 name = 'Chop Suey!'
 artist = 'System of a Down'
 album = 'Toxicity'
