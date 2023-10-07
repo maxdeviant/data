@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'HATEFUL [Feat. SIERRA]'
+artist = 'HEALTH'
+album = 'CHILDREN OF SORROW'
+listened_at = '2023-10-07T15:11:32Z'
+
+[[tracks]]
+name = 'SICKO [Feat. Godflesh]'
+artist = 'HEALTH'
+album = 'CHILDREN OF SORROW'
+listened_at = '2023-10-07T15:09:11Z'
+
+[[tracks]]
+name = 'CHILDREN OF SORROW'
+artist = 'HEALTH'
+album = 'CHILDREN OF SORROW'
+listened_at = '2023-10-07T15:05:52Z'
+
+[[tracks]]
 name = 'Break the Rules'
 artist = 'Charli XCX'
 album = 'SUCKER'
