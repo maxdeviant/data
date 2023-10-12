@@ -1,4 +1,214 @@
 [[tracks]]
+name = 'Weltennacht'
+artist = 'Ellende'
+album = 'Triebe'
+listened_at = '2023-10-12T20:22:57Z'
+
+[[tracks]]
+name = 'Triebe II'
+artist = 'Ellende'
+album = 'Triebe'
+listened_at = '2023-10-12T20:12:16Z'
+
+[[tracks]]
+name = 'Ahrimanic Impulse Victory'
+artist = 'P.H.O.B.O.S.'
+album = 'Triunity'
+listened_at = '2023-10-12T20:00:27Z'
+
+[[tracks]]
+name = 'Glowing Phosphoros'
+artist = 'P.H.O.B.O.S.'
+album = 'Triunity'
+listened_at = '2023-10-12T19:53:28Z'
+
+[[tracks]]
+name = 'Transfixed At Golgotha'
+artist = 'P.H.O.B.O.S.'
+album = 'Triunity'
+listened_at = '2023-10-12T19:53:27Z'
+
+[[tracks]]
+name = 'Némeïnn'
+artist = 'Blut aus Nord'
+album = 'Triunity'
+listened_at = '2023-10-12T19:46:28Z'
+
+[[tracks]]
+name = 'Hùbris'
+artist = 'Blut aus Nord'
+album = 'Triunity'
+listened_at = '2023-10-12T19:40:12Z'
+
+[[tracks]]
+name = 'De Librio Arbitrio'
+artist = 'Blut aus Nord'
+album = 'Triunity'
+listened_at = '2023-10-12T14:43:01Z'
+
+[[tracks]]
+name = 'Magnitizdat'
+artist = 'Shadow Domain'
+album = 'Digital Divide'
+listened_at = '2023-10-12T14:32:37Z'
+
+[[tracks]]
+name = 'Digital Divide'
+artist = 'Shadow Domain'
+album = 'Digital Divide'
+listened_at = '2023-10-12T14:26:56Z'
+
+[[tracks]]
+name = 'The Path'
+artist = 'V3ctors'
+album = 'Physis'
+listened_at = '2023-10-11T16:38:24Z'
+
+[[tracks]]
+name = 'Concrete Particle'
+artist = 'V3ctors'
+album = 'Physis'
+listened_at = '2023-10-11T16:36:04Z'
+
+[[tracks]]
+name = 'My Own God'
+artist = 'V3ctors'
+album = 'Physis'
+listened_at = '2023-10-11T16:31:56Z'
+
+[[tracks]]
+name = 'Black Rhino'
+artist = 'V3ctors'
+album = 'Physis'
+listened_at = '2023-10-11T16:26:22Z'
+
+[[tracks]]
+name = 'White Rhino'
+artist = 'V3ctors'
+album = 'Physis'
+listened_at = '2023-10-11T16:23:10Z'
+
+[[tracks]]
+name = 'Contradiction'
+artist = 'V3ctors'
+album = 'Physis'
+listened_at = '2023-10-11T16:18:36Z'
+
+[[tracks]]
+name = 'Mental Disorder'
+artist = 'V3ctors'
+album = 'Physis'
+listened_at = '2023-10-11T16:13:40Z'
+
+[[tracks]]
+name = 'Rebirth'
+artist = 'V3ctors'
+album = 'Physis'
+listened_at = '2023-10-11T16:08:56Z'
+
+[[tracks]]
+name = 'La Causa'
+artist = 'V3ctors'
+album = 'Physis'
+listened_at = '2023-10-11T16:03:46Z'
+
+[[tracks]]
+name = 'The Seed, Pt. 2'
+artist = 'V3ctors'
+album = 'Physis'
+listened_at = '2023-10-11T15:59:39Z'
+
+[[tracks]]
+name = 'One for No One'
+artist = 'Mentally Blind'
+album = 'Stage Zero'
+listened_at = '2023-10-11T15:37:10Z'
+
+[[tracks]]
+name = 'Life of Misery'
+artist = 'Dead Echo'
+album = 'BLACKLIST'
+listened_at = '2023-10-11T15:33:29Z'
+
+[[tracks]]
+name = 'Hive'
+artist = 'Pale Sky'
+album = 'Hive'
+listened_at = '2023-10-11T15:32:13Z'
+
+[[tracks]]
+name = 'Disbelief'
+artist = 'A Lethal Smile'
+album = 'Disbelief'
+listened_at = '2023-10-11T15:29:28Z'
+
+[[tracks]]
+name = 'Overcome'
+artist = 'Nothing For You'
+album = 'Overcome'
+listened_at = '2023-10-11T15:25:54Z'
+
+[[tracks]]
+name = '''If I'm The Snake Then You're The Ladder'''
+artist = '''Wolves Don't Sleep'''
+album = '''If I'm the Snake Then You're the Ladder'''
+listened_at = '2023-10-11T15:22:58Z'
+
+[[tracks]]
+name = 'Radiant Gray'
+artist = 'BRCDS'
+album = 'Radiant Gray'
+listened_at = '2023-10-11T15:18:20Z'
+
+[[tracks]]
+name = 'Void'
+artist = 'Omens Before Hysteria'
+album = 'Void'
+listened_at = '2023-10-11T15:15:40Z'
+
+[[tracks]]
+name = 'Impostors'
+artist = 'Pathfinders'
+album = 'Ares Vallis'
+listened_at = '2023-10-11T15:12:09Z'
+
+[[tracks]]
+name = 'Fractured Skies'
+artist = 'Terakai'
+album = 'Paradox'
+listened_at = '2023-10-11T14:50:21Z'
+
+[[tracks]]
+name = 'Exhume'
+artist = 'Farsight'
+album = 'Exhume'
+listened_at = '2023-10-11T14:45:33Z'
+
+[[tracks]]
+name = 'Suffering'
+artist = 'Tyler Rossow'
+album = 'Suffering'
+listened_at = '2023-10-11T14:41:20Z'
+
+[[tracks]]
+name = 'Hormone Prison'
+artist = 'Quietude'
+album = 'Hormone Prison'
+listened_at = '2023-10-11T14:37:20Z'
+
+[[tracks]]
+name = 'CHILDREN OF SORROW'
+artist = 'HEALTH'
+album = 'CHILDREN OF SORROW'
+listened_at = '2023-10-11T14:28:12Z'
+
+[[tracks]]
+name = 'Ensomhed'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2023-10-11T14:24:53Z'
+
+[[tracks]]
 name = 'Forlist'
 artist = 'Sunken'
 album = 'Livslede'
