@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Under himmelhvelvingen'
+artist = 'Spurv'
+album = 'Brefjære'
+listened_at = '2023-10-13T20:55:22Z'
+
+[[tracks]]
+name = 'Som skyer'
+artist = 'Spurv'
+album = 'Brefjære'
+listened_at = '2023-10-13T20:49:57Z'
+
+[[tracks]]
+name = 'En brennende vogn over jordet'
+artist = 'Spurv'
+album = 'Brefjære'
+listened_at = '2023-10-13T20:40:35Z'
+
+[[tracks]]
+name = 'Krokete, rettskaffen'
+artist = 'Spurv'
+album = 'Brefjære'
+listened_at = '2023-10-13T20:35:17Z'
+
+[[tracks]]
+name = 'A Fine Day to Die'
+artist = 'BlackBraid'
+album = 'Blackbraid II'
+listened_at = '2023-10-13T19:34:03Z'
+
+[[tracks]]
+name = 'Sadness And The Passage Of Time And Memory'
+artist = 'BlackBraid'
+album = 'Blackbraid II'
+listened_at = '2023-10-13T19:27:03Z'
+
+[[tracks]]
+name = 'Twilight Hymn Of Ancient Blood'
+artist = 'BlackBraid'
+album = 'Blackbraid II'
+listened_at = '2023-10-13T16:55:47Z'
+
+[[tracks]]
 name = 'Celestial Passage'
 artist = 'BlackBraid'
 album = 'Blackbraid II'
