@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Doubt Me'
+artist = 'Beartooth'
+album = 'The Surface'
+listened_at = '2023-10-19T14:59:03Z'
+
+[[tracks]]
+name = 'Riptide'
+artist = 'Beartooth'
+album = 'The Surface'
+listened_at = '2023-10-19T14:45:41Z'
+
+[[tracks]]
+name = 'The Surface'
+artist = 'Beartooth'
+album = 'The Surface'
+listened_at = '2023-10-19T14:41:49Z'
+
+[[tracks]]
 name = 'Celestial Passage'
 artist = 'Blackbraid'
 album = 'Blackbraid II'
