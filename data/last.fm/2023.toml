@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Ricochet'
+artist = 'GIRLI'
+album = 'DAMSEL IN DISTRESS'
+listened_at = '2023-10-21T20:12:51Z'
+
+[[tracks]]
+name = 'Dysmorphia'
+artist = 'GIRLI'
+album = 'DAMSEL IN DISTRESS'
+listened_at = '2023-10-21T20:09:39Z'
+
+[[tracks]]
+name = 'More Than a Friend'
+artist = 'GIRLI'
+album = 'DAMSEL IN DISTRESS'
+listened_at = '2023-10-21T20:06:43Z'
+
+[[tracks]]
+name = 'I Don’t Like Myself'
+artist = 'GIRLI'
+album = 'DAMSEL IN DISTRESS'
+listened_at = '2023-10-21T20:03:59Z'
+
+[[tracks]]
+name = 'Masterpiece'
+artist = 'The Anchor'
+album = 'Masterpiece'
+listened_at = '2023-10-21T20:00:31Z'
+
+[[tracks]]
+name = 'Sunflares'
+artist = 'New Habits'
+album = 'Sunflares'
+listened_at = '2023-10-21T19:57:38Z'
+
+[[tracks]]
+name = 'Violent Delights'
+artist = 'Galleons'
+album = 'Violent Delights'
+listened_at = '2023-10-21T19:53:44Z'
+
+[[tracks]]
+name = 'The Surface'
+artist = 'Beartooth'
+album = 'The Surface'
+listened_at = '2023-10-21T19:49:49Z'
+
+[[tracks]]
+name = 'I Don’t Like Myself'
+artist = 'GIRLI'
+album = 'DAMSEL IN DISTRESS'
+listened_at = '2023-10-21T19:47:05Z'
+
+[[tracks]]
 name = 'Might Love Myself'
 artist = 'Beartooth'
 album = 'The Surface'
