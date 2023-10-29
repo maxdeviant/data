@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Slide'
+artist = 'The Goo Goo Dolls'
+album = 'Dizzy Up the Girl'
+listened_at = '2023-10-29T19:36:58Z'
+
+[[tracks]]
+name = 'The Bends'
+artist = 'Radiohead'
+album = 'The Bends'
+listened_at = '2023-10-29T19:32:50Z'
+
+[[tracks]]
+name = 'Chop Suey!'
+artist = 'System of a Down'
+album = 'Toxicity'
+listened_at = '2023-10-29T19:29:21Z'
+
+[[tracks]]
+name = 'Ruthless'
+artist = 'GIRLI'
+album = 'DAMSEL IN DISTRESS'
+listened_at = '2023-10-29T19:25:20Z'
+
+[[tracks]]
+name = 'Ricochet'
+artist = 'GIRLI'
+album = 'DAMSEL IN DISTRESS'
+listened_at = '2023-10-29T16:26:29Z'
+
+[[tracks]]
 name = 'More Than a Friend'
 artist = 'GIRLI'
 album = 'DAMSEL IN DISTRESS'
