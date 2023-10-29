@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'More Than a Friend'
+artist = 'GIRLI'
+album = 'DAMSEL IN DISTRESS'
+listened_at = '2023-10-29T16:23:19Z'
+
+[[tracks]]
+name = 'I Don’t Like Myself'
+artist = 'GIRLI'
+album = 'DAMSEL IN DISTRESS'
+listened_at = '2023-10-29T16:20:35Z'
+
+[[tracks]]
+name = 'Powers'
+artist = 'boygenius'
+album = 'the rest'
+listened_at = '2023-10-29T16:15:21Z'
+
+[[tracks]]
+name = 'Voyager'
+artist = 'boygenius'
+album = 'the rest'
+listened_at = '2023-10-29T16:12:34Z'
+
+[[tracks]]
+name = 'Afraid of Heights'
+artist = 'boygenius'
+album = 'the rest'
+listened_at = '2023-10-29T16:09:52Z'
+
+[[tracks]]
+name = 'Black Hole'
+artist = 'boygenius'
+album = 'the rest'
+listened_at = '2023-10-29T16:07:31Z'
+
+[[tracks]]
+name = 'Black Hole'
+artist = 'boygenius'
+album = 'the rest'
+listened_at = '2023-10-29T12:21:24Z'
+
+[[tracks]]
 name = 'Black Hole'
 artist = 'boygenius'
 album = 'the rest'
