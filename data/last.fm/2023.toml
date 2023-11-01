@@ -2,6 +2,30 @@
 name = 'SICKO [Feat. Godflesh]'
 artist = 'HEALTH'
 album = 'ASHAMED'
+listened_at = '2023-11-01T03:14:59Z'
+
+[[tracks]]
+name = 'CHILDREN OF SORROW'
+artist = 'HEALTH'
+album = 'ASHAMED'
+listened_at = '2023-11-01T03:11:38Z'
+
+[[tracks]]
+name = 'ASHAMED'
+artist = 'HEALTH'
+album = 'ASHAMED'
+listened_at = '2023-11-01T03:08:37Z'
+
+[[tracks]]
+name = 'HATEFUL [Feat. SIERRA]'
+artist = 'HEALTH'
+album = 'ASHAMED'
+listened_at = '2023-11-01T03:04:29Z'
+
+[[tracks]]
+name = 'SICKO [Feat. Godflesh]'
+artist = 'HEALTH'
+album = 'ASHAMED'
 listened_at = '2023-11-01T03:02:07Z'
 
 [[tracks]]
