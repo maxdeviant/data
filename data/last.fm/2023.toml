@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Hatchet'
+artist = 'When Wild Dingos Attack'
+album = 'Burn What You Love'
+listened_at = '2023-10-31T21:29:58Z'
+
+[[tracks]]
+name = 'Burn What We Love'
+artist = 'When Wild Dingos Attack'
+album = 'Burn What You Love'
+listened_at = '2023-10-31T21:27:20Z'
+
+[[tracks]]
+name = 'Swallow'
+artist = 'When Wild Dingos Attack'
+album = 'Burn What You Love'
+listened_at = '2023-10-31T21:23:39Z'
+
+[[tracks]]
+name = 'Mirrors'
+artist = 'When Wild Dingos Attack'
+album = 'Burn What You Love'
+listened_at = '2023-10-31T21:20:16Z'
+
+[[tracks]]
+name = 'Fortune'
+artist = 'When Wild Dingos Attack'
+album = 'Burn What You Love'
+listened_at = '2023-10-31T21:16:53Z'
+
+[[tracks]]
+name = 'Blood Nose Crime'
+artist = 'When Wild Dingos Attack'
+album = 'Burn What You Love'
+listened_at = '2023-10-31T21:14:08Z'
+
+[[tracks]]
+name = 'Summer'
+artist = 'When Wild Dingos Attack'
+album = 'Burn What You Love'
+listened_at = '2023-10-31T21:11:40Z'
+
+[[tracks]]
+name = '''Bad Blood (Taylor's Version)'''
+artist = 'Taylor Swift'
+album = '''1989 (Taylor's Version)'''
+listened_at = '2023-10-31T15:01:45Z'
+
+[[tracks]]
 name = '''I Wish You Would (Taylor's Version)'''
 artist = 'Taylor Swift'
 album = '''1989 (Taylor's Version)'''
