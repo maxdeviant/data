@@ -1,4 +1,28 @@
 [[tracks]]
+name = '''witches' brew'''
+artist = 'Luna Shadows'
+album = '''witches' brew'''
+listened_at = '2023-11-07T18:38:17Z'
+
+[[tracks]]
+name = 'Hope for a long mean free path'
+artist = 'Miroist'
+album = 'CURVE'
+listened_at = '2023-11-07T18:36:25Z'
+
+[[tracks]]
+name = 'ASHAMED'
+artist = 'HEALTH'
+album = 'ASHAMED'
+listened_at = '2023-11-07T18:33:24Z'
+
+[[tracks]]
+name = 'Infinite Mind'
+artist = 'Lee McKinney'
+album = 'Infinite Mind'
+listened_at = '2023-11-07T18:00:27Z'
+
+[[tracks]]
 name = 'What If'
 artist = 'For the Fallen Dreams'
 album = 'For The Fallen Dreams'
