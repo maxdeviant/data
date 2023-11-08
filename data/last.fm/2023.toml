@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'The Sound of Hunger'
+artist = 'Obsidian Mind'
+album = 'The Sound of Hunger'
+listened_at = '2023-11-08T16:19:45Z'
+
+[[tracks]]
+name = 'The Rat & The Snake'
+artist = 'Ghost Iris'
+album = 'Apple of Discord'
+listened_at = '2023-11-08T16:15:37Z'
+
+[[tracks]]
+name = 'Infinite Mind'
+artist = 'Lee McKinney'
+album = 'Infinite Mind'
+listened_at = '2023-11-08T16:12:15Z'
+
+[[tracks]]
+name = 'The Spirit Returns'
+artist = 'BlackBraid'
+album = 'Blackbraid II'
+listened_at = '2023-11-08T04:40:36Z'
+
+[[tracks]]
 name = 'Autumnal Hearts Ablaze'
 artist = 'Blackbraid'
 album = 'Blackbraid II'
