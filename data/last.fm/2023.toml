@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'LXVE'
+artist = 'Stain The Canvas'
+album = 'ALL FINE / ENIF LLA'
+listened_at = '2023-11-10T17:58:32Z'
+
+[[tracks]]
+name = 'Unbroken'
+artist = 'The Curse Within'
+album = 'Eternity'
+listened_at = '2023-11-10T17:53:28Z'
+
+[[tracks]]
+name = 'Fever'
+artist = 'Tova'
+album = 'Fever'
+listened_at = '2023-11-10T17:49:34Z'
+
+[[tracks]]
+name = 'No Scope'
+artist = 'Killstreak'
+album = 'Deathmatch'
+listened_at = '2023-11-10T17:45:57Z'
+
+[[tracks]]
+name = 'When I R.I.P.'
+artist = 'Labrinth'
+album = 'Euphoria (Original Score from the HBO Series)'
+listened_at = '2023-11-10T14:57:23Z'
+
+[[tracks]]
+name = 'Forever'
+artist = 'Labrinth'
+album = 'Euphoria (Original Score from the HBO Series)'
+listened_at = '2023-11-10T14:55:36Z'
+
+[[tracks]]
+name = 'Moss Covered Bones On The Altar Of The Moon'
+artist = 'BlackBraid'
+album = 'Blackbraid II'
+listened_at = '2023-11-09T01:44:45Z'
+
+[[tracks]]
+name = 'Spells Of Moon And Earth'
+artist = 'Blackbraid'
+album = 'Blackbraid II'
+listened_at = '2023-11-09T01:40:01Z'
+
+[[tracks]]
+name = 'The Wolf That Guides The Hunters Hand'
+artist = 'Blackbraid'
+album = 'Blackbraid II'
+listened_at = '2023-11-09T01:37:36Z'
+
+[[tracks]]
 name = 'Spells Of Moon And Earth'
 artist = 'Blackbraid'
 album = 'Blackbraid II'
