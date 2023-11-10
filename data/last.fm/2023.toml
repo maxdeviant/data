@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'An Offering'
+artist = 'MAELSTROM BLVCK'
+album = 'An Offering'
+listened_at = '2023-11-10T18:15:19Z'
+
+[[tracks]]
+name = 'A History of Violence'
+artist = 'Stoneside.'
+album = 'The Water'
+listened_at = '2023-11-10T18:10:16Z'
+
+[[tracks]]
+name = 'Pink Mist Wish List'
+artist = 'Volatile Ways'
+album = 'Pink Mist Wish List'
+listened_at = '2023-11-10T18:06:35Z'
+
+[[tracks]]
+name = 'Between The Realms'
+artist = 'Befouled Tongue'
+album = 'Between The Realms'
+listened_at = '2023-11-10T18:01:43Z'
+
+[[tracks]]
 name = 'LXVE'
 artist = 'Stain The Canvas'
 album = 'ALL FINE / ENIF LLA'
