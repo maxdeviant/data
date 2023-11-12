@@ -1,4 +1,40 @@
 [[tracks]]
+name = '1s + 0s'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-12T00:03:21Z'
+
+[[tracks]]
+name = 'Flicker'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-12T00:01:00Z'
+
+[[tracks]]
+name = 'What It Becomes'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-11T23:57:21Z'
+
+[[tracks]]
+name = 'Hard'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-11T23:54:55Z'
+
+[[tracks]]
+name = 'Knockoff'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-11T23:51:50Z'
+
+[[tracks]]
+name = 'Church Outfit'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-11T23:49:57Z'
+
+[[tracks]]
 name = 'Voyager'
 artist = 'boygenius'
 album = 'the rest'
