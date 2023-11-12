@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Strange World'
+artist = 'Grigoré'
+album = 'Strange World'
+listened_at = '2023-11-12T13:57:05Z'
+
+[[tracks]]
 name = 'Knockoff'
 artist = 'Poppy'
 album = 'Zig'
