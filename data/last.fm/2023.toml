@@ -2,6 +2,36 @@
 name = 'What It Becomes'
 artist = 'Poppy'
 album = 'Zig'
+listened_at = '2023-11-14T00:58:24Z'
+
+[[tracks]]
+name = 'Hard'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-14T00:55:57Z'
+
+[[tracks]]
+name = 'Knockoff'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-14T00:52:52Z'
+
+[[tracks]]
+name = 'Church Outfit'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-14T00:51:00Z'
+
+[[tracks]]
+name = 'Flicker'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-13T22:46:25Z'
+
+[[tracks]]
+name = 'What It Becomes'
+artist = 'Poppy'
+album = 'Zig'
 listened_at = '2023-11-13T22:42:46Z'
 
 [[tracks]]
