@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'What It Becomes'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-13T22:42:46Z'
+
+[[tracks]]
+name = 'Hard'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-13T22:40:20Z'
+
+[[tracks]]
+name = 'Knockoff'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-13T22:37:15Z'
+
+[[tracks]]
+name = 'Church Outfit'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-11-13T22:35:22Z'
+
+[[tracks]]
+name = 'Strange World'
+artist = 'Grigoré'
+album = 'Strange World'
+listened_at = '2023-11-12T14:01:01Z'
+
+[[tracks]]
 name = 'Strange World'
 artist = 'Grigoré'
 album = 'Strange World'
