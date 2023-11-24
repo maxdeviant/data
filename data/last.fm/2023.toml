@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Parasites'
+artist = 'Polaris'
+album = 'Fatalism'
+listened_at = '2023-11-23T22:35:44Z'
+
+[[tracks]]
+name = 'Nightmare'
+artist = 'Polaris'
+album = 'Fatalism'
+listened_at = '2023-11-23T22:31:16Z'
+
+[[tracks]]
+name = 'Harbinger'
+artist = 'Polaris'
+album = 'Fatalism'
+listened_at = '2023-11-23T22:27:52Z'
+
+[[tracks]]
 name = 'VIII'
 artist = 'Tardigrada'
 album = 'Vom Bruch bis zur Freiheit'
