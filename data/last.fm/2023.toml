@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'The Crossfire'
+artist = 'Polaris'
+album = 'Fatalism'
+listened_at = '2023-11-24T03:23:32Z'
+
+[[tracks]]
+name = 'Inhumane'
+artist = 'Polaris'
+album = 'Fatalism'
+listened_at = '2023-11-24T03:19:32Z'
+
+[[tracks]]
+name = 'With Regards'
+artist = 'Polaris'
+album = 'Fatalism'
+listened_at = '2023-11-24T03:15:22Z'
+
+[[tracks]]
+name = 'Overflow'
+artist = 'Polaris'
+album = 'Fatalism'
+listened_at = '2023-11-23T22:39:00Z'
+
+[[tracks]]
 name = 'Parasites'
 artist = 'Polaris'
 album = 'Fatalism'
