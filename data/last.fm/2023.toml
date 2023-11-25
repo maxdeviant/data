@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Freaks And Geeks'
+artist = 'Childish Gambino'
+album = 'EP (2011 Re-Release)'
+listened_at = '2023-11-25T17:59:02Z'
+
+[[tracks]]
+name = 'Bonfire'
+artist = 'Childish Gambino'
+album = 'Camp'
+listened_at = '2023-11-25T17:55:49Z'
+
+[[tracks]]
+name = 'The Crossfire'
+artist = 'Polaris'
+album = 'Fatalism'
+listened_at = '2023-11-24T03:27:39Z'
+
+[[tracks]]
+name = 'Inhumane'
+artist = 'Polaris'
+album = 'Fatalism'
+listened_at = '2023-11-24T03:23:33Z'
+
+[[tracks]]
 name = 'The Crossfire'
 artist = 'Polaris'
 album = 'Fatalism'
