@@ -1,4 +1,70 @@
 [[tracks]]
+name = '''L'appel du vide'''
+artist = 'Karg'
+album = 'Dornenvögel'
+listened_at = '2023-11-26T01:40:52Z'
+
+[[tracks]]
+name = 'Над гробом ветхим'
+artist = 'Путь'
+album = 'Песни смерти'
+listened_at = '2023-11-26T01:34:51Z'
+
+[[tracks]]
+name = 'Dreamy Forests'
+artist = 'Nebula Orionis'
+album = 'Summer'
+listened_at = '2023-11-26T01:29:53Z'
+
+[[tracks]]
+name = 'Derrota'
+artist = 'Svdestada'
+album = 'Azabache'
+listened_at = '2023-11-26T01:25:57Z'
+
+[[tracks]]
+name = '''L'Échappée'''
+artist = 'Les Discrets'
+album = 'Septembre et ses dernières pensées'
+listened_at = '2023-11-26T01:21:53Z'
+
+[[tracks]]
+name = 'Void'
+artist = 'ColdWorld'
+album = 'Autumn'
+listened_at = '2023-11-26T01:15:21Z'
+
+[[tracks]]
+name = 'Retreat to Hibernate'
+artist = 'Heretoir'
+album = 'Heretoir'
+listened_at = '2023-11-26T01:08:43Z'
+
+[[tracks]]
+name = 'Shoreless'
+artist = 'Numenorean'
+album = 'Home'
+listened_at = '2023-11-26T01:05:14Z'
+
+[[tracks]]
+name = 'Paysages polaires II'
+artist = 'Cantique Lépreux'
+album = 'Paysages polaires'
+listened_at = '2023-11-26T00:59:44Z'
+
+[[tracks]]
+name = 'White Granite'
+artist = 'Falls of Rauros'
+album = 'Vigilance Perennial'
+listened_at = '2023-11-26T00:52:09Z'
+
+[[tracks]]
+name = 'Hearth'
+artist = 'Saor'
+album = 'Guardians'
+listened_at = '2023-11-25T19:46:42Z'
+
+[[tracks]]
 name = '''Chiusella's Waters - Original Mix'''
 artist = 'Enisum'
 album = 'Arpitanian Lands'
