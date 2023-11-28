@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Loneshark'
+artist = 'Our Hollow, Our Home'
+album = 'Hartsick'
+listened_at = '2023-11-28T14:54:55Z'
+
+[[tracks]]
+name = 'Remember Me'
+artist = 'Our Hollow, Our Home'
+album = 'Burn in the Flood'
+listened_at = '2023-11-28T14:51:04Z'
+
+[[tracks]]
+name = 'Melancholic Overdose'
+artist = 'My Useless Life'
+album = 'My Useless Life'
+listened_at = '2023-11-28T00:06:04Z'
+
+[[tracks]]
 name = 'Feather and Bone'
 artist = 'Altar of Plagues'
 album = 'Mammal'
