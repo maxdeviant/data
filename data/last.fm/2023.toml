@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Golden Number'
+artist = 'Ghost Bath'
+album = 'Moonlover'
+listened_at = '2023-11-28T23:00:28Z'
+
+[[tracks]]
+name = 'The Sleeping Fields'
+artist = 'Ghost Bath'
+album = 'Moonlover'
+listened_at = '2023-11-28T22:59:03Z'
+
+[[tracks]]
+name = 'Silhouettes'
+artist = 'If I Were You'
+album = 'Life After Death'
+listened_at = '2023-11-28T22:45:54Z'
+
+[[tracks]]
+name = 'Psychotic Romantic'
+artist = 'Miss May I'
+album = 'Deathless'
+listened_at = '2023-11-28T20:13:02Z'
+
+[[tracks]]
 name = 'Silhouettes'
 artist = 'If I Were You'
 album = 'Life After Death'
