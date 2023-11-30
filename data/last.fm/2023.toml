@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Try Not to Destroy Everthing You Love'
+artist = 'An Autumn for Crippled Children'
+album = 'Try Not to Destroy Everything You Love'
+listened_at = '2023-11-30T01:50:12Z'
+
+[[tracks]]
+name = 'Void'
+artist = 'ColdWorld'
+album = 'Autumn'
+listened_at = '2023-11-30T01:43:41Z'
+
+[[tracks]]
+name = 'The Dead Light, Pt. 2'
+artist = 'Fen'
+album = 'The Dead Light'
+listened_at = '2023-11-30T01:40:21Z'
+
+[[tracks]]
+name = 'Golden Dust'
+artist = 'Heretoir'
+album = 'The Circle'
+listened_at = '2023-11-30T01:33:55Z'
+
+[[tracks]]
+name = 'Dream House'
+artist = 'Deafheaven'
+album = 'Sunbather'
+listened_at = '2023-11-29T22:53:43Z'
+
+[[tracks]]
 name = 'The Pecan Tree'
 artist = 'Deafheaven'
 album = 'Sunbather'
