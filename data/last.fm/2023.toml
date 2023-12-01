@@ -1,4 +1,106 @@
 [[tracks]]
+name = 'Fraktur'
+artist = 'MØL'
+album = 'Diorama'
+listened_at = '2023-12-01T20:07:29Z'
+
+[[tracks]]
+name = 'NADA'
+artist = 'The Soft Moon'
+album = 'Exister'
+listened_at = '2023-12-01T19:32:59Z'
+
+[[tracks]]
+name = 'The Pit'
+artist = 'The Soft Moon'
+album = 'Exister'
+listened_at = '2023-12-01T19:29:28Z'
+
+[[tracks]]
+name = 'Monster'
+artist = 'The Soft Moon'
+album = 'Exister'
+listened_at = '2023-12-01T19:26:03Z'
+
+[[tracks]]
+name = 'Face Is Gone'
+artist = 'The Soft Moon'
+album = 'Exister'
+listened_at = '2023-12-01T19:22:55Z'
+
+[[tracks]]
+name = 'Become the Lies'
+artist = 'The Soft Moon'
+album = 'Exister'
+listened_at = '2023-12-01T19:18:25Z'
+
+[[tracks]]
+name = 'Answers'
+artist = 'The Soft Moon'
+album = 'Exister'
+listened_at = '2023-12-01T19:15:20Z'
+
+[[tracks]]
+name = 'Sad Song'
+artist = 'The Soft Moon'
+album = 'Exister'
+listened_at = '2023-12-01T19:12:04Z'
+
+[[tracks]]
+name = 'Sun Meets Shadow'
+artist = 'AG'
+album = 'Sun Meets Shadow'
+listened_at = '2023-12-01T19:08:08Z'
+
+[[tracks]]
+name = 'Harlequin'
+artist = 'dissonants'
+album = 'Fading'
+listened_at = '2023-12-01T19:03:56Z'
+
+[[tracks]]
+name = 'Grave Mind'
+artist = 'dissonants'
+album = 'Fading'
+listened_at = '2023-12-01T19:00:23Z'
+
+[[tracks]]
+name = 'Silver Linings'
+artist = 'dissonants'
+album = 'Fading'
+listened_at = '2023-12-01T18:55:57Z'
+
+[[tracks]]
+name = 'Fading'
+artist = 'dissonants'
+album = 'Fading'
+listened_at = '2023-12-01T18:52:07Z'
+
+[[tracks]]
+name = 'Harlequin'
+artist = 'dissonants'
+album = 'Fading'
+listened_at = '2023-12-01T18:48:22Z'
+
+[[tracks]]
+name = 'Grave Mind'
+artist = 'dissonants'
+album = 'Fading'
+listened_at = '2023-12-01T18:44:49Z'
+
+[[tracks]]
+name = 'Silver Linings'
+artist = 'dissonants'
+album = 'Fading'
+listened_at = '2023-12-01T18:40:23Z'
+
+[[tracks]]
+name = 'Fading'
+artist = 'dissonants'
+album = 'Fading'
+listened_at = '2023-12-01T18:36:35Z'
+
+[[tracks]]
 name = 'Hourglass'
 artist = 'Mask of Prospero'
 album = 'Hiraeth'
