@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Photophobic'
+artist = 'MØL'
+album = 'Diorama'
+listened_at = '2023-12-03T04:33:06Z'
+
+[[tracks]]
+name = 'Fraktur'
+artist = 'MØL'
+album = 'Diorama'
+listened_at = '2023-12-03T04:28:46Z'
+
+[[tracks]]
+name = 'Diorama'
+artist = 'MØL'
+album = 'Diorama'
+listened_at = '2023-12-03T04:21:32Z'
+
+[[tracks]]
+name = 'Tvesind'
+artist = 'MØL'
+album = 'Diorama'
+listened_at = '2023-12-03T04:13:43Z'
+
+[[tracks]]
+name = 'Itinerari'
+artist = 'MØL'
+album = 'Diorama'
+listened_at = '2023-12-03T04:08:38Z'
+
+[[tracks]]
+name = 'Redacted'
+artist = 'MØL'
+album = 'Diorama'
+listened_at = '2023-12-02T21:13:33Z'
+
+[[tracks]]
 name = 'Vestige'
 artist = 'MØL'
 album = 'Diorama'
