@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Dreaded Still'
+artist = 'Lustre'
+album = 'Still Innocence'
+listened_at = '2023-12-06T04:14:07Z'
+
+[[tracks]]
+name = 'Ascension'
+artist = 'Nebula Orionis'
+album = 'Summer'
+listened_at = '2023-12-06T04:10:23Z'
+
+[[tracks]]
+name = 'Ancient Sorcery'
+artist = 'Eldamar'
+album = 'A Dark Forgotten Past'
+listened_at = '2023-12-06T04:01:49Z'
+
+[[tracks]]
+name = 'From Life To Spirit'
+artist = 'Eldamar'
+album = 'The Force Of The Ancient Land'
+listened_at = '2023-12-06T03:49:52Z'
+
+[[tracks]]
+name = 'Land Of The Dead'
+artist = 'Eldamar'
+album = 'Land Of The Dead'
+listened_at = '2023-12-06T03:35:06Z'
+
+[[tracks]]
+name = 'Winter Solsticie'
+artist = 'Dreams of Nature'
+album = 'Magic Trascendence'
+listened_at = '2023-12-06T03:31:06Z'
+
+[[tracks]]
+name = 'Walking Among The Trees'
+artist = 'Dreams of Nature'
+album = 'Magic Trascendence'
+listened_at = '2023-12-06T03:24:51Z'
+
+[[tracks]]
+name = 'Winter Night'
+artist = 'Eldamar'
+album = 'The Force Of The Ancient Land'
+listened_at = '2023-12-06T03:04:20Z'
+
+[[tracks]]
 name = 'Spell Of The Wind'
 artist = 'Dreams of Nature'
 album = 'Magic Trascendence'
