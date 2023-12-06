@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Dreamy Forests'
+artist = 'Nebula Orionis'
+album = 'Summer'
+listened_at = '2023-12-06T19:20:36Z'
+
+[[tracks]]
+name = 'Nocte Caelum'
+artist = 'Nord Frost'
+album = 'Inter Sidera'
+listened_at = '2023-12-06T19:15:14Z'
+
+[[tracks]]
+name = 'Mighty Rivers'
+artist = 'Nebula Orionis'
+album = 'Summer'
+listened_at = '2023-12-06T19:11:26Z'
+
+[[tracks]]
+name = 'In Search for New Wisdom'
+artist = 'Eldamar'
+album = 'A Dark Forgotten Past'
+listened_at = '2023-12-06T19:02:08Z'
+
+[[tracks]]
+name = 'Hagalaz'
+artist = 'Eldamar'
+album = 'Eldamar / Dreams of Nature'
+listened_at = '2023-12-06T18:50:54Z'
+
+[[tracks]]
+name = 'On The Shore Of A Mountain'
+artist = 'Dreams of Nature'
+album = 'Magic Trascendence'
+listened_at = '2023-12-06T18:44:11Z'
+
+[[tracks]]
+name = 'Forest Of Eternity'
+artist = 'Dreams of Nature'
+album = 'Magic Trascendence'
+listened_at = '2023-12-06T04:20:50Z'
+
+[[tracks]]
+name = 'Dreaded Still'
+artist = 'Lustre'
+album = 'Still Innocence'
+listened_at = '2023-12-06T04:20:50Z'
+
+[[tracks]]
 name = 'Dreaded Still'
 artist = 'Lustre'
 album = 'Still Innocence'
