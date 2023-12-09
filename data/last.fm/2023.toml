@@ -2,6 +2,36 @@
 name = 'Everywhere, Everything'
 artist = 'Polar'
 album = 'Everywhere, Everything'
+listened_at = '2023-12-09T16:20:52Z'
+
+[[tracks]]
+name = 'Gods and Heathens'
+artist = 'Polar'
+album = 'Everywhere, Everything'
+listened_at = '2023-12-09T16:16:22Z'
+
+[[tracks]]
+name = 'Burn'
+artist = 'Polar'
+album = 'Everywhere, Everything'
+listened_at = '2023-12-09T16:12:48Z'
+
+[[tracks]]
+name = 'Winds of Change'
+artist = 'Polar'
+album = 'Everywhere, Everything'
+listened_at = '2023-12-09T16:10:02Z'
+
+[[tracks]]
+name = 'The Greatest Sin'
+artist = 'Polar'
+album = 'Everywhere, Everything'
+listened_at = '2023-12-09T03:57:41Z'
+
+[[tracks]]
+name = 'Everywhere, Everything'
+artist = 'Polar'
+album = 'Everywhere, Everything'
 listened_at = '2023-12-09T03:40:26Z'
 
 [[tracks]]
