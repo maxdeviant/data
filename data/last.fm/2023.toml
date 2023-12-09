@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Graal'
+artist = 'Ne Obliviscaris'
+album = 'Exul'
+listened_at = '2023-12-08T21:19:55Z'
+
+[[tracks]]
+name = 'Suspyre'
+artist = 'Ne Obliviscaris'
+album = 'Exul'
+listened_at = '2023-12-08T21:09:46Z'
+
+[[tracks]]
+name = 'Misericorde II - Anatomy of Quiescence'
+artist = 'Ne Obliviscaris'
+album = 'Exul'
+listened_at = '2023-12-08T21:00:25Z'
+
+[[tracks]]
 name = 'Misericorde I - As the Flesh Falls'
 artist = 'Ne Obliviscaris'
 album = 'Exul'
