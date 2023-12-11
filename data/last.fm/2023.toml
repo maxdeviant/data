@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Embrace Ov Vacuity'
+artist = 'Sunscourge'
+album = 'Wraith'
+listened_at = '2023-12-11T01:03:19Z'
+
+[[tracks]]
+name = 'Deathblight Chalice'
+artist = 'Sunscourge'
+album = 'Wraith'
+listened_at = '2023-12-11T00:58:38Z'
+
+[[tracks]]
+name = 'Gods and Heathens'
+artist = 'Polar'
+album = 'Everywhere, Everything'
+listened_at = '2023-12-11T00:16:33Z'
+
+[[tracks]]
 name = 'Burn'
 artist = 'Polar'
 album = 'Everywhere, Everything'
