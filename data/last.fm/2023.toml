@@ -1,4 +1,76 @@
 [[tracks]]
+name = 'Dig'
+artist = 'Circles'
+album = 'The Stories We Are Afraid Of, Vol. 1'
+listened_at = '2023-12-13T20:45:48Z'
+
+[[tracks]]
+name = 'Echo'
+artist = 'Circles'
+album = 'The Stories We Are Afraid Of, Vol. 1'
+listened_at = '2023-12-13T20:41:58Z'
+
+[[tracks]]
+name = 'Sleepwalking'
+artist = 'Circles'
+album = 'The Stories We Are Afraid Of, Vol. 1'
+listened_at = '2023-12-13T20:38:06Z'
+
+[[tracks]]
+name = 'Bliss'
+artist = 'Circles'
+album = 'The Stories We Are Afraid Of, Vol. 1'
+listened_at = '2023-12-13T20:34:39Z'
+
+[[tracks]]
+name = 'Wonder'
+artist = 'Circles'
+album = 'The Stories We Are Afraid Of, Vol. 1'
+listened_at = '2023-12-13T20:30:59Z'
+
+[[tracks]]
+name = 'Sun Bleached Flies'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-13T19:34:27Z'
+
+[[tracks]]
+name = 'Televangelism'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-13T19:31:23Z'
+
+[[tracks]]
+name = 'August Underground'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-13T19:27:43Z'
+
+[[tracks]]
+name = 'Ptolemaea'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-13T19:21:18Z'
+
+[[tracks]]
+name = 'Gibson Girl'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-13T19:15:37Z'
+
+[[tracks]]
+name = 'Thoroughfare'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-13T19:06:09Z'
+
+[[tracks]]
+name = 'Hard Times'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-13T19:01:07Z'
+
+[[tracks]]
 name = 'Golden Age'
 artist = 'Ethel Cain'
 album = 'Golden Age'
