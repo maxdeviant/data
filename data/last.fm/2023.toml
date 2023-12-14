@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Nocturnal Visitor'
+artist = 'Stellar Circuits'
+album = 'Ways We Haunt'
+listened_at = '2023-12-14T20:56:18Z'
+
+[[tracks]]
+name = 'Family Tree (Intro)'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-14T20:10:05Z'
+
+[[tracks]]
+name = 'Adrenaline'
+artist = 'Fallujah'
+album = 'Dreamless'
+listened_at = '2023-12-14T17:46:10Z'
+
+[[tracks]]
 name = 'Face Of Death'
 artist = 'Fallujah'
 album = 'Dreamless'
