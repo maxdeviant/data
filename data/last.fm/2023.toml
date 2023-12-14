@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'The Lake of Twisted Limbs'
+artist = 'Pridelands'
+album = 'Light Bends'
+listened_at = '2023-12-14T01:08:12Z'
+
+[[tracks]]
+name = 'Grey'
+artist = 'Moments'
+album = 'Is There a Cure?'
+listened_at = '2023-12-14T01:06:21Z'
+
+[[tracks]]
+name = 'Burn'
+artist = 'Polar'
+album = 'Everywhere, Everything'
+listened_at = '2023-12-14T01:02:46Z'
+
+[[tracks]]
+name = 'Glass Frames'
+artist = 'Ghost Chant'
+album = 'Glass Frames'
+listened_at = '2023-12-14T00:59:18Z'
+
+[[tracks]]
 name = 'Golden Sanctuary'
 artist = 'Sanguine Forest'
 album = 'The Fortress in the Forest'
