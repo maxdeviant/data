@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'You And Me'
+artist = 'Amelie Lens'
+album = 'You and Me'
+listened_at = '2023-12-15T20:58:33Z'
+
+[[tracks]]
+name = 'Feel It'
+artist = 'Amelie Lens'
+album = 'Feel It'
+listened_at = '2023-12-15T20:54:14Z'
+
+[[tracks]]
+name = 'Dance With Me - Kölsch Remix'
+artist = 'Kevin De Vries'
+album = 'Dance With Me EP'
+listened_at = '2023-12-15T20:48:24Z'
+
+[[tracks]]
+name = 'No Goodbye'
+artist = 'Paul Kalkbrenner'
+album = 'No Goodbye'
+listened_at = '2023-12-15T20:45:35Z'
+
+[[tracks]]
+name = 'Point Of No Return'
+artist = 'Adam Port'
+album = 'Point Of No Return'
+listened_at = '2023-12-15T20:40:50Z'
+
+[[tracks]]
+name = 'Time'
+artist = 'Space 92'
+album = 'Time'
+listened_at = '2023-12-15T20:36:36Z'
+
+[[tracks]]
+name = 'Believe'
+artist = 'CamelPhat'
+album = 'Believe'
+listened_at = '2023-12-15T20:33:02Z'
+
+[[tracks]]
+name = 'Flashback'
+artist = 'Blind Delon'
+album = 'Next Wave Acid Punx DEUX'
+listened_at = '2023-12-15T20:27:25Z'
+
+[[tracks]]
+name = 'Red Armor'
+artist = 'Niki Istrefi'
+album = 'EUROMANTIC001'
+listened_at = '2023-12-15T17:20:26Z'
+
+[[tracks]]
 name = 'Fading Out'
 artist = 'Frankyeffe'
 album = 'Fading Out'
