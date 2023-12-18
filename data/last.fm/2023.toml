@@ -1,4 +1,70 @@
 [[tracks]]
+name = 'Famine'
+artist = 'War of Ages'
+album = 'Dominion'
+listened_at = '2023-12-18T20:31:58Z'
+
+[[tracks]]
+name = 'Echoes Within'
+artist = 'Into The Vein'
+album = 'Echoes Within'
+listened_at = '2023-12-18T20:27:47Z'
+
+[[tracks]]
+name = 'Inveterate'
+artist = 'Kissing Candice'
+album = 'Inveterate'
+listened_at = '2023-12-18T20:23:57Z'
+
+[[tracks]]
+name = 'Cold & Distant'
+artist = '''Hangman's Chair'''
+album = 'A Loner'
+listened_at = '2023-12-18T20:17:28Z'
+
+[[tracks]]
+name = 'Brooks'
+artist = 'shading'
+album = 'Brooks'
+listened_at = '2023-12-18T20:13:14Z'
+
+[[tracks]]
+name = 'Ataraxia'
+artist = 'Autonomist'
+album = 'Ataraxia'
+listened_at = '2023-12-18T18:46:21Z'
+
+[[tracks]]
+name = 'Retribution'
+artist = 'Chamber'
+album = 'A Love to Kill For'
+listened_at = '2023-12-18T18:44:03Z'
+
+[[tracks]]
+name = 'Blue Eyes'
+artist = 'Blanket'
+album = 'Blue Eyes'
+listened_at = '2023-12-18T18:27:31Z'
+
+[[tracks]]
+name = 'DREAMKILLER'
+artist = 'Signs of the Swarm'
+album = 'Amongst the Low & Empty'
+listened_at = '2023-12-18T18:23:20Z'
+
+[[tracks]]
+name = 'Legion'
+artist = 'Sovereign'
+album = 'Legion'
+listened_at = '2023-12-18T18:19:22Z'
+
+[[tracks]]
+name = 'Crusades of the Elden Stav'
+artist = 'Netherwalker'
+album = 'Crusades of the Elden Stav'
+listened_at = '2023-12-18T17:48:36Z'
+
+[[tracks]]
 name = 'Armageddon'
 artist = 'Boundaries'
 album = 'Armageddon'
