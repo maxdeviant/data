@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Awaken'
+artist = 'Agrimonia'
+album = 'Awaken'
+listened_at = '2023-12-19T17:53:26Z'
+
+[[tracks]]
+name = 'Foreshadowed'
+artist = 'Agrimonia'
+album = 'Awaken'
+listened_at = '2023-12-19T17:44:38Z'
+
+[[tracks]]
+name = 'Astray'
+artist = 'Agrimonia'
+album = 'Awaken'
+listened_at = '2023-12-19T17:33:38Z'
+
+[[tracks]]
+name = 'A World Unseen'
+artist = 'Agrimonia'
+album = 'Awaken'
+listened_at = '2023-12-19T16:24:31Z'
+
+[[tracks]]
+name = 'A Summer Night'
+artist = 'Lustre'
+album = 'Wonder'
+listened_at = '2023-12-19T16:19:36Z'
+
+[[tracks]]
+name = 'Last Dawn'
+artist = 'Dreams of Nature'
+album = 'Eternal Sunset'
+listened_at = '2023-12-19T16:13:29Z'
+
+[[tracks]]
+name = 'Upon The Snowy Mountains'
+artist = 'Nebula Orionis'
+album = 'Winter Hymns'
+listened_at = '2023-12-19T16:05:24Z'
+
+[[tracks]]
 name = 'Armageddon'
 artist = 'Boundaries'
 album = 'Armageddon'
