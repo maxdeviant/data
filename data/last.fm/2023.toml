@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Family Tree'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-19T23:34:38Z'
+
+[[tracks]]
+name = 'Western Nights'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-19T23:28:34Z'
+
+[[tracks]]
+name = 'A House in Nebraska'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-19T23:20:47Z'
+
+[[tracks]]
+name = 'American Teenager'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-19T23:16:29Z'
+
+[[tracks]]
+name = 'Family Tree (Intro)'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2023-12-19T23:12:48Z'
+
+[[tracks]]
+name = '''A Beggar's Belief'''
+artist = 'Ashenspire'
+album = 'Speak Not of the Laudanum Quandary'
+listened_at = '2023-12-19T21:47:17Z'
+
+[[tracks]]
+name = 'Grievous Bodily Harmonies'
+artist = 'Ashenspire'
+album = 'Speak Not of the Laudanum Quandary'
+listened_at = '2023-12-19T21:40:06Z'
+
+[[tracks]]
+name = 'The Wretched Mills'
+artist = 'Ashenspire'
+album = 'Speak Not of the Laudanum Quandary'
+listened_at = '2023-12-19T21:28:24Z'
+
+[[tracks]]
+name = 'Restless Giants'
+artist = 'Ashenspire'
+album = 'Speak Not of the Laudanum Quandary'
+listened_at = '2023-12-19T20:53:17Z'
+
+[[tracks]]
 name = 'Memories Of The Extinct'
 artist = 'Antlers'
 album = 'A Gaze Into The Abyss'
