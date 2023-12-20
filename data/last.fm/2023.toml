@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Baby Blue'
+artist = 'Deafheaven'
+album = 'New Bermuda'
+listened_at = '2023-12-20T18:24:52Z'
+
+[[tracks]]
+name = 'Luna'
+artist = 'Deafheaven'
+album = 'New Bermuda'
+listened_at = '2023-12-20T18:14:38Z'
+
+[[tracks]]
+name = 'Brought to the Water'
+artist = 'Deafheaven'
+album = 'New Bermuda'
+listened_at = '2023-12-20T18:06:00Z'
+
+[[tracks]]
+name = 'Gifts for the Earth'
+artist = 'Deafheaven'
+album = 'New Bermuda'
+listened_at = '2023-12-20T17:57:37Z'
+
+[[tracks]]
 name = 'Come Back'
 artist = 'Deafheaven'
 album = 'New Bermuda'
