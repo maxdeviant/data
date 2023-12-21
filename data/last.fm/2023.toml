@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Sunken'
+artist = 'Sunken'
+album = 'Departure'
+listened_at = '2023-12-21T20:42:47Z'
+
+[[tracks]]
+name = 'Void'
+artist = 'Sunken'
+album = 'Departure'
+listened_at = '2023-12-21T20:33:07Z'
+
+[[tracks]]
+name = 'A Solemn Initiation'
+artist = 'Sunken'
+album = 'Departure'
+listened_at = '2023-12-21T20:30:11Z'
+
+[[tracks]]
+name = 'Purity Weeps'
+artist = 'Invent Animate'
+album = 'Heavener'
+listened_at = '2023-12-21T18:33:35Z'
+
+[[tracks]]
+name = 'Immolation of Night'
+artist = 'Invent Animate'
+album = 'Heavener'
+listened_at = '2023-12-21T18:29:46Z'
+
+[[tracks]]
+name = 'Reverie'
+artist = 'Invent Animate'
+album = 'Heavener'
+listened_at = '2023-12-21T18:26:34Z'
+
+[[tracks]]
+name = 'False Meridian'
+artist = 'Invent Animate'
+album = 'Heavener'
+listened_at = '2023-12-21T17:39:53Z'
+
+[[tracks]]
 name = 'Without a Whisper'
 artist = 'Invent Animate'
 album = 'Heavener'
