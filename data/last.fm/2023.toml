@@ -1,4 +1,226 @@
 [[tracks]]
+name = 'Masterpiece'
+artist = 'The Anchor'
+album = 'Masterpiece'
+listened_at = '2023-12-22T17:59:00Z'
+
+[[tracks]]
+name = 'Sunflares'
+artist = 'New Habits'
+album = 'Sunflares'
+listened_at = '2023-12-22T17:56:09Z'
+
+[[tracks]]
+name = 'Violent Delights'
+artist = 'Galleons'
+album = 'Violent Delights'
+listened_at = '2023-12-22T17:52:14Z'
+
+[[tracks]]
+name = 'The Surface'
+artist = 'Beartooth'
+album = 'The Surface'
+listened_at = '2023-12-22T17:48:19Z'
+
+[[tracks]]
+name = 'I Don’t Like Myself'
+artist = 'GIRLI'
+album = 'DAMSEL IN DISTRESS'
+listened_at = '2023-12-22T17:45:35Z'
+
+[[tracks]]
+name = 'Afraid of Heights'
+artist = 'boygenius'
+album = 'the rest'
+listened_at = '2023-12-22T17:42:53Z'
+
+[[tracks]]
+name = 'Black Hole'
+artist = 'boygenius'
+album = 'the rest'
+listened_at = '2023-12-22T17:40:31Z'
+
+[[tracks]]
+name = 'Voyager'
+artist = 'boygenius'
+album = 'the rest'
+listened_at = '2023-12-22T17:37:43Z'
+
+[[tracks]]
+name = 'Powers'
+artist = 'boygenius'
+album = 'the rest'
+listened_at = '2023-12-22T17:33:27Z'
+
+[[tracks]]
+name = '''witches' brew'''
+artist = 'Luna Shadows'
+album = '''witches' brew'''
+listened_at = '2023-12-22T17:29:09Z'
+
+[[tracks]]
+name = 'Hope for a long mean free path'
+artist = 'Miroist'
+album = 'CURVE'
+listened_at = '2023-12-22T17:27:16Z'
+
+[[tracks]]
+name = 'ASHAMED'
+artist = 'HEALTH'
+album = 'ASHAMED'
+listened_at = '2023-12-22T17:24:14Z'
+
+[[tracks]]
+name = 'Strange World'
+artist = 'Grigoré'
+album = 'Strange World'
+listened_at = '2023-12-22T17:20:17Z'
+
+[[tracks]]
+name = 'Knockoff'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-12-22T17:17:12Z'
+
+[[tracks]]
+name = '''Chiusella's Waters - Original Mix'''
+artist = 'Enisum'
+album = 'Arpitanian Lands'
+listened_at = '2023-12-22T17:11:41Z'
+
+[[tracks]]
+name = '''L'Échappée'''
+artist = 'Les Discrets'
+album = 'Septembre et ses dernières pensées'
+listened_at = '2023-12-22T17:07:37Z'
+
+[[tracks]]
+name = 'Erase Me'
+artist = 'Make Them Suffer'
+album = 'How To Survive A Funeral'
+listened_at = '2023-12-22T17:03:53Z'
+
+[[tracks]]
+name = 'Outside'
+artist = 'breakk.away'
+album = 'Outside'
+listened_at = '2023-12-22T17:00:27Z'
+
+[[tracks]]
+name = 'Glass Frames'
+artist = 'Ghost Chant'
+album = 'Glass Frames'
+listened_at = '2023-12-22T16:56:57Z'
+
+[[tracks]]
+name = 'Body Better'
+artist = 'Maisie Peters'
+album = 'The Good Witch'
+listened_at = '2023-12-22T16:53:47Z'
+
+[[tracks]]
+name = 'Colorado'
+artist = 'Reneé Rapp'
+album = 'EVERYTHING TO EVERYONE'
+listened_at = '2023-12-22T16:50:55Z'
+
+[[tracks]]
+name = '''witches' brew'''
+artist = 'Luna Shadows'
+album = '''witches' brew'''
+listened_at = '2023-12-22T16:38:21Z'
+
+[[tracks]]
+name = 'Hope for a long mean free path'
+artist = 'Miroist'
+album = 'CURVE'
+listened_at = '2023-12-22T16:36:27Z'
+
+[[tracks]]
+name = 'ASHAMED'
+artist = 'HEALTH'
+album = 'ASHAMED'
+listened_at = '2023-12-22T16:33:26Z'
+
+[[tracks]]
+name = 'Strange World'
+artist = 'Grigoré'
+album = 'Strange World'
+listened_at = '2023-12-22T16:29:29Z'
+
+[[tracks]]
+name = 'Knockoff'
+artist = 'Poppy'
+album = 'Zig'
+listened_at = '2023-12-22T16:26:24Z'
+
+[[tracks]]
+name = '''Chiusella's Waters - Original Mix'''
+artist = 'Enisum'
+album = 'Arpitanian Lands'
+listened_at = '2023-12-22T16:20:53Z'
+
+[[tracks]]
+name = '''L'Échappée'''
+artist = 'Les Discrets'
+album = 'Septembre et ses dernières pensées'
+listened_at = '2023-12-22T16:16:49Z'
+
+[[tracks]]
+name = 'Erase Me'
+artist = 'Make Them Suffer'
+album = 'How To Survive A Funeral'
+listened_at = '2023-12-22T16:13:05Z'
+
+[[tracks]]
+name = 'Outside'
+artist = 'breakk.away'
+album = 'Outside'
+listened_at = '2023-12-22T16:09:39Z'
+
+[[tracks]]
+name = 'Glass Frames'
+artist = 'Ghost Chant'
+album = 'Glass Frames'
+listened_at = '2023-12-22T16:06:09Z'
+
+[[tracks]]
+name = 'Body Better'
+artist = 'Maisie Peters'
+album = 'The Good Witch'
+listened_at = '2023-12-22T16:02:59Z'
+
+[[tracks]]
+name = 'Colorado'
+artist = 'Reneé Rapp'
+album = 'EVERYTHING TO EVERYONE'
+listened_at = '2023-12-22T16:00:07Z'
+
+[[tracks]]
+name = 'Body Better'
+artist = 'Maisie Peters'
+album = 'The Good Witch'
+listened_at = '2023-12-22T15:56:44Z'
+
+[[tracks]]
+name = 'Body Better'
+artist = 'Maisie Peters'
+album = 'The Good Witch'
+listened_at = '2023-12-22T15:53:34Z'
+
+[[tracks]]
+name = 'In The Cold Embrace Of The Waves'
+artist = 'Sunken'
+album = 'Departure'
+listened_at = '2023-12-22T02:50:35Z'
+
+[[tracks]]
+name = 'Body Better'
+artist = 'Maisie Peters'
+album = 'The Good Witch'
+listened_at = '2023-12-22T02:50:09Z'
+
+[[tracks]]
 name = 'In The Cold Embrace Of The Waves'
 artist = 'Sunken'
 album = 'Departure'
