@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Mountain Song'
+artist = 'Georgia'
+album = 'Euphoric'
+listened_at = '2023-12-22T18:37:09Z'
+
+[[tracks]]
+name = 'Coma Year'
+artist = 'Limbs'
+album = 'Coma Year'
+listened_at = '2023-12-22T18:33:43Z'
+
+[[tracks]]
+name = '10:35'
+artist = 'Tiësto'
+album = 'DRIVE'
+listened_at = '2023-12-22T18:30:51Z'
+
+[[tracks]]
+name = 'Bleached'
+artist = 'Magogaio'
+album = 'Forty Thousand Years'
+listened_at = '2023-12-22T18:19:12Z'
+
+[[tracks]]
+name = 'Shegnificant - Slowave Remix'
+artist = 'Violet Cold'
+album = 'Shegnificant (Slowave Remix)'
+listened_at = '2023-12-22T18:17:26Z'
+
+[[tracks]]
+name = 'Pink Pony Club'
+artist = 'Chappell Roan'
+album = 'The Rise and Fall of a Midwest Princess'
+listened_at = '2023-12-22T18:13:08Z'
+
+[[tracks]]
+name = 'Casual'
+artist = 'Chappell Roan'
+album = 'The Rise and Fall of a Midwest Princess'
+listened_at = '2023-12-22T18:09:14Z'
+
+[[tracks]]
+name = 'Naked in Manhattan'
+artist = 'Chappell Roan'
+album = 'The Rise and Fall of a Midwest Princess'
+listened_at = '2023-12-22T18:05:42Z'
+
+[[tracks]]
+name = 'Question!'
+artist = 'System of a Down'
+album = 'Mezmerize'
+listened_at = '2023-12-22T18:02:21Z'
+
+[[tracks]]
 name = 'Masterpiece'
 artist = 'The Anchor'
 album = 'Masterpiece'
