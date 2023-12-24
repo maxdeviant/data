@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Sunken'
+artist = 'Sunken'
+album = 'Departure'
+listened_at = '2023-12-23T21:19:56Z'
+
+[[tracks]]
+name = 'Void'
+artist = 'Sunken'
+album = 'Departure'
+listened_at = '2023-12-23T21:04:48Z'
+
+[[tracks]]
+name = 'A Solemn Initiation'
+artist = 'Sunken'
+album = 'Departure'
+listened_at = '2023-12-23T21:01:51Z'
+
+[[tracks]]
 name = 'Glass Frames'
 artist = 'Ghost Chant'
 album = 'Glass Frames'
