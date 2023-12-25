@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Colorado'
+artist = 'Reneé Rapp'
+album = 'EVERYTHING TO EVERYONE'
+listened_at = '2023-12-25T05:14:25Z'
+
+[[tracks]]
 name = 'Sunken'
 artist = 'Sunken'
 album = 'Departure'
