@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Abide With Me'
+artist = 'Steinar Lugn'
+album = 'Abide With Me'
+listened_at = '2023-12-25T18:56:32Z'
+
+[[tracks]]
+name = 'The Holly And The Ivy'
+artist = 'Dylan Charbeneau'
+album = 'The Holly And The Ivy'
+listened_at = '2023-12-25T18:52:49Z'
+
+[[tracks]]
+name = '''Santa Claus Is Comin' to Town'''
+artist = 'Teodor Seti'
+album = '''Santa Claus Is Comin' to Town'''
+listened_at = '2023-12-25T18:51:09Z'
+
+[[tracks]]
+name = 'Hark The Herald Angels Sing'
+artist = 'Les Moray'
+album = 'Hark The Herald Angels Sing'
+listened_at = '2023-12-25T18:48:33Z'
+
+[[tracks]]
+name = 'Christmas Time Is Here - Piano'
+artist = 'our distant worlds'
+album = '''we're home for Christmas (Piano)'''
+listened_at = '2023-12-25T18:45:09Z'
+
+[[tracks]]
+name = 'Body Better'
+artist = 'Maisie Peters'
+album = 'The Good Witch'
+listened_at = '2023-12-25T05:17:16Z'
+
+[[tracks]]
 name = 'Colorado'
 artist = 'Reneé Rapp'
 album = 'EVERYTHING TO EVERYONE'
