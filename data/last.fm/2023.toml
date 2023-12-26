@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Oh Christmas Tree'
+artist = 'Herbe Matin'
+album = 'Oh Christmas Tree'
+listened_at = '2023-12-26T02:24:14Z'
+
+[[tracks]]
+name = 'Sans Day Carol'
+artist = 'Ken Dorset'
+album = 'Sans Day Carol'
+listened_at = '2023-12-26T02:21:32Z'
+
+[[tracks]]
+name = 'Maybe This Christmas'
+artist = 'Charles Bolt'
+album = 'A Peaceful Christmas'
+listened_at = '2023-12-26T02:19:25Z'
+
+[[tracks]]
+name = 'Frosty the Snowman'
+artist = 'Avery Tormichael'
+album = 'Frosty the Snowman'
+listened_at = '2023-12-26T02:17:15Z'
+
+[[tracks]]
+name = 'O Come, All Ye Faithful'
+artist = 'Eternal Hands'
+album = 'O Come, All Ye Faithful'
+listened_at = '2023-12-26T02:15:03Z'
+
+[[tracks]]
+name = 'O Holy Night'
+artist = 'Diego de Galdeano'
+album = 'I Saw Mommy Kissing Santa Claus'
+listened_at = '2023-12-26T02:12:50Z'
+
+[[tracks]]
+name = 'A Christmas Miracle'
+artist = 'One Man Quartet'
+album = 'A Christmas Miracle'
+listened_at = '2023-12-26T02:10:32Z'
+
+[[tracks]]
+name = 'Seven Joys Of Mary'
+artist = 'Stian Jarrell'
+album = 'Seven Joys Of Mary'
+listened_at = '2023-12-25T18:59:18Z'
+
+[[tracks]]
 name = 'Abide With Me'
 artist = 'Steinar Lugn'
 album = 'Abide With Me'
