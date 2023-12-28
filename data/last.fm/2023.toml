@@ -1,4 +1,70 @@
 [[tracks]]
+name = 'Fraktur'
+artist = 'MØL'
+album = 'Diorama'
+listened_at = '2023-12-28T19:24:00Z'
+
+[[tracks]]
+name = 'Endless Circle'
+artist = 'Dödsrit'
+album = 'Dödsrit'
+listened_at = '2023-12-28T19:18:16Z'
+
+[[tracks]]
+name = 'Sacrifice'
+artist = 'deadmau5'
+album = 'Kx5'
+listened_at = '2023-12-28T19:12:49Z'
+
+[[tracks]]
+name = 'Alive (feat. The Moth & The Flame)'
+artist = 'kx5'
+album = 'Kx5'
+listened_at = '2023-12-28T19:07:41Z'
+
+[[tracks]]
+name = 'Heart of Sky'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2023-12-28T19:03:39Z'
+
+[[tracks]]
+name = 'Phthonos I'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-12-28T19:00:07Z'
+
+[[tracks]]
+name = 'Phthonos II'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-12-28T18:53:23Z'
+
+[[tracks]]
+name = 'Phthonos I'
+artist = 'Aara'
+album = 'Phthonos'
+listened_at = '2023-12-28T18:49:06Z'
+
+[[tracks]]
+name = 'Reborn - Pt. I'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-12-28T18:29:18Z'
+
+[[tracks]]
+name = 'Reflection'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-12-28T18:06:49Z'
+
+[[tracks]]
+name = 'Mirror'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2023-12-28T17:44:21Z'
+
+[[tracks]]
 name = 'Welcome Home'
 artist = 'Coheed and Cambria'
 album = '''Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness'''
