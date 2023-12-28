@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'The Red Sunset'
+artist = 'Nebula Orionis'
+album = 'The Awakening'
+listened_at = '2023-12-28T00:58:24Z'
+
+[[tracks]]
+name = 'Uncovering The Veil'
+artist = 'Nebula Orionis'
+album = 'The Awakening'
+listened_at = '2023-12-28T00:41:48Z'
+
+[[tracks]]
+name = 'Melting Sky'
+artist = 'Nebula Orionis'
+album = 'The Awakening'
+listened_at = '2023-12-28T00:37:22Z'
+
+[[tracks]]
+name = 'I Want Your Love'
+artist = 'Ketno'
+album = 'Buzz'
+listened_at = '2023-12-26T21:04:26Z'
+
+[[tracks]]
+name = 'Universal Nation (Bart Skils Remix)'
+artist = 'Push'
+album = 'Universal Nation (Bart Skils Remix)'
+listened_at = '2023-12-26T21:01:50Z'
+
+[[tracks]]
 name = 'Universal Nation (Bart Skils Remix)'
 artist = 'Push'
 album = 'Universal Nation (Bart Skils Remix)'
