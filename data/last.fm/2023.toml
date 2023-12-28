@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Welcome Home'
+artist = 'Coheed and Cambria'
+album = '''Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness'''
+listened_at = '2023-12-28T14:46:25Z'
+
+[[tracks]]
+name = 'Distance'
+artist = 'Nebula Orionis'
+album = 'Soulshard'
+listened_at = '2023-12-28T01:00:24Z'
+
+[[tracks]]
 name = 'The Red Sunset'
 artist = 'Nebula Orionis'
 album = 'The Awakening'
