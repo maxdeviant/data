@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3khwwbge34725'
+created_at = '2024-01-01T19:04:56.650Z'
+text = '''
+I’d believe it!
+
+MMOs: the original “multiplayer app”.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:x7omzi5ydqux3nr2dcorz3o2/app.bsky.feed.post/3khwuuu4p3d2t'
+author_did = 'did:plc:x7omzi5ydqux3nr2dcorz3o2'
+author_handle = 'arcana.computer'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3khvid35z6e2q'
 created_at = '2024-01-01T05:22:39.859Z'
 text = '''
