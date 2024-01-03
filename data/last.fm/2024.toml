@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'The Defiant One'
+artist = 'The Halo Effect'
+album = 'The Defiant One'
+listened_at = '2024-01-03T20:51:31Z'
+
+[[tracks]]
+name = 'The Defiant One'
+artist = 'The Halo Effect'
+album = 'The Defiant One'
+listened_at = '2024-01-03T20:48:22Z'
+
+[[tracks]]
+name = 'bog walker'
+artist = 'The Acacia Strain'
+album = 'Failure Will Follow'
+listened_at = '2024-01-03T18:19:44Z'
+
+[[tracks]]
+name = 'pillar of salt (feat. Dylan Walker & iRis.EXE)'
+artist = 'The Acacia Strain'
+album = 'Failure Will Follow'
+listened_at = '2024-01-03T18:08:14Z'
+
+[[tracks]]
 name = 'Collector'
 artist = 'searows'
 album = 'End of the World'
