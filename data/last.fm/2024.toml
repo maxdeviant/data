@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Funny'
+artist = 'Searows'
+album = 'End of the World'
+listened_at = '2024-01-04T02:59:24Z'
+
+[[tracks]]
+name = 'Collector'
+artist = 'searows'
+album = 'End of the World'
+listened_at = '2024-01-04T02:54:05Z'
+
+[[tracks]]
+name = 'I have more than enough'
+artist = 'searows'
+album = 'End of the World'
+listened_at = '2024-01-04T02:48:38Z'
+
+[[tracks]]
+name = 'Older'
+artist = 'searows'
+album = 'End of the World'
+listened_at = '2024-01-04T02:41:43Z'
+
+[[tracks]]
+name = 'I have more than enough'
+artist = 'searows'
+album = 'End of the World'
+listened_at = '2024-01-04T02:21:24Z'
+
+[[tracks]]
+name = 'Older'
+artist = 'searows'
+album = 'End of the World'
+listened_at = '2024-01-04T02:14:29Z'
+
+[[tracks]]
+name = 'Animo'
+artist = 'Profiler'
+album = 'Animo'
+listened_at = '2024-01-04T01:33:15Z'
+
+[[tracks]]
 name = 'All In Forever'
 artist = 'Profiler'
 album = 'Animo'
