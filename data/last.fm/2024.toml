@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'All In Forever'
+artist = 'Profiler'
+album = 'Animo'
+listened_at = '2024-01-03T22:39:14Z'
+
+[[tracks]]
+name = 'Animo'
+artist = 'Profiler'
+album = 'Animo'
+listened_at = '2024-01-03T22:35:59Z'
+
+[[tracks]]
+name = 'Progeny'
+artist = 'Lune'
+album = 'Progeny'
+listened_at = '2024-01-03T22:01:25Z'
+
+[[tracks]]
+name = 'Progeny'
+artist = 'Lune'
+album = 'Progeny'
+listened_at = '2024-01-03T21:57:47Z'
+
+[[tracks]]
 name = 'The Defiant One'
 artist = 'The Halo Effect'
 album = 'The Defiant One'
