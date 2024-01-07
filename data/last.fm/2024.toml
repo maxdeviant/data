@@ -1,4 +1,70 @@
 [[tracks]]
+name = 'Hammerhead'
+artist = 'Into The Deep'
+album = 'Blackfin'
+listened_at = '2024-01-07T20:51:49Z'
+
+[[tracks]]
+name = 'Nothing'
+artist = 'Into The Deep'
+album = 'Blackfin'
+listened_at = '2024-01-07T20:47:49Z'
+
+[[tracks]]
+name = 'Spaceshark'
+artist = 'Into The Deep'
+album = 'Blackfin'
+listened_at = '2024-01-07T20:44:14Z'
+
+[[tracks]]
+name = 'Seaweed'
+artist = 'Into The Deep'
+album = 'Blackfin'
+listened_at = '2024-01-07T20:39:12Z'
+
+[[tracks]]
+name = 'Sandblasted'
+artist = 'Into The Deep'
+album = 'Blackfin'
+listened_at = '2024-01-07T20:35:29Z'
+
+[[tracks]]
+name = 'Blackfin'
+artist = 'Into The Deep'
+album = 'Blackfin'
+listened_at = '2024-01-07T20:30:35Z'
+
+[[tracks]]
+name = 'Void Surfacing'
+artist = 'Invent Animate'
+album = 'Heavener'
+listened_at = '2024-01-07T20:24:16Z'
+
+[[tracks]]
+name = 'Purity Weeps'
+artist = 'Invent Animate'
+album = 'Heavener'
+listened_at = '2024-01-07T20:20:08Z'
+
+[[tracks]]
+name = 'Immolation of Night'
+artist = 'Invent Animate'
+album = 'Heavener'
+listened_at = '2024-01-07T20:16:18Z'
+
+[[tracks]]
+name = 'Reverie'
+artist = 'Invent Animate'
+album = 'Heavener'
+listened_at = '2024-01-07T20:13:07Z'
+
+[[tracks]]
+name = 'False Meridian'
+artist = 'Invent Animate'
+album = 'Heavener'
+listened_at = '2024-01-07T16:55:22Z'
+
+[[tracks]]
 name = 'Without a Whisper'
 artist = 'Invent Animate'
 album = 'Heavener'
