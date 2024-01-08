@@ -1,4 +1,22 @@
 [[tracks]]
+name = '''I Didn't Think So'''
+artist = 'Palamino'
+album = 'A Simple Lesson in Human Body Language'
+listened_at = '2024-01-08T01:12:24Z'
+
+[[tracks]]
+name = 'The Secret to Forgiveness'
+artist = 'Palamino'
+album = 'A Simple Lesson in Human Body Language'
+listened_at = '2024-01-08T01:08:48Z'
+
+[[tracks]]
+name = 'Here Again'
+artist = 'Palamino'
+album = 'A Simple Lesson in Human Body Language'
+listened_at = '2024-01-08T01:06:33Z'
+
+[[tracks]]
 name = 'Labyrinthine'
 artist = 'Invent Animate'
 album = 'Heavener'
