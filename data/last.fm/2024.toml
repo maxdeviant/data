@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Gungrave'
+artist = 'ERRA'
+album = 'ERRA'
+listened_at = '2024-01-12T01:30:30Z'
+
+[[tracks]]
+name = 'Lesser Gods'
+artist = 'Ghost Atlas'
+album = 'Lesser Gods'
+listened_at = '2024-01-12T01:26:44Z'
+
+[[tracks]]
+name = 'Come off'
+artist = 'BITWVLF'
+album = 'Come off'
+listened_at = '2024-01-12T01:24:41Z'
+
+[[tracks]]
 name = 'Gone'
 artist = 'Twelve Foot Ninja'
 album = 'Vengeance'
