@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Hopeless'
+artist = 'Wither Away'
+album = '''The Words We Live By, The Actions We Don't Take'''
+listened_at = '2024-01-17T20:57:13Z'
+
+[[tracks]]
+name = 'The Grand Tree'
+artist = 'Wither Away'
+album = '''The Words We Live By, The Actions We Don't Take'''
+listened_at = '2024-01-17T20:53:13Z'
+
+[[tracks]]
+name = '''The Philosopher's Stone'''
+artist = 'Wither Away'
+album = '''The Words We Live By, The Actions We Don't Take'''
+listened_at = '2024-01-17T20:49:06Z'
+
+[[tracks]]
+name = 'Sheikha'
+artist = 'Wither Away'
+album = '''The Words We Live By, The Actions We Don't Take'''
+listened_at = '2024-01-17T20:44:57Z'
+
+[[tracks]]
+name = 'Asymmetry'
+artist = 'Wayside'
+album = 'Safe Forever'
+listened_at = '2024-01-17T20:38:18Z'
+
+[[tracks]]
+name = 'Parallax Error'
+artist = 'Wayside'
+album = 'Safe Forever'
+listened_at = '2024-01-17T20:34:53Z'
+
+[[tracks]]
+name = 'Proud Of You'
+artist = 'Wayside'
+album = 'Safe Forever'
+listened_at = '2024-01-17T20:30:57Z'
+
+[[tracks]]
+name = 'Safe Forever'
+artist = 'Wayside'
+album = 'Safe Forever'
+listened_at = '2024-01-17T20:26:37Z'
+
+[[tracks]]
+name = 'Asymmetry'
+artist = 'Wayside'
+album = 'Safe Forever'
+listened_at = '2024-01-17T16:16:33Z'
+
+[[tracks]]
 name = 'Parallax Error'
 artist = 'Wayside'
 album = 'Safe Forever'
