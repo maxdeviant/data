@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Tantalusqual'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T15:42:19Z'
+
+[[tracks]]
+name = 'Fathum'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T15:32:56Z'
+
+[[tracks]]
+name = 'Effugium'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T14:23:36Z'
+
+[[tracks]]
+name = 'Hard Times'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-01-24T14:20:24Z'
+
+[[tracks]]
 name = 'Das Wunder'
 artist = 'Aara'
 album = 'Triade I : Eos'
