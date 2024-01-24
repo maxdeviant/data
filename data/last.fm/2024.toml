@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Fathum'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T02:50:52Z'
+
+[[tracks]]
+name = 'Effugium'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T02:43:33Z'
+
+[[tracks]]
+name = 'Das Wunder'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-23T23:34:57Z'
+
+[[tracks]]
 name = 'Nimmermehr'
 artist = 'Aara'
 album = 'Triade I : Eos'
