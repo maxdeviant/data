@@ -1,4 +1,64 @@
 [[tracks]]
+name = 'Das Wunder'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T04:07:04Z'
+
+[[tracks]]
+name = 'Nimmermehr'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T04:00:11Z'
+
+[[tracks]]
+name = 'Naufragus'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T03:53:16Z'
+
+[[tracks]]
+name = 'Tantalusqual'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T03:45:24Z'
+
+[[tracks]]
+name = 'Fathum'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T03:35:59Z'
+
+[[tracks]]
+name = 'Effugium'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T03:28:40Z'
+
+[[tracks]]
+name = 'Das Wunder'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T03:21:56Z'
+
+[[tracks]]
+name = 'Nimmermehr'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T03:15:03Z'
+
+[[tracks]]
+name = 'Naufragus'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T03:08:08Z'
+
+[[tracks]]
+name = 'Tantalusqual'
+artist = 'Aara'
+album = 'Triade I : Eos'
+listened_at = '2024-01-24T03:00:17Z'
+
+[[tracks]]
 name = 'Fathum'
 artist = 'Aara'
 album = 'Triade I : Eos'
