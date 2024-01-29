@@ -1,4 +1,64 @@
 [[tracks]]
+name = 'Mass Produced'
+artist = 'Oceano'
+album = 'Mass Produced'
+listened_at = '2024-01-29T18:00:26Z'
+
+[[tracks]]
+name = 'Come Alive Dying'
+artist = 'Tenside'
+album = 'Come Alive Dying'
+listened_at = '2024-01-29T17:55:51Z'
+
+[[tracks]]
+name = 'A Form of Protest'
+artist = 'Cane Hill'
+album = 'A Form of Protest'
+listened_at = '2024-01-29T16:14:23Z'
+
+[[tracks]]
+name = 'Parasite'
+artist = 'Earth Caller'
+album = 'Parasite'
+listened_at = '2024-01-29T16:10:44Z'
+
+[[tracks]]
+name = 'Umbra Mortis'
+artist = 'She Must Burn'
+album = 'Umbra Mortis'
+listened_at = '2024-01-29T16:06:19Z'
+
+[[tracks]]
+name = 'Reincarnate'
+artist = 'DISEMBODIED TYRANT'
+album = 'Reincarnate'
+listened_at = '2024-01-29T16:01:54Z'
+
+[[tracks]]
+name = 'F.E.A.R'
+artist = 'Dream Demon'
+album = 'F.E.A.R'
+listened_at = '2024-01-29T15:48:33Z'
+
+[[tracks]]
+name = 'Jigoku Dayū'
+artist = 'Ibaraki'
+album = 'Rashomon'
+listened_at = '2024-01-29T15:40:52Z'
+
+[[tracks]]
+name = 'Memento'
+artist = 'Love Is Noise'
+album = 'Memento'
+listened_at = '2024-01-29T15:36:43Z'
+
+[[tracks]]
+name = 'Tender'
+artist = 'TesseracT'
+album = 'War Of Being'
+listened_at = '2024-01-29T15:36:41Z'
+
+[[tracks]]
 name = 'Join Me in Armageddon'
 artist = 'Thy Art Is Murder'
 album = 'Godlike'
