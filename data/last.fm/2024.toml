@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Bound to Fall'
+artist = 'Interloper'
+album = 'Search Party'
+listened_at = '2024-01-30T17:56:44Z'
+
+[[tracks]]
+name = 'Pathkeeper'
+artist = 'Interloper'
+album = 'Search Party'
+listened_at = '2024-01-30T17:51:24Z'
+
+[[tracks]]
+name = 'Mindless Omnipotent Master'
+artist = 'Fallujah'
+album = 'Empyrean'
+listened_at = '2024-01-30T15:44:43Z'
+
+[[tracks]]
+name = 'Left in the Wake'
+artist = 'Mugshot'
+album = 'Left In The Wake'
+listened_at = '2024-01-30T15:42:03Z'
+
+[[tracks]]
+name = 'Song of the Crippled Bull'
+artist = 'Black Crown Initiate'
+album = 'Song of the Crippled Bull'
+listened_at = '2024-01-29T23:24:42Z'
+
+[[tracks]]
+name = 'Reaching'
+artist = 'The Devil Wears Prada'
+album = 'Color Decay (Deluxe)'
+listened_at = '2024-01-29T23:24:42Z'
+
+[[tracks]]
 name = 'Song of the Crippled Bull'
 artist = 'Black Crown Initiate'
 album = 'Song of the Crippled Bull'
