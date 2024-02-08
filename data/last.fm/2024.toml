@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Flux'
+artist = 'Sheridan'
+album = 'Flux'
+listened_at = '2024-02-08T01:15:33Z'
+
+[[tracks]]
+name = 'SIRENS'
+artist = 'Windwaker'
+album = 'SIRENS'
+listened_at = '2024-02-08T01:11:58Z'
+
+[[tracks]]
 name = 'Enough to Break the Ice'
 artist = 'The Avalanche Diaries'
 album = 'Hic Sunt Leones'
