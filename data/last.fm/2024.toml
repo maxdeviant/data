@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Enough to Break the Ice'
+artist = 'The Avalanche Diaries'
+album = 'Hic Sunt Leones'
+listened_at = '2024-02-07T21:51:58Z'
+
+[[tracks]]
+name = 'IRAE'
+artist = 'Betraying the Martyrs'
+album = 'GODSPEED'
+listened_at = '2024-02-07T21:49:18Z'
+
+[[tracks]]
+name = 'Risset'
+artist = 'Kryn'
+album = 'Risset'
+listened_at = '2024-02-07T21:44:29Z'
+
+[[tracks]]
+name = '''I Won't Kneel'''
+artist = 'Mal'
+album = '''I Won't Kneel'''
+listened_at = '2024-02-07T21:41:25Z'
+
+[[tracks]]
+name = 'Death Cult'
+artist = 'Aborted'
+album = 'Death Cult'
+listened_at = '2024-02-07T21:37:43Z'
+
+[[tracks]]
+name = 'Punishing Myself Before God Does'
+artist = 'Confessions of a Traitor'
+album = 'Punishing Myself Before God Does'
+listened_at = '2024-02-07T21:33:33Z'
+
+[[tracks]]
+name = 'Someday'
+artist = 'Distorted Harmony'
+album = 'A Way Out'
+listened_at = '2024-02-07T17:19:30Z'
+
+[[tracks]]
 name = 'Jade'
 artist = 'Senna'
 album = 'A Moment Of Quiet'
