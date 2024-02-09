@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Scepter'
+artist = 'Despite Exile'
+album = 'Wound'
+listened_at = '2024-02-09T16:39:02Z'
+
+[[tracks]]
+name = 'Riven Mirrors'
+artist = 'Despite Exile'
+album = 'Wound'
+listened_at = '2024-02-09T16:23:23Z'
+
+[[tracks]]
+name = 'Suave'
+artist = 'Polaris'
+album = 'Suave'
+listened_at = '2024-02-09T16:19:54Z'
+
+[[tracks]]
 name = 'Taurus'
 artist = 'Haken'
 album = 'Fauna'
