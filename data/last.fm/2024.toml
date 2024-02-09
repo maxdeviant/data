@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Taurus'
+artist = 'Haken'
+album = 'Fauna'
+listened_at = '2024-02-08T01:22:24Z'
+
+[[tracks]]
+name = 'Flux'
+artist = 'Sheridan'
+album = 'Flux'
+listened_at = '2024-02-08T01:17:40Z'
+
+[[tracks]]
+name = 'SIRENS'
+artist = 'Windwaker'
+album = 'SIRENS'
+listened_at = '2024-02-08T01:15:33Z'
+
+[[tracks]]
 name = 'Flux'
 artist = 'Sheridan'
 album = 'Flux'
