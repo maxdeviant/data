@@ -2,6 +2,12 @@
 name = 'Scepter'
 artist = 'Despite Exile'
 album = 'Wound'
+listened_at = '2024-02-09T21:04:18Z'
+
+[[tracks]]
+name = 'Scepter'
+artist = 'Despite Exile'
+album = 'Wound'
 listened_at = '2024-02-09T16:39:02Z'
 
 [[tracks]]
