@@ -2,6 +2,36 @@
 name = 'Season of Unrest'
 artist = 'In Vain'
 album = 'Season of Unrest'
+listened_at = '2024-02-13T20:48:41Z'
+
+[[tracks]]
+name = 'Ghosts'
+artist = 'Fainthearted'
+album = 'Ghosts'
+listened_at = '2024-02-13T20:45:14Z'
+
+[[tracks]]
+name = 'De Namnlösa'
+artist = 'Night Crowned'
+album = 'Tales'
+listened_at = '2024-02-13T20:39:36Z'
+
+[[tracks]]
+name = 'Death of the Architect'
+artist = 'Bipolar Architecture'
+album = 'Metaphysicize'
+listened_at = '2024-02-13T20:33:44Z'
+
+[[tracks]]
+name = 'Psychosis'
+artist = 'PURGE OF SANITY'
+album = 'Psychosis'
+listened_at = '2024-02-13T20:29:57Z'
+
+[[tracks]]
+name = 'Season of Unrest'
+artist = 'In Vain'
+album = 'Season of Unrest'
 listened_at = '2024-02-13T16:08:58Z'
 
 [[tracks]]
