@@ -2,6 +2,18 @@
 name = 'STAB BY STAB'
 artist = 'AVRALIZE'
 album = 'LOTUS'
+listened_at = '2024-02-16T00:54:47Z'
+
+[[tracks]]
+name = 'LOTUS'
+artist = 'AVRALIZE'
+album = 'LOTUS'
+listened_at = '2024-02-16T00:50:00Z'
+
+[[tracks]]
+name = 'STAB BY STAB'
+artist = 'AVRALIZE'
+album = 'LOTUS'
 listened_at = '2024-02-15T22:49:18Z'
 
 [[tracks]]
