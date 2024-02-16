@@ -2,6 +2,60 @@
 name = 'STAB BY STAB'
 artist = 'AVRALIZE'
 album = 'LOTUS'
+listened_at = '2024-02-15T22:49:18Z'
+
+[[tracks]]
+name = 'LOTUS'
+artist = 'AVRALIZE'
+album = 'LOTUS'
+listened_at = '2024-02-15T22:44:30Z'
+
+[[tracks]]
+name = 'Freaks'
+artist = 'AVRALIZE'
+album = 'LOTUS'
+listened_at = '2024-02-15T22:20:45Z'
+
+[[tracks]]
+name = 'BRIGHT'
+artist = 'AVRALIZE'
+album = 'LOTUS'
+listened_at = '2024-02-15T22:16:17Z'
+
+[[tracks]]
+name = 'ALIVE'
+artist = 'AVRALIZE'
+album = 'LOTUS'
+listened_at = '2024-02-15T22:11:40Z'
+
+[[tracks]]
+name = 'STAB BY STAB'
+artist = 'AVRALIZE'
+album = 'LOTUS'
+listened_at = '2024-02-15T22:08:42Z'
+
+[[tracks]]
+name = 'LOTUS'
+artist = 'AVRALIZE'
+album = 'LOTUS'
+listened_at = '2024-02-15T22:03:55Z'
+
+[[tracks]]
+name = 'STAB BY STAB'
+artist = 'AVRALIZE'
+album = 'LOTUS'
+listened_at = '2024-02-14T20:56:25Z'
+
+[[tracks]]
+name = 'LOTUS'
+artist = 'AVRALIZE'
+album = 'LOTUS'
+listened_at = '2024-02-14T20:53:26Z'
+
+[[tracks]]
+name = 'STAB BY STAB'
+artist = 'AVRALIZE'
+album = 'LOTUS'
 listened_at = '2024-02-14T20:53:25Z'
 
 [[tracks]]
