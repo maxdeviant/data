@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Trying to Survive'
+artist = 'Alleviate'
+album = 'Trying to Survive'
+listened_at = '2024-02-17T03:12:16Z'
+
+[[tracks]]
+name = 'DIG MY OWN GRAVE'
+artist = 'AfterDusk'
+album = 'DIG MY OWN GRAVE'
+listened_at = '2024-02-17T03:09:14Z'
+
+[[tracks]]
+name = 'Verified'
+artist = 'Grayscale Season'
+album = 'Verified'
+listened_at = '2024-02-17T03:06:40Z'
+
+[[tracks]]
+name = 'Black Sheep'
+artist = 'In Somni'
+album = 'Lifeless Carnation'
+listened_at = '2024-02-17T03:03:39Z'
+
+[[tracks]]
 name = 'Forget-me-not'
 artist = 'Livealie'
 album = 'Forget-me-not'
