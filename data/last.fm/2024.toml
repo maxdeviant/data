@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'The Forbidden Pool'
+artist = 'Howard Shore'
+album = 'The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)'
+listened_at = '2024-02-18T15:23:18Z'
+
+[[tracks]]
+name = '''Helm's Deep'''
+artist = 'Howard Shore'
+album = 'The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)'
+listened_at = '2024-02-18T15:19:25Z'
+
+[[tracks]]
+name = 'The Leave Taking'
+artist = 'Howard Shore'
+album = 'The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)'
+listened_at = '2024-02-18T15:15:43Z'
+
+[[tracks]]
+name = 'Treebeard'
+artist = 'Howard Shore'
+album = 'The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)'
+listened_at = '2024-02-18T15:13:00Z'
+
+[[tracks]]
+name = 'The White Rider'
+artist = 'Howard Shore'
+album = 'The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)'
+listened_at = '2024-02-18T15:10:31Z'
+
+[[tracks]]
+name = 'Evenstar'
+artist = 'Howard Shore'
+album = 'The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)'
+listened_at = '2024-02-18T01:46:22Z'
+
+[[tracks]]
 name = 'Trying to Survive'
 artist = 'Alleviate'
 album = 'Trying to Survive'
