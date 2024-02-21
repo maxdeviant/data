@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Under Different Welkins'
+artist = 'Novelists'
+album = 'Noir'
+listened_at = '2024-02-21T03:17:35Z'
+
+[[tracks]]
+name = 'Dreams of Calpurnia'
+artist = 'QUEEN KONA'
+album = 'ALL HAIL'
+listened_at = '2024-02-21T03:13:15Z'
+
+[[tracks]]
+name = 'Extinguish'
+artist = 'Asuna'
+album = 'Extinguish'
+listened_at = '2024-02-21T03:10:09Z'
+
+[[tracks]]
+name = 'Ouroboros'
+artist = 'Degrader'
+album = 'The Wolf and The Serpent'
+listened_at = '2024-02-21T03:06:18Z'
+
+[[tracks]]
+name = 'Curses'
+artist = 'I Am Haunted'
+album = 'Curses'
+listened_at = '2024-02-21T03:02:48Z'
+
+[[tracks]]
 name = 'CROWNLESS'
 artist = '.bHP'
 album = '.bHP'
