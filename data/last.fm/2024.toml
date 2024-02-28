@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'wandering'
+artist = 'newshapes'
+album = 'i hope this finds you'
+listened_at = '2024-02-28T16:54:03Z'
+
+[[tracks]]
+name = 'c.y.b.o.1.h.'
+artist = 'Desolate'
+album = 'c.y.b.o.1.h.'
+listened_at = '2024-02-28T16:48:57Z'
+
+[[tracks]]
+name = 'Pathfinder'
+artist = 'Never Back Down'
+album = 'Pathfinder'
+listened_at = '2024-02-28T16:45:37Z'
+
+[[tracks]]
+name = 'Shut Up'
+artist = 'Death Blooms'
+album = 'Life Is Pain'
+listened_at = '2024-02-28T04:32:02Z'
+
+[[tracks]]
 name = 'Nero'
 artist = 'PaleVoid'
 album = 'Nero'
