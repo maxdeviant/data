@@ -2,6 +2,36 @@
 name = 'Slither'
 artist = 'Alura'
 album = 'To The Elegant Fantasy'
+listened_at = '2024-03-02T21:15:59Z'
+
+[[tracks]]
+name = 'Totem'
+artist = 'Alura'
+album = 'To The Elegant Fantasy'
+listened_at = '2024-03-02T21:11:11Z'
+
+[[tracks]]
+name = 'The Bell Witch'
+artist = 'Alura'
+album = 'To The Elegant Fantasy'
+listened_at = '2024-03-02T21:07:58Z'
+
+[[tracks]]
+name = 'Robbie The Sheeth'
+artist = 'Alura'
+album = 'To The Elegant Fantasy'
+listened_at = '2024-03-02T21:05:27Z'
+
+[[tracks]]
+name = 'Eros'
+artist = 'Alura'
+album = 'To The Elegant Fantasy'
+listened_at = '2024-03-02T21:01:17Z'
+
+[[tracks]]
+name = 'Slither'
+artist = 'Alura'
+album = 'To The Elegant Fantasy'
 listened_at = '2024-03-02T20:58:35Z'
 
 [[tracks]]
