@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Eros'
+artist = 'Alura'
+album = 'To The Elegant Fantasy'
+listened_at = '2024-03-03T00:35:03Z'
+
+[[tracks]]
+name = 'Medusa - Original Mix'
+artist = 'Airbase'
+album = 'Medusa'
+listened_at = '2024-03-03T00:32:34Z'
+
+[[tracks]]
 name = 'Slither'
 artist = 'Alura'
 album = 'To The Elegant Fantasy'
