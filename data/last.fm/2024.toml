@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Shallow'
+artist = 'Glass Crown'
+album = 'Shallow'
+listened_at = '2024-03-04T21:19:22Z'
+
+[[tracks]]
+name = 'Namesake'
+artist = 'Catsclaw'
+album = 'Namesake'
+listened_at = '2024-03-04T21:15:18Z'
+
+[[tracks]]
+name = 'Bloodbath'
+artist = 'Lake Malice'
+album = 'Bloodbath'
+listened_at = '2024-03-04T21:11:41Z'
+
+[[tracks]]
+name = 'Odyssey'
+artist = 'Sable Hills'
+album = 'Odyssey'
+listened_at = '2024-03-04T21:07:36Z'
+
+[[tracks]]
+name = 'Twist the Rage'
+artist = 'VCTMS'
+album = 'Vol.V The Hurt Collection'
+listened_at = '2024-03-04T21:05:22Z'
+
+[[tracks]]
+name = 'Plume'
+artist = 'Bird Problems'
+album = 'Plume'
+listened_at = '2024-03-04T21:01:15Z'
+
+[[tracks]]
 name = 'A Chance To Live Forever'
 artist = 'Perelandra'
 album = 'Searching For Separation'
