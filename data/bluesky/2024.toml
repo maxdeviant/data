@@ -1,4 +1,43 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kmxqd24eqm2l'
+created_at = '2024-03-05T17:57:06.300Z'
+text = '''
+Do you also run `cargo clippy` from the CLI or in CI?
+
+If so, do you just have your rules defined separately for invoking those?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:kawnfzvk7chzcrjhxn4dswqq/app.bsky.feed.post/3kmxodgz4nu2x'
+author_did = 'did:plc:kawnfzvk7chzcrjhxn4dswqq'
+author_handle = 'tvil.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kmxmsunhha2k'
+created_at = '2024-03-05T16:54:22.489Z'
+text = '''
+Aha! That was the missing piece for me!
+
+Thank you, your input has been incredibly helpful 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wpy6ryeswitt4wlmdt672ten/app.bsky.feed.post/3kmxjjjc6u42k'
+author_did = 'did:plc:wpy6ryeswitt4wlmdt672ten'
+author_handle = 'davy.quest'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kmxjen7zdm2l'
+created_at = '2024-03-05T15:52:43.692Z'
+text = '''
+Thanks for sharing!
+
+It looks like you're using the default clippy configuration, without customizing the ruleset, is that right?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wpy6ryeswitt4wlmdt672ten/app.bsky.feed.post/3kmxj4e4fqe2f'
+author_did = 'did:plc:wpy6ryeswitt4wlmdt672ten'
+author_handle = 'davy.quest'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kmxexlh4vq22'
 created_at = '2024-03-05T14:33:50.715Z'
 text = '''
