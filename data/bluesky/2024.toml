@@ -1,4 +1,42 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kmxexlh4vq22'
+created_at = '2024-03-05T14:33:50.715Z'
+text = '''
+@steveklabnik.com I saw that Oxide also runs clippy through cargo-xtask in the omicron repo.
+
+Curious if showing clippy lints in the editor is something you’ve run into/solved before?
+
+Right now I’m wondering if the “solution” is just duplicating the rule flags into the rust-analyzer config.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kmxetqkk3y27'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kmxetqkk3y27'
+created_at = '2024-03-05T14:31:41.780Z'
+text = '''
+I can see that rust-analyzer has `rust-analyzer.check.command`, but I can’t seem to get this working with `cargo xtask clippy`.
+
+Using just `clippy` means that the lints are out-of-sync with the specific ruleset defined in the xtask.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kmxepwh6yq2k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kmxepwh6yq2k'
+created_at = '2024-03-05T14:29:33.772Z'
+text = '''
+Rust users, what does your clippy workflow look like?
+
+I’ve only ever used it from the terminal and in CI, but I had an engineer ask about getting clippy lints to show up in the editor.
+
+The way I have clippy set up in the repo is we have an `xtask clippy` command that runs clippy with our rules.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kknhiukdh22r'
 created_at = '2024-02-05T05:02:17.525Z'
 text = 'My netcode would like a word.'
