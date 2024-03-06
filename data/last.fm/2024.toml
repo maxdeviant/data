@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Voyage'
+artist = 'Co1N'
+album = 'Voyage'
+listened_at = '2024-03-06T17:15:55Z'
+
+[[tracks]]
+name = 'Into The Sun'
+artist = 'Aytaro'
+album = 'Into The Sun'
+listened_at = '2024-03-06T17:12:04Z'
+
+[[tracks]]
+name = 'Falling Into Place'
+artist = 'Amos & Riot Night'
+album = 'Falling Into Place'
+listened_at = '2024-03-06T17:08:26Z'
+
+[[tracks]]
+name = 'Memories - Ciaran McAuley Remix'
+artist = 'Sunlounger'
+album = 'Memories (Remixes)'
+listened_at = '2024-03-06T17:05:05Z'
+
+[[tracks]]
 name = '#Energy'
 artist = 'Abstract Vision'
 album = '#energy'
