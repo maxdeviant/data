@@ -1,4 +1,16 @@
 [[tracks]]
+name = '#Energy'
+artist = 'Abstract Vision'
+album = '#energy'
+listened_at = '2024-03-06T00:56:20Z'
+
+[[tracks]]
+name = 'Ignite'
+artist = 'Radion6'
+album = 'Ignite'
+listened_at = '2024-03-06T00:52:44Z'
+
+[[tracks]]
 name = 'Odyssey'
 artist = 'Sable Hills'
 album = 'Odyssey'
