@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Anarchy Road'
+artist = 'Carpenter Brut'
+album = 'Trilogy'
+listened_at = '2024-03-10T19:04:43Z'
+
+[[tracks]]
+name = 'Turbo Killer'
+artist = 'Carpenter Brut'
+album = 'Trilogy'
+listened_at = '2024-03-10T19:01:15Z'
+
+[[tracks]]
+name = 'Run, Sally, Run!'
+artist = 'Carpenter Brut'
+album = 'Trilogy'
+listened_at = '2024-03-10T18:02:57Z'
+
+[[tracks]]
 name = 'Paradise Warfare'
 artist = 'Carpenter Brut'
 album = 'Trilogy'
