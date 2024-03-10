@@ -1,4 +1,28 @@
 [[tracks]]
+name = '''L.A Venice Bitch 80's'''
+artist = 'Carpenter Brut'
+album = 'Trilogy'
+listened_at = '2024-03-10T14:58:02Z'
+
+[[tracks]]
+name = 'Disco Zombi Italia'
+artist = 'Carpenter Brut'
+album = 'Trilogy'
+listened_at = '2024-03-10T14:52:44Z'
+
+[[tracks]]
+name = 'Escape From Midwich Valley'
+artist = 'Carpenter Brut'
+album = 'Trilogy'
+listened_at = '2024-03-10T14:46:02Z'
+
+[[tracks]]
+name = 'Ecstasy'
+artist = 'ATB'
+album = 'No Silence'
+listened_at = '2024-03-10T14:41:16Z'
+
+[[tracks]]
 name = 'Polarity'
 artist = 'Corti Organ'
 album = 'Polarity'
