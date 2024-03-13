@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Lieblingsmensch'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-03-13T16:41:39Z'
+
+[[tracks]]
+name = 'Never Look Back'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-03-13T16:33:38Z'
+
+[[tracks]]
+name = 'Never Look Back'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-03-13T14:16:34Z'
+
+[[tracks]]
 name = 'Game Over'
 artist = 'Boris Brejcha'
 album = 'Space Diver'
