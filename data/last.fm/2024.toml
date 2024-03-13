@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Never Look Back'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-03-12T22:57:48Z'
+
+[[tracks]]
+name = 'Happinezz (feat. Ginger)'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-03-12T22:49:55Z'
+
+[[tracks]]
+name = 'Gravity (feat. Laura Korinth)'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-03-12T22:40:32Z'
+
+[[tracks]]
 name = 'Meet Matt Stryker'
 artist = 'Carpenter Brut'
 album = 'Trilogy'
