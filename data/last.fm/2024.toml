@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Hate Me'
+artist = 'Teeth'
+album = 'Hate Me'
+listened_at = '2024-03-15T15:01:25Z'
+
+[[tracks]]
+name = 'Blinded'
+artist = 'Cevret'
+album = 'Blinded'
+listened_at = '2024-03-15T14:56:49Z'
+
+[[tracks]]
+name = 'Decompose'
+artist = 'Light the Fire'
+album = 'Decompose'
+listened_at = '2024-03-15T14:52:18Z'
+
+[[tracks]]
+name = 'Secrets - Cellar Door'
+artist = 'Radical Face'
+album = 'The Family Tree: The Leaves'
+listened_at = '2024-03-15T13:53:20Z'
+
+[[tracks]]
+name = 'Preacher III'
+artist = 'Cultist'
+album = 'Slow Suicide'
+listened_at = '2024-03-14T20:23:55Z'
+
+[[tracks]]
 name = 'Hyperhell'
 artist = 'Earthists.'
 album = 'Hyperhell'
