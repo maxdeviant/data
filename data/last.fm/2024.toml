@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Deprivator'
+artist = 'Cogitations'
+album = 'Relinquished'
+listened_at = '2024-03-18T14:57:25Z'
+
+[[tracks]]
+name = 'Reminisce/Solace'
+artist = 'NightShade'
+album = 'Predilections'
+listened_at = '2024-03-18T14:54:18Z'
+
+[[tracks]]
+name = 'Liebe'
+artist = 'For I Am King'
+album = 'Crown (Deluxe)'
+listened_at = '2024-03-18T14:50:55Z'
+
+[[tracks]]
 name = 'Death'
 artist = 'C418'
 album = 'Minecraft - Volume Alpha'
