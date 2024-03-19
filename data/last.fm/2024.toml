@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Dark Paradise'
+artist = 'Lana Del Rey'
+album = 'Born to Die - The Paradise Edition'
+listened_at = '2024-03-19T00:32:04Z'
+
+[[tracks]]
+name = 'National Anthem'
+artist = 'Lana Del Rey'
+album = 'Born to Die - The Paradise Edition'
+listened_at = '2024-03-19T00:28:15Z'
+
+[[tracks]]
 name = 'Anomaly'
 artist = 'Seven'
 album = 'Anomaly'
