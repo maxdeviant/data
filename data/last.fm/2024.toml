@@ -2,6 +2,72 @@
 name = 'Valentine'
 artist = 'Thornhill'
 album = 'Heroine'
+listened_at = '2024-03-22T15:46:39Z'
+
+[[tracks]]
+name = 'Arkangel'
+artist = 'Thornhill'
+album = 'Heroine'
+listened_at = '2024-03-22T15:42:28Z'
+
+[[tracks]]
+name = 'Blue Velvet'
+artist = 'Thornhill'
+album = 'Heroine'
+listened_at = '2024-03-22T15:37:38Z'
+
+[[tracks]]
+name = 'Leather Wings'
+artist = 'Thornhill'
+album = 'Heroine'
+listened_at = '2024-03-22T15:34:16Z'
+
+[[tracks]]
+name = 'The Hellfire Club'
+artist = 'Thornhill'
+album = 'Heroine'
+listened_at = '2024-03-22T15:29:09Z'
+
+[[tracks]]
+name = 'Heroine'
+artist = 'Thornhill'
+album = 'Heroine'
+listened_at = '2024-03-22T15:24:10Z'
+
+[[tracks]]
+name = 'Varsity Hearts'
+artist = 'Thornhill'
+album = 'Heroine'
+listened_at = '2024-03-22T15:19:11Z'
+
+[[tracks]]
+name = 'Raw'
+artist = 'Thornhill'
+album = 'Heroine'
+listened_at = '2024-03-22T15:15:29Z'
+
+[[tracks]]
+name = 'Hollywood'
+artist = 'Thornhill'
+album = 'Heroine'
+listened_at = '2024-03-22T15:10:19Z'
+
+[[tracks]]
+name = 'Something Terrible Came With the Rain'
+artist = 'Thornhill'
+album = 'Heroine'
+listened_at = '2024-03-22T15:07:49Z'
+
+[[tracks]]
+name = 'Casanova'
+artist = 'Thornhill'
+album = 'Heroine'
+listened_at = '2024-03-22T15:03:50Z'
+
+[[tracks]]
+name = 'Valentine'
+artist = 'Thornhill'
+album = 'Heroine'
 listened_at = '2024-03-22T15:00:37Z'
 
 [[tracks]]
