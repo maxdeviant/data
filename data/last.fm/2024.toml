@@ -2,6 +2,12 @@
 name = 'Crush Me Up'
 artist = 'GIRLI'
 album = 'Crush Me Up'
+listened_at = '2024-03-23T00:03:27Z'
+
+[[tracks]]
+name = 'Crush Me Up'
+artist = 'GIRLI'
+album = 'Crush Me Up'
 listened_at = '2024-03-23T00:00:56Z'
 
 [[tracks]]
