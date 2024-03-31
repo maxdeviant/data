@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Atone'
+artist = 'Casey'
+album = 'Great Grief / Atone'
+listened_at = '2024-03-31T19:52:03Z'
+
+[[tracks]]
+name = 'Blue Reverie'
+artist = 'ERRA'
+album = 'Blue Reverie'
+listened_at = '2024-03-31T19:47:01Z'
+
+[[tracks]]
+name = 'Know Where I Belong'
+artist = 'Varia'
+album = 'Know Where I Belong'
+listened_at = '2024-03-31T19:43:23Z'
+
+[[tracks]]
+name = 'Soldier, Poet, King'
+artist = 'The Oh Hellos'
+album = 'Dear Wormwood'
+listened_at = '2024-03-31T01:13:23Z'
+
+[[tracks]]
 name = '''Holdin' On To Your Silence'''
 artist = 'Jozels'
 album = '''Holdin' On To Your Silence'''
