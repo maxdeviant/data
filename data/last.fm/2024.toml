@@ -1,4 +1,28 @@
 [[tracks]]
+name = '''Holdin' On To Your Silence'''
+artist = 'Jozels'
+album = '''Holdin' On To Your Silence'''
+listened_at = '2024-03-31T01:10:00Z'
+
+[[tracks]]
+name = 'Insanity'
+artist = 'Illenium'
+album = 'Illenium'
+listened_at = '2024-03-31T01:06:56Z'
+
+[[tracks]]
+name = 'Starfall'
+artist = 'Illenium'
+album = 'Illenium'
+listened_at = '2024-03-31T01:02:41Z'
+
+[[tracks]]
+name = 'Ecstasy'
+artist = 'ATB'
+album = 'No Silence'
+listened_at = '2024-03-31T00:58:19Z'
+
+[[tracks]]
 name = 'Normality'
 artist = 'Blue Country'
 album = 'Normality'
