@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'We Who Lament'
+artist = 'Earthside'
+album = 'Let The Truth Speak'
+listened_at = '2024-04-01T14:49:34Z'
+
+[[tracks]]
+name = 'Normality'
+artist = 'Blue Country'
+album = 'Normality'
+listened_at = '2024-04-01T14:47:37Z'
+
+[[tracks]]
+name = '''You'll miss me when I'm not around'''
+artist = 'Grimes'
+album = 'Miss Anthropocene (Deluxe Edition)'
+listened_at = '2024-04-01T14:44:56Z'
+
+[[tracks]]
+name = 'Digital Age'
+artist = 'Layton Giordani'
+album = 'Digital Age'
+listened_at = '2024-04-01T14:40:58Z'
+
+[[tracks]]
+name = 'UFOs & LFOs'
+artist = 'Layton Giordani'
+album = 'Digital Age'
+listened_at = '2024-04-01T14:36:00Z'
+
+[[tracks]]
+name = 'Austin'
+artist = 'Dasha'
+album = 'What Happens Now?'
+listened_at = '2024-04-01T14:33:09Z'
+
+[[tracks]]
+name = 'Death of the Architect'
+artist = 'Bipolar Architecture'
+album = 'Metaphysicize'
+listened_at = '2024-03-31T19:53:58Z'
+
+[[tracks]]
 name = 'Atone'
 artist = 'Casey'
 album = 'Great Grief / Atone'
