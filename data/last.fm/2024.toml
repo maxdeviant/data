@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Second & Sebring'
+artist = 'Of Mice & Men'
+album = 'Of Mice & Men'
+listened_at = '2024-04-04T01:41:13Z'
+
+[[tracks]]
+name = 'Farewell to Shady Glade'
+artist = 'Of Mice & Men'
+album = 'Of Mice & Men'
+listened_at = '2024-04-04T01:37:09Z'
+
+[[tracks]]
 name = 'Roman Holiday'
 artist = 'Halsey'
 album = 'BADLANDS (Deluxe)'
