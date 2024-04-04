@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Roman Holiday'
+artist = 'Halsey'
+album = 'BADLANDS (Deluxe)'
+listened_at = '2024-04-03T21:13:03Z'
+
+[[tracks]]
+name = 'Hurricane'
+artist = 'Halsey'
+album = 'BADLANDS (Deluxe)'
+listened_at = '2024-04-03T21:09:20Z'
+
+[[tracks]]
+name = 'Drive'
+artist = 'Halsey'
+album = 'BADLANDS (Deluxe)'
+listened_at = '2024-04-03T21:05:01Z'
+
+[[tracks]]
 name = 'New Americana'
 artist = 'Halsey'
 album = 'BADLANDS (Deluxe)'
