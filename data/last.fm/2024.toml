@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'August Underground'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T14:58:17Z'
+
+[[tracks]]
+name = 'Hard Times'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T14:52:56Z'
+
+[[tracks]]
+name = 'Strangers'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T13:38:10Z'
+
+[[tracks]]
+name = 'Family Tree (Intro)'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T13:34:28Z'
+
+[[tracks]]
 name = 'Family Tree (Intro)'
 artist = 'Ethel Cain'
 album = 'Preacher’s Daughter'
