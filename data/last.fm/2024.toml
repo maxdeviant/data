@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Family Tree (Intro)'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T02:52:34Z'
+
+[[tracks]]
+name = 'Golden Age'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2024-04-10T02:45:58Z'
+
+[[tracks]]
+name = 'Knuckle Velvet'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2024-04-10T01:41:04Z'
+
+[[tracks]]
 name = 'Dominion'
 artist = 'Inertia'
 album = 'Dominion'
