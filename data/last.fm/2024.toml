@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'A House in Nebraska'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T15:26:22Z'
+
+[[tracks]]
+name = 'American Teenager'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T15:22:03Z'
+
+[[tracks]]
+name = 'Family Tree (Intro)'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T15:18:22Z'
+
+[[tracks]]
+name = 'Strangers'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T15:12:37Z'
+
+[[tracks]]
+name = 'Sun Bleached Flies'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T15:05:01Z'
+
+[[tracks]]
+name = 'Televangelism'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T15:01:57Z'
+
+[[tracks]]
 name = 'August Underground'
 artist = 'Ethel Cain'
 album = 'Preacher’s Daughter'
