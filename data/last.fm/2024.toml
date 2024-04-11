@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Delirium'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2024-04-11T00:36:55Z'
+
+[[tracks]]
+name = 'A Storm To Hide The Starlight - Instrumental Version'
+artist = 'Starfall'
+album = 'A Storm To Hide The Starlight (Instrumental Version)'
+listened_at = '2024-04-11T00:33:45Z'
+
+[[tracks]]
+name = 'How to Swim Down'
+artist = 'Svalbard'
+album = 'The Weight of the Mask'
+listened_at = '2024-04-11T00:29:40Z'
+
+[[tracks]]
+name = 'This place only brings death'
+artist = 'Heart of a Coward'
+album = 'This place only brings death'
+listened_at = '2024-04-11T00:27:23Z'
+
+[[tracks]]
+name = 'Western Nights'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2024-04-10T15:34:08Z'
+
+[[tracks]]
 name = 'A House in Nebraska'
 artist = 'Ethel Cain'
 album = 'Preacher’s Daughter'
