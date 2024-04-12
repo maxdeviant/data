@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Some Kind of Blue'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-04-12T20:55:41Z'
+
+[[tracks]]
+name = 'Slip'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-04-12T20:48:56Z'
+
+[[tracks]]
+name = 'So There I Was'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-04-12T20:40:52Z'
+
+[[tracks]]
+name = 'Arguru'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-04-12T20:35:22Z'
+
+[[tracks]]
+name = 'Not Exactly'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-04-12T20:27:24Z'
+
+[[tracks]]
+name = 'Eyes Closed'
+artist = 'Imagine Dragons'
+album = 'Eyes Closed'
+listened_at = '2024-04-12T17:40:40Z'
+
+[[tracks]]
 name = '''A Fool's Parade'''
 artist = 'Within Temptation'
 album = '''A Fool's Parade'''
