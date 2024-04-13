@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Alone with You'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-04-12T21:07:33Z'
+
+[[tracks]]
+name = 'Brazil - 2nd Edit'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-04-12T21:02:10Z'
+
+[[tracks]]
 name = 'Some Kind of Blue'
 artist = 'deadmau5'
 album = 'Random Album Title'
