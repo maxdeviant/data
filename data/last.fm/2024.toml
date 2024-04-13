@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'So There I Was'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-04-13T02:49:54Z'
+
+[[tracks]]
+name = 'Arguru'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-04-13T02:44:24Z'
+
+[[tracks]]
+name = 'Not Exactly'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-04-13T02:36:25Z'
+
+[[tracks]]
+name = 'I Remember'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-04-12T21:15:03Z'
+
+[[tracks]]
 name = 'Alone with You'
 artist = 'deadmau5'
 album = 'Random Album Title'
