@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Two Towers'
+artist = 'Fit for an Autopsy'
+album = 'Oh What the Future Holds'
+listened_at = '2024-04-21T20:17:43Z'
+
+[[tracks]]
+name = 'In Shadows'
+artist = 'Fit for an Autopsy'
+album = 'Oh What the Future Holds'
+listened_at = '2024-04-21T19:57:01Z'
+
+[[tracks]]
+name = 'Far from Heaven'
+artist = 'Fit for an Autopsy'
+album = 'Oh What the Future Holds'
+listened_at = '2024-04-21T19:52:17Z'
+
+[[tracks]]
+name = 'Pandora'
+artist = 'Fit for an Autopsy'
+album = 'Oh What the Future Holds'
+listened_at = '2024-04-21T19:47:41Z'
+
+[[tracks]]
+name = 'Oh What the Future Holds'
+artist = 'Fit for an Autopsy'
+album = 'Oh What the Future Holds'
+listened_at = '2024-04-21T19:44:50Z'
+
+[[tracks]]
+name = 'Choreomania'
+artist = 'Florence + the Machine'
+album = 'Dance Fever (Complete Edition)'
+listened_at = '2024-04-21T19:40:11Z'
+
+[[tracks]]
+name = 'Free'
+artist = 'Florence + the Machine'
+album = 'Dance Fever (Complete Edition)'
+listened_at = '2024-04-21T19:36:17Z'
+
+[[tracks]]
 name = 'Prayer Factory'
 artist = 'Florence + the Machine'
 album = 'Dance Fever (Complete Edition)'
