@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Autumn Eternal'
+artist = 'Panopticon'
+album = 'Autumn Eternal'
+listened_at = '2024-04-25T03:22:18Z'
+
+[[tracks]]
+name = 'Into The North Woods'
+artist = 'Panopticon'
+album = 'Autumn Eternal'
+listened_at = '2024-04-25T03:15:58Z'
+
+[[tracks]]
+name = '''Tamarack's Gold Returns'''
+artist = 'Panopticon'
+album = 'Autumn Eternal'
+listened_at = '2024-04-25T03:09:45Z'
+
+[[tracks]]
+name = 'SICKO [Feat. Godflesh]'
+artist = 'HEALTH'
+album = 'RAT WARS'
+listened_at = '2024-04-25T03:06:56Z'
+
+[[tracks]]
+name = 'CHILDREN OF SORROW'
+artist = 'HEALTH'
+album = 'RAT WARS'
+listened_at = '2024-04-25T03:03:35Z'
+
+[[tracks]]
 name = 'UNLOVED'
 artist = 'HEALTH'
 album = 'RAT WARS'
