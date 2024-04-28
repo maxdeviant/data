@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Bleak, Damp, And Dead'
+artist = 'None'
+album = 'Life has gone on long enough'
+listened_at = '2024-04-28T20:46:01Z'
+
+[[tracks]]
+name = 'In Silence'
+artist = 'Panopticon'
+album = 'Roads to the North'
+listened_at = '2024-04-28T20:37:05Z'
+
+[[tracks]]
+name = 'Norwegian Nights'
+artist = 'Panopticon'
+album = 'Roads to the North'
+listened_at = '2024-04-28T20:33:45Z'
+
+[[tracks]]
+name = 'The Sigh Of Summer (The Long Road, Pt. III)'
+artist = 'Panopticon'
+album = 'Roads to the North'
+listened_at = '2024-04-28T20:24:06Z'
+
+[[tracks]]
+name = 'Capricious Miles (The Long Road, Pt. II)'
+artist = 'Panopticon'
+album = 'Roads to the North'
+listened_at = '2024-04-28T20:16:14Z'
+
+[[tracks]]
+name = 'One Last Fire (The Long Road, Pt. I)'
+artist = 'Panopticon'
+album = 'Roads to the North'
+listened_at = '2024-04-28T20:10:17Z'
+
+[[tracks]]
+name = 'Where Mountains Pierce the Sky'
+artist = 'Panopticon'
+album = 'Roads to the North'
+listened_at = '2024-04-28T04:16:44Z'
+
+[[tracks]]
 name = 'Where Mountains Pierce the Sky'
 artist = 'Panopticon'
 album = 'Roads to the North'
