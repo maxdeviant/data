@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Enlightment'
+artist = 'Totalselfhatred'
+album = 'Totalselfhatred'
+listened_at = '2024-05-01T03:16:31Z'
+
+[[tracks]]
+name = 'Ramen62'
+artist = 'Grapefruit Astronauts'
+album = 'Swan Puddle'
+listened_at = '2024-05-01T02:31:47Z'
+
+[[tracks]]
 name = 'Swan Puddle'
 artist = 'Grapefruit Astronauts'
 album = 'Swan Puddle'
