@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'The Sleeping Fields'
+artist = 'Ghost Bath'
+album = 'Moonlover'
+listened_at = '2024-05-02T14:58:41Z'
+
+[[tracks]]
+name = 'Sanguine Mask'
+artist = 'Ghost Bath'
+album = 'Self Loather'
+listened_at = '2024-05-02T02:59:15Z'
+
+[[tracks]]
 name = 'Shrines of Bone'
 artist = 'Ghost Bath'
 album = 'Self Loather'
