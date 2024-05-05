@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'meet the grahams'
+artist = 'Kendrick Lamar'
+album = 'meet the grahams'
+listened_at = '2024-05-05T04:01:22Z'
+
+[[tracks]]
+name = 'Void Dwellers'
+artist = 'Labyrinthus Stellarum'
+album = 'Tales of the Void'
+listened_at = '2024-05-05T03:03:44Z'
+
+[[tracks]]
 name = 'Stellar Nursery'
 artist = 'Labyrinthus Stellarum'
 album = 'Tales of the Void'
