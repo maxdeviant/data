@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Unfeathered'
+artist = 'Oracle Spectre'
+album = 'Deceivers'
+listened_at = '2024-05-14T00:29:56Z'
+
+[[tracks]]
+name = 'Tomb Omnia'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2024-05-14T00:27:43Z'
+
+[[tracks]]
+name = 'Heroin Waltz'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2024-05-14T00:17:57Z'
+
+[[tracks]]
 name = '''I'm All About The Dusk'''
 artist = 'Harakiri for the Sky'
 album = 'Mære'
