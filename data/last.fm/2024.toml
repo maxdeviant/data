@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Prisoner Again'
+artist = 'The Ongoing Concept'
+album = 'Again'
+listened_at = '2024-05-14T15:20:34Z'
+
+[[tracks]]
+name = 'False Kings'
+artist = 'Monochromatic Black'
+album = 'False Kings'
+listened_at = '2024-05-14T15:16:25Z'
+
+[[tracks]]
+name = 'The Spectral Burrows'
+artist = 'Slugdge'
+album = 'Esoteric Malacology'
+listened_at = '2024-05-14T15:08:01Z'
+
+[[tracks]]
+name = 'A Transformation'
+artist = 'MAELSTROM BLVCK'
+album = 'A Transformation'
+listened_at = '2024-05-14T15:03:06Z'
+
+[[tracks]]
 name = 'Imperator'
 artist = 'Necrotted'
 album = 'Imperium'
