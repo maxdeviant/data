@@ -2,6 +2,102 @@
 name = '''I'm All About The Dusk'''
 artist = 'Harakiri for the Sky'
 album = 'Mære'
+listened_at = '2024-05-14T00:17:18Z'
+
+[[tracks]]
+name = 'Unfeathered'
+artist = 'Oracle Spectre'
+album = 'Deceivers'
+listened_at = '2024-05-13T22:00:48Z'
+
+[[tracks]]
+name = 'Hypomania'
+artist = 'Coping Method'
+album = 'Hypomania'
+listened_at = '2024-05-13T21:56:57Z'
+
+[[tracks]]
+name = 'Deadweight'
+artist = 'Deadlands'
+album = 'Sentence Of Myself'
+listened_at = '2024-05-13T21:53:22Z'
+
+[[tracks]]
+name = '''The Brutal Angel's Thesis'''
+artist = 'Human Instrumentality Project'
+album = '''The Brutal Angel's Thesis'''
+listened_at = '2024-05-13T21:48:53Z'
+
+[[tracks]]
+name = 'An Abduction'
+artist = 'Thrailkill'
+album = 'Detach'
+listened_at = '2024-05-13T21:46:23Z'
+
+[[tracks]]
+name = 'Weighing of the Heart'
+artist = 'Dvne'
+album = 'Etemen Ænka'
+listened_at = '2024-05-13T21:43:17Z'
+
+[[tracks]]
+name = '''Merced's Footsteps'''
+artist = '''Luna's Call'''
+album = 'Void'
+listened_at = '2024-05-13T21:37:29Z'
+
+[[tracks]]
+name = 'Natural Selection'
+artist = 'Volatile Ways'
+album = 'Compendium'
+listened_at = '2024-05-13T21:31:11Z'
+
+[[tracks]]
+name = 'Hypocrite'
+artist = 'Profiler'
+album = 'Profiler'
+listened_at = '2024-05-13T21:27:43Z'
+
+[[tracks]]
+name = 'Trinity'
+artist = 'Vitalism'
+album = 'Trinity'
+listened_at = '2024-05-13T21:23:24Z'
+
+[[tracks]]
+name = 'Overwhelming Love'
+artist = 'Lee McKinney'
+album = 'Overwhelming Love'
+listened_at = '2024-05-13T21:19:39Z'
+
+[[tracks]]
+name = 'No Scope'
+artist = 'Killstreak'
+album = 'Deathmatch'
+listened_at = '2024-05-13T21:16:01Z'
+
+[[tracks]]
+name = 'Earwyrm'
+artist = 'Nospūn'
+album = 'Opus'
+listened_at = '2024-05-13T21:10:40Z'
+
+[[tracks]]
+name = 'Blackbone'
+artist = 'Unprocessed'
+album = '...and everything in between'
+listened_at = '2024-05-13T21:06:07Z'
+
+[[tracks]]
+name = 'W.A.P. (Wet Ass Plutonium)'
+artist = 'Nuclear Power Trio'
+album = 'Wet Ass Plutonium'
+listened_at = '2024-05-13T21:01:02Z'
+
+[[tracks]]
+name = '''I'm All About The Dusk'''
+artist = 'Harakiri for the Sky'
+album = 'Mære'
 listened_at = '2024-05-13T20:44:20Z'
 
 [[tracks]]
