@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Swansong'
+artist = 'Illyria'
+album = 'The Carpathian Summit'
+listened_at = '2024-05-15T19:35:20Z'
+
+[[tracks]]
+name = 'The Second Day of Spring'
+artist = 'Illyria'
+album = 'The Carpathian Summit'
+listened_at = '2024-05-14T22:05:02Z'
+
+[[tracks]]
 name = 'Echo Flower, Pt. 2'
 artist = 'Illyria'
 album = 'The Carpathian Summit'
