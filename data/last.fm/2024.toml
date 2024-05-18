@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Fire, Walk with Me'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2024-05-17T21:53:11Z'
+
+[[tracks]]
+name = 'Urian'
+artist = 'The Hirsch Effekt'
+album = 'Urian'
+listened_at = '2024-05-17T21:52:55Z'
+
+[[tracks]]
 name = '2054'
 artist = 'The Hirsch Effekt'
 album = 'Urian'
