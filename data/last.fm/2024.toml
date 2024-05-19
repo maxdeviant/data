@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Relinquish'
+artist = 'So Hideous'
+album = 'Laurestine'
+listened_at = '2024-05-19T02:06:24Z'
+
+[[tracks]]
+name = 'Here After'
+artist = 'So Hideous'
+album = 'Laurestine'
+listened_at = '2024-05-19T02:00:07Z'
+
+[[tracks]]
+name = 'Yesteryear'
+artist = 'So Hideous'
+album = 'Laurestine'
+listened_at = '2024-05-19T01:52:37Z'
+
+[[tracks]]
 name = 'Inside'
 artist = 'Mire'
 album = 'A New Found Rain'
