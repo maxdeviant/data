@@ -1,4 +1,64 @@
 [[tracks]]
+name = 'lacuna'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-05-21T02:49:14Z'
+
+[[tracks]]
+name = 'circuit bender'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-05-21T02:44:26Z'
+
+[[tracks]]
+name = 'side quest'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-05-21T02:39:21Z'
+
+[[tracks]]
+name = 'nootropic'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-05-21T02:34:10Z'
+
+[[tracks]]
+name = 'galaxy brain'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-05-21T02:24:43Z'
+
+[[tracks]]
+name = 'mnemonic'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-05-21T02:19:56Z'
+
+[[tracks]]
+name = 'mnemonic'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-05-21T00:26:36Z'
+
+[[tracks]]
+name = 'The Keepsake'
+artist = 'So Hideous'
+album = 'Laurestine'
+listened_at = '2024-05-21T00:22:11Z'
+
+[[tracks]]
+name = 'neurogenesis'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-05-21T00:22:10Z'
+
+[[tracks]]
+name = 'You Are the Scars'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2024-05-21T00:22:01Z'
+
+[[tracks]]
 name = 'Relinquish'
 artist = 'So Hideous'
 album = 'Laurestine'
