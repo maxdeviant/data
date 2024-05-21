@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Moonlighter'
+artist = 'The World Is Quiet Here'
+album = 'Zon'
+listened_at = '2024-05-21T16:19:13Z'
+
+[[tracks]]
+name = 'Aphelion'
+artist = 'The World Is Quiet Here'
+album = 'Zon'
+listened_at = '2024-05-21T16:12:41Z'
+
+[[tracks]]
+name = 'Heliacal Vessels II: In the Unity of The Lake'
+artist = 'The World Is Quiet Here'
+album = 'Zon'
+listened_at = '2024-05-21T15:59:34Z'
+
+[[tracks]]
+name = 'Heliacal Vessels I: The Mothers of No Kin'
+artist = 'The World Is Quiet Here'
+album = 'Zon'
+listened_at = '2024-05-21T15:49:39Z'
+
+[[tracks]]
+name = 'Ossuary'
+artist = 'The World Is Quiet Here'
+album = 'Zon'
+listened_at = '2024-05-21T15:38:07Z'
+
+[[tracks]]
+name = 'White Sun'
+artist = 'The World Is Quiet Here'
+album = 'Zon'
+listened_at = '2024-05-21T15:32:00Z'
+
+[[tracks]]
+name = 'Gotham Luxe'
+artist = 'Imperial Triumphant'
+album = 'Vile Luxury'
+listened_at = '2024-05-21T15:30:51Z'
+
+[[tracks]]
+name = 'Argo Navis: Solar'
+artist = 'The World Is Quiet Here'
+album = 'Zon'
+listened_at = '2024-05-21T15:30:09Z'
+
+[[tracks]]
+name = 'Yesteryear'
+artist = 'So Hideous'
+album = 'Laurestine'
+listened_at = '2024-05-21T15:06:50Z'
+
+[[tracks]]
 name = 'Lower World'
 artist = 'Imperial Triumphant'
 album = 'Vile Luxury'
