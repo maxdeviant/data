@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Lower World'
+artist = 'Imperial Triumphant'
+album = 'Vile Luxury'
+listened_at = '2024-05-21T03:16:54Z'
+
+[[tracks]]
+name = 'Swarming Opulence'
+artist = 'Imperial Triumphant'
+album = 'Vile Luxury'
+listened_at = '2024-05-21T03:10:31Z'
+
+[[tracks]]
+name = 'chronophobia'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-05-21T03:04:41Z'
+
+[[tracks]]
 name = 'lacuna'
 artist = 'Intervals'
 album = 'Memory Palace'
