@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'mnemonic'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-05-21T23:50:56Z'
+
+[[tracks]]
+name = 'neurogenesis'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-05-21T23:46:30Z'
+
+[[tracks]]
+name = '''We Won't Sleep'''
+artist = 'Polar'
+album = '''We Won't Sleep'''
+listened_at = '2024-05-21T19:33:50Z'
+
+[[tracks]]
 name = 'Moonlighter'
 artist = 'The World Is Quiet Here'
 album = 'Zon'
