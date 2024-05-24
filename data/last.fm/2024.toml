@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'REVENGE'
+artist = 'Blvck Ceiling'
+album = 'BLOCK NUANCE'
+listened_at = '2024-05-24T14:53:45Z'
+
+[[tracks]]
+name = 'TUSK'
+artist = 'Blvck Ceiling'
+album = 'BLOCK NUANCE'
+listened_at = '2024-05-24T14:49:00Z'
+
+[[tracks]]
+name = 'GRASS'
+artist = 'Blvck Ceiling'
+album = 'BLOCK NUANCE'
+listened_at = '2024-05-24T14:47:28Z'
+
+[[tracks]]
+name = 'bombay'
+artist = 'Blvck Ceiling'
+album = 'bombay'
+listened_at = '2024-05-24T14:41:59Z'
+
+[[tracks]]
 name = 'Phantasmagorie'
 artist = 'Aara'
 album = 'Triade II : Hemera'
