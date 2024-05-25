@@ -1,4 +1,103 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ktbxvrvbfs2p'
+created_at = '2024-05-25T04:10:38.534Z'
+text = '''
+Sometimes you just need to take a walk.
+
+maxdeviant.com/shards/2024/...'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ktb3ea6zp22b'
+created_at = '2024-05-24T19:39:44.807Z'
+text = '''
+Just the thought of having a branch open for 6 months gives me anxiety.
+
+Granted, how painful it is depends on the environment you're working in. It sounds like it worked for you, though, and that's all that matters at the end of the day.
+
+I'm sure you're still happy to get it merged 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3kt6bb2ywpk2z'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kt67iymohs2p'
+created_at = '2024-05-23T16:16:00.402Z'
+text = '''
+Whoa! I take it your UI branch must have been quite long-running then?
+
+Curious if you ran into any major issues with reconciling it with the main branch as changes were made during that time?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3kt52lvshws2u'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kt66u7uij22g'
+created_at = '2024-05-23T16:04:23.349Z'
+text = 'Who sliding into my DMs?'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ksftninjmc2i'
+created_at = '2024-05-13T23:39:52.833Z'
+text = 'I can’t believe I’m this easily baited 😭'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qfrekkhphlonkdee4pgjba7s/app.bsky.feed.post/3ksftd2iuks2n'
+author_did = 'did:plc:qfrekkhphlonkdee4pgjba7s'
+author_handle = 'without.boats'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ksft65xhrs2m'
+created_at = '2024-05-13T23:31:18.188Z'
+text = 'It doesn’t today, but I suspect we could get Zed to run on an iPad with a bit of work.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qfrekkhphlonkdee4pgjba7s/app.bsky.feed.post/3ksfsd35tbs2s'
+author_did = 'did:plc:qfrekkhphlonkdee4pgjba7s'
+author_handle = 'without.boats'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ksfmajjpdk2h'
+created_at = '2024-05-13T21:27:21.336Z'
+text = '''
+Thank you!
+
+The extension ecosystem is starting to take shape with the work we did earlier this year.
+
+If it's Biome you're wanting, there is a Biome extension for Zed available today: github.com/biomejs/biom...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:o34f4av7ed7szx24dqm4x3g6/app.bsky.feed.post/3ksfm2ggzpk2m'
+author_did = 'did:plc:o34f4av7ed7szx24dqm4x3g6'
+author_handle = 'snorre.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ksfjcu6wut2t'
+created_at = '2024-05-13T20:34:58.422Z'
+text = '''
+> that will likely become defunct in a few years
+
+I certainly hope that won’t be the case :)'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vpkhqolt662uhesyj6nxm7ys/app.bsky.feed.post/3ksfhu26i3u2y'
+author_did = 'did:plc:vpkhqolt662uhesyj6nxm7ys'
+author_handle = 'why.bsky.team'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ksfis5qmhs2o'
+created_at = '2024-05-13T20:25:38.014Z'
+text = 'Congratulations!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:x7omzi5ydqux3nr2dcorz3o2/app.bsky.feed.post/3ksexiaqcck2w'
+author_did = 'did:plc:x7omzi5ydqux3nr2dcorz3o2'
+author_handle = 'jmduke.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kmxqd24eqm2l'
 created_at = '2024-03-05T17:57:06.300Z'
 text = '''
