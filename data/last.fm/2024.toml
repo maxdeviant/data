@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Telos'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2024-05-26T14:11:23Z'
+
+[[tracks]]
+name = 'Entelechie'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2024-05-26T14:05:25Z'
+
+[[tracks]]
+name = 'Aargesang - Aare II'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2024-05-26T13:59:58Z'
+
+[[tracks]]
+name = 'Abrasion'
+artist = 'Blvck Ceiling'
+album = 'FORGOT THE WORDS'
+listened_at = '2024-05-26T13:56:09Z'
+
+[[tracks]]
+name = 'Stein auf Stein'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2024-05-26T13:54:12Z'
+
+[[tracks]]
+name = 'Arkanum'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2024-05-26T13:45:12Z'
+
+[[tracks]]
 name = 'Red Rocks'
 artist = 'Blvck Ceiling'
 album = 'FORGOT THE WORDS'
