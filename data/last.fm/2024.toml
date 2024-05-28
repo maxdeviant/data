@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Entertain You'
+artist = 'Within Temptation'
+album = 'Bleed Out'
+listened_at = '2024-05-27T21:35:59Z'
+
+[[tracks]]
+name = 'Unbroken'
+artist = 'Within Temptation'
+album = 'Bleed Out'
+listened_at = '2024-05-27T21:30:52Z'
+
+[[tracks]]
+name = 'Shed My Skin'
+artist = 'Within Temptation'
+album = 'Bleed Out'
+listened_at = '2024-05-27T21:26:23Z'
+
+[[tracks]]
+name = 'Arkanum'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2024-05-27T21:25:36Z'
+
+[[tracks]]
 name = 'Worldless'
 artist = '''The Sun's Journey Through the Night'''
 album = 'Worldless'
