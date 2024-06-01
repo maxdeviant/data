@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Normality'
+artist = 'Blue Country'
+album = 'Normality'
+listened_at = '2024-06-01T02:23:08Z'
+
+[[tracks]]
+name = '''You'll miss me when I'm not around'''
+artist = 'Grimes'
+album = 'Miss Anthropocene (Deluxe Edition)'
+listened_at = '2024-06-01T02:20:27Z'
+
+[[tracks]]
+name = 'UFOs & LFOs'
+artist = 'Layton Giordani'
+album = 'Digital Age'
+listened_at = '2024-06-01T02:15:27Z'
+
+[[tracks]]
+name = 'Farewell to Shady Glade'
+artist = 'Of Mice & Men'
+album = 'Of Mice & Men'
+listened_at = '2024-06-01T02:11:43Z'
+
+[[tracks]]
+name = 'Knuckle Velvet'
+artist = 'Ethel Cain'
+album = 'Golden Age'
+listened_at = '2024-05-31T21:59:32Z'
+
+[[tracks]]
 name = 'Sword'
 artist = 'Syncatto'
 album = 'Fiction'
