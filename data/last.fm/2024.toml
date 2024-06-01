@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Sword'
+artist = 'Syncatto'
+album = 'Fiction'
+listened_at = '2024-05-31T21:57:59Z'
+
+[[tracks]]
+name = 'Choreomania'
+artist = 'Florence + the Machine'
+album = 'Dance Fever (Complete Edition)'
+listened_at = '2024-05-31T21:54:16Z'
+
+[[tracks]]
+name = 'Arrival'
+artist = 'Night Verses'
+album = 'Every Sound Has A Color In The Valley Of Night'
+listened_at = '2024-05-31T21:50:29Z'
+
+[[tracks]]
+name = 'Die on the Cross of the Martyr'
+artist = 'Unprocessed'
+album = '...and everything in between'
+listened_at = '2024-05-31T21:45:26Z'
+
+[[tracks]]
+name = '''X Gon' Give It To Ya'''
+artist = 'DMX'
+album = 'The Definition Of X: Pick Of The Litter'
+listened_at = '2024-05-31T21:41:31Z'
+
+[[tracks]]
+name = '''X Gon' Give It To Ya'''
+artist = 'DMX'
+album = 'The Definition Of X: Pick Of The Litter'
+listened_at = '2024-05-31T21:41:29Z'
+
+[[tracks]]
+name = 'NACHT'
+artist = 'Blvck Ceiling'
+album = 'NACHT'
+listened_at = '2024-05-31T21:11:03Z'
+
+[[tracks]]
+name = 'MEET ME IN THE GRAVEYARD'
+artist = 'Blvck Ceiling'
+album = 'NACHT'
+listened_at = '2024-05-31T21:07:51Z'
+
+[[tracks]]
+name = 'BLUE BUFFALO'
+artist = 'Blvck Ceiling'
+album = 'NACHT'
+listened_at = '2024-05-31T21:00:56Z'
+
+[[tracks]]
 name = 'AFFINITY'
 artist = 'Blvck Ceiling'
 album = 'NACHT'
