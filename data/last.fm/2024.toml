@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Soldier, Poet, King'
+artist = 'The Oh Hellos'
+album = 'Dear Wormwood'
+listened_at = '2024-06-01T23:01:33Z'
+
+[[tracks]]
+name = '''Holdin' On To Your Silence'''
+artist = 'Jozels'
+album = '''Holdin' On To Your Silence'''
+listened_at = '2024-06-01T22:58:11Z'
+
+[[tracks]]
+name = 'Starfall'
+artist = 'Illenium'
+album = 'Illenium'
+listened_at = '2024-06-01T22:53:46Z'
+
+[[tracks]]
+name = 'Ecstasy'
+artist = 'ATB'
+album = 'No Silence'
+listened_at = '2024-06-01T22:49:24Z'
+
+[[tracks]]
+name = 'To The Moon And Back (feat. Ginger)'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-06-01T02:25:14Z'
+
+[[tracks]]
 name = 'Normality'
 artist = 'Blue Country'
 album = 'Normality'
