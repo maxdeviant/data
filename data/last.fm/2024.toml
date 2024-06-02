@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Know Where I Belong'
+artist = 'Varia'
+album = 'Know Where I Belong'
+listened_at = '2024-06-02T00:25:48Z'
+
+[[tracks]]
+name = 'c.y.b.o.1.h.'
+artist = 'Desolate'
+album = 'c.y.b.o.1.h.'
+listened_at = '2024-06-02T00:20:42Z'
+
+[[tracks]]
+name = 'Soldier, Poet, King'
+artist = 'The Oh Hellos'
+album = 'Dear Wormwood'
+listened_at = '2024-06-02T00:17:57Z'
+
+[[tracks]]
 name = 'Soldier, Poet, King'
 artist = 'The Oh Hellos'
 album = 'Dear Wormwood'
