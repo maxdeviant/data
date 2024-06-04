@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Parabolica'
+artist = 'Bulb'
+album = 'Moderately Fast, Adequately Furious'
+listened_at = '2024-06-04T00:13:56Z'
+
+[[tracks]]
+name = 'Breeze Redux'
+artist = 'Bulb'
+album = 'Moderately Fast, Adequately Furious'
+listened_at = '2024-06-04T00:10:31Z'
+
+[[tracks]]
+name = 'Echo Teuffel'
+artist = 'Bulb'
+album = 'Moderately Fast, Adequately Furious'
+listened_at = '2024-06-04T00:05:50Z'
+
+[[tracks]]
+name = 'Unleash the Pwnies Redux'
+artist = 'Bulb'
+album = 'Moderately Fast, Adequately Furious'
+listened_at = '2024-06-04T00:01:44Z'
+
+[[tracks]]
+name = 'Sequential Lives'
+artist = 'Opal In Sky'
+album = 'Sequential Lives'
+listened_at = '2024-06-03T20:47:21Z'
+
+[[tracks]]
 name = 'Twisted Perception'
 artist = 'Wretched Tongues'
 album = 'Twisted Perception'
