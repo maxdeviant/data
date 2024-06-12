@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Ignite'
+artist = 'Radion6'
+album = 'Ignite'
+listened_at = '2024-06-12T12:01:06Z'
+
+[[tracks]]
+name = 'Our Beautiful World'
+artist = 'Radion6'
+album = 'Our Beautiful World'
+listened_at = '2024-06-12T11:58:07Z'
+
+[[tracks]]
+name = 'Medusa - Original Mix'
+artist = 'Airbase'
+album = 'Medusa'
+listened_at = '2024-06-12T11:50:16Z'
+
+[[tracks]]
+name = 'Groovy Filth - Original Mix'
+artist = 'Maksim Dark'
+album = 'Groovy Filth'
+listened_at = '2024-06-12T03:43:26Z'
+
+[[tracks]]
 name = 'Epoque'
 artist = 'Joris Delacroix'
 album = 'Night Visions'
