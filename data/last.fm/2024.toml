@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Epoque'
+artist = 'Joris Delacroix'
+album = 'Night Visions'
+listened_at = '2024-06-12T03:36:26Z'
+
+[[tracks]]
+name = 'Cosmic Ratio'
+artist = 'Enrico Sangiuliano'
+album = 'Biomorph'
+listened_at = '2024-06-12T03:29:42Z'
+
+[[tracks]]
+name = 'Symbiosis'
+artist = 'Enrico Sangiuliano'
+album = 'Biomorph'
+listened_at = '2024-06-12T03:20:48Z'
+
+[[tracks]]
+name = 'Aphrodite'
+artist = 'Township Rebellion'
+album = 'Township Rebellion, Marc Holstege'
+listened_at = '2024-06-12T03:12:13Z'
+
+[[tracks]]
+name = 'CONTAKT'
+artist = 'Kill Script'
+album = 'FIRST CONTAKT EP'
+listened_at = '2024-06-12T03:05:48Z'
+
+[[tracks]]
+name = 'Two Steps From Heaven'
+artist = 'I Hate Models'
+album = 'Disco Inferno 01'
+listened_at = '2024-06-12T02:56:20Z'
+
+[[tracks]]
 name = 'Jalek'
 artist = 'Ejeca'
 album = 'Contemplation'
