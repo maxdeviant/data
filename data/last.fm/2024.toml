@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'The Fear Campaign'
+artist = 'Demonstealer'
+album = 'The Propaganda Machine'
+listened_at = '2024-06-13T20:56:40Z'
+
+[[tracks]]
+name = 'Det sorte hav'
+artist = 'Agabas'
+album = 'A Hate Supreme'
+listened_at = '2024-06-13T20:53:13Z'
+
+[[tracks]]
+name = 'Overstimulert'
+artist = 'Agabas'
+album = 'A Hate Supreme'
+listened_at = '2024-06-13T20:50:06Z'
+
+[[tracks]]
+name = 'Mitt liv til ingenting'
+artist = 'Agabas'
+album = 'A Hate Supreme'
+listened_at = '2024-06-13T20:46:49Z'
+
+[[tracks]]
+name = 'Evneveik'
+artist = 'Agabas'
+album = 'A Hate Supreme'
+listened_at = '2024-06-13T20:43:00Z'
+
+[[tracks]]
+name = 'Steg etter steg'
+artist = 'Agabas'
+album = 'A Hate Supreme'
+listened_at = '2024-06-13T20:39:15Z'
+
+[[tracks]]
+name = 'Megafon i et ekkokammer'
+artist = 'Agabas'
+album = 'A Hate Supreme'
+listened_at = '2024-06-13T20:35:41Z'
+
+[[tracks]]
 name = 'The Equable'
 artist = 'Persefone'
 album = 'Lingua Ignota: Part I'
