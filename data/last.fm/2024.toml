@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'A Terrible Mistake'
+artist = 'Ions'
+album = 'COUNTERINTUITIVE'
+listened_at = '2024-06-14T17:56:19Z'
+
+[[tracks]]
 name = 'The Great Dictator'
 artist = 'Demonstealer'
 album = 'The Propaganda Machine'
