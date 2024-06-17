@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'So I'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-06-17T00:16:38Z'
+
+[[tracks]]
+name = 'Rewind'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-06-17T00:13:49Z'
+
+[[tracks]]
+name = 'Everything is romantic'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-06-16T20:49:00Z'
+
+[[tracks]]
 name = 'Von dutch'
 artist = 'Charli XCX'
 album = 'BRAT'
