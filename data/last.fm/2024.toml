@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'The Blood On Our Hands'
+artist = 'Thränenkind'
+album = 'King Apathy'
+listened_at = '2024-06-17T21:41:53Z'
+
+[[tracks]]
+name = 'Mørklagt'
+artist = 'Sylvaine'
+album = 'Atoms Aligned, Coming Undone'
+listened_at = '2024-06-17T21:32:36Z'
+
+[[tracks]]
+name = 'Flammifer'
+artist = 'Summoning'
+album = 'Old Mornings Dawn'
+listened_at = '2024-06-17T21:25:27Z'
+
+[[tracks]]
+name = 'Vista'
+artist = 'Sorrow Plagues'
+album = 'Mater Natura Excelsa'
+listened_at = '2024-06-17T21:15:57Z'
+
+[[tracks]]
+name = 'An Oath Sworn in Sorrow'
+artist = 'Sojourner'
+album = 'The Shadowed Road'
+listened_at = '2024-06-17T21:09:40Z'
+
+[[tracks]]
+name = 'Yesteryear'
+artist = 'So Hideous'
+album = 'Laurestine'
+listened_at = '2024-06-17T21:02:08Z'
+
+[[tracks]]
 name = 'Rain'
 artist = 'Show Me a Dinosaur'
 album = 'Dust'
