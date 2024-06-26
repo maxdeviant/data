@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Прощай'
+artist = 'Рожь'
+album = 'Всё'
+listened_at = '2024-06-25T22:28:18Z'
+
+[[tracks]]
+name = 'Reborn - Pt. II'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2024-06-25T22:12:10Z'
+
+[[tracks]]
+name = 'Reborn - Pt. I'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2024-06-25T19:13:02Z'
+
+[[tracks]]
 name = 'Reflection'
 artist = 'Olhava'
 album = 'Reborn'
