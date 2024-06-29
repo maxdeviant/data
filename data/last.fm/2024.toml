@@ -1,4 +1,64 @@
 [[tracks]]
+name = 'side quest'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-06-29T20:31:17Z'
+
+[[tracks]]
+name = 'nootropic'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-06-29T19:37:50Z'
+
+[[tracks]]
+name = 'galaxy brain'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-06-29T19:33:31Z'
+
+[[tracks]]
+name = 'mnemonic'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-06-29T19:28:43Z'
+
+[[tracks]]
+name = 'neurogenesis'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-06-29T19:24:16Z'
+
+[[tracks]]
+name = 'Luciferous'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2024-06-29T18:51:18Z'
+
+[[tracks]]
+name = 'Ex Nihilo'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2024-06-29T18:46:54Z'
+
+[[tracks]]
+name = 'Vanitas'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2024-06-29T18:40:59Z'
+
+[[tracks]]
+name = 'The Outer Ones'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2024-06-29T18:35:16Z'
+
+[[tracks]]
+name = 'Fathomless Catacombs'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2024-06-29T16:20:04Z'
+
+[[tracks]]
 name = 'Blood Atonement'
 artist = 'Revocation'
 album = 'The Outer Ones'
