@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Sympathy is a knife'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-06-30T20:53:01Z'
+
+[[tracks]]
+name = 'Apple'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-06-30T20:50:28Z'
+
+[[tracks]]
+name = 'Dark Elf Wisdom'
+artist = 'Deep Gnome'
+album = 'Wanderlore'
+listened_at = '2024-06-30T20:47:58Z'
+
+[[tracks]]
+name = 'the girl, so confusing version with lorde'
+artist = 'Charli XCX'
+album = 'the girl, so confusing version with lorde'
+listened_at = '2024-06-30T20:44:33Z'
+
+[[tracks]]
 name = 'side quest'
 artist = 'Intervals'
 album = 'Memory Palace'
