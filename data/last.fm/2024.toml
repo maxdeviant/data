@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'galaxy brain'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-06-29T22:00:46Z'
+
+[[tracks]]
+name = 'mnemonic'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-06-29T21:55:59Z'
+
+[[tracks]]
+name = 'neurogenesis'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-06-29T21:29:05Z'
+
+[[tracks]]
+name = 'chronophobia'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-06-29T21:23:46Z'
+
+[[tracks]]
+name = 'lacuna'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-06-29T21:19:32Z'
+
+[[tracks]]
+name = 'circuit bender'
+artist = 'Intervals'
+album = 'Memory Palace'
+listened_at = '2024-06-29T20:34:57Z'
+
+[[tracks]]
 name = 'side quest'
 artist = 'Intervals'
 album = 'Memory Palace'
