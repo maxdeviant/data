@@ -1,4 +1,70 @@
 [[tracks]]
+name = 'Sea Of Memories'
+artist = 'Decrepit Birth'
+album = 'Polarity'
+listened_at = '2024-07-01T15:56:09Z'
+
+[[tracks]]
+name = 'Cerberus'
+artist = 'Dagoba'
+album = 'Different Breed'
+listened_at = '2024-07-01T15:51:03Z'
+
+[[tracks]]
+name = 'Damaged'
+artist = 'Kanine'
+album = 'Damaged'
+listened_at = '2024-07-01T15:46:57Z'
+
+[[tracks]]
+name = 'FUTURE PROOF'
+artist = 'Many Eyes'
+album = 'Future Proof'
+listened_at = '2024-07-01T15:43:25Z'
+
+[[tracks]]
+name = 'Hollow Bone (plɹoʍ ǝɥʇ)'
+artist = 'In Hearts Wake'
+album = 'Hollow Bone (plɹoʍ ǝɥʇ)'
+listened_at = '2024-07-01T15:39:27Z'
+
+[[tracks]]
+name = 'On Wings of Carnage'
+artist = 'Corpsegrinder'
+album = 'Corpsegrinder'
+listened_at = '2024-07-01T15:35:42Z'
+
+[[tracks]]
+name = 'Inside Voice'
+artist = 'Yosemite in Black'
+album = 'Pretty as a Peach'
+listened_at = '2024-07-01T15:32:19Z'
+
+[[tracks]]
+name = 'The Weight Of All Things'
+artist = 'Dyscarnate'
+album = 'And So It Came To Pass'
+listened_at = '2024-07-01T15:30:21Z'
+
+[[tracks]]
+name = 'A False Peace'
+artist = 'Allfather'
+album = 'A Violent Truth'
+listened_at = '2024-07-01T15:28:24Z'
+
+[[tracks]]
+name = 'Primordial Echo'
+artist = 'Oubliette'
+album = 'Eternity Whispers'
+listened_at = '2024-07-01T15:22:14Z'
+
+[[tracks]]
+name = 'Trail of Whispering Giants'
+artist = 'If These Trees Could Talk'
+album = 'Trail of Whispering Giants'
+listened_at = '2024-07-01T15:00:11Z'
+
+[[tracks]]
 name = 'Gold'
 artist = 'Grayscale Season'
 album = 'Feel Something New'
