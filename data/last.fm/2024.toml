@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Gold'
+artist = 'Grayscale Season'
+album = 'Feel Something New'
+listened_at = '2024-07-01T14:57:09Z'
+
+[[tracks]]
+name = 'Son Devouring His Saturn'
+artist = 'Girl of Glass'
+album = 'Girl of Glass'
+listened_at = '2024-07-01T14:55:05Z'
+
+[[tracks]]
+name = 'Chasm'
+artist = 'Earth Groans'
+album = 'Chasm'
+listened_at = '2024-07-01T14:51:52Z'
+
+[[tracks]]
+name = 'Always Watching You'
+artist = 'Escuela Grind'
+album = 'Always Watching You'
+listened_at = '2024-07-01T14:49:08Z'
+
+[[tracks]]
+name = 'Entabeni'
+artist = 'Vulvodynia'
+album = 'Entabeni'
+listened_at = '2024-07-01T14:44:42Z'
+
+[[tracks]]
+name = '360'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-06-30T20:55:32Z'
+
+[[tracks]]
 name = 'Sympathy is a knife'
 artist = 'Charli XCX'
 album = 'BRAT'
