@@ -1,4 +1,82 @@
 [[tracks]]
+name = 'Apple'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-07-03T18:02:36Z'
+
+[[tracks]]
+name = 'Dark Elf Wisdom'
+artist = 'Deep Gnome'
+album = 'Wanderlore'
+listened_at = '2024-07-03T18:00:05Z'
+
+[[tracks]]
+name = 'the girl, so confusing version with lorde'
+artist = 'Charli XCX'
+album = 'the girl, so confusing version with lorde'
+listened_at = '2024-07-03T17:56:40Z'
+
+[[tracks]]
+name = 'The End of Eternity'
+artist = 'Rolo Tomassi'
+album = 'Where Myth Becomes Memory'
+listened_at = '2024-07-03T15:45:37Z'
+
+[[tracks]]
+name = 'To Resist Forgetting'
+artist = 'Rolo Tomassi'
+album = 'Where Myth Becomes Memory'
+listened_at = '2024-07-03T15:41:32Z'
+
+[[tracks]]
+name = 'Stumbling'
+artist = 'Rolo Tomassi'
+album = 'Where Myth Becomes Memory'
+listened_at = '2024-07-03T15:38:42Z'
+
+[[tracks]]
+name = 'Prescience'
+artist = 'Rolo Tomassi'
+album = 'Where Myth Becomes Memory'
+listened_at = '2024-07-03T15:33:48Z'
+
+[[tracks]]
+name = 'Drip'
+artist = 'Rolo Tomassi'
+album = 'Where Myth Becomes Memory'
+listened_at = '2024-07-03T15:27:56Z'
+
+[[tracks]]
+name = 'Closer'
+artist = 'Rolo Tomassi'
+album = 'Where Myth Becomes Memory'
+listened_at = '2024-07-03T15:22:42Z'
+
+[[tracks]]
+name = 'Labyrinthine'
+artist = 'Rolo Tomassi'
+album = 'Where Myth Becomes Memory'
+listened_at = '2024-07-03T15:19:15Z'
+
+[[tracks]]
+name = 'Mutual Ruin'
+artist = 'Rolo Tomassi'
+album = 'Where Myth Becomes Memory'
+listened_at = '2024-07-03T15:14:00Z'
+
+[[tracks]]
+name = 'Cloaked'
+artist = 'Rolo Tomassi'
+album = 'Where Myth Becomes Memory'
+listened_at = '2024-07-03T15:10:05Z'
+
+[[tracks]]
+name = 'Almost Always'
+artist = 'Rolo Tomassi'
+album = 'Where Myth Becomes Memory'
+listened_at = '2024-07-03T15:03:37Z'
+
+[[tracks]]
 name = '''Lord It's a Feeling'''
 artist = 'London Grammar'
 album = 'Californian Soil'
