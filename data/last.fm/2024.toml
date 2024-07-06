@@ -1,4 +1,70 @@
 [[tracks]]
+name = 'UnFazed (feat. The Weeknd)'
+artist = 'Lil Uzi Vert'
+album = 'Luv Is Rage 2'
+listened_at = '2024-07-06T02:59:39Z'
+
+[[tracks]]
+name = 'Realize'
+artist = '2 Chainz'
+album = 'Pretty Girls Like Trap Music'
+listened_at = '2024-07-06T02:55:25Z'
+
+[[tracks]]
+name = 'Perfect Places'
+artist = 'Lorde'
+album = 'Melodrama'
+listened_at = '2024-07-06T02:51:58Z'
+
+[[tracks]]
+name = 'Motion Sickness'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2024-07-06T02:49:35Z'
+
+[[tracks]]
+name = 'Gone'
+artist = 'Charli XCX'
+album = 'Charli'
+listened_at = '2024-07-06T02:46:59Z'
+
+[[tracks]]
+name = 'Heartless'
+artist = 'The Weeknd'
+album = 'After Hours'
+listened_at = '2024-07-06T02:44:17Z'
+
+[[tracks]]
+name = 'BRAINWASHED'
+artist = 'Waterparks'
+album = 'INTELLECTUAL PROPERTY'
+listened_at = '2024-07-06T02:41:43Z'
+
+[[tracks]]
+name = 'Pink Pony Club'
+artist = 'Chappell Roan'
+album = 'The Rise and Fall of a Midwest Princess'
+listened_at = '2024-07-06T02:33:17Z'
+
+[[tracks]]
+name = 'Casual'
+artist = 'Chappell Roan'
+album = 'The Rise and Fall of a Midwest Princess'
+listened_at = '2024-07-06T02:29:24Z'
+
+[[tracks]]
+name = 'Colorado'
+artist = 'Reneé Rapp'
+album = 'EVERYTHING TO EVERYONE'
+listened_at = '2024-07-06T02:26:32Z'
+
+[[tracks]]
+name = 'Constant Repeat'
+artist = 'Charli XCX'
+album = 'CRASH (Deluxe)'
+listened_at = '2024-07-05T22:05:40Z'
+
+[[tracks]]
 name = 'Crash'
 artist = 'Charli XCX'
 album = 'CRASH (Deluxe)'
