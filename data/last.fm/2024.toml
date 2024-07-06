@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Crash'
+artist = 'Charli XCX'
+album = 'CRASH (Deluxe)'
+listened_at = '2024-07-05T22:03:29Z'
+
+[[tracks]]
+name = 'Apple'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-07-05T22:00:58Z'
+
+[[tracks]]
+name = 'Speed Drive'
+artist = 'Charli XCX'
+album = 'Barbie The Album'
+listened_at = '2024-07-05T21:59:00Z'
+
+[[tracks]]
+name = 'JOYRIDE'
+artist = 'Kesha'
+album = 'Joyride'
+listened_at = '2024-07-05T21:53:23Z'
+
+[[tracks]]
+name = 'The Long Walk'
+artist = 'Vital Spirit'
+album = 'Still as the Night, Cold as the Wind'
+listened_at = '2024-07-05T21:06:44Z'
+
+[[tracks]]
+name = 'Dawn of Liberty'
+artist = 'Vital Spirit'
+album = 'Still as the Night, Cold as the Wind'
+listened_at = '2024-07-05T21:00:41Z'
+
+[[tracks]]
 name = 'Bad Hand'
 artist = 'Vital Spirit'
 album = 'Still as the Night, Cold as the Wind'
