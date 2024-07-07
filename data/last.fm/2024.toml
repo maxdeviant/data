@@ -1,4 +1,82 @@
 [[tracks]]
+name = 'The Last Dinosaur'
+artist = 'little foot'
+album = 'The Last Dinosaur'
+listened_at = '2024-07-07T01:12:22Z'
+
+[[tracks]]
+name = 'Broken Love'
+artist = 'Ali Bakgor'
+album = 'Broken Love'
+listened_at = '2024-07-07T01:09:54Z'
+
+[[tracks]]
+name = 'When We Move (feat. Elderbrook & Jules Buckley)'
+artist = 'Pete Tong'
+album = 'Pete Tong + Friends: Ibiza Classics'
+listened_at = '2024-07-07T01:06:01Z'
+
+[[tracks]]
+name = '''Dragon's Gamble'''
+artist = 'Sysdemes'
+album = '''Dragon's Gamble'''
+listened_at = '2024-07-07T01:02:22Z'
+
+[[tracks]]
+name = 'I Feel Fine (Möwe Remix)'
+artist = 'Klangkarussell'
+album = 'I Feel Fine (Möwe Remix)'
+listened_at = '2024-07-07T00:57:57Z'
+
+[[tracks]]
+name = 'Afterglow'
+artist = 'Bob Moses'
+album = 'Old Love / The Silence in Between'
+listened_at = '2024-07-07T00:53:26Z'
+
+[[tracks]]
+name = 'Being'
+artist = 'Bynx'
+album = 'Being'
+listened_at = '2024-07-07T00:48:15Z'
+
+[[tracks]]
+name = 'S1R1'
+artist = 'NWYR'
+album = 'S1R1'
+listened_at = '2024-07-07T00:45:11Z'
+
+[[tracks]]
+name = 'My Purple iPod Nano (2nd Gen)'
+artist = 'jamesjamesjames'
+album = 'My Purple iPod Nano (2nd Gen)'
+listened_at = '2024-07-07T00:42:26Z'
+
+[[tracks]]
+name = 'Un Matin'
+artist = 'Rosbeh'
+album = 'Un Matin'
+listened_at = '2024-07-07T00:37:15Z'
+
+[[tracks]]
+name = 'Ethereal'
+artist = 'Audent'
+album = 'Ethereal'
+listened_at = '2024-07-07T00:32:48Z'
+
+[[tracks]]
+name = 'Howl'
+artist = 'Elderbrook'
+album = 'Howl'
+listened_at = '2024-07-07T00:28:32Z'
+
+[[tracks]]
+name = 'Sometimes Things Get, Whatever'
+artist = 'deadmau5'
+album = 'Random Album Title'
+listened_at = '2024-07-06T23:39:04Z'
+
+[[tracks]]
 name = 'So There I Was'
 artist = 'deadmau5'
 album = 'Random Album Title'
