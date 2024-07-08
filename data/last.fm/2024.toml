@@ -2,6 +2,54 @@
 name = 'The Long Walk'
 artist = 'Vital Spirit'
 album = 'Still as the Night, Cold as the Wind'
+listened_at = '2024-07-08T15:33:23Z'
+
+[[tracks]]
+name = 'Dawn of Liberty'
+artist = 'Vital Spirit'
+album = 'Still as the Night, Cold as the Wind'
+listened_at = '2024-07-08T15:27:20Z'
+
+[[tracks]]
+name = 'Bad Hand'
+artist = 'Vital Spirit'
+album = 'Still as the Night, Cold as the Wind'
+listened_at = '2024-07-08T15:24:12Z'
+
+[[tracks]]
+name = 'Blood and Smoke'
+artist = 'Vital Spirit'
+album = 'Still as the Night, Cold as the Wind'
+listened_at = '2024-07-08T15:19:39Z'
+
+[[tracks]]
+name = 'Lord of the Plains'
+artist = 'Vital Spirit'
+album = 'Still as the Night, Cold as the Wind'
+listened_at = '2024-07-08T15:13:53Z'
+
+[[tracks]]
+name = 'White Eyes'
+artist = 'Vital Spirit'
+album = 'Still as the Night, Cold as the Wind'
+listened_at = '2024-07-08T15:10:19Z'
+
+[[tracks]]
+name = 'Saccharine Sky'
+artist = 'Vital Spirit'
+album = 'Still as the Night, Cold as the Wind'
+listened_at = '2024-07-08T15:06:45Z'
+
+[[tracks]]
+name = 'Withering Fire'
+artist = 'Vital Spirit'
+album = 'Still as the Night, Cold as the Wind'
+listened_at = '2024-07-08T15:03:42Z'
+
+[[tracks]]
+name = 'The Long Walk'
+artist = 'Vital Spirit'
+album = 'Still as the Night, Cold as the Wind'
 listened_at = '2024-07-08T14:57:05Z'
 
 [[tracks]]
