@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Ice Cream (with Selena Gomez)'
+artist = 'BLACKPINK'
+album = 'Ice Cream (with Selena Gomez)'
+listened_at = '2024-07-20T16:53:46Z'
+
+[[tracks]]
+name = 'Rush'
+artist = 'Troye Sivan'
+album = 'Something to Give Each Other'
+listened_at = '2024-07-20T16:51:10Z'
+
+[[tracks]]
+name = '360'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-07-20T16:49:16Z'
+
+[[tracks]]
+name = '365'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-07-20T16:45:53Z'
+
+[[tracks]]
+name = 'Polkamania!'
+artist = '"Weird Al" Yankovic'
+album = 'Polkamania!'
+listened_at = '2024-07-20T16:36:45Z'
+
+[[tracks]]
+name = 'Holy'
+artist = 'PVRIS'
+album = 'White Noise (Deluxe Version)'
+listened_at = '2024-07-20T15:29:32Z'
+
+[[tracks]]
+name = 'You and I'
+artist = 'PVRIS'
+album = 'White Noise (Deluxe Version)'
+listened_at = '2024-07-20T15:24:47Z'
+
+[[tracks]]
+name = 'Famous Last Words'
+artist = 'My Chemical Romance'
+album = 'The Black Parade'
+listened_at = '2024-07-20T15:24:10Z'
+
+[[tracks]]
+name = 'Pretty as a Swastika'
+artist = 'Marilyn Manson'
+album = 'The High End of Low (Deluxe)'
+listened_at = '2024-07-20T13:25:35Z'
+
+[[tracks]]
 name = 'Devour'
 artist = 'Marilyn Manson'
 album = 'The High End of Low (Deluxe)'
