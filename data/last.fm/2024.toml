@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Devour'
+artist = 'Marilyn Manson'
+album = 'The High End of Low (Deluxe)'
+listened_at = '2024-07-20T13:21:51Z'
+
+[[tracks]]
+name = 'No Reflection'
+artist = 'Marilyn Manson'
+album = 'Born Villain'
+listened_at = '2024-07-20T13:19:22Z'
+
+[[tracks]]
+name = 'Disassociative'
+artist = 'Marilyn Manson'
+album = 'Mechanical Animals'
+listened_at = '2024-07-20T13:12:17Z'
+
+[[tracks]]
+name = 'Great Big White World'
+artist = 'Marilyn Manson'
+album = 'Mechanical Animals'
+listened_at = '2024-07-20T13:06:51Z'
+
+[[tracks]]
+name = 'Stonefist'
+artist = 'HEALTH'
+album = 'Death Magic'
+listened_at = '2024-07-20T04:22:54Z'
+
+[[tracks]]
 name = 'Victim'
 artist = 'HEALTH'
 album = 'Death Magic'
