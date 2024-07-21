@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'The Endless'
+artist = 'Dreadnought'
+album = 'The Endless'
+listened_at = '2024-07-21T20:58:32Z'
+
+[[tracks]]
+name = 'Midnight Moon'
+artist = 'Dreadnought'
+album = 'The Endless'
+listened_at = '2024-07-21T20:51:48Z'
+
+[[tracks]]
+name = 'Worlds Break'
+artist = 'Dreadnought'
+album = 'The Endless'
+listened_at = '2024-07-21T20:43:20Z'
+
+[[tracks]]
+name = 'the princess had a childhood dream of being a knight'
+artist = 'Ajinxeu'
+album = 'is this the world you longed for'
+listened_at = '2024-07-21T20:38:04Z'
+
+[[tracks]]
+name = 'toys in the hands of gods'
+artist = 'Ajinxeu'
+album = 'is this the world you longed for'
+listened_at = '2024-07-21T20:33:19Z'
+
+[[tracks]]
+name = '''the esteemed's prophecy'''
+artist = 'Ajinxeu'
+album = 'is this the world you longed for'
+listened_at = '2024-07-21T20:30:01Z'
+
+[[tracks]]
+name = '''abel's seaside cafe'''
+artist = 'Ajinxeu'
+album = 'is this the world you longed for'
+listened_at = '2024-07-21T20:26:37Z'
+
+[[tracks]]
+name = '''the castle's greeting to an honoured guest'''
+artist = 'Ajinxeu'
+album = 'is this the world you longed for'
+listened_at = '2024-07-21T20:21:54Z'
+
+[[tracks]]
+name = 'Yuck'
+artist = 'Charli XCX'
+album = 'CRASH'
+listened_at = '2024-07-20T21:54:51Z'
+
+[[tracks]]
 name = 'Pretty Girls'
 artist = 'Reneé Rapp'
 album = 'Snow Angel'
