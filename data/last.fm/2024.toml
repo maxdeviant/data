@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Pretty Girls'
+artist = 'Reneé Rapp'
+album = 'Snow Angel'
+listened_at = '2024-07-20T21:51:26Z'
+
+[[tracks]]
+name = 'Boys'
+artist = 'Charli XCX'
+album = 'Boys'
+listened_at = '2024-07-20T21:48:45Z'
+
+[[tracks]]
+name = 'Mamushi (feat. Yuki Chiba)'
+artist = 'Megan Thee Stallion'
+album = 'Megan'
+listened_at = '2024-07-20T21:45:24Z'
+
+[[tracks]]
+name = 'Espresso'
+artist = 'Sabrina Carpenter'
+album = 'Espresso'
+listened_at = '2024-07-20T21:42:28Z'
+
+[[tracks]]
+name = 'Naked in Manhattan'
+artist = 'Chappell Roan'
+album = 'The Rise and Fall of a Midwest Princess'
+listened_at = '2024-07-20T21:38:56Z'
+
+[[tracks]]
+name = 'Girl, so confusing'
+artist = 'Charli XCX'
+album = 'BRAT and it’s the same but there’s three more songs so it’s not'
+listened_at = '2024-07-20T16:56:46Z'
+
+[[tracks]]
 name = 'Ice Cream (with Selena Gomez)'
 artist = 'BLACKPINK'
 album = 'Ice Cream (with Selena Gomez)'
