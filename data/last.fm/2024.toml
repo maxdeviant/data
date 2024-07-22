@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Cronus'
+artist = 'White Ward'
+album = 'False Light'
+listened_at = '2024-07-22T15:41:59Z'
+
+[[tracks]]
+name = 'Echoes in Eternity'
+artist = 'White Ward'
+album = 'False Light'
+listened_at = '2024-07-22T15:38:31Z'
+
+[[tracks]]
+name = 'Silence Circles'
+artist = 'White Ward'
+album = 'False Light'
+listened_at = '2024-07-22T15:29:17Z'
+
+[[tracks]]
+name = 'Phoenix'
+artist = 'White Ward'
+album = 'False Light'
+listened_at = '2024-07-22T15:18:28Z'
+
+[[tracks]]
+name = 'Salt Paradise'
+artist = 'White Ward'
+album = 'False Light'
+listened_at = '2024-07-22T15:13:07Z'
+
+[[tracks]]
+name = 'Leviathan'
+artist = 'White Ward'
+album = 'False Light'
+listened_at = '2024-07-22T14:59:51Z'
+
+[[tracks]]
 name = 'Love Exchange Failure'
 artist = 'White Ward'
 album = 'Love Exchange Failure'
