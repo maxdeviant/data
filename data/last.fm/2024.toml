@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Poisonous Flowers Of Violence'
+artist = 'White Ward'
+album = 'Love Exchange Failure'
+listened_at = '2024-07-22T00:37:23Z'
+
+[[tracks]]
+name = 'Love Exchange Failure'
+artist = 'White Ward'
+album = 'Love Exchange Failure'
+listened_at = '2024-07-22T00:25:29Z'
+
+[[tracks]]
 name = 'The Icon'
 artist = 'Herod'
 album = 'Iconoclast'
