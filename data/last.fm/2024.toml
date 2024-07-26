@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Burning Skies'
+artist = 'Ulcerate'
+album = 'The Destroyers of All'
+listened_at = '2024-07-26T20:55:19Z'
+
+[[tracks]]
+name = 'The Axiom of Error'
+artist = 'The Zenith Passage'
+album = 'Datalysium'
+listened_at = '2024-07-25T20:53:54Z'
+
+[[tracks]]
 name = 'Poisonous Flowers Of Violence'
 artist = 'White Ward'
 album = 'Love Exchange Failure'
