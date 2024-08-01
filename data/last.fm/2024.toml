@@ -2,6 +2,42 @@
 name = 'Inversion'
 artist = 'Ulcerate'
 album = 'Stare Into Death And Be Still'
+listened_at = '2024-08-01T02:45:19Z'
+
+[[tracks]]
+name = 'There Is No Horizon'
+artist = 'Ulcerate'
+album = 'Stare Into Death And Be Still'
+listened_at = '2024-08-01T02:38:16Z'
+
+[[tracks]]
+name = 'Stare Into Death And Be Still'
+artist = 'Ulcerate'
+album = 'Stare Into Death And Be Still'
+listened_at = '2024-08-01T02:29:51Z'
+
+[[tracks]]
+name = 'Exhale The Ash'
+artist = 'Ulcerate'
+album = 'Stare Into Death And Be Still'
+listened_at = '2024-08-01T02:23:32Z'
+
+[[tracks]]
+name = 'The Lifeless Advance'
+artist = 'Ulcerate'
+album = 'Stare Into Death And Be Still'
+listened_at = '2024-08-01T02:16:31Z'
+
+[[tracks]]
+name = 'Visceral Ends'
+artist = 'Ulcerate'
+album = 'Stare Into Death And Be Still'
+listened_at = '2024-08-01T02:16:07Z'
+
+[[tracks]]
+name = 'Inversion'
+artist = 'Ulcerate'
+album = 'Stare Into Death And Be Still'
 listened_at = '2024-07-31T22:18:22Z'
 
 [[tracks]]
