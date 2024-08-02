@@ -1,4 +1,70 @@
 [[tracks]]
+name = 'Wings of Glass'
+artist = 'Gísli Gunnarsson'
+album = 'Wings of Glass'
+listened_at = '2024-08-02T14:10:06Z'
+
+[[tracks]]
+name = '360'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-08-02T14:07:52Z'
+
+[[tracks]]
+name = 'Sympathy is a knife'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-08-02T14:05:20Z'
+
+[[tracks]]
+name = 'Apple'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2024-08-02T14:02:48Z'
+
+[[tracks]]
+name = 'Dark Elf Wisdom'
+artist = 'Deep Gnome'
+album = 'Wanderlore'
+listened_at = '2024-08-02T14:00:17Z'
+
+[[tracks]]
+name = 'the girl, so confusing version with lorde'
+artist = 'Charli XCX'
+album = 'the girl, so confusing version with lorde'
+listened_at = '2024-08-02T13:56:50Z'
+
+[[tracks]]
+name = 'RAINBOWS'
+artist = 'While She Sleeps'
+album = 'SELF HELL'
+listened_at = '2024-08-02T13:52:27Z'
+
+[[tracks]]
+name = 'Howl'
+artist = 'Elderbrook'
+album = 'Howl'
+listened_at = '2024-08-02T13:48:09Z'
+
+[[tracks]]
+name = 'DIg It'
+artist = 'Bring Me the Horizon'
+album = 'POST HUMAN: Nex Gen'
+listened_at = '2024-08-02T13:40:58Z'
+
+[[tracks]]
+name = 'guess featuring billie eilish'
+artist = 'Charli XCX'
+album = 'guess featuring billie eilish'
+listened_at = '2024-08-02T13:38:04Z'
+
+[[tracks]]
+name = 'guess featuring billie eilish'
+artist = 'Charli XCX'
+album = 'guess featuring billie eilish'
+listened_at = '2024-08-02T13:35:41Z'
+
+[[tracks]]
 name = 'Savage Time (& Metro Boomin)'
 artist = 'Big Sean'
 album = 'Double Or Nothing (& Metro Boomin)'
