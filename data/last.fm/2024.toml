@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Braille'
+artist = 'Latitudes'
+album = 'Agonist'
+listened_at = '2024-08-06T18:00:09Z'
+
+[[tracks]]
+name = 'The Vengeance'
+artist = 'Tryglav'
+album = 'The Ritual'
+listened_at = '2024-08-06T17:55:57Z'
+
+[[tracks]]
+name = 'Digital Veil'
+artist = 'The Human Abstract'
+album = 'Digital Veil'
+listened_at = '2024-08-06T17:52:26Z'
+
+[[tracks]]
+name = 'Dream Sequence'
+artist = 'Circles'
+album = 'The Last One'
+listened_at = '2024-08-06T17:47:37Z'
+
+[[tracks]]
+name = 'Ksar Al-Kufar'
+artist = 'Necrowretch'
+album = 'SWORDS OF DAJJAL'
+listened_at = '2024-08-06T17:43:15Z'
+
+[[tracks]]
+name = 'Chrysopoeia (The Archaeology of Dawn)'
+artist = 'Horrendous'
+album = 'Ontological Mysterium'
+listened_at = '2024-08-06T17:35:59Z'
+
+[[tracks]]
+name = 'Sur les Braises du Foyer'
+artist = 'Houle'
+album = 'Ciel Cendre et Misère Noire'
+listened_at = '2024-08-06T15:01:17Z'
+
+[[tracks]]
 name = 'Thirst'
 artist = 'Lustre'
 album = 'A Thirst for Summer Rain'
