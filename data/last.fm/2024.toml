@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Deathdreamer'
+artist = 'Hauntologist'
+album = 'Hollow'
+listened_at = '2024-08-05T21:13:38Z'
+
+[[tracks]]
+name = 'Haunted Walls'
+artist = 'The Behest of Serpents'
+album = 'Regicide'
+listened_at = '2024-08-05T15:20:11Z'
+
+[[tracks]]
 name = 'Serpent & Spirit'
 artist = 'Urne'
 album = 'SERPENT & SPIRIT'
