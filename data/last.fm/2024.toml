@@ -1,4 +1,70 @@
 [[tracks]]
+name = 'Thirst'
+artist = 'Lustre'
+album = 'A Thirst for Summer Rain'
+listened_at = '2024-08-06T14:52:50Z'
+
+[[tracks]]
+name = 'Coven'
+artist = 'Thornhill'
+album = 'The Dark Pool'
+listened_at = '2024-08-06T14:49:12Z'
+
+[[tracks]]
+name = 'Will of Whispers'
+artist = 'Tomb Mold'
+album = 'The Enduring Spirit'
+listened_at = '2024-08-06T14:42:21Z'
+
+[[tracks]]
+name = 'Not for me'
+artist = 'The Cost'
+album = 'Not for me'
+listened_at = '2024-08-06T14:38:16Z'
+
+[[tracks]]
+name = 'Prefect'
+artist = 'Mizmor'
+album = 'Myopia'
+listened_at = '2024-08-06T14:32:06Z'
+
+[[tracks]]
+name = 'Nightingale'
+artist = 'Haken'
+album = 'Fauna'
+listened_at = '2024-08-06T14:24:41Z'
+
+[[tracks]]
+name = 'Lessons in Occult Theft'
+artist = 'Revocation'
+album = 'Netherheaven'
+listened_at = '2024-08-06T14:19:01Z'
+
+[[tracks]]
+name = 'Orgia'
+artist = 'Misþyrming'
+album = 'Algleymi'
+listened_at = '2024-08-06T14:13:33Z'
+
+[[tracks]]
+name = 'Alma Mater'
+artist = 'Rolo Tomassi'
+album = 'Time Will Die and Love Will Bury It'
+listened_at = '2024-08-06T14:10:21Z'
+
+[[tracks]]
+name = 'Dysthymian Dreams'
+artist = 'Groza'
+album = 'Dysthymian Dreams'
+listened_at = '2024-08-06T14:02:11Z'
+
+[[tracks]]
+name = 'Fast Worms'
+artist = 'Intronaut'
+album = 'The Direction of Last Things'
+listened_at = '2024-08-06T13:55:14Z'
+
+[[tracks]]
 name = 'Deathdreamer'
 artist = 'Hauntologist'
 album = 'Hollow'
