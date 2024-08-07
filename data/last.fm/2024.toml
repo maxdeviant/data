@@ -2,6 +2,24 @@
 name = 'The Dawn Is Hollow'
 artist = 'Ulcerate'
 album = 'Cutting The Throat Of God'
+listened_at = '2024-08-07T15:32:40Z'
+
+[[tracks]]
+name = 'Further Opening the Wounds'
+artist = 'Ulcerate'
+album = 'Cutting The Throat Of God'
+listened_at = '2024-08-07T15:25:35Z'
+
+[[tracks]]
+name = 'To Flow Through Ashen Hearts'
+artist = 'Ulcerate'
+album = 'Cutting The Throat Of God'
+listened_at = '2024-08-07T15:25:34Z'
+
+[[tracks]]
+name = 'The Dawn Is Hollow'
+artist = 'Ulcerate'
+album = 'Cutting The Throat Of God'
 listened_at = '2024-08-07T03:07:05Z'
 
 [[tracks]]
