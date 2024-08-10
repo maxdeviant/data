@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Skepsis, Pt. I'
+artist = 'Der Weg einer Freiheit'
+album = 'Finisterre'
+listened_at = '2024-08-10T03:14:19Z'
+
+[[tracks]]
+name = 'Ein Letzter Tanz'
+artist = 'Der Weg einer Freiheit'
+album = 'Finisterre'
+listened_at = '2024-08-10T03:00:29Z'
+
+[[tracks]]
 name = 'Aufbruch'
 artist = 'Der Weg einer Freiheit'
 album = 'Finisterre'
