@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'The Dead Light, Pt. 2'
+artist = 'Fen'
+album = 'The Dead Light'
+listened_at = '2024-08-10T14:58:45Z'
+
+[[tracks]]
+name = 'Golden Dust'
+artist = 'Heretoir'
+album = 'The Circle'
+listened_at = '2024-08-10T14:52:17Z'
+
+[[tracks]]
+name = 'Void'
+artist = 'ColdWorld'
+album = 'Autumn'
+listened_at = '2024-08-10T14:45:47Z'
+
+[[tracks]]
+name = 'Skepsis, Pt. II'
+artist = 'Der Weg einer Freiheit'
+album = 'Finisterre'
+listened_at = '2024-08-10T03:19:23Z'
+
+[[tracks]]
 name = 'Skepsis, Pt. I'
 artist = 'Der Weg einer Freiheit'
 album = 'Finisterre'
