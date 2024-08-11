@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Void'
+artist = 'ColdWorld'
+album = 'Autumn'
+listened_at = '2024-08-11T18:54:27Z'
+
+[[tracks]]
+name = 'Scars'
+artist = 'ColdWorld'
+album = 'Autumn'
+listened_at = '2024-08-11T18:46:48Z'
+
+[[tracks]]
+name = 'Portrait of Pieces'
+artist = 'Numenorean'
+album = 'Adore'
+listened_at = '2024-08-11T01:16:21Z'
+
+[[tracks]]
 name = 'Nocebo'
 artist = 'Numenorean'
 album = 'Adore'
