@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Solus'
+artist = 'First Fragment'
+album = 'Gloire Éternelle'
+listened_at = '2024-08-12T14:57:14Z'
+
+[[tracks]]
+name = 'Sarcoma'
+artist = 'Alluvial'
+album = 'Sarcoma'
+listened_at = '2024-08-12T14:53:50Z'
+
+[[tracks]]
+name = 'Castle of Grief'
+artist = 'Carnosus'
+album = 'Visions Of Infinihility'
+listened_at = '2024-08-12T14:50:47Z'
+
+[[tracks]]
+name = 'Burning Down'
+artist = 'High on Fire'
+album = 'Cometh The Storm'
+listened_at = '2024-08-12T14:44:34Z'
+
+[[tracks]]
+name = 'World Mausoleum'
+artist = 'Grand Cadaver'
+album = 'Into The Maw Of Death'
+listened_at = '2024-08-12T14:42:05Z'
+
+[[tracks]]
+name = 'Down With The Sickness'
+artist = 'Disfiguring the Goddess'
+album = 'Down With The Sickness'
+listened_at = '2024-08-12T14:38:03Z'
+
+[[tracks]]
+name = 'Nobody'
+artist = 'The Dali Thundering Concept'
+album = 'Nobody'
+listened_at = '2024-08-12T14:35:07Z'
+
+[[tracks]]
+name = 'Corvus cornix'
+artist = 'svrm'
+album = 'П​р​о​щ​а​н​н​я'
+listened_at = '2024-08-12T14:32:54Z'
+
+[[tracks]]
+name = 'Womb of Emptiness'
+artist = 'ColdWorld'
+album = 'Autumn'
+listened_at = '2024-08-11T19:00:58Z'
+
+[[tracks]]
 name = 'Void'
 artist = 'ColdWorld'
 album = 'Autumn'
