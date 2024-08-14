@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Fakest Bitch'
+artist = 'London Grammar'
+album = 'Fakest Bitch'
+listened_at = '2024-08-14T20:44:18Z'
+
+[[tracks]]
+name = 'Sacrifice Me'
+artist = 'Unprocessed'
+album = 'Sacrifice Me'
+listened_at = '2024-08-14T18:54:42Z'
+
+[[tracks]]
+name = 'Poisonous Flowers Of Violence'
+artist = 'White Ward'
+album = 'Love Exchange Failure'
+listened_at = '2024-08-14T18:54:37Z'
+
+[[tracks]]
 name = 'Daffodils'
 artist = 'Groza'
 album = 'Daffodils'
