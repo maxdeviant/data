@@ -1,4 +1,274 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kzpnekrkke2w'
+created_at = '2024-08-14T23:10:29.368Z'
+text = 'RIP GitHub'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kznm7ydkyf2a'
+created_at = '2024-08-14T03:44:42.597Z'
+text = 'Chat, is this good or bad?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3kznm6wlqda2c'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kznlpt6oix2n'
+created_at = '2024-08-14T03:35:40.327Z'
+text = 'What do you estimate yours would be?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3kzkyi3pcmm2q'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kznim7otf627'
+created_at = '2024-08-14T02:39:58.028Z'
+text = 'Every time I turn around Spotify has managed to make itself even more shitty.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kzmunyhmkw27'
+created_at = '2024-08-13T20:43:02.712Z'
+text = 'Whoa, GitHub contribution charts got a new look!'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kzfgq3bt4f2k'
+created_at = '2024-08-10T21:45:02.141Z'
+text = '''
+Last week I completed a 1:1 rebuild of my site.
+
+I wrote about the process of doing so: maxdeviant.com/posts/2024/a...'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kzetbuq4tl2t'
+created_at = '2024-08-10T15:57:04.489Z'
+text = 'She Gödel on my Escher til I Bach'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kzdlornmt623'
+created_at = '2024-08-10T04:08:27.794Z'
+text = '''
+I finally deleted the Twitter app a few weeks ago and setup a block for the timeline in the News Feed Eradicator extensions.
+
+There's still a lot of people I like interacting with on it, but the service just seems to continually be sliding towards oblivion.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2xau7wbgdq4phuou2ypwuen7/app.bsky.feed.post/3kzcgxwaohk2m'
+author_did = 'did:plc:2xau7wbgdq4phuou2ypwuen7'
+author_handle = 'tom-sherman.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kywsggi53l2a'
+created_at = '2024-08-05T02:04:27.178Z'
+text = 'The past haunts me like a specter. The future looms over me like a shroud.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kyttegwk3n2n'
+created_at = '2024-08-03T21:43:15.127Z'
+text = 'Still chipping away at the website migration.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kyqvfwt3ij26'
+created_at = '2024-08-02T17:41:53.609Z'
+text = 'Hopefully without all the Nazis'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3kyqsrlmxq524'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kyqhzwgvrj2k'
+created_at = '2024-08-02T13:42:31.925Z'
+text = '''I've almost entirely switched over to Claude at this point, I just find it gives me better results in general over GPT-4.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vpkhqolt662uhesyj6nxm7ys/app.bsky.feed.post/3kypsycazic2w'
+author_did = 'did:plc:vpkhqolt662uhesyj6nxm7ys'
+author_handle = 'why.bsky.team'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kyorros2po2k'
+created_at = '2024-08-01T21:31:33.397Z'
+text = 'Thank you, I needed this.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wxw27ws4be6vkv7zoenmfyb4/app.bsky.feed.post/3kym6xkrtv525'
+author_did = 'did:plc:wxw27ws4be6vkv7zoenmfyb4'
+author_handle = 'pairofclaws.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kyohglpyx72x'
+created_at = '2024-08-01T18:26:23.678Z'
+text = '@skeetstats.xyz !optin'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kyfbw324pv2z'
+created_at = '2024-07-29T02:53:42.966Z'
+text = 'What constitutes "ready"? 👀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:p2cp5gopk7mgjegy6wadk3ep/app.bsky.feed.post/3kxo7z2xhan2y'
+author_did = 'did:plc:p2cp5gopk7mgjegy6wadk3ep'
+author_handle = 'samuel.bsky.team'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kyernmsrbd2i'
+created_at = '2024-07-28T22:02:39.692Z'
+text = '''
+The website yak shave continues.
+
+Today I built a little tool to help me compare the output of my old and new site generators to catch any discrepancies.
+
+It's already proved incredibly useful in finding some mistakes I've made so far during the port.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kyacc4w2cj2i'
+created_at = '2024-07-27T03:17:08.848Z'
+text = '''
+My site rebuild is turning into a big yak shave.
+
+I should probably find a way to make it more incremental.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kxswatdgl62b'
+created_at = '2024-07-21T19:37:03.795Z'
+text = '''I'm with you there. I was very worried about Biden's prospects the second time around, so a change in strategy gives me some glimmer of hope.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3kxsvzr6y5h2r'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kxlm3k4iyc2r'
+created_at = '2024-07-18T21:46:30.733Z'
+text = 'Another day, another `git bisect`.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kxkqbkpd2b2x'
+created_at = '2024-07-18T13:28:47.877Z'
+text = '''
+This week I've been spending some time refining the appearance of tabs within Zed.
+
+Today I landed some changes to the channel tabs. The changes are subtle, but I think they look much better now!'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kwacf3idt32d'
+created_at = '2024-07-01T16:28:27.303Z'
+text = '''I wish my brain could recognize that it's going to be happy after the workout, because it feels like every day it has forgotten that fact, which makes it harder to start.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3kwabz3lma22d'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kwa6mf3vlr2u'
+created_at = '2024-07-01T15:20:57.279Z'
+text = '''Nice job! I've been doing 30 minutes a day on my stationary bike at home, and I've found it to do wonders for my overall demeanor 🙂'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3kwa3nqrln22v'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ktpqbbfxna2s'
+created_at = '2024-05-30T15:31:10.369Z'
+text = '''When you get a pull request opened on a repo and the author's GitHub bio has "featuring a team composed of AI personas" in it, you just know you're in for an awful time.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kto3xrbtqt2v'
+created_at = '2024-05-29T23:55:16.895Z'
+text = 'Laser-eyed loon flag would have gone so hard 😪'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3ktnpbqgm2s2v'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ktmw5g7xbk2v'
+created_at = '2024-05-29T12:38:24.440Z'
+text = 'And now they’ve got that snazzy new flag, to boot!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3ktmajjxldc27'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ktltqgb6ws2f'
+created_at = '2024-05-29T02:22:41.020Z'
+text = 'Wish I had skipped more PE class...'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2sfy6irvmfmnwxe4ouhrrn7a/app.bsky.feed.post/3ktlkx4mt5s23'
+author_did = 'did:plc:2sfy6irvmfmnwxe4ouhrrn7a'
+author_handle = 'notalegalrecord.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ktlr6nx3jl2b'
+created_at = '2024-05-29T01:36:57.623Z'
+text = 'Go on...'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vpkhqolt662uhesyj6nxm7ys/app.bsky.feed.post/3ktlqofv3l22m'
+author_did = 'did:plc:vpkhqolt662uhesyj6nxm7ys'
+author_handle = 'why.bsky.team'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ktlo45z3js27'
+created_at = '2024-05-29T00:41:52.548Z'
+text = '''
+TIL that you can easily check the build status of a package in the nixpkgs repo:
+
+```
+λ nix-shell -p hydra-check --command "hydra-check --channel unstable gleam"
+Build Status for nixpkgs.gleam.x86_64-linux on unstable
+✔ gleam-1.1.0 from 2024-05-22 - hydra.nixos.org/build/260677...
+```'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ktlklequn22w'
+created_at = '2024-05-28T23:38:47.969Z'
+text = '''
+I should really do this.
+
+In fact, I should have done it a number of years ago when I changed email addresses the first time.
+
+I guess aliasing won’t be as big of a pain, since all the emails will end up in the same inbox.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:exrxvyu6bpoym6mbnctke5tn/app.bsky.feed.post/3ktlgojv4up22'
+author_did = 'did:plc:exrxvyu6bpoym6mbnctke5tn'
+author_handle = 'molly.wiki'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ktklqxxvo22v'
+created_at = '2024-05-28T14:27:09.920Z'
+text = '''
+Me: Hey there, what’s your name?
+Them: Hi, I’m John Jacob Jingleheimer Schmidt.
+Me: You’re not going to believe this.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ktek4gq6322q'
+created_at = '2024-05-26T04:41:48.612Z'
+text = '''
+Glad you enjoyed it!
+
+Walking to a bakery for a cup of coffee sounds quite relaxing.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sshwio5obbx4zjfrn3fhsen6/app.bsky.feed.post/3kteagaebm32e'
+author_did = 'did:plc:sshwio5obbx4zjfrn3fhsen6'
+author_handle = 'moshyfawn.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ktbxvrvbfs2p'
 created_at = '2024-05-25T04:10:38.534Z'
 text = '''
