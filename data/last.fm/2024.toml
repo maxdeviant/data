@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'I Can and I Will'
+artist = 'searows'
+album = 'End of the World'
+listened_at = '2024-08-17T18:25:03Z'
+
+[[tracks]]
+name = 'End Of The World'
+artist = 'searows'
+album = 'End of the World'
+listened_at = '2024-08-17T18:21:08Z'
+
+[[tracks]]
+name = 'Funny'
+artist = 'Searows'
+album = 'End of the World'
+listened_at = '2024-08-17T18:04:47Z'
+
+[[tracks]]
 name = 'Collector'
 artist = 'Searows'
 album = 'End of the World'
