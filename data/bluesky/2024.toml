@@ -1,4 +1,16 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kzysjlxtte26'
+created_at = '2024-08-18T14:36:44.754Z'
+text = '''
+TIL that Markdown images can have titles:
+
+```
+![foo](/url "title")
+```
+
+spec.commonmark.org/0.31.2/#exam...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3kzrblt7gtf2p'
 created_at = '2024-08-15T14:45:07.686Z'
 text = 'What a lovely shot!'
