@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Daybreak'
+artist = 'Pallbearer'
+album = 'Mind Burns Alive'
+listened_at = '2024-08-19T15:38:56Z'
+
+[[tracks]]
+name = 'Endless Place'
+artist = 'Pallbearer'
+album = 'Mind Burns Alive'
+listened_at = '2024-08-19T15:28:18Z'
+
+[[tracks]]
+name = 'Signals'
+artist = 'Pallbearer'
+album = 'Mind Burns Alive'
+listened_at = '2024-08-19T15:20:24Z'
+
+[[tracks]]
+name = 'Mind Burns Alive'
+artist = 'Pallbearer'
+album = 'Mind Burns Alive'
+listened_at = '2024-08-19T15:12:27Z'
+
+[[tracks]]
+name = 'Where The Light Fades'
+artist = 'Pallbearer'
+album = 'Mind Burns Alive'
+listened_at = '2024-08-19T15:05:48Z'
+
+[[tracks]]
+name = 'Rot in Pieces'
+artist = 'Carnal Savagery'
+album = 'Zombie Infested (Demo)'
+listened_at = '2024-08-19T15:04:15Z'
+
+[[tracks]]
 name = 'Where The Light Fades'
 artist = 'Pallbearer'
 album = 'Mind Burns Alive'
