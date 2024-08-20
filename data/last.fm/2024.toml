@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Rain'
+artist = 'Ashbringer'
+album = 'We Came Here To Grieve'
+listened_at = '2024-08-20T03:24:04Z'
+
+[[tracks]]
+name = 'Warriors'
+artist = 'Blackbraid'
+album = 'Warriors'
+listened_at = '2024-08-20T03:17:17Z'
+
+[[tracks]]
+name = 'IED (Intermittent Explosive Disorder)'
+artist = 'Nostromo'
+album = 'Bucephale'
+listened_at = '2024-08-20T03:15:30Z'
+
+[[tracks]]
+name = 'Ship Of Fools'
+artist = 'Nostromo'
+album = 'Bucephale'
+listened_at = '2024-08-20T03:11:49Z'
+
+[[tracks]]
+name = 'The Great Marsh'
+artist = 'Sermon'
+album = 'Of Golden Verse'
+listened_at = '2024-08-20T03:09:59Z'
+
+[[tracks]]
+name = 'Circle With Me'
+artist = 'Spiritbox'
+album = 'Eternal Blue'
+listened_at = '2024-08-20T03:02:48Z'
+
+[[tracks]]
 name = 'Sun Killer'
 artist = 'Spiritbox'
 album = 'Eternal Blue'
