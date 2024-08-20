@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Altid Veltilfreds'
+artist = 'Afsky'
+album = 'Ofte jeg drømmer mig død'
+listened_at = '2024-08-20T14:27:20Z'
+
+[[tracks]]
+name = 'Natural Disaster'
+artist = 'TesseracT'
+album = 'War Of Being'
+listened_at = '2024-08-20T14:21:57Z'
+
+[[tracks]]
+name = 'Am Abgrund'
+artist = 'Disillusion'
+album = 'Ayam'
+listened_at = '2024-08-20T14:20:25Z'
+
+[[tracks]]
 name = 'Rain'
 artist = 'Ashbringer'
 album = 'We Came Here To Grieve'
