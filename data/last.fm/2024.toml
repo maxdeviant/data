@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Sun Killer'
+artist = 'Spiritbox'
+album = 'Eternal Blue'
+listened_at = '2024-08-20T03:00:27Z'
+
+[[tracks]]
+name = 'Change (In the House of Flies)'
+artist = 'Deftones'
+album = 'White Pony'
+listened_at = '2024-08-20T02:55:28Z'
+
+[[tracks]]
+name = 'Onsra'
+artist = 'Oceans Ate Alaska'
+album = 'Onsra'
+listened_at = '2024-08-20T02:52:14Z'
+
+[[tracks]]
+name = 'Sacrifice Me'
+artist = 'Unprocessed'
+album = 'Sacrifice Me'
+listened_at = '2024-08-20T02:31:48Z'
+
+[[tracks]]
+name = 'Sacrifice Me'
+artist = 'Unprocessed'
+album = 'Sacrifice Me'
+listened_at = '2024-08-20T02:26:52Z'
+
+[[tracks]]
+name = 'Endless Place'
+artist = 'Pallbearer'
+album = 'Mind Burns Alive'
+listened_at = '2024-08-19T23:00:10Z'
+
+[[tracks]]
 name = 'Signals'
 artist = 'Pallbearer'
 album = 'Mind Burns Alive'
