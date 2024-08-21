@@ -1,4 +1,32 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l26qe7hf7s2d'
+created_at = '2024-08-20T23:13:54.826Z'
+text = '''
+Indeed, I do see that Dan is still listed on the React team page!
+
+Hopefully this is a bit more accurate :)'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2xau7wbgdq4phuou2ypwuen7/app.bsky.feed.post/3l26pblhu322y'
+author_did = 'did:plc:2xau7wbgdq4phuou2ypwuen7'
+author_handle = 'tom-sherman.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l26nkdrqtk2b'
+created_at = '2024-08-20T22:23:39.422Z'
+text = 'If @danabra.mov wants a different title I will happily make an adjustment for him 😄'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gttrfs4hfmrclyxvwkwcgpj7/app.bsky.feed.post/3l26lqbkmjk2d'
+author_did = 'did:plc:gttrfs4hfmrclyxvwkwcgpj7'
+author_handle = 'aparker.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l26lh3rhmc2z'
+created_at = '2024-08-20T21:46:02.877Z'
+text = 'The new zed.dev is live, and it now comes in dark mode!'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l25jymgbem2m'
 created_at = '2024-08-20T11:47:23.589Z'
 text = 'All this time checking for oxidization when you should have been on the lookout for carcinization 🦀'
