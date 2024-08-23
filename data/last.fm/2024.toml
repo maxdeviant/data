@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Where The Light Fades'
+artist = 'Pallbearer'
+album = 'Mind Burns Alive'
+listened_at = '2024-08-23T20:20:38Z'
+
+[[tracks]]
+name = 'Circle With Me'
+artist = 'Spiritbox'
+album = 'Eternal Blue'
+listened_at = '2024-08-23T20:16:45Z'
+
+[[tracks]]
+name = 'Allure'
+artist = 'Fallujah'
+album = 'The Flesh Prevails'
+listened_at = '2024-08-23T16:27:30Z'
+
+[[tracks]]
 name = 'Sacrifice Me'
 artist = 'Unprocessed'
 album = 'Sacrifice Me'
