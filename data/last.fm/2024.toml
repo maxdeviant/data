@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Drama Club'
+artist = 'Melanie Martinez'
+album = 'K-12'
+listened_at = '2024-08-23T02:04:46Z'
+
+[[tracks]]
+name = '''Nurse's Office'''
+artist = 'Melanie Martinez'
+album = 'K-12'
+listened_at = '2024-08-23T02:01:24Z'
+
+[[tracks]]
+name = 'Show & Tell'
+artist = 'Melanie Martinez'
+album = 'K-12'
+listened_at = '2024-08-23T01:57:47Z'
+
+[[tracks]]
+name = 'The Principal'
+artist = 'Melanie Martinez'
+album = 'K-12'
+listened_at = '2024-08-23T01:54:51Z'
+
+[[tracks]]
+name = 'Class Fight'
+artist = 'Melanie Martinez'
+album = 'K-12'
+listened_at = '2024-08-23T01:50:32Z'
+
+[[tracks]]
+name = 'Les Mammonites'
+artist = 'PENITENCE ONIRIQUE'
+album = 'Nature Morte'
+listened_at = '2024-08-23T00:48:51Z'
+
+[[tracks]]
+name = 'Pharmakos'
+artist = 'PENITENCE ONIRIQUE'
+album = 'Nature Morte'
+listened_at = '2024-08-23T00:42:27Z'
+
+[[tracks]]
+name = 'Désir'
+artist = 'PENITENCE ONIRIQUE'
+album = 'Nature Morte'
+listened_at = '2024-08-23T00:42:26Z'
+
+[[tracks]]
 name = '''Je vois Satan tomber comme l'éclair'''
 artist = 'PENITENCE ONIRIQUE'
 album = 'Nature Morte'
