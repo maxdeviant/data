@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Taste'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-24T00:38:19Z'
+
+[[tracks]]
+name = 'Don’t Smile'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-24T00:34:52Z'
+
+[[tracks]]
+name = 'Lie to Girls'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-24T00:31:30Z'
+
+[[tracks]]
+name = 'Juno'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-24T00:19:22Z'
+
+[[tracks]]
 name = 'Slim Pickins'
 artist = 'Sabrina Carpenter'
 album = '''Short n' Sweet'''
