@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2ke44wt6r2x'
+created_at = '2024-08-25T14:06:35.676Z'
+text = '''For someone who hasn't seen any of the Alien movies before, am I better off catching up before watching Romulus?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3l2j5jjggxi2d'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2i5qmsk5w2i'
 created_at = '2024-08-24T17:07:27.683Z'
 text = '''
