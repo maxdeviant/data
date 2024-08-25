@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Coincidence'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-24T21:53:48Z'
+
+[[tracks]]
+name = 'Sharpest Tool'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-24T21:50:07Z'
+
+[[tracks]]
+name = 'Good Graces'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-24T21:47:05Z'
+
+[[tracks]]
+name = 'Please Please Please'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-24T21:43:58Z'
+
+[[tracks]]
+name = 'Taste'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-24T03:33:15Z'
+
+[[tracks]]
 name = 'Taste'
 artist = 'Sabrina Carpenter'
 album = '''Short n' Sweet'''
