@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Candyland'
+artist = 'Unprocessed'
+album = 'Candyland'
+listened_at = '2024-08-29T16:41:20Z'
+
+[[tracks]]
+name = 'Redwine'
+artist = 'Unprocessed'
+album = 'Gold'
+listened_at = '2024-08-29T16:38:39Z'
+
+[[tracks]]
+name = 'Abandoned'
+artist = 'Unprocessed'
+album = 'Artificial Void'
+listened_at = '2024-08-29T16:33:11Z'
+
+[[tracks]]
+name = 'Lore'
+artist = 'Unprocessed'
+album = '...and everything in between'
+listened_at = '2024-08-29T16:29:20Z'
+
+[[tracks]]
+name = 'Real'
+artist = 'Unprocessed'
+album = 'Real'
+listened_at = '2024-08-29T16:25:42Z'
+
+[[tracks]]
+name = 'Blackbone'
+artist = 'Unprocessed'
+album = '...and everything in between'
+listened_at = '2024-08-29T16:21:09Z'
+
+[[tracks]]
+name = 'Rain'
+artist = 'Unprocessed'
+album = 'Gold'
+listened_at = '2024-08-29T00:50:53Z'
+
+[[tracks]]
 name = 'Thrash'
 artist = 'Unprocessed'
 album = '...and everything in between'

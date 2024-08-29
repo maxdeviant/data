@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2uooj5sfu2e'
+created_at = '2024-08-29T16:42:27.270Z'
+text = 'Sure, sounds great! Looking forward to meeting in person 😄'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3l2uon4lpgn2u'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2ulwxdh252q'
+created_at = '2024-08-29T15:53:29.366Z'
+text = '''
+Ooh, thanks for the reminder!
+
+Just scheduled my appointment for both jabs.
+
+My wife mentioned it might be a little early for the flu vaccine to have it last all the way through flu season, but I think getting them both in advance of RustConf seems like a good idea 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3l2sbex6ja72o'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2ke44wt6r2x'
 created_at = '2024-08-25T14:06:35.676Z'
 text = '''For someone who hasn't seen any of the Alien movies before, am I better off catching up before watching Romulus?'''
