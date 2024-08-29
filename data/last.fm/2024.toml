@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Thrash'
+artist = 'Unprocessed'
+album = '...and everything in between'
+listened_at = '2024-08-29T00:47:16Z'
+
+[[tracks]]
+name = 'Glass'
+artist = 'Unprocessed'
+album = '...and everything in between'
+listened_at = '2024-08-29T00:43:30Z'
+
+[[tracks]]
+name = 'Hell'
+artist = 'Unprocessed'
+album = '...and everything in between'
+listened_at = '2024-08-29T00:38:41Z'
+
+[[tracks]]
+name = 'DeadRose'
+artist = 'Unprocessed'
+album = 'Deadrose'
+listened_at = '2024-08-29T00:35:00Z'
+
+[[tracks]]
+name = 'Sacrifice Me'
+artist = 'Unprocessed'
+album = 'Sacrifice Me'
+listened_at = '2024-08-29T00:31:02Z'
+
+[[tracks]]
+name = 'Nothing On (But The Radio)'
+artist = 'Addison Rae'
+album = 'AR'
+listened_at = '2024-08-29T00:30:46Z'
+
+[[tracks]]
 name = 'Fakest Bitch'
 artist = 'London Grammar'
 album = 'Fakest Bitch'
