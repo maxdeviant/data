@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2vdsyteyz2n'
+created_at = '2024-08-29T23:00:46.538Z'
+text = 'Pack it up, folks, the Rust experiment is over. Time to go back to using cryptography libraries written in C /s'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sgqw2zixdcjtjjhrm4bw64ny/app.bsky.feed.post/3l2vcm7dop22z'
+author_did = 'did:plc:sgqw2zixdcjtjjhrm4bw64ny'
+author_handle = 'mattkeeter.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2uooj5sfu2e'
 created_at = '2024-08-29T16:42:27.270Z'
 text = 'Sure, sounds great! Looking forward to meeting in person 😄'
