@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2x3qhelzb2p'
+created_at = '2024-08-30T15:41:30.650Z'
+text = '''Make him print out the code he wrote in the last month and then have him tell you why he's proud of it.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3l2ve6c7qh22o'
+author_did = 'did:plc:ragtjsm2j2vknwkz3zp4oxrd'
+author_handle = 'pfrazee.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2vn5mqd7h2p'
 created_at = '2024-08-30T01:47:46.595Z'
 text = '''
