@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Svanesang'
+artist = 'Wiegedood'
+album = 'De Doden Hebben Het Goed'
+listened_at = '2024-08-30T23:07:17Z'
+
+[[tracks]]
+name = 'Rain'
+artist = 'Unprocessed'
+album = 'Gold'
+listened_at = '2024-08-30T23:03:59Z'
+
+[[tracks]]
 name = 'Growing Sycamore'
 artist = 'Witch Bolt'
 album = 'Bellow'
