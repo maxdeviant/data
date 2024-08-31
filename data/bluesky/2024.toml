@@ -1,4 +1,13 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2y45vqoxs2i'
+created_at = '2024-08-31T01:21:41.638Z'
+text = '''
+Them: "Oh hey, you're back from the wedding early"
+Why: "Servers' haunted"
+Them: "What?"
+Why: *loading a pistol and heading back into the server room* "Servers' haunted"'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2x3qhelzb2p'
 created_at = '2024-08-30T15:41:30.650Z'
 text = '''Make him print out the code he wrote in the last month and then have him tell you why he's proud of it.'''
