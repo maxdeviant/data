@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Coincidence'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-31T19:44:58Z'
+
+[[tracks]]
+name = 'Sharpest Tool'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-31T19:41:20Z'
+
+[[tracks]]
+name = 'Good Graces'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-31T19:38:13Z'
+
+[[tracks]]
+name = 'Please Please Please'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-31T19:35:08Z'
+
+[[tracks]]
+name = 'Taste'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-08-31T19:32:32Z'
+
+[[tracks]]
+name = 'Kwaad Bloed'
+artist = 'Wiegedood'
+album = 'De Doden Hebben Het Goed'
+listened_at = '2024-08-31T16:46:31Z'
+
+[[tracks]]
 name = 'Svanesang'
 artist = 'Wiegedood'
 album = 'De Doden Hebben Het Goed'
