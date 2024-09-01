@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l33rv3g3c223'
+created_at = '2024-09-01T12:28:27.169Z'
+text = 'I used cargo-dist for the first time this past week and it was such a breeze!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:yym5dkfbnzf6lspvh4hnstjg/app.bsky.feed.post/3l33ijybztv2h'
+author_did = 'did:plc:yym5dkfbnzf6lspvh4hnstjg'
+author_handle = 'mitsuhiko.at'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l2y45vqoxs2i'
 created_at = '2024-08-31T01:21:41.638Z'
 text = '''
