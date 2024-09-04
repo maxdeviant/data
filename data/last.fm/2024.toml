@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Ég anda'
+artist = 'Sigur Rós'
+album = 'Valtari'
+listened_at = '2024-09-04T02:49:01Z'
+
+[[tracks]]
+name = 'Strange Consolation'
+artist = 'Neck of the Woods'
+album = 'The Annex of Ire'
+listened_at = '2024-09-04T02:48:34Z'
+
+[[tracks]]
 name = 'Holes'
 artist = 'Tar'
 album = 'Holes'
