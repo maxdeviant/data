@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3gaepgcya22'
+created_at = '2024-09-05T16:14:21.208Z'
+text = '''
+One of my big GitHub pet peeves is when people mark their GitHub activity as private.
+
+What are you hiding?!'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3emflbd6g2u'
 created_at = '2024-09-05T00:44:15.828Z'
 text = 'Hello MTV, and welcome to my crib.'
