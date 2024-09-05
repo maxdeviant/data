@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3gmaqxfeb2t'
+created_at = '2024-09-05T19:46:53.468Z'
+text = '''
+What if we had `vulnerabilities.txt`?
+
+It would be like `robots.txt`, but it would list out all the known vulnerabilities for your system.
+
+Would be a great way for pentesters to know what you're already aware of so they don't report it again!'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3gaepgcya22'
 created_at = '2024-09-05T16:14:21.208Z'
 text = '''
