@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3ixkswhqx2o'
+created_at = '2024-09-06T18:14:41.736Z'
+text = '''
+This was a cool talk!
+
+Timestamped link, if anyone needs it: www.youtube.com/live/pfeTPSa...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3hcp46ic52i'
 created_at = '2024-09-06T02:28:37.381Z'
 text = '“A Caves of Qud Movie”'
