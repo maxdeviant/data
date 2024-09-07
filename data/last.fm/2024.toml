@@ -2,6 +2,36 @@
 name = 'Dysthymian Dreams'
 artist = 'Groza'
 album = 'Deluge'
+listened_at = '2024-09-07T01:00:22Z'
+
+[[tracks]]
+name = 'Daffodils'
+artist = 'Groza'
+album = 'Deluge'
+listened_at = '2024-09-07T00:50:29Z'
+
+[[tracks]]
+name = 'Deluge'
+artist = 'Groza'
+album = 'Deluge'
+listened_at = '2024-09-07T00:41:13Z'
+
+[[tracks]]
+name = 'Planet Hell'
+artist = 'Nightwish'
+album = 'Once'
+listened_at = '2024-09-07T00:35:54Z'
+
+[[tracks]]
+name = 'Taste'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-09-06T23:50:39Z'
+
+[[tracks]]
+name = 'Dysthymian Dreams'
+artist = 'Groza'
+album = 'Deluge'
 listened_at = '2024-09-06T22:04:23Z'
 
 [[tracks]]
