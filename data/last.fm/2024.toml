@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Onder Gaan'
+artist = 'Wiegedood'
+album = 'De Doden Hebben Het Goed'
+listened_at = '2024-09-07T21:55:28Z'
+
+[[tracks]]
+name = 'De Doden Hebben Het Goed'
+artist = 'Wiegedood'
+album = 'De Doden Hebben Het Goed'
+listened_at = '2024-09-07T21:48:34Z'
+
+[[tracks]]
+name = 'Kwaad Bloed'
+artist = 'Wiegedood'
+album = 'De Doden Hebben Het Goed'
+listened_at = '2024-09-07T21:41:22Z'
+
+[[tracks]]
+name = 'Svanesang'
+artist = 'Wiegedood'
+album = 'De Doden Hebben Het Goed'
+listened_at = '2024-09-07T21:26:57Z'
+
+[[tracks]]
+name = 'Deluge'
+artist = 'Groza'
+album = 'Deluge'
+listened_at = '2024-09-07T21:17:12Z'
+
+[[tracks]]
 name = 'Deluge'
 artist = 'Groza'
 album = 'Deluge'
