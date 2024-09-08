@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3noee47kv2v'
+created_at = '2024-09-08T15:13:19.925Z'
+text = 'I definitely get better reception since I got mine.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3l3mkaehshh2w'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3nnzkjgds2a'
+created_at = '2024-09-08T15:07:17.530Z'
+text = '''
+Flying up to Montreal for #RustConf this week!
+
+Who all can I expect to see there?
+
+I'll be hanging around the @zed.dev booth, so do drop by and say hello 😄'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3lwyoeird2x'
 created_at = '2024-09-07T22:42:32.175Z'
 text = '''
