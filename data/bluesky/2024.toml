@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3p2fk4urm2u'
+created_at = '2024-09-09T04:21:24.369Z'
+text = 'Do you keep track of these shifts to see if any patterns emerge?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ysqjmrbdrmjqt664qwfk3v3g/app.bsky.feed.post/3l3ox4wvh762t'
+author_did = 'did:plc:ysqjmrbdrmjqt664qwfk3v3g'
+author_handle = 'mnchrm.co'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3noee47kv2v'
 created_at = '2024-09-08T15:13:19.925Z'
 text = 'I definitely get better reception since I got mine.'
