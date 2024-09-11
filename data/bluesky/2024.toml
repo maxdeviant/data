@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3tog4xxv52j'
+created_at = '2024-09-11T00:30:17.932Z'
+text = 'Thank you!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3l3tn5syy3v2n'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3tnbhy2fq27'
 created_at = '2024-09-11T00:09:47.965Z'
 text = '''
