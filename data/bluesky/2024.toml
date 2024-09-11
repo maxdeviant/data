@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3tnbhy2fq27'
+created_at = '2024-09-11T00:09:47.965Z'
+text = '''
+That’s not to say that there is anything in particular that I would change. I’ve been very fortunate to find a wife that I love dearly and a fulfilling career.
+
+But going into this next phase I’m now more carefully discern the source of these desires.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3tmypos4f2k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3tmypos4f2k'
+created_at = '2024-09-11T00:04:54.027Z'
+text = 'I turned 30 a few weeks ago and had a similar realization of “most of my life thus far has been driven by this innate worldview that has been impressed upon me from an early age; maybe it’s time to reevaluate that”'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3l3tg4pwe6q2j'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3qupaklqc2m'
 created_at = '2024-09-09T21:44:46.960Z'
 text = 'It’s a beautiful day in Montréal.'
