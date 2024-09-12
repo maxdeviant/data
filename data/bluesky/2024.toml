@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3vywifzke2x'
+created_at = '2024-09-11T22:43:43.742Z'
+text = '''
+I was talking about `jj` with a coworker yesterday, and have been thinking about trying it out.
+
+Seems like now is a good time 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3l3vum4jzwc2s'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l3uzjshqdi2j'
 created_at = '2024-09-11T13:21:52.054Z'
 text = 'Hello, RustConf 🦀'
