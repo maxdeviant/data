@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Deluge'
+artist = 'Groza'
+album = 'Deluge'
+listened_at = '2024-09-17T00:21:03Z'
+
+[[tracks]]
+name = 'I Hope You Choke'
+artist = 'Harper'
+album = 'I Hope You Choke'
+listened_at = '2024-09-17T00:17:31Z'
+
+[[tracks]]
 name = 'Where The Light Fades'
 artist = 'Pallbearer'
 album = 'Mind Burns Alive'
