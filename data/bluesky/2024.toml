@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4gmdpcgiy2c'
+created_at = '2024-09-18T13:13:44.028Z'
+text = '''
+I'm trying to figure out who the target audience is.
+
+People who love the feeling of having scrolled through social media for 3 hours and realize that they didn't get any lasting enjoyment out of it?
+
+(Narcissists. Their target demographic is probably narcissists.)'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3l4gjpauu542z'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4gm3nwujm2v'
+created_at = '2024-09-18T13:09:14.166Z'
+text = '''OH: "You know it's really no coincidence that of all things the crypto community opted for portraying themselves as monkeys"'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4fczfrgwy26'
 created_at = '2024-09-18T00:54:15.117Z'
 text = '''
