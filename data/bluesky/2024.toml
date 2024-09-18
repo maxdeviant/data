@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4fczfrgwy26'
+created_at = '2024-09-18T00:54:15.117Z'
+text = '''
+Whoa, this album is sick! Thanks for sharing.
+
+I'm always on the lookout for new black metal 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ysqjmrbdrmjqt664qwfk3v3g/app.bsky.feed.post/3l4cgtofqne2i'
+author_did = 'did:plc:ysqjmrbdrmjqt664qwfk3v3g'
+author_handle = 'mnchrm.co'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4fbe2j2eh2b'
+created_at = '2024-09-18T00:24:24.873Z'
+text = '''I made the mistake of watching 10 seconds of the Talk Tuah podcast and now I'm ready to end it all.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4cxw6e5h42g'
 created_at = '2024-09-17T02:30:16.047Z'
 text = 'Made the first 1% babyyy'
