@@ -1,4 +1,32 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4klqqndt22g'
+created_at = '2024-09-20T03:13:46.914Z'
+text = 'I would like to return to a time before I had read this.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uyqnubfj3qlho6psy6uvvt6u/app.bsky.feed.post/3l4jwwttond2w'
+author_did = 'did:plc:uyqnubfj3qlho6psy6uvvt6u'
+author_handle = 'scoiattolo.mountainherder.xyz'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4kkl5avcs2c'
+created_at = '2024-09-20T02:52:44.977Z'
+text = '''Charlie Vickers' performance this season has been absolutely phenomenal so far.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4kes5aofk2r'
+created_at = '2024-09-20T01:09:17.450Z'
+text = '''
+I thought the season one was alright, but have been getting into season two way more.
+
+I don't really understand the people who are still complaining about it being bad (other than that they've already resolved to think that).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:psqralexigiufgtswkszy6zr/app.bsky.feed.post/3l4epsfxcjl2u'
+author_did = 'did:plc:psqralexigiufgtswkszy6zr'
+author_handle = 'charliejane.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4i45qh3fw2w'
 created_at = '2024-09-19T03:29:23.564Z'
 text = '''
