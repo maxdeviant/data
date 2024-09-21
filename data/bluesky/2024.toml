@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4nzir7yhp2y'
+created_at = '2024-09-21T11:57:50.683Z'
+text = 'What people do with their motherboards on their own time is none of my business.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:33bdqqtdzdqos3hxyfhdolmc/app.bsky.feed.post/3l4ns7jvchz2c'
+author_did = 'did:plc:33bdqqtdzdqos3hxyfhdolmc'
+author_handle = 'lunabuna.sisters.moe'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4klqqndt22g'
 created_at = '2024-09-20T03:13:46.914Z'
 text = 'I would like to return to a time before I had read this.'
