@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4vmk5lgyk2b'
+created_at = '2024-09-24T12:27:16.455Z'
+text = 'Ooh, I’ve been searching for a Songwhip replacement!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:te3rqfjzvze355bnq5zpd7fx/app.bsky.feed.post/3l4vai3elie22'
+author_did = 'did:plc:te3rqfjzvze355bnq5zpd7fx'
+author_handle = 'michiemusic.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4nzir7yhp2y'
 created_at = '2024-09-21T11:57:50.683Z'
 text = 'What people do with their motherboards on their own time is none of my business.'
