@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Pragma'
+artist = 'Illyria'
+album = 'Wanderlust'
+listened_at = '2024-09-27T00:13:41Z'
+
+[[tracks]]
+name = 'Yesteryear'
+artist = 'Illyria'
+album = 'Wanderlust'
+listened_at = '2024-09-27T00:07:15Z'
+
+[[tracks]]
+name = 'Armagedda'
+artist = 'Illyria'
+album = 'Wanderlust'
+listened_at = '2024-09-27T00:05:14Z'
+
+[[tracks]]
+name = 'Trauma - Worakls Remix'
+artist = 'NTO'
+album = 'Hungry 5 (The Best of 5 Years)'
+listened_at = '2024-09-26T20:09:28Z'
+
+[[tracks]]
 name = 'Planet X'
 artist = 'Space 92'
 album = 'Planet X'
