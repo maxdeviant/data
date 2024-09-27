@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Wanderlust'
+artist = 'Illyria'
+album = 'Wanderlust'
+listened_at = '2024-09-27T14:35:58Z'
+
+[[tracks]]
+name = 'Sirens'
+artist = 'Illyria'
+album = 'Wanderlust'
+listened_at = '2024-09-27T14:28:57Z'
+
+[[tracks]]
+name = 'Aftermath'
+artist = 'Illyria'
+album = 'Wanderlust'
+listened_at = '2024-09-27T14:27:44Z'
+
+[[tracks]]
+name = 'Wrath'
+artist = 'Illyria'
+album = 'Wanderlust'
+listened_at = '2024-09-27T14:22:06Z'
+
+[[tracks]]
+name = 'Frostbite'
+artist = 'Illyria'
+album = 'Wanderlust'
+listened_at = '2024-09-27T14:16:46Z'
+
+[[tracks]]
+name = 'Pragma'
+artist = 'Illyria'
+album = 'Wanderlust'
+listened_at = '2024-09-27T14:11:36Z'
+
+[[tracks]]
+name = 'Yesteryear'
+artist = 'Illyria'
+album = 'Wanderlust'
+listened_at = '2024-09-27T14:04:26Z'
+
+[[tracks]]
+name = 'Armagedda'
+artist = 'Illyria'
+album = 'Wanderlust'
+listened_at = '2024-09-27T14:02:25Z'
+
+[[tracks]]
 name = 'Pragma'
 artist = 'Illyria'
 album = 'Wanderlust'
