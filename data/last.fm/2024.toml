@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'The Judas Cradle'
+artist = 'Faidra'
+album = 'Six Voices Inside'
+listened_at = '2024-10-03T00:08:07Z'
+
+[[tracks]]
+name = 'Love Exchange Failure'
+artist = 'White Ward'
+album = 'Love Exchange Failure'
+listened_at = '2024-10-02T23:59:54Z'
+
+[[tracks]]
+name = 'A Pact Amongst Wolves'
+artist = 'Faidra'
+album = 'Six Voices Inside'
+listened_at = '2024-10-02T23:54:15Z'
+
+[[tracks]]
+name = 'Veil Walker'
+artist = 'Our Hollow, Our Home'
+album = 'Hope & Hell'
+listened_at = '2024-10-02T23:54:06Z'
+
+[[tracks]]
 name = 'Tomb Of Giants'
 artist = 'Faidra'
 album = 'Six Voices Inside'
