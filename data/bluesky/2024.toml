@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5s2rv2ctv24'
+created_at = '2024-10-05T19:56:41.018Z'
+text = '''
+This is running in Bevy.
+
+Models are all by Quaternius: quaternius.com/packs/cubewo...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5rzqc73ip2l'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5rzqc73ip2l'
+created_at = '2024-10-05T19:37:53.939Z'
+text = '''
+After dabbling exclusively 2D so far, I recently started exploring what it's like to make a game in 3D.
+
+I've been quite happy with the progress so far.
+
+Here's what my game prototype looks like right now:
+
+#gamedev #screenshotsaturday'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5p6otxjla2l'
 created_at = '2024-10-04T16:28:34.944Z'
 text = '"Gnothi seauton" taking on a whole new meaning.'
