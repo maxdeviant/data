@@ -1,4 +1,401 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5p6otxjla2l'
+created_at = '2024-10-04T16:28:34.944Z'
+text = '"Gnothi seauton" taking on a whole new meaning.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3l5p6g3x3ym2l'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5oq7zfom52i'
+created_at = '2024-10-04T12:09:44.963Z'
+text = 'Yeesh, that’s even worse! 😨'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3l5nwu3jhacms'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5nte6dqjw2l'
+created_at = '2024-10-04T03:33:05.851Z'
+text = '''Thanks, they're going on the block list 🫡'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gsky3wmjixg6aikpv3lnbzay/app.bsky.feed.post/3l5n7anhxws22'
+author_did = 'did:plc:gsky3wmjixg6aikpv3lnbzay'
+author_handle = 'chetsucks.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5nt5yr63v2i'
+created_at = '2024-10-04T03:29:38.673Z'
+text = '''
+I know it's not always an option, but the best thing I ever did was to make sure Windows and Linux were on separate drives with the Linux bootloader on the Linux drive.
+
+When I set up this dual boot I also physically disconnected the other drive when installing Windows so it couldn't mess it up 😅'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3l5njak4pq2dd'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5nsvhetpi2d'
+created_at = '2024-10-04T03:24:52.006Z'
+text = 'That reminds me, I need to finish Twin Peaks. Spoopy month seems like the ideal time!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xbrz75hh6azaixn6j2msx22x/app.bsky.feed.post/3l5n7sa4s4c2v'
+author_did = 'did:plc:xbrz75hh6azaixn6j2msx22x'
+author_handle = 'holboldoart.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5nrbzukph2x'
+created_at = '2024-10-04T02:56:06.516Z'
+text = 'Forever mourning the lost days of XMPP and Pidgin where I could connect to all of my various chat services through one native application on my desktop.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:cnyoagvcaroalhb33wen47eg/app.bsky.feed.post/3l5nm3mt7j32z'
+author_did = 'did:plc:cnyoagvcaroalhb33wen47eg'
+author_handle = 'eleanor.lockhart.contact'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5nprixkkt2y'
+created_at = '2024-10-04T02:28:58.179Z'
+text = '''
+Aha! I saw someone else mention that this is related to macOS now using private Wi-Fi addresses: 
+
+www.reddit.com/r/MacOS/comm...
+
+Sure enough, if I go into my Wi-Fi network settings and set "Private Wi-Fi address" to "Off", my hostname in my shell goes back to `volcano-manor`.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5np5yclks2f'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5np5yclks2f'
+created_at = '2024-10-04T02:18:03.202Z'
+text = '''
+The above article mentions that setting `HostName` via `scutil` might be a temporary fix.
+
+These are my current values:
+
+```
+$ scutil --get HostName
+HostName: not set
+$ scutil --get LocalHostName
+profaned-capital
+$ scutil --get ComputerName
+profaned-capital
+```'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5np2olhe52j'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5np2olhe52j'
+created_at = '2024-10-04T02:16:12.341Z'
+text = '''
+*sigh* apparently this is a Sequoia bug:
+
+www.simplymac.com/macos/how-to...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5non2yu7i24'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5non2yu7i24'
+created_at = '2024-10-04T02:08:35.632Z'
+text = '''
+Ran `home-manager switch` in the hopes that it would be fixed by a newer version of Starship, but alas.
+
+I'm in Starship v1.20.1 now and the prompt is still broken.
+
+Guess it's time to go trawling through the issue tracker...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5noigboad2y'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5noigboad2y'
+created_at = '2024-10-04T02:05:59.619Z'
+text = '''
+My Starship prompt is also broken, with it showing "Mac" instead of my computer's hostname.
+
+Let's see what we can do about that...'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5noh657jd24'
+created_at = '2024-10-04T02:05:17.597Z'
+text = '''
+Upgraded to macOS Sequoia and it borked my Nix install:
+
+```
+error: the user '_nixbld1' in the group 'nixbld' does not exist
+```
+
+Thankfully it was an easy fix by running the command noted in this issue:
+
+github.com/NixOS/nix/is...'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5nj33z2bu2q'
+created_at = '2024-10-04T00:29:03.849Z'
+text = 'Rings of Power time!'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5mpzmvr2j2l'
+created_at = '2024-10-03T17:00:51.059Z'
+text = 'Software engineers when working on a team with hundreds of microservices.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5mohcrevu2x'
+created_at = '2024-10-03T16:32:42.682Z'
+text = '''
+I enjoy the process of writing MDX—being able to drop in a visual component with my Markdown is quite handy—but I don't like that it forces me into using a JS pipeline.
+
+I've been thinking of making a form of MDX for my site that looks similar syntactically, but integrates with my Rust-based SSG.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e5nncb3dr5thdkjir5cfaqfe/app.bsky.feed.post/3l5mihgp53b2n'
+author_did = 'did:plc:e5nncb3dr5thdkjir5cfaqfe'
+author_handle = 'xeiaso.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5me4ldhos2z'
+created_at = '2024-10-03T13:27:45.122Z'
+text = 'Good morning!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:662rsbtjmmqjfnrz4do6v7dn/app.bsky.feed.post/3l5ma4qmurj2g'
+author_did = 'did:plc:662rsbtjmmqjfnrz4do6v7dn'
+author_handle = 'applecider.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5mdit7l7q2i'
+created_at = '2024-10-03T13:16:42.305Z'
+text = 'Sounds like you know what to do…'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gttrfs4hfmrclyxvwkwcgpj7/app.bsky.feed.post/3l5ldynko2i2v'
+author_did = 'did:plc:gttrfs4hfmrclyxvwkwcgpj7'
+author_handle = 'aparker.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5mc3u3fsd24'
+created_at = '2024-10-03T12:51:33.299Z'
+text = '''
+I also thought I had therapy this morning and was not feeling up to it (partly because I hadn’t done some “homework” from the last session).
+
+I woke up this morning feeling awful and was starting to drag myself into gear, then I checked my calendar and realized my appointment isn’t until next week.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5mbtbi4br2w'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5mbtbi4br2w'
+created_at = '2024-10-03T12:46:45.358Z'
+text = '''
+I have been feeling absolutely wiped out for the past few weeks.
+
+Just no energy at all. I don’t really know what it is.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5lc6e6uvi2i'
+created_at = '2024-10-03T03:20:17.549Z'
+text = 'Are you going to start doing savage takedowns of right-wingers for their fashion choices?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3l5l6jj4u262z'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5lbqdxew723'
+created_at = '2024-10-03T03:12:27.543Z'
+text = '''
+I never really got into Cohost, but I was still sad to hear it was shutting down.
+
+Good to have you here!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4wu72n3yfgzkjnr4bvodmaio/app.bsky.feed.post/3l5gd4wtejb2y'
+author_did = 'did:plc:4wu72n3yfgzkjnr4bvodmaio'
+author_handle = 'quietmisdreavus.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5lasqxoze2w'
+created_at = '2024-10-03T02:55:54.559Z'
+text = '''
+When I first started hanging out on Bluesky, I told myself I'd try to maintain a between post/repost ratio than I did on Twitter (which skewed heavily towards retweets).
+
+But it's hard to do when people are out here posting grade A content!'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5l7zc4gmk2f'
+created_at = '2024-10-03T02:41:40.135Z'
+text = '''
+I haven't listened to it yet, but it's going on the list!
+
+I listened to Ygg Huur from them and enjoyed it.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3pv3xjtaidyjlovzknuztffc/app.bsky.feed.post/3l5l7vkp4wd2f'
+author_did = 'did:plc:3pv3xjtaidyjlovzknuztffc'
+author_handle = 'themountaingoats.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5l7rpnfuc27'
+created_at = '2024-10-03T02:37:25.880Z'
+text = 'Yea, who would do that?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:kkf4naxqmweop7dv4l2iqqf5/app.bsky.feed.post/3l5kmshco7k22'
+author_did = 'did:plc:kkf4naxqmweop7dv4l2iqqf5'
+author_handle = 'aendra.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5l7hpluek27'
+created_at = '2024-10-03T02:31:50.292Z'
+text = '''
+I'm familiar with Burzum and Mayhem, but there's a lot more to black metal than that part of the scene.
+
+I've been listening to some Red and Anarchist black metal (RABM) bands that against that sort of thing.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:es3kyjcj3decrz7l2aokybx3/app.bsky.feed.post/3l5l3d77hlw2b'
+author_did = 'did:plc:es3kyjcj3decrz7l2aokybx3'
+author_handle = 'lamarrthestrelok.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5kwhxf6ww2p'
+created_at = '2024-10-02T23:50:54.776Z'
+text = 'This has been me lately, specifically with black metal.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3pv3xjtaidyjlovzknuztffc/app.bsky.feed.post/3l5knfcxpuh23'
+author_did = 'did:plc:3pv3xjtaidyjlovzknuztffc'
+author_handle = 'themountaingoats.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5k3n3jfos2x'
+created_at = '2024-10-02T15:50:35.822Z'
+text = 'I think the one in the first picture is a dove.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e2ctbutx6kya6si4if5ngjmm/app.bsky.feed.post/3l5hjwbfbjw2m'
+author_did = 'did:plc:e2ctbutx6kya6si4if5ngjmm'
+author_handle = 'jacky.wtf'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5isifrwd424'
+created_at = '2024-10-02T03:34:15.415Z'
+text = 'Right?! It snuck up on me.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3l5gemvsdb42f'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5h7ywppkl2g'
+created_at = '2024-10-01T12:30:49.224Z'
+text = '''
+The scary thing I’ve heard about LFS is that it’s a one-directional decision.
+
+Apparently if you use it and then want to stop using it you have to rewrite all of your Git history 🙈'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ogmdcdxycoowowgbenzhdgu2/app.bsky.feed.post/3l5dyihxsnn2l'
+author_did = 'did:plc:ogmdcdxycoowowgbenzhdgu2'
+author_handle = 'an.org'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5h7w6me7t2w'
+created_at = '2024-10-01T12:29:16.845Z'
+text = '''
+Good point!
+
+I’ve done something similar for images on websites: uploaded them to a CDN and then just referenced them in the code via URL.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:r3x2hxtjxj52ebp7hy5yw6is/app.bsky.feed.post/3l5fw62zumn2o'
+author_did = 'did:plc:r3x2hxtjxj52ebp7hy5yw6is'
+author_handle = 'sharp.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5fsxdumjh2l'
+created_at = '2024-09-30T23:04:37.429Z'
+text = 'There’s never enough hours in the day to do everything I want to do 😩'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5deebh5nw2y'
+created_at = '2024-09-29T23:38:05.564Z'
+text = '''
+What’s the best solution in 2024 for source control for indie gamedev when you have to deal with lots of binary assets (images, 3D models, sound files, etc.)?
+
+It seems like my main options are Git LFS (which I’ve heard mixed reviews of) and SVN.
+
+#gamedev #indiedev'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l55bylppid2d'
+created_at = '2024-09-27T13:39:47.743Z'
+text = 'More evidence that printers are evil.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l556w2uryq2k'
+created_at = '2024-09-27T12:44:41.799Z'
+text = 'Relatable. Although in my case she bought her own new own nice pillows, since we have very different taste in pillows 😂'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3l53hpxe3rg2w'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4zqspvj4y2w'
+created_at = '2024-09-26T03:54:17.983Z'
+text = 'Congratulations! So happy for you 😄'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:x7omzi5ydqux3nr2dcorz3o2/app.bsky.feed.post/3l4z5byhpm22q'
+author_did = 'did:plc:x7omzi5ydqux3nr2dcorz3o2'
+author_handle = 'jmduke.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4zopufgcy2p'
+created_at = '2024-09-26T03:16:54.566Z'
+text = 'My burger order is bottom bun, lettuce, meat, cheese, sauce, tomato, top bun.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rvlyeda73kxm7l2weegk73pa/app.bsky.feed.post/3l4znfcynmd2o'
+author_did = 'did:plc:rvlyeda73kxm7l2weegk73pa'
+author_handle = 'hillelwayne.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4wgawejqs27'
+created_at = '2024-09-24T20:07:24.175Z'
+text = 'Why the heck does the GitHub API not return the `created_at` timestamp in the List Users response?'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4vxsxnuoo2b'
+created_at = '2024-09-24T15:49:03.381Z'
+text = 'Looking at my Battle.net friends list and seeing people who have been offline for months or years really makes me miss the good old days.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l4vmk5lgyk2b'
 created_at = '2024-09-24T12:27:16.455Z'
 text = 'Ooh, I’ve been searching for a Songwhip replacement!'
