@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Circle With Me'
+artist = 'Spiritbox'
+album = 'Eternal Blue'
+listened_at = '2024-10-05T02:21:04Z'
+
+[[tracks]]
+name = 'Taste'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-10-05T02:18:27Z'
+
+[[tracks]]
+name = 'I Hope You Choke'
+artist = 'Harper'
+album = 'I Hope You Choke'
+listened_at = '2024-10-05T02:14:31Z'
+
+[[tracks]]
+name = 'ah qältak da £ä Kado£ m £ä Nahatlav'
+artist = 'trhä'
+album = '''∫um'ad∂ejja cavvaj'''
+listened_at = '2024-10-04T22:00:12Z'
+
+[[tracks]]
 name = 'Universe Ancestral Talisman'
 artist = 'Krallice'
 album = 'Inorganic Rites'
