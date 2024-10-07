@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5x2dd3syp2a'
+created_at = '2024-10-07T19:31:51.044Z'
+text = '''
+God never intended for us to manage memory manually.
+
+It's Adam and Eve, not `malloc` and `free`.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5wztudkfv2x'
+created_at = '2024-10-07T19:23:12.291Z'
+text = 'Did you answer?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ysqjmrbdrmjqt664qwfk3v3g/app.bsky.feed.post/3l5wywvlqfo2f'
+author_did = 'did:plc:ysqjmrbdrmjqt664qwfk3v3g'
+author_handle = 'mnchrm.co'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l5stde3zqi2i'
 created_at = '2024-10-06T03:15:56.992Z'
 text = '''

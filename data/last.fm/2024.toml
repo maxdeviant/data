@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Temporal Disintegration'
+artist = 'Defeated Sanity'
+album = 'Temporal Disintegration'
+listened_at = '2024-10-07T20:36:00Z'
+
+[[tracks]]
+name = 'Horizon Of Spikes'
+artist = 'NECKBREAKKER'
+album = 'Horizon Of Spikes'
+listened_at = '2024-10-07T20:32:03Z'
+
+[[tracks]]
+name = 'Hymni IV'
+artist = 'Horna'
+album = 'Nyx - Hymnejä Yölle'
+listened_at = '2024-10-07T20:24:32Z'
+
+[[tracks]]
+name = 'The Voice of What Whispers'
+artist = 'Trelldom'
+album = '...By The Shadows...'
+listened_at = '2024-10-07T20:19:29Z'
+
+[[tracks]]
 name = 'I, The Devourer'
 artist = 'Synestia'
 album = 'The Poetic Edda'
