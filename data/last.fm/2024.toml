@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'I, The Devourer'
+artist = 'Synestia'
+album = 'The Poetic Edda'
+listened_at = '2024-10-06T23:23:11Z'
+
+[[tracks]]
+name = 'Death Empress'
+artist = 'Synestia'
+album = 'The Poetic Edda'
+listened_at = '2024-10-06T23:19:23Z'
+
+[[tracks]]
+name = 'Daffodils'
+artist = 'Groza'
+album = 'Daffodils'
+listened_at = '2024-10-06T23:18:58Z'
+
+[[tracks]]
 name = 'Circle With Me'
 artist = 'Spiritbox'
 album = 'Eternal Blue'
