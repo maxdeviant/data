@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'I, The Devourer'
+artist = 'Synestia'
+album = 'The Poetic Edda'
+listened_at = '2024-10-07T21:37:40Z'
+
+[[tracks]]
+name = 'Death Empress'
+artist = 'Synestia'
+album = 'The Poetic Edda'
+listened_at = '2024-10-07T21:33:52Z'
+
+[[tracks]]
 name = 'Temporal Disintegration'
 artist = 'Defeated Sanity'
 album = 'Temporal Disintegration'
