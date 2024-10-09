@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Morning Dew'
+artist = 'Illusions Play'
+album = 'Morning Dew'
+listened_at = '2024-10-09T19:44:32Z'
+
+[[tracks]]
+name = '''She's Drowning'''
+artist = 'Neon Nightmare'
+album = '''She's Drowning'''
+listened_at = '2024-10-09T19:38:40Z'
+
+[[tracks]]
+name = 'Waltzing Among Graves'
+artist = 'Nocturnal Depression'
+album = 'Perpétuelle Eclipse'
+listened_at = '2024-10-09T19:29:33Z'
+
+[[tracks]]
+name = 'Abyssal Host'
+artist = 'Glacial Tomb'
+album = 'Lightless Expanse'
+listened_at = '2024-10-09T19:25:14Z'
+
+[[tracks]]
+name = 'Burning Hand'
+artist = 'Portrayal of Guilt'
+album = 'Devil Music'
+listened_at = '2024-10-09T19:23:10Z'
+
+[[tracks]]
+name = 'Half a World Away'
+artist = '40 Watt Sun'
+album = 'Little Weight'
+listened_at = '2024-10-09T19:15:42Z'
+
+[[tracks]]
+name = 'Death Procession'
+artist = 'Terranovem'
+album = 'Valley of Pariahs'
+listened_at = '2024-10-09T19:11:27Z'
+
+[[tracks]]
+name = 'Abject Silence (Interlude)'
+artist = 'Witch Vomit'
+album = 'Funeral Sanctum'
+listened_at = '2024-10-09T19:09:26Z'
+
+[[tracks]]
+name = 'Ominous Clouds'
+artist = 'Wintersun'
+album = 'Time II'
+listened_at = '2024-10-09T19:07:05Z'
+
+[[tracks]]
 name = 'I, The Devourer'
 artist = 'Synestia'
 album = 'The Poetic Edda'
