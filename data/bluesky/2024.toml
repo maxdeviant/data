@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6axagdqun2y'
+created_at = '2024-10-11T18:03:09.947Z'
+text = 'I just saw the new logo and can’t say I’m a fan. The old one was just so cute 🥺'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3l64jrzii6shq'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l66ratnrjn2g'
 created_at = '2024-10-10T21:10:42.001Z'
 text = '*Ron Howard narrator voice*: He did'
