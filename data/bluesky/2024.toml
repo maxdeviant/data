@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6n6j4c5kc2f'
+created_at = '2024-10-16T14:45:14.452Z'
+text = '''
+Seems like every week we're running into issues with our macOS CI runners.
+
+Is there any way to do this that isn't incredibly painful?'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6axagdqun2y'
 created_at = '2024-10-11T18:03:09.947Z'
 text = 'I just saw the new logo and can’t say I’m a fan. The old one was just so cute 🥺'
