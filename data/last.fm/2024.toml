@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'To The Moon And Back (feat. Ginger)'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-10-17T23:55:09Z'
+
+[[tracks]]
+name = 'New Hope'
+artist = 'Evergarden'
+album = 'In Light'
+listened_at = '2024-10-16T23:51:27Z'
+
+[[tracks]]
+name = 'Ghosts In The Machine - Original Club Mix'
+artist = 'Spektre'
+album = 'Cyclic Operations'
+listened_at = '2024-10-16T23:51:27Z'
+
+[[tracks]]
 name = 'Skuz - Original Club Mix'
 artist = 'Spektre'
 album = 'Cyclic Operations'
