@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Game Over'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-10-18T15:37:02Z'
+
+[[tracks]]
+name = 'Kittys Journey'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-10-18T15:29:18Z'
+
+[[tracks]]
+name = 'The Troublemakerz'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-10-18T15:21:39Z'
+
+[[tracks]]
+name = 'Future'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-10-18T15:14:27Z'
+
+[[tracks]]
+name = 'Take It Smart'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-10-18T15:07:09Z'
+
+[[tracks]]
+name = 'Blue Lake'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2024-10-18T00:03:08Z'
+
+[[tracks]]
 name = 'To The Moon And Back (feat. Ginger)'
 artist = 'Boris Brejcha'
 album = 'Space Diver'
