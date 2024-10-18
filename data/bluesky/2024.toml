@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6srfdpsvv2o'
+created_at = '2024-10-18T20:06:27.804Z'
+text = '''
+Finally trying out `jj`.
+
+I just created my first (small, single commit) PR with it.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6n6j4c5kc2f'
 created_at = '2024-10-16T14:45:14.452Z'
 text = '''
