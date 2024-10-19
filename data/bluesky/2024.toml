@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6t2cgr2ar2c'
+created_at = '2024-10-18T22:45:53.988Z'
+text = '''
+I ran into a case where jj can't (seemingly) commit changes to Git submodules.
+
+However, once of the nice things about jj is that I can mix in a Git command pretty seamlessly:
+
+```
+jj new main
+jj commit -m "Commit changes with jj"
+gca -m "Commit submodule change with Git"
+jj git push -c @-
+```'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6srfdpsvv2o'
 created_at = '2024-10-18T20:06:27.804Z'
 text = '''
