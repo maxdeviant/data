@@ -1,4 +1,63 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6tolzycqg2o'
+created_at = '2024-10-19T04:49:11.064Z'
+text = '''
+It’ll be worth the wait! I’ve been trying to pace myself so I don’t blow through it too fast 😅
+
+I’m glad you’re enjoying Diablo IV!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xfwasoo4j5pttbw4mpmzgblc/app.bsky.feed.post/3l6tlwcjh5d2i'
+author_did = 'did:plc:xfwasoo4j5pttbw4mpmzgblc'
+author_handle = 'mllepilgrim.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6tmddvk6v2h'
+created_at = '2024-10-19T04:08:31.952Z'
+text = '''I've been debating doing the same.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nzrozayxq764zbgl4qtp5ald/app.bsky.feed.post/3l6tfdyodpc2k'
+author_did = 'did:plc:nzrozayxq764zbgl4qtp5ald'
+author_handle = 'b0rk.jvns.ca'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6tkq4aaii2f'
+created_at = '2024-10-19T03:39:52.640Z'
+text = '''I've been playing Echoes of Wisdom recently and it's been a blast!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xfwasoo4j5pttbw4mpmzgblc/app.bsky.feed.post/3l6snchncwy2m'
+author_did = 'did:plc:xfwasoo4j5pttbw4mpmzgblc'
+author_handle = 'mllepilgrim.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6tkayi6io2d'
+created_at = '2024-10-19T03:31:25.404Z'
+text = '''
+I'm not a *huge* Git submodule user, but we do leverage them pretty heavily in the Zed extension registry repo: github.com/zed-industri...
+
+That's generally where I find myself needing to interact with them.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6tk6nsg4g2c'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6tk6nsg4g2c'
+created_at = '2024-10-19T03:30:07.083Z'
+text = '''
+Yea, it definitely makes sense that jj doesn't work directly with Git submodules.
+
+Was just one of those things where I hadn't really thought about how they might interact up front, and then I found myself needing to commit a submodule and was like "oh, I guess I can't do that in jj"'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3l6tf6qvk4w2t'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6t2cgr2ar2c'
 created_at = '2024-10-18T22:45:53.988Z'
 text = '''
