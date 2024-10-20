@@ -1,4 +1,38 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6xugnwx3m2o'
+created_at = '2024-10-20T20:44:12.030Z'
+text = '''
+Starting the Twitter purge.
+
+Removed my Twitter link from my website and have started deleting all my tweets.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6xufeybaq2c'
+created_at = '2024-10-20T20:43:29.105Z'
+text = '''
+Oh, I just saw your other post.
+
+Someone mentioned redact.dev in the replies, so I'll give that a try!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6xtmsjcta2v'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6xtmsjcta2v'
+created_at = '2024-10-20T20:29:44.440Z'
+text = '''
+What did you use to delete your old tweets?
+
+I've been thinking of doing the same.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:7i3fhorekojhdjhkbln7q7gq/app.bsky.feed.post/3l6xizpepqh2i'
+author_did = 'did:plc:7i3fhorekojhdjhkbln7q7gq'
+author_handle = 'kelseyhightower.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6ujldafle2d'
 created_at = '2024-10-19T12:51:58.223Z'
 text = 'I don’t see myself going back to Twitter, at this point.'
