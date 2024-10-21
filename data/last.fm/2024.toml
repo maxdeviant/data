@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Supernova'
+artist = 'Chris Veron'
+album = 'Supernova'
+listened_at = '2024-10-21T03:36:05Z'
+
+[[tracks]]
+name = 'Ceremony - Original Mix'
+artist = 'Bruce Zalcer'
+album = 'Ceremony'
+listened_at = '2024-10-21T03:32:18Z'
+
+[[tracks]]
+name = 'Frequency Differ - Original Mix'
+artist = 'UMEK'
+album = 'Frequency Differ'
+listened_at = '2024-10-21T03:25:28Z'
+
+[[tracks]]
+name = 'Hypnos'
+artist = 'Hi-Lo'
+album = 'Hypnos'
+listened_at = '2024-10-21T03:20:37Z'
+
+[[tracks]]
+name = 'Refraction'
+artist = 'Nonameleft'
+album = 'Direction'
+listened_at = '2024-10-21T03:16:14Z'
+
+[[tracks]]
+name = 'Fortune'
+artist = 'Teenage Mutants'
+album = 'Fortune'
+listened_at = '2024-10-21T03:10:10Z'
+
+[[tracks]]
 name = 'Resistance'
 artist = 'Lilly Palmer'
 album = 'We Control'
