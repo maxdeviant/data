@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6zqoor6wx2o'
+created_at = '2024-10-21T14:42:25.815Z'
+text = '''
+A common workflow I use in Git that I haven't yet been able to figure out in jj:
+
+1. I have a branch with some changes on it
+2. I want to get the latest `main` and merge it in
+3. After merging in `main`, push the changes to my already-pushed branch'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6ylfzawey2z'
 created_at = '2024-10-21T03:35:26.400Z'
 text = 'Ayyyy!'

@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Eclipse'
+artist = 'MOTVS'
+album = 'Eclipse'
+listened_at = '2024-10-21T13:01:18Z'
+
+[[tracks]]
+name = 'Vega'
+artist = 'Ilija Djokovic'
+album = 'Vega / Neon'
+listened_at = '2024-10-21T12:47:49Z'
+
+[[tracks]]
+name = 'The Second Law of Thermodynamics'
+artist = 'Nonameleft'
+album = 'Vision of Thermodynamics, Pt. 2'
+listened_at = '2024-10-21T12:41:28Z'
+
+[[tracks]]
+name = 'Venus Ride'
+artist = 'Chris Veron'
+album = 'Venus Ride'
+listened_at = '2024-10-21T12:37:57Z'
+
+[[tracks]]
+name = 'Tell Me - Radio-Edit'
+artist = 'Patrick Scuro'
+album = 'Tell Me'
+listened_at = '2024-10-21T12:33:28Z'
+
+[[tracks]]
+name = 'Chromosphere - Original Mix'
+artist = 'Andrea Signore'
+album = 'Chromosphere Photosphere'
+listened_at = '2024-10-21T03:40:27Z'
+
+[[tracks]]
 name = 'Supernova'
 artist = 'Chris Veron'
 album = 'Supernova'
