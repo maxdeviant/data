@@ -1,4 +1,71 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l7234nt4do2d'
+created_at = '2024-10-21T17:49:12.044Z'
+text = '''All that's missing is a Bald Eagle doing a flyover 🇺🇸🇺🇸🇺🇸'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3l6zztrsytk2c'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6zyhqnd2v2c'
+created_at = '2024-10-21T17:01:42.875Z'
+text = '''
+I definitely would like to explore it, at some point!
+
+As of right now I don't really have a good sense of what it would look like to interface between GPUI and the Wasm layer.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:hremav7pr4itlywvlbt5a4d4/app.bsky.feed.post/3l6zyesuuym2c'
+author_did = 'did:plc:hremav7pr4itlywvlbt5a4d4'
+author_handle = 'joshmo-dev.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6zxvczo4d2d'
+created_at = '2024-10-21T16:51:24.614Z'
+text = 'I say "sat down", but you can see in the video that I was standing the whole time 😄'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6zxj26u742c'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6zxj26u742c'
+created_at = '2024-10-21T16:44:32.665Z'
+text = '''
+Last week I sat down with @thorstenball.com and Max Brunsfeld to do a deep-dive on Zed's Wasm-based extension system
+
+New Zed Decoded, out now: zed.dev/blog/zed-dec...'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6ztjsietb2d'
+created_at = '2024-10-21T15:33:23.204Z'
+text = '''
+I found this repo that I'm trying out now: github.com/devio/de-x
+
+Seems to be doing a good job of it, so far!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6zthkmusx2d'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6zthkmusx2d'
+created_at = '2024-10-21T15:32:07.855Z'
+text = '''
+I was initially using redact.dev for this, but after deleting a few thousand tweets it doesn't seem to work anymore.
+
+They do show a warning about needing to use a file from the data export for large amounts of tweets (which I have), but it seems I'd need to pony up the $95.88/yr if I want that 🫠'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6xugnwx3m2o'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l6zqoor6wx2o'
 created_at = '2024-10-21T14:42:25.815Z'
 text = '''
