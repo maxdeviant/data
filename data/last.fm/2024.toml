@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Deep State'
+artist = 'Nonameleft'
+album = 'Deep State'
+listened_at = '2024-10-22T03:14:05Z'
+
+[[tracks]]
+name = 'Voice of The Void'
+artist = 'Brennen Grey'
+album = 'Carpe Omne EP'
+listened_at = '2024-10-22T03:10:09Z'
+
+[[tracks]]
 name = 'Neon'
 artist = 'Ilija Djokovic'
 album = 'Vega / Neon'
