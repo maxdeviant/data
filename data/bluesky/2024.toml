@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l72oy4bhw22z'
+created_at = '2024-10-21T23:44:34.241Z'
+text = '''
+I don’t think it would be in GPUI itself, since GPUI has no knowledge of Wasm.
+
+But maybe there could be some generic bridge between GPUI and Wasm, but a bit speculative to say 🙂'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:jomjn5jhnscjzugqat3ohuu6/app.bsky.feed.post/3l72ou6usbk23'
+author_did = 'did:plc:jomjn5jhnscjzugqat3ohuu6'
+author_handle = 'vithor.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l72mqsiy4y2o'
+created_at = '2024-10-21T23:04:41.615Z'
+text = 'I suspect we don’t want to bring in another rendering API when we already have GPUI purpose-built for Zed.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:jomjn5jhnscjzugqat3ohuu6/app.bsky.feed.post/3l72l3p7xhw23'
+author_did = 'did:plc:jomjn5jhnscjzugqat3ohuu6'
+author_handle = 'vithor.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l7234nt4do2d'
 created_at = '2024-10-21T17:49:12.044Z'
 text = '''All that's missing is a Bald Eagle doing a flyover 🇺🇸🇺🇸🇺🇸'''
