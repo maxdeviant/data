@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Where The Light Fades'
+artist = 'Pallbearer'
+album = 'Mind Burns Alive'
+listened_at = '2024-10-23T18:28:26Z'
+
+[[tracks]]
+name = 'Circle With Me'
+artist = 'Spiritbox'
+album = 'Eternal Blue'
+listened_at = '2024-10-23T18:24:32Z'
+
+[[tracks]]
+name = 'Taste'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-10-23T18:21:54Z'
+
+[[tracks]]
+name = 'Asche'
+artist = 'Toadeater'
+album = 'Bexadde'
+listened_at = '2024-10-23T18:12:05Z'
+
+[[tracks]]
+name = 'Let The Darkness Swallow You'
+artist = 'Toadeater'
+album = 'Bexadde'
+listened_at = '2024-10-23T18:00:11Z'
+
+[[tracks]]
 name = 'Hidden in the Leaves'
 artist = 'Witch Bolt'
 album = 'Bellow'
