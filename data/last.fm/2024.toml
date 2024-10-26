@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Versatile'
+artist = 'Kodak Black'
+album = 'Project Baby 2: All Grown Up (Deluxe Edition)'
+listened_at = '2024-10-26T00:00:45Z'
+
+[[tracks]]
+name = 'Black Hole'
+artist = 'Mario Ochoa'
+album = 'Black Hole'
+listened_at = '2024-10-26T00:00:00Z'
+
+[[tracks]]
+name = 'Reincarnate'
+artist = 'DISEMBODIED TYRANT'
+album = 'The Divine Stigmata'
+listened_at = '2024-10-25T20:58:59Z'
+
+[[tracks]]
 name = 'Crow Black Sky'
 artist = 'DISEMBODIED TYRANT'
 album = 'The Divine Stigmata'
