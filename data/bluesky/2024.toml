@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l7mdj5wf5c2c'
+created_at = '2024-10-29T00:07:16.801Z'
+text = '''
+I definitely dig this!
+
+While I do want to eventually learn jj fundamentals, so far my process has been “how do I translate X workflow in Git to jj?”'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3l7mbjowkb62i'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l7lds3jvk52d'
 created_at = '2024-10-28T14:39:36.540Z'
 text = '''What's the experience of writing Fortran in 2024 like? I'm particularly curious about the state of the tooling.'''
