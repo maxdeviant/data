@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l7pc7rhhhq2d'
+created_at = '2024-10-30T04:22:07.199Z'
+text = '''
+“Donald Trump is a dangerous maniac who can barely complete a sentence, and it is lunacy to believe he can even recognize the existentially threatening collective action problems facing our nation, let alone actually solve them.”
+
+Please vote to keep him out of the White House.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l7pb2tyibl2k'
+created_at = '2024-10-30T04:01:28.369Z'
+text = 'Are you a fellow Gleam enthusiast? 👀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3l7o5k2qdzk2t'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l7mqm6hla42c'
 created_at = '2024-10-29T04:01:36.664Z'
 text = 'Just started using it recently, myself.'
