@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Sonne der Nacht'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2024-10-30T14:58:39Z'
+
+[[tracks]]
+name = '''Adonaia's Elegien'''
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2024-10-30T14:52:05Z'
+
+[[tracks]]
+name = 'Phantasmagorie'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2024-10-30T14:44:01Z'
+
+[[tracks]]
+name = 'Synergy'
+artist = 'Giuseppe Ottaviani'
+album = 'Synergy'
+listened_at = '2024-10-30T14:43:48Z'
+
+[[tracks]]
 name = 'Duality'
 artist = 'Paul van Dyk'
 album = 'Duality'
