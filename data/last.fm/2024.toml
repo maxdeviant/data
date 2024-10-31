@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Phantasmagorie'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2024-10-31T14:53:23Z'
+
+[[tracks]]
+name = 'Mitgift'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2024-10-31T14:46:47Z'
+
+[[tracks]]
+name = 'Strepitus Mundi'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2024-10-31T14:38:42Z'
+
+[[tracks]]
+name = 'Das Dunkel der Welt'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2024-10-31T14:32:31Z'
+
+[[tracks]]
+name = 'Sonne der Nacht'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2024-10-31T14:26:17Z'
+
+[[tracks]]
 name = 'Das Dunkel der Welt'
 artist = 'Aara'
 album = 'Triade II : Hemera'
