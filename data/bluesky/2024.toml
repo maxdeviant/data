@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l7rs5x5i7y2t'
+created_at = '2024-10-31T04:12:45.426Z'
+text = '(For the record, I love tattoos)'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l7rs5cbyyy23'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l7rs5cbyyy23'
+created_at = '2024-10-31T04:12:23.554Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dgbfbbzpfofxaqv42yj26xsd/app.bsky.feed.post/3l7re3l3qht2x'
+author_did = 'did:plc:dgbfbbzpfofxaqv42yj26xsd'
+author_handle = 'brian.blue'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3l7qst5qe762z'
 created_at = '2024-10-30T18:51:57.229Z'
 text = '''
