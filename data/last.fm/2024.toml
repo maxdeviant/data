@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Das Dunkel der Welt'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2024-10-31T00:07:51Z'
+
+[[tracks]]
+name = 'Sonne der Nacht'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2024-10-31T00:01:37Z'
+
+[[tracks]]
+name = 'Real Friends'
+artist = 'Kanye West'
+album = 'The Life of Pablo'
+listened_at = '2024-10-31T00:01:30Z'
+
+[[tracks]]
 name = '''Adonaia's Elegien'''
 artist = 'Aara'
 album = 'Triade II : Hemera'
