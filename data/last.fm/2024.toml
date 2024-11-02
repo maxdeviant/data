@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Light Years'
+artist = 'Cosmic Gate'
+album = '20 Years [Forward Ever Backward Never]'
+listened_at = '2024-11-02T00:29:45Z'
+
+[[tracks]]
+name = 'Saving Night'
+artist = 'Mike Zaloxx'
+album = 'Saving Night'
+listened_at = '2024-11-02T00:22:07Z'
+
+[[tracks]]
 name = 'Laserface 01 (Aperture)'
 artist = 'Gareth Emery'
 album = 'Laserface 01 (Aperture)'
