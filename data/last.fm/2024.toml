@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Felsensang'
+artist = 'Aara'
+album = 'Felsensang'
+listened_at = '2024-11-03T17:07:44Z'
+
+[[tracks]]
+name = 'Never Forgotten'
+artist = 'Mark Sixma'
+album = 'Never Forgotten'
+listened_at = '2024-11-03T17:07:30Z'
+
+[[tracks]]
+name = 'What Makes You Feel Alive'
+artist = 'Alessandra Roncone'
+album = 'What Makes You Feel Alive'
+listened_at = '2024-11-03T02:08:11Z'
+
+[[tracks]]
 name = 'Atomica'
 artist = 'Daxson'
 album = 'Atomica'
