@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3la5hvc3bsv23'
+created_at = '2024-11-04T19:40:54.266Z'
+text = 'Congratulations!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zos5kmlm4vle7b4xntem6sat/app.bsky.feed.post/3la5e6u2qna26'
+author_did = 'did:plc:zos5kmlm4vle7b4xntem6sat'
+author_handle = 'maggieappleton.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3la5gpzy3ig23'
+created_at = '2024-11-04T19:20:04.342Z'
+text = 'I was printing out the values and trying to figure out where the `null` was magically disappearing, and then I finally went and looked at how we were configuring the JSON Schema generator 🤦‍♂️'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3la5gojrhvp2j'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3la5gojrhvp2j'
+created_at = '2024-11-04T19:19:13.776Z'
+text = 'This one-liner change took me way longer to make than I care to admit: github.com/zed-industri...'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3la4wq2hp3n2k'
 created_at = '2024-11-04T14:33:44.898Z'
 text = '''
