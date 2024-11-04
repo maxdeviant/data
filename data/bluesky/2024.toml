@@ -1,4 +1,45 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3la4wq2hp3n2k'
+created_at = '2024-11-04T14:33:44.898Z'
+text = '''
+I fear I will either be:
+
+1. Completely locked-in at work so I don’t have time to think about the election.
+2. Completely unable to focus on work at all because I keep thinking about the election.
+
+Probably nowhere in between.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:bhdap3w2bseikypfnjmaskzf/app.bsky.feed.post/3la4wjgelnm26'
+author_did = 'did:plc:bhdap3w2bseikypfnjmaskzf'
+author_handle = 'cassidoo.co'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3la4wnjzn262x'
+created_at = '2024-11-04T14:32:20.548Z'
+text = 'Just a forewarning, I will be posting/reposting a lot about the election for the next 48+ hours.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3la4rawvp4y2j'
+created_at = '2024-11-04T12:55:49.163Z'
+text = 'And, boy, does it feel like it 🫠'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3la3wr7gidp2a'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3la4r2bvexv2s'
+created_at = '2024-11-04T12:52:05.812Z'
+text = 'How many date-related test failures did you find?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3la4q4ls4v42c'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3la3ogijkx72d'
 created_at = '2024-11-04T02:32:34.520Z'
 text = 'The spookiness factor is definitely ramping up, that’s for sure 😩'
