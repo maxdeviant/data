@@ -1,4 +1,32 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3laawyhnbif2w'
+created_at = '2024-11-06T04:49:06.182Z'
+text = 'About to take this advice.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3laat2bnffo2d'
+created_at = '2024-11-06T03:38:32.053Z'
+text = 'I knew I should have put myself into a coma until tomorrow as soon as my vote was in.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3laaoqemuad2l'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3laaru5lnja2f'
+created_at = '2024-11-06T03:17:12.695Z'
+text = '''
+That’s a good way to go about it.
+
+I wish I could get myself to do the same 😅'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3laar4jpn4d2x'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3la7vancgrr2z'
 created_at = '2024-11-05T18:45:13.351Z'
 text = 'Wow, I love the look of the SF voting sticker!'
