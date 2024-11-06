@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Heroin Waltz'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2024-11-06T01:12:14Z'
+
+[[tracks]]
+name = 'Senkrechte Welten'
+artist = 'Aara'
+album = 'Senkrechte Welten'
+listened_at = '2024-11-05T14:44:39Z'
+
+[[tracks]]
 name = 'Felsensang'
 artist = 'Aara'
 album = 'Senkrechte Welten'
