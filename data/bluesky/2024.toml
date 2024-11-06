@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lacdadrrs72l'
+created_at = '2024-11-06T18:00:55.217Z'
+text = 'Yikes!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3laccnlq7nh2k'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3labwgashsm2z'
 created_at = '2024-11-06T14:11:34.773Z'
 text = '''I'm glad that Brighter Shores is out today so that I can immerse myself in that and not think about anything else.'''
