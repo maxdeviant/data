@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3laqtgrkgvc2p'
+created_at = '2024-11-12T12:28:07.218Z'
+text = 'It depends on the message, but usually I create a thread to keep the discussion all in one place.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnvvkpgdmnpuaknbxbq5v2qa/app.bsky.feed.post/3laqtccac2k2b'
+author_did = 'did:plc:wnvvkpgdmnpuaknbxbq5v2qa'
+author_handle = 'daniloleal.co'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lagse7ls7u2f'
 created_at = '2024-11-08T12:42:10.100Z'
 text = 'That sounds like a scary experience. I’m glad you’re okay!'
