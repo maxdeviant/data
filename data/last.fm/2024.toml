@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Crystalline'
+artist = 'Suldusk'
+album = 'Anthesis'
+listened_at = '2024-11-13T18:16:01Z'
+
+[[tracks]]
+name = 'Falling Snow (2016 - Remaster)'
+artist = 'Agalloch'
+album = 'Ashes Against the Grain'
+listened_at = '2024-11-13T18:06:22Z'
+
+[[tracks]]
+name = 'Writing'
+artist = 'Karmanjakah'
+album = 'Ancient Skills EP'
+listened_at = '2024-11-13T18:02:30Z'
+
+[[tracks]]
 name = 'The Lord of Death and Midnight'
 artist = 'Ninkharsag'
 album = 'Discipline Through Black Sorcery'
