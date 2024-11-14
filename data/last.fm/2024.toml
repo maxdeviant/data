@@ -1,4 +1,28 @@
 [[tracks]]
+name = '2 AM THOUGHTS'
+artist = '''Hangman's Chair'''
+album = '2 AM THOUGHTS'
+listened_at = '2024-11-13T21:55:39Z'
+
+[[tracks]]
+name = 'Predator Phoenix'
+artist = 'Nachtmystium'
+album = 'Blight Privilege'
+listened_at = '2024-11-13T21:51:06Z'
+
+[[tracks]]
+name = 'The Unconquerable'
+artist = 'Dead Icarus'
+album = 'ZEALOT'
+listened_at = '2024-11-13T21:47:50Z'
+
+[[tracks]]
+name = 'Heimsslit'
+artist = 'Múr'
+album = 'Heimsslit'
+listened_at = '2024-11-13T18:21:50Z'
+
+[[tracks]]
 name = 'Crystalline'
 artist = 'Suldusk'
 album = 'Anthesis'
