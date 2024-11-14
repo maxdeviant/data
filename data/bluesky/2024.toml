@@ -9,6 +9,11 @@ author_did = 'did:plc:fpruhuo22xkm5o7ttr2ktxdo'
 author_handle = 'danabra.mov'
 
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lau76pe7cc2p'
+created_at = '2024-11-13T20:36:20.597Z'
+text = 'I’m getting claustrophobic just looking at this 😰'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3latlfdyd7k2p'
 created_at = '2024-11-13T14:42:08.718Z'
 text = '''
