@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'The Warning'
+artist = 'Make Them Suffer'
+album = 'Make Them Suffer'
+listened_at = '2024-11-15T04:13:13Z'
+
+[[tracks]]
+name = 'Heavy Rain'
+artist = 'Blvck Ceiling'
+album = 'Heavy Rain'
+listened_at = '2024-11-15T04:10:48Z'
+
+[[tracks]]
 name = 'Deviant Shapes'
 artist = 'White Ward'
 album = 'Futility Report'
