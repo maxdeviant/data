@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Exposure'
+artist = 'Gareth Emery'
+album = 'Exposure / Metropolis'
+listened_at = '2024-11-18T00:21:27Z'
+
+[[tracks]]
+name = 'As the Rush Comes'
+artist = 'Motorcycle'
+album = 'As The Rush Comes (Collected, Pt.1)'
+listened_at = '2024-11-18T00:17:56Z'
+
+[[tracks]]
+name = 'Tomb Omnia'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2024-11-18T00:17:38Z'
+
+[[tracks]]
 name = 'As the Rush Comes'
 artist = 'Motorcycle'
 album = 'As The Rush Comes (Collected, Pt.1)'
