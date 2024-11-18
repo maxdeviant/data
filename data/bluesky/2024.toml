@@ -1,4 +1,37 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbaehzqycc2x'
+created_at = '2024-11-18T16:42:59.061Z'
+text = '''Also, just noticed that @oxidecomputer.bsky.social isn't using oxide.computer as its handle yet (not sure if that's intentional or just an oversight).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbaeg2zvqc2x'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbaeg2zvqc2x'
+created_at = '2024-11-18T16:41:53.294Z'
+text = '''Whoa, that's so exciting!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3lbae2wmtt22o'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbabjglj2k2x'
+created_at = '2024-11-18T15:50:04.843Z'
+text = '''
+Welcome!
+
+It definitely sucks having to start over and curate a new timeline (especially when some folks haven't made their way over here yet). However, I've found that once I got setup I'm enjoying my time on Bluesky much more than I did on Twitter in recent memory.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rmkgxsachwze2xdsabyrllqv/app.bsky.feed.post/3lb6d3p5zek25'
+author_did = 'did:plc:rmkgxsachwze2xdsabyrllqv'
+author_handle = 'renaudbedard.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3laxkhwufrc23'
 created_at = '2024-11-15T04:36:20.833Z'
 text = '''
