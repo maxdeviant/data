@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbap54zgrc25'
+created_at = '2024-11-18T19:53:44.545Z'
+text = '''
+This is the one I'm using, not sure if it is limited enough to fit your criteria (but I spot-checked a few profiles and they seem like people I wouldn't like to interact with).
+
+bsky.app/profile/numb...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4w3lx5jmokfvihilz2q562ev/app.bsky.feed.post/3lbaot4sblk22'
+author_did = 'did:plc:4w3lx5jmokfvihilz2q562ev'
+author_handle = 'seldo.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbaehzqycc2x'
 created_at = '2024-11-18T16:42:59.061Z'
 text = '''Also, just noticed that @oxidecomputer.bsky.social isn't using oxide.computer as its handle yet (not sure if that's intentional or just an oversight).'''
