@@ -1,4 +1,37 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbbbvas6tc2q'
+created_at = '2024-11-19T01:29:21.161Z'
+text = 'What is your passionate analysis?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3lbayg6pnt22c'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbbbdyzzr22q'
+created_at = '2024-11-19T01:19:42.605Z'
+text = 'I am keeping the tradition alive with a knife on me at all times (except for if I know I’ll be going somewhere where it might be a problem).'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3lb6qwkewks2e'
+author_did = 'did:plc:h25avmes6g7fgcddc3xj7qmg'
+author_handle = 'moultano.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbb6jzffvk2q'
+created_at = '2024-11-19T00:29:23.078Z'
+text = '''
+I saw it change and thought you had done it!
+
+Server must be haunted 😨'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3lbb6fjihis25'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbap54zgrc25'
 created_at = '2024-11-18T19:53:44.545Z'
 text = '''
