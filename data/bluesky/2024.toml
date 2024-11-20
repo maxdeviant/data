@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbf3krz2y226'
+created_at = '2024-11-20T13:46:46.617Z'
+text = 'They’re both owned by Salesforce, so I wouldn’t be surprised if there was some cross-pollination going on between the two.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3lbf3e5hljc2x'
+author_did = 'did:plc:fpruhuo22xkm5o7ttr2ktxdo'
+author_handle = 'danabra.mov'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbbbvas6tc2q'
 created_at = '2024-11-19T01:29:21.161Z'
 text = 'What is your passionate analysis?'
