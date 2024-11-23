@@ -2,6 +2,42 @@
 name = 'Sapphire'
 artist = 'Alcest'
 album = 'Spiritual Instinct'
+listened_at = '2024-11-23T20:53:26Z'
+
+[[tracks]]
+name = 'Protection'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2024-11-23T20:47:37Z'
+
+[[tracks]]
+name = 'Les Jardins de minuit'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2024-11-23T20:39:44Z'
+
+[[tracks]]
+name = 'Spiritual Instinct'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2024-11-23T20:32:01Z'
+
+[[tracks]]
+name = 'Le Miroir'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2024-11-23T20:26:30Z'
+
+[[tracks]]
+name = '''L'Île des morts'''
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2024-11-23T15:55:24Z'
+
+[[tracks]]
+name = 'Sapphire'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
 listened_at = '2024-11-23T15:50:24Z'
 
 [[tracks]]
