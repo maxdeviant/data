@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbmlu6jfuk2i'
+created_at = '2024-11-23T13:26:59.763Z'
+text = '''
+I thought for sure you were well over 6ft.
+
+Don’t tell me Gleam is built by a lil British guy and a lil Italian guy!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3lbmlq6mxuc2a'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbmlgo4epk2i'
+created_at = '2024-11-23T13:19:26.351Z'
+text = 'Jak, has anyone told you you’re a wizard? 🧙🏻'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3lbm32fzfxk2q'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lblfam6wsc23'
 created_at = '2024-11-23T01:56:00.821Z'
 text = 'Also, TIL that you were the one who coined the term!'

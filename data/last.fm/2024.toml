@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Les Jardins de minuit'
+artist = 'Alcest'
+album = 'Spiritual Instinct'
+listened_at = '2024-11-23T14:55:40Z'
+
+[[tracks]]
+name = 'Flamme Jumelle'
+artist = 'Alcest'
+album = '''Les Chants de l'Aurore'''
+listened_at = '2024-11-23T14:21:59Z'
+
+[[tracks]]
+name = 'Flamme Jumelle'
+artist = 'Alcest'
+album = '''Les Chants de l'Aurore'''
+listened_at = '2024-11-23T14:15:42Z'
+
+[[tracks]]
+name = '''L'Envol'''
+artist = 'Alcest'
+album = '''Les Chants de l'Aurore'''
+listened_at = '2024-11-22T23:40:52Z'
+
+[[tracks]]
 name = 'Komorebi'
 artist = 'Alcest'
 album = '''Les Chants de l'Aurore'''
