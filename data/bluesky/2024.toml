@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbqf2cjry223'
+created_at = '2024-11-25T01:35:48.057Z'
+text = 'On a semi-related note, something I always found amusing working in C# codebases was how—even with the existence of specific visibility keywords—it was still common to see private class fields prefixed with a `_`, like `_firstName`.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:7ulvkmr5hlpydtwwsfikwqqe/app.bsky.feed.post/3lbqetqsbgc26'
+author_did = 'did:plc:7ulvkmr5hlpydtwwsfikwqqe'
+author_handle = 'izzys.casa'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbqepxxcb223'
+created_at = '2024-11-25T01:30:01.420Z'
+text = '''
+There must be something in the water at Google that causes them to like their "Capitalization denotes visibility".
+
+I just don't get it. How is that better than and/or preferred over a keyword? 🫠'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:7ulvkmr5hlpydtwwsfikwqqe/app.bsky.feed.post/3lbqdy7xgvs26'
+author_did = 'did:plc:7ulvkmr5hlpydtwwsfikwqqe'
+author_handle = 'izzys.casa'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbo5wrhlbc23'
 created_at = '2024-11-24T04:23:13.824Z'
 text = 'Uh oh, I made Zed sad : ('
