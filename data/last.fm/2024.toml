@@ -2,6 +2,24 @@
 name = 'Moments'
 artist = 'Giulio Cercato'
 album = 'Moments'
+listened_at = '2024-11-25T03:43:31Z'
+
+[[tracks]]
+name = 'Moments'
+artist = 'Giulio Cercato'
+album = 'Moments'
+listened_at = '2024-11-25T03:39:16Z'
+
+[[tracks]]
+name = 'EAT ME (feat. Royal & the Serpent)'
+artist = 'Demi Lovato'
+album = 'HOLY FVCK'
+listened_at = '2024-11-25T02:53:34Z'
+
+[[tracks]]
+name = 'Moments'
+artist = 'Giulio Cercato'
+album = 'Moments'
 listened_at = '2024-11-24T23:21:47Z'
 
 [[tracks]]
