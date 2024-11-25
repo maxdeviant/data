@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbsdk5qzck2v'
+created_at = '2024-11-25T20:14:11.915Z'
+text = '''
+Agreed! I felt the same way the first time I ran into a stack overflow from writing a recursive function in some functional compile-to-JS language.
+
+Really ruined the illusion of not writing JavaScript.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:kwe76brr3vbwvu4ifgz64nt4/app.bsky.feed.post/3lbrq7ohqzs2j'
+author_did = 'did:plc:kwe76brr3vbwvu4ifgz64nt4'
+author_handle = 'thesoftwarementor.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbs2wuwnxc2v'
 created_at = '2024-11-25T17:40:15.194Z'
 text = '''
