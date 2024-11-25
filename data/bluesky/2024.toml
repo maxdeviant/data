@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbs2wuwnxc2v'
+created_at = '2024-11-25T17:40:15.194Z'
+text = '''
+I felt similarly after applying there during my search a little over a year ago.
+
+Hoping more companies follow in their footsteps!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3lbs2jmtfok2b'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbrnc5r5rs2q'
 created_at = '2024-11-25T13:36:01.161Z'
 text = '''
