@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbrnc5r5rs2q'
+created_at = '2024-11-25T13:36:01.161Z'
+text = '''
+This may be the best comment on a GitHub issue I’ve seen thus far: github.com/gleam-lang/g...
+
+Written by @giacomocavalieri.me.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbqf2cjry223'
 created_at = '2024-11-25T01:35:48.057Z'
 text = 'On a semi-related note, something I always found amusing working in C# codebases was how—even with the existence of specific visibility keywords—it was still common to see private class fields prefixed with a `_`, like `_firstName`.'
