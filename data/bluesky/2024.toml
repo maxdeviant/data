@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbsms42ais2l'
+created_at = '2024-11-25T22:59:42.231Z'
+text = '''
+Nice!
+
+I did something similar in Crane: github.com/crane-lang/c...
+
+(Using ariadne instead of miette, but the premise is the same)'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3lbslyit7nc2n'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbsdk5qzck2v'
 created_at = '2024-11-25T20:14:11.915Z'
 text = '''
