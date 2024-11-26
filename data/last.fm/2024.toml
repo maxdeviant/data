@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Flamme Jumelle'
+artist = 'Alcest'
+album = '''Les Chants de l'Aurore'''
+listened_at = '2024-11-26T18:36:47Z'
+
+[[tracks]]
+name = 'Moments'
+artist = 'Giulio Cercato'
+album = 'Moments'
+listened_at = '2024-11-26T18:33:22Z'
+
+[[tracks]]
+name = 'Moments'
+artist = 'Giulio Cercato'
+album = 'Moments'
+listened_at = '2024-11-26T17:18:35Z'
+
+[[tracks]]
 name = 'After Party'
 artist = 'Don Toliver'
 album = 'Heaven or Hell'
