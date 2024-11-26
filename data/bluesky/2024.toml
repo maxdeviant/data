@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbt7n2vhb22q'
+created_at = '2024-11-26T04:36:54.348Z'
+text = '''
+I’m in a similar boat. Have been using mostly jj at work for about a month now.
+
+I would say I’m able to do simple workflows, but I’m still fumbling my way around and can tell I’m missing out on a bunch of the utility.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ujospssfohkwtnocit43op2r/app.bsky.feed.post/3lbt75xlrvc2h'
+author_did = 'did:plc:ujospssfohkwtnocit43op2r'
+author_handle = 'zkat.tech'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lbsms42ais2l'
 created_at = '2024-11-25T22:59:42.231Z'
 text = '''
