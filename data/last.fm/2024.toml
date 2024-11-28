@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'As the Rush Comes'
+artist = 'Motorcycle'
+album = 'As The Rush Comes (Collected, Pt.1)'
+listened_at = '2024-11-28T17:50:13Z'
+
+[[tracks]]
+name = 'Exposure'
+artist = 'Gareth Emery'
+album = 'Exposure / Metropolis'
+listened_at = '2024-11-28T17:46:51Z'
+
+[[tracks]]
 name = 'Flamme Jumelle'
 artist = 'Alcest'
 album = '''Les Chants de l'Aurore'''
