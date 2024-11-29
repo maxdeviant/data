@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Sacrifice Me'
+artist = 'Unprocessed'
+album = 'Sacrifice Me'
+listened_at = '2024-11-28T23:47:55Z'
+
+[[tracks]]
+name = 'As Sick As The Secrets Within'
+artist = 'Marilyn Manson'
+album = 'As Sick As The Secrets Within'
+listened_at = '2024-11-28T23:42:19Z'
+
+[[tracks]]
+name = 'Fakest Bitch'
+artist = 'London Grammar'
+album = 'Fakest Bitch'
+listened_at = '2024-11-28T23:38:01Z'
+
+[[tracks]]
+name = 'Taste'
+artist = 'Sabrina Carpenter'
+album = '''Short n' Sweet'''
+listened_at = '2024-11-28T23:35:13Z'
+
+[[tracks]]
+name = 'Universe Ancestral Talisman'
+artist = 'Krallice'
+album = 'Inorganic Rites'
+listened_at = '2024-11-28T23:06:35Z'
+
+[[tracks]]
+name = 'Butterfly'
+artist = 'Unto Others'
+album = 'Never, Neverland (Deluxe Edition)'
+listened_at = '2024-11-28T23:03:26Z'
+
+[[tracks]]
+name = 'Felsensang'
+artist = 'Aara'
+album = 'Felsensang'
+listened_at = '2024-11-28T17:53:46Z'
+
+[[tracks]]
 name = 'As the Rush Comes'
 artist = 'Motorcycle'
 album = 'As The Rush Comes (Collected, Pt.1)'
