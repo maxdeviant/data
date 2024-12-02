@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Outro'
+artist = 'Bell Witch'
+album = 'Longing'
+listened_at = '2024-12-02T17:50:38Z'
+
+[[tracks]]
+name = 'Old Soul'
+artist = 'Gnome'
+album = 'Vestiges of Verumex Visidrome'
+listened_at = '2024-12-02T17:46:09Z'
+
+[[tracks]]
+name = 'Cosmic Matter'
+artist = 'Moonloop'
+album = 'Fate in Motion'
+listened_at = '2024-12-02T17:40:33Z'
+
+[[tracks]]
+name = 'Heal Me'
+artist = 'Harakiri for the Sky'
+album = 'Heal Me'
+listened_at = '2024-12-02T17:32:58Z'
+
+[[tracks]]
 name = 'Sacrifice Me'
 artist = 'Unprocessed'
 album = 'Sacrifice Me'
