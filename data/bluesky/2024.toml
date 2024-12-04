@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcic3rxb722w'
+created_at = '2024-12-04T13:46:50.277Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6hit5rjdbmlnscmuk4bbtmuc/app.bsky.feed.post/3lch5zvx4js2b'
+author_did = 'did:plc:6hit5rjdbmlnscmuk4bbtmuc'
+author_handle = 'rincewind.run'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcgrswluj22z'
 created_at = '2024-12-03T23:22:53.548Z'
 text = '''Somehow I don't think that someone labeled as "Right wing propaganda and their followers" should be "suggested for me" when I specifically have that blocked.'''
