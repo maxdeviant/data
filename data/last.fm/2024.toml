@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Heroin Waltz'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2024-12-04T22:03:26Z'
+
+[[tracks]]
+name = 'Chokehold'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2024-12-04T21:07:33Z'
+
+[[tracks]]
+name = 'Euclid'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2024-12-04T21:02:20Z'
+
+[[tracks]]
 name = 'Take Me Back to Eden'
 artist = 'Sleep Token'
 album = 'Take Me Back to Eden'
