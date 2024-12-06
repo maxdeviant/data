@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcnrhmmgys2n'
+created_at = '2024-12-06T18:05:12.152Z'
+text = '''Have to make sure it's one of the Tupperware containers that has the faded spaghetti sauce stains.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:336747fs36o2pslc2a3novw2/app.bsky.feed.post/3lclsxcrwkc22'
+author_did = 'did:plc:336747fs36o2pslc2a3novw2'
+author_handle = 'geekgalgroks.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcnjxlzzt22n'
+created_at = '2024-12-06T15:50:58.484Z'
+text = '''Everyone tried to tell us that V was vaporware, but we didn't listen.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3lcndhndewc2l'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcldmxzhrk2d'
 created_at = '2024-12-05T18:52:20.022Z'
 text = 'But the NYPD should definitely bring in Bob Marley for questioning, all the same.'
