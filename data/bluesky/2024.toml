@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lco3p5guac2n'
+created_at = '2024-12-06T21:08:22.094Z'
+text = '''Can't believe you a found a wild @giacomocavalieri.me that far outside his natural habitat!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:esnjulbssbc3r2nzmp4lw3iv/app.bsky.feed.post/3lcnzr2aphs25'
+author_did = 'did:plc:esnjulbssbc3r2nzmp4lw3iv'
+author_handle = 'krisajenkins.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcnrhmmgys2n'
 created_at = '2024-12-06T18:05:12.152Z'
 text = '''Have to make sure it's one of the Tupperware containers that has the faded spaghetti sauce stains.'''
