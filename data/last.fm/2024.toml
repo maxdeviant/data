@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Alptraum'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-07T17:49:53Z'
+
+[[tracks]]
+name = 'Grausig ist der Blick'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-07T17:44:18Z'
+
+[[tracks]]
+name = 'Zurück zur roten Fluh'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-07T16:15:04Z'
+
+[[tracks]]
+name = 'Der Wahnsinn dort im Abgrund'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-07T16:09:32Z'
+
+[[tracks]]
+name = 'Todesbiwak'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-07T16:03:06Z'
+
+[[tracks]]
+name = 'Felsensang'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-07T15:56:49Z'
+
+[[tracks]]
+name = 'Senkrechte Welten'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-07T15:49:34Z'
+
+[[tracks]]
+name = 'Die das wilde Wetter fängt'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-07T15:40:10Z'
+
+[[tracks]]
+name = 'Felsensang'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-06T23:15:24Z'
+
+[[tracks]]
 name = 'Senkrechte Welten'
 artist = 'Aara'
 album = 'Eiger'
