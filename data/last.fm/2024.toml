@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Felsensang'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-07T18:14:36Z'
+
+[[tracks]]
+name = 'Senkrechte Welten'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-07T18:07:21Z'
+
+[[tracks]]
+name = 'Die das wilde Wetter fängt'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2024-12-07T17:57:56Z'
+
+[[tracks]]
 name = 'Alptraum'
 artist = 'Aara'
 album = 'Eiger'
