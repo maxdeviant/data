@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcvkpqow622q'
+created_at = '2024-12-09T20:25:46.576Z'
+text = 'What I find a little interesting is that they seem to be reusing some of your original screenshots 😅'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:x7omzi5ydqux3nr2dcorz3o2/app.bsky.feed.post/3lcvduf67wk2m'
+author_did = 'did:plc:x7omzi5ydqux3nr2dcorz3o2'
+author_handle = 'jmduke.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcvb3uzfuc26'
 created_at = '2024-12-09T17:33:36.349Z'
 text = '''
