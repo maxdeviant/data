@@ -1,4 +1,40 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcvb3uzfuc26'
+created_at = '2024-12-09T17:33:36.349Z'
+text = '''
+@jmduke.com wrote a retrospective post about it here: jmduke.com/posts/post/s...
+
+Although it seems the site is still running, so perhaps it changed hands?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lcvacwxvo22d'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcv6zgu3jk26'
+created_at = '2024-12-09T16:56:26.902Z'
+text = 'Was it Spoonbill?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lctfhtnlrc2v'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcv5t6kkuc26'
+created_at = '2024-12-09T16:35:03.133Z'
+text = '''
+You'll want to follow the docs here for developing an extension: zed.dev/docs/extensi...
+
+If you're not seeing your extension in the extension list, it probably means the extension is not able to be built. Check your Zed logs for any errors.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ijjtqdqur6anxzondt6ddbhr/app.bsky.feed.post/3lcuz4gs6n22v'
+author_did = 'did:plc:ijjtqdqur6anxzondt6ddbhr'
+author_handle = 'fredkzk.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lctr6chq2s2x'
 created_at = '2024-12-09T03:15:57.951Z'
 text = 'STOP. There’s too many things happening these days.'
