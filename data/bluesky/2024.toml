@@ -1,4 +1,35 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcw6aab4xs2y'
+created_at = '2024-12-10T02:15:00.868Z'
+text = '''
+I did consider using a button in a form in lieu of the checkbox. I'm just wondering at what point I'm jumping through more hoops than it's worth 😅
+
+Is the `iframe` to avoid reloading the whole page when something changes?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mxmtax3ombozlbrejwqahtqj/app.bsky.feed.post/3lcw62afzsc22'
+author_did = 'did:plc:mxmtax3ombozlbrejwqahtqj'
+author_handle = 'l422y.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcw5ztm5lk2y'
+created_at = '2024-12-10T02:11:26.271Z'
+text = 'Since it seems that *some* JS is unavoidable, might be time to check out htmx and see what it can do.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcw5wc2txk2y'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcw5wc2txk2y'
+created_at = '2024-12-10T02:09:27.214Z'
+text = '''
+Somehow I always forget how difficult of an exercise it is to build web apps without using any JavaScript.
+
+I just want to have checking/unchecking a checkbox send a request, is that so much to ask?'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcvkpqow622q'
 created_at = '2024-12-09T20:25:46.576Z'
 text = 'What I find a little interesting is that they seem to be reusing some of your original screenshots 😅'
