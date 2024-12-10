@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcxnahzfl223'
+created_at = '2024-12-10T16:16:14.867Z'
+text = '''
+I get a "failed to build extension error" in my Zed logs when attempting to install your extension as a dev extension.
+
+The issue is this line in the `Cargo.toml`: github.com/fredkzk/zed-...
+
+Since the crate is not in a Cargo workspace, the `[lints]` section can be removed.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ijjtqdqur6anxzondt6ddbhr/app.bsky.feed.post/3lcwtph5mts2p'
+author_did = 'did:plc:ijjtqdqur6anxzondt6ddbhr'
+author_handle = 'fredkzk.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcxfvkqafk2t'
 created_at = '2024-12-10T14:04:52.421Z'
 text = 'I use and love @sindresorhus.bsky.social’s Week Number app, but, boy, was I not prepared when I saw “Week 50” in my menu bar yesterday.'
