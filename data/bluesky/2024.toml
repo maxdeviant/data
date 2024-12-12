@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ld4mptr2l22w'
+created_at = '2024-12-12T15:50:15.445Z'
+text = 'Congratulations!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3ld3vzuigb22a'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lcyukf76fs2y'
 created_at = '2024-12-11T03:59:43.388Z'
 text = '''To quote Sinbad's character: "That really was a bomb? This is a sick world we live in! Sick people!"'''
