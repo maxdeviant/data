@@ -1,4 +1,47 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lde3kkvtcs2f'
+created_at = '2024-12-15T15:04:22.687Z'
+text = 'My favorite as well!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ibbufy55bqvqbao2mmqlfqyp/app.bsky.feed.post/3ldduesejec2i'
+author_did = 'did:plc:ibbufy55bqvqbao2mmqlfqyp'
+author_handle = 'stevemchugh.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lde2h4ljg22f'
+created_at = '2024-12-15T14:44:33.264Z'
+text = '''
+I hate it SOOOO much.
+
+I just *love* how adding an album to my “queued for listening” playlist now turns the + to a check so I need to do additional clicks to actually like the songs when I go back and listen to them later.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3ldcj4xupwc2p'
+author_did = 'did:plc:rkm6m4dsc4da2yzdlvxorhf3'
+author_handle = 'uncenter.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lddzplytvs2f'
+created_at = '2024-12-15T14:31:24.124Z'
+text = 'I haven’t watched Picard, but I have watched that video in its entirety, so now I don’t have to.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:l5r23amjf5ef4w24ilkohmrl/app.bsky.feed.post/3lddzdguvyk2j'
+author_did = 'did:plc:l5r23amjf5ef4w24ilkohmrl'
+author_handle = 'atomly.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lddxzxyhmk2f'
+created_at = '2024-12-15T14:01:24.755Z'
+text = 'Sounds like my kind of movie!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mqqgy3lhxf37sp5nx2zc23mn/app.bsky.feed.post/3lddocf7eme2v'
+author_did = 'did:plc:mqqgy3lhxf37sp5nx2zc23mn'
+author_handle = 'thorstenball.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldd3grkd7k2f'
 created_at = '2024-12-15T05:29:35.694Z'
 text = '''
