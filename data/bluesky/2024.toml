@@ -1,4 +1,95 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldebxr5u522w'
+created_at = '2024-12-15T16:59:07.901Z'
+text = '''Ah, I see! So you're more coming at it from the angle of fixing the forgotten files issue, which poses some design questions about how the module system would work in that world, is that accurate?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:inqg622bfagfglt5xqbibd3x/app.bsky.feed.post/3ldebkdi3x22v'
+author_did = 'did:plc:inqg622bfagfglt5xqbibd3x'
+author_handle = 'davidbarsky.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldebmkqtds2w'
+created_at = '2024-12-15T16:52:52.084Z'
+text = 'Go to another conference!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3ldebh7hlwk2j'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldeb2afmik2w'
+created_at = '2024-12-15T16:42:37.153Z'
+text = '''I know rust-analyzer already has a warning for when you're in a file that isn't in the module tree, so perhaps there could be a way to promote that to a rustc/clippy warning if you have files in the `src/` tree that aren't in the module tree.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldeb2acms22w'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldeb2acms22w'
+created_at = '2024-12-15T16:42:37.152Z'
+text = '''I agree that forgotten files is a bit annoying (although I can probably count on one hand the number of times I've actually run into it), but I imagine there are other ways that could be addressed without removing all the properties I like about Rust's module system 😅'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:inqg622bfagfglt5xqbibd3x/app.bsky.feed.post/3ldeaeinkcc2v'
+author_did = 'did:plc:inqg622bfagfglt5xqbibd3x'
+author_handle = 'davidbarsky.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lde7wayqec2w'
+created_at = '2024-12-15T16:22:29.918Z'
+text = '''Having done a bunch of TypeScript in the past and routinely cursed the inability to craft API surface areas without pulling code into a separate package, being able to have modules within a crate have total control over what they expose is something I wouldn't want to lose.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lde7veazp22h'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lde7veazp22h'
+created_at = '2024-12-15T16:21:59.780Z'
+text = '''
+What about within the crate?
+
+Often I'll have a module within a crate that contains a bunch of submodules, but its public API is crafted with `pub use` (and maybe the occasional `pub mod`).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:inqg622bfagfglt5xqbibd3x/app.bsky.feed.post/3lde7nn2nuc2v'
+author_did = 'did:plc:inqg622bfagfglt5xqbibd3x'
+author_handle = 'davidbarsky.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lde7gffqxs2f'
+created_at = '2024-12-15T16:13:37.668Z'
+text = '''
+Hmm, how would that work if you want to hide a module’s internal hierarchy?
+
+Would consumers always be able to import `foo::bar::baz::T` from the outside instead of only being able to see `foo::T` (via `pub use`)?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:inqg622bfagfglt5xqbibd3x/app.bsky.feed.post/3lde6yg2ypc2v'
+author_did = 'did:plc:inqg622bfagfglt5xqbibd3x'
+author_handle = 'davidbarsky.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lde6mdzl522h'
+created_at = '2024-12-15T15:59:03.804Z'
+text = '''
+I like the current default for visibility.
+
+Given that I try to avoid exposing internals most of the time, having to specifically mark things as "private" when I don't want other code in the crate digging into the internals doesn't feel crate.
+
+Having to opt-in to `pub(crate)` feels right, to me.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:inqg622bfagfglt5xqbibd3x/app.bsky.feed.post/3lde5tg552c2v'
+author_did = 'did:plc:inqg622bfagfglt5xqbibd3x'
+author_handle = 'davidbarsky.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lde3kkvtcs2f'
 created_at = '2024-12-15T15:04:22.687Z'
 text = 'My favorite as well!'
