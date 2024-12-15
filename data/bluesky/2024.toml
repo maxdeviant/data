@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldd3grkd7k2f'
+created_at = '2024-12-15T05:29:35.694Z'
+text = '''
+Thanks!
+
+Postmark was near the top of my list, so glad to hear it’s still a decent choice 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:x7omzi5ydqux3nr2dcorz3o2/app.bsky.feed.post/3ldcb7l5d422j'
+author_did = 'did:plc:x7omzi5ydqux3nr2dcorz3o2'
+author_handle = 'jmduke.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldbwkhjxys2i'
 created_at = '2024-12-14T18:29:30.966Z'
 text = '''
