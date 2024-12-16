@@ -1,4 +1,28 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldfilbalck22'
+created_at = '2024-12-16T04:30:04.490Z'
+text = '''
+      ▲
+    ▲▲
+  ▲▲▲
+▲▲▲▲'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3ldfigvldok2l'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldfifzgmgs22'
+created_at = '2024-12-16T04:27:08.525Z'
+text = '''You know, I'm something of a religious man, myself.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3ldexinmngk2t'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldebxr5u522w'
 created_at = '2024-12-15T16:59:07.901Z'
 text = '''Ah, I see! So you're more coming at it from the angle of fixing the forgotten files issue, which poses some design questions about how the module system would work in that world, is that accurate?'''
