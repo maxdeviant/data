@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldm3m4dtfc2n'
+created_at = '2024-12-18T19:26:32.434Z'
+text = '''
+Same! I've had a few rounds of this so far.
+
+I think it's all the tweets from after I took my backup (since I didn't really care about the new tweets enough to bother taking another one).
+
+Been deleting them by hand as they pop up again.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4tfenpfog244rxry5uz4vtk/app.bsky.feed.post/3ldjuty5lk22g'
+author_did = 'did:plc:i4tfenpfog244rxry5uz4vtk'
+author_handle = 'lizthegrey.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldkkzvakbk2c'
 created_at = '2024-12-18T04:57:21.398Z'
 text = 'This is the energy we need on Bluesky, thank you.'

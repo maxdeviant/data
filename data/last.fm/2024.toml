@@ -1,4 +1,82 @@
 [[tracks]]
+name = 'Oslo'
+artist = 'Mirar'
+album = 'Mare'
+listened_at = '2024-12-18T20:51:41Z'
+
+[[tracks]]
+name = 'Franka'
+artist = 'Mirar'
+album = 'Mare'
+listened_at = '2024-12-18T20:46:25Z'
+
+[[tracks]]
+name = 'Hestehov'
+artist = 'Mirar'
+album = 'Mare'
+listened_at = '2024-12-18T20:43:07Z'
+
+[[tracks]]
+name = 'Rose Bonbon'
+artist = 'Mirar'
+album = 'Mare'
+listened_at = '2024-12-18T20:39:09Z'
+
+[[tracks]]
+name = 'Rachma'
+artist = 'Mirar'
+album = 'Mare'
+listened_at = '2024-12-18T20:34:18Z'
+
+[[tracks]]
+name = 'Love It'
+artist = 'Safari Youth'
+album = 'Everybody Else Knows'
+listened_at = '2024-12-18T20:32:35Z'
+
+[[tracks]]
+name = '0000'
+artist = 'D010930000'
+album = 'ANTIHUMAN'
+listened_at = '2024-12-18T20:31:50Z'
+
+[[tracks]]
+name = 'Ghost'
+artist = 'D010930000'
+album = 'ANTIHUMAN'
+listened_at = '2024-12-18T20:30:25Z'
+
+[[tracks]]
+name = '808'
+artist = 'D010930000'
+album = 'ANTIHUMAN'
+listened_at = '2024-12-18T20:28:56Z'
+
+[[tracks]]
+name = 'ego d(e)ath'
+artist = 'D010930000'
+album = 'ANTIHUMAN'
+listened_at = '2024-12-18T20:27:12Z'
+
+[[tracks]]
+name = 'CH008'
+artist = 'D010930000'
+album = 'ANTIHUMAN'
+listened_at = '2024-12-18T20:23:46Z'
+
+[[tracks]]
+name = 'Euclid'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2024-12-18T19:27:05Z'
+
+[[tracks]]
+name = 'Take Me Back to Eden'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2024-12-18T19:18:46Z'
+
+[[tracks]]
 name = 'Take Me Back to Eden'
 artist = 'Sleep Token'
 album = 'Take Me Back to Eden'
