@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldkkzvakbk2c'
+created_at = '2024-12-18T04:57:21.398Z'
+text = 'This is the energy we need on Bluesky, thank you.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nvflwun6ztxyktjsoue3cmva/app.bsky.feed.post/3ldjcwws6g22q'
+author_did = 'did:plc:nvflwun6ztxyktjsoue3cmva'
+author_handle = 'myrrlyn.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldkjlnyu3k22'
+created_at = '2024-12-18T04:31:30.303Z'
+text = '''"This just goes to show that there is no way to appease book banners, because even if you agree with their professed value system, any attempt to portray the world as it actually exists will inevitably lead to censorship. Ultimately, what these folks are opposed to is not books, it's reality."'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldk47kar7k2c'
 created_at = '2024-12-18T00:32:05.070Z'
 text = 'Well, are they?'
