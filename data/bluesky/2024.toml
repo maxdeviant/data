@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldplwldx2k2q'
+created_at = '2024-12-20T04:56:42.795Z'
+text = 'Old School RuneScape actually does this! They’ve been sending out “my year in OSRS” where they show a bunch of different stats about your account.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uxbldqdxoy6lzttmlof6ac7r/app.bsky.feed.post/3ldpi6a7rgs2x'
+author_did = 'did:plc:uxbldqdxoy6lzttmlof6ac7r'
+author_handle = 'mmediocreman.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldpe2feyl222'
 created_at = '2024-12-20T02:35:40.815Z'
 text = '''
