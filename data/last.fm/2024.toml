@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'No More Light'
+artist = 'Three Eyes of the Void'
+album = 'The Atheist'
+listened_at = '2024-12-20T18:59:54Z'
+
+[[tracks]]
+name = 'Descent'
+artist = 'Three Eyes of the Void'
+album = 'The Atheist'
+listened_at = '2024-12-20T18:52:45Z'
+
+[[tracks]]
+name = 'Against the One'
+artist = 'Three Eyes of the Void'
+album = 'The Atheist'
+listened_at = '2024-12-20T18:46:22Z'
+
+[[tracks]]
+name = 'Behind the Stars'
+artist = 'Three Eyes of the Void'
+album = 'The Atheist'
+listened_at = '2024-12-20T18:18:44Z'
+
+[[tracks]]
+name = 'Juren'
+artist = 'Laang'
+album = 'Riluo 日落'
+listened_at = '2024-12-20T18:14:06Z'
+
+[[tracks]]
+name = 'Yequ'
+artist = 'Laang'
+album = 'Riluo 日落'
+listened_at = '2024-12-20T18:08:04Z'
+
+[[tracks]]
+name = 'Gui Xiang'
+artist = 'Laang'
+album = 'Riluo 日落'
+listened_at = '2024-12-20T18:03:35Z'
+
+[[tracks]]
 name = 'Zhemo'
 artist = 'Laang'
 album = 'Riluo 日落'
