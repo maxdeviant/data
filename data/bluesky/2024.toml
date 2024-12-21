@@ -1,4 +1,32 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldt4os7hsk2o'
+created_at = '2024-12-21T14:34:34.377Z'
+text = '''
+I keep eyeing the RTX 4090, but I just can’t justify the cost.
+
+Don’t know if I’ll switch to AMD, but I saw someone in the thread mention the RTX 4070 Ti, which might be an option.
+
+I’ll need to do some more research before I decide.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:delssbqqprh5km4uhsny46jc/app.bsky.feed.post/3ldt4k7rjmc2h'
+author_did = 'did:plc:delssbqqprh5km4uhsny46jc'
+author_handle = 'videogameiacs.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldt4gy3qo22o'
+created_at = '2024-12-21T14:30:12.112Z'
+text = '''
+I’m in a similar boat.
+
+Been running a GTX 1080 since 2016, and it’s at the point where it’s really struggling to keep up at dual 4k@60Hz when playing newer games.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:delssbqqprh5km4uhsny46jc/app.bsky.feed.post/3ldsrw3asn223'
+author_did = 'did:plc:delssbqqprh5km4uhsny46jc'
+author_handle = 'videogameiacs.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldrytuye2c2s'
 created_at = '2024-12-21T03:53:10.358Z'
 text = '''Can't decide if I care enough to remove my custom domain and then put it back on to reserve my `.bsky.social` handle.'''
