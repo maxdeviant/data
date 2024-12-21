@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldrytuye2c2s'
+created_at = '2024-12-21T03:53:10.358Z'
+text = '''Can't decide if I care enough to remove my custom domain and then put it back on to reserve my `.bsky.social` handle.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xfqcsi7wuwedeqaa5m7aih44/app.bsky.feed.post/3ldrvwegk4k2v'
+author_did = 'did:plc:xfqcsi7wuwedeqaa5m7aih44'
+author_handle = '0x0.boo'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldplwldx2k2q'
 created_at = '2024-12-20T04:56:42.795Z'
 text = 'Old School RuneScape actually does this! They’ve been sending out “my year in OSRS” where they show a bunch of different stats about your account.'
