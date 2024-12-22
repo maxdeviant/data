@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldueig2yrs2m'
+created_at = '2024-12-22T02:26:49.996Z'
+text = 'Gotta always be Balatro maxxing.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:65vl2eqyomqknulyvpoju5sm/app.bsky.feed.post/3lduduubzxc2f'
+author_did = 'did:plc:65vl2eqyomqknulyvpoju5sm'
+author_handle = 'frescopaintings.gallery'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldu52ewdqs2m'
 created_at = '2024-12-22T00:13:42.839Z'
 text = '''
