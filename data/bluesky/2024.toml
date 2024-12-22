@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldvzudebjs2n'
+created_at = '2024-12-22T18:21:58.123Z'
+text = '''
+I don’t have a curated list of my favorites, but I do maintain a list of the albums I’ve listened to the most each year: maxdeviant.com/music/top-al...
+
+Also realized I need to add this year’s albums to it.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnvvkpgdmnpuaknbxbq5v2qa/app.bsky.feed.post/3ldvylg57wk2k'
+author_did = 'did:plc:wnvvkpgdmnpuaknbxbq5v2qa'
+author_handle = 'daniloleal.co'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldvm6rfnms23'
 created_at = '2024-12-22T14:17:16.008Z'
 text = 'Did you have her over after the release to play some Rock Band?'

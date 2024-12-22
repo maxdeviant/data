@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'alone again'
+artist = 'Blvck Ceiling'
+album = '6.99'
+listened_at = '2024-12-22T21:02:33Z'
+
+[[tracks]]
+name = 'calispell'
+artist = 'Blvck Ceiling'
+album = '6.99'
+listened_at = '2024-12-22T21:00:52Z'
+
+[[tracks]]
+name = 'Odem'
+artist = 'Firtan'
+album = 'Marter'
+listened_at = '2024-12-22T17:54:15Z'
+
+[[tracks]]
 name = 'Parhelia'
 artist = 'Firtan'
 album = 'Marter'
