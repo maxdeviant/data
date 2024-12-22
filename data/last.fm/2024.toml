@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Parhelia'
+artist = 'Firtan'
+album = 'Marter'
+listened_at = '2024-12-22T17:47:56Z'
+
+[[tracks]]
+name = 'Lethe'
+artist = 'Firtan'
+album = 'Marter'
+listened_at = '2024-12-22T17:42:12Z'
+
+[[tracks]]
+name = 'Labsal'
+artist = 'Firtan'
+album = 'Marter'
+listened_at = '2024-12-22T17:33:55Z'
+
+[[tracks]]
+name = 'Amor Fati'
+artist = 'Firtan'
+album = 'Marter'
+listened_at = '2024-12-22T17:24:53Z'
+
+[[tracks]]
+name = 'Fadir'
+artist = 'Firtan'
+album = 'Marter'
+listened_at = '2024-12-22T17:18:53Z'
+
+[[tracks]]
+name = 'Close To Me'
+artist = 'The Amity Affliction'
+album = 'Not Without My Ghosts'
+listened_at = '2024-12-22T16:37:09Z'
+
+[[tracks]]
+name = 'The Big Sleep'
+artist = 'The Amity Affliction'
+album = 'Not Without My Ghosts'
+listened_at = '2024-12-22T16:33:10Z'
+
+[[tracks]]
+name = 'Veil of Tyrants'
+artist = 'Praise the Plague'
+album = 'Suffocating In The Current Of Time'
+listened_at = '2024-12-21T23:16:40Z'
+
+[[tracks]]
 name = 'Throne of Decay'
 artist = 'Praise the Plague'
 album = 'Suffocating In The Current Of Time'
