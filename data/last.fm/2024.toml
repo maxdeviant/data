@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Day After Tomorrow'
+artist = 'Phoebe Bridgers'
+album = 'So Much Wine'
+listened_at = '2024-12-24T00:40:49Z'
+
+[[tracks]]
+name = 'So Much Wine'
+artist = 'Phoebe Bridgers'
+album = 'So Much Wine'
+listened_at = '2024-12-24T00:36:29Z'
+
+[[tracks]]
 name = 'Moon Song'
 artist = 'Phoebe Bridgers'
 album = 'Punisher'
