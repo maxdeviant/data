@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3le3ar5zjec2s'
+created_at = '2024-12-24T20:08:46.750Z'
+text = 'Maybe I’ll finally break my habit of idly checking Slack on my phone by the time I go back to work next year.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ldykdheeqs22'
 created_at = '2024-12-23T18:22:04.984Z'
 text = '''This is pretty neat. Interestingly, my phone didn't pick it up until it showed up a smaller size when I opened the reply modal.'''
