@@ -1,4 +1,64 @@
 [[tracks]]
+name = 'I Heard The Bells On Christmas Day'
+artist = 'Casting Crowns'
+album = 'Peace On Earth'
+listened_at = '2024-12-24T23:38:33Z'
+
+[[tracks]]
+name = 'We Three Kings'
+artist = 'Tommee Profitt'
+album = 'The Birth of a King'
+listened_at = '2024-12-24T23:34:22Z'
+
+[[tracks]]
+name = 'In the Bleak Midwinter'
+artist = 'Wolf Alice'
+album = 'in the bleak midwinter'
+listened_at = '2024-12-24T23:30:01Z'
+
+[[tracks]]
+name = 'Carol Of The Bells'
+artist = '''The O'Pears'''
+album = 'Stay Warm'
+listened_at = '2024-12-24T23:29:06Z'
+
+[[tracks]]
+name = 'Come Thou Long Expected Jesus'
+artist = 'The Arcadian Wild'
+album = 'Happy Golden Days'
+listened_at = '2024-12-24T23:24:41Z'
+
+[[tracks]]
+name = 'What Child Is This'
+artist = 'Phil Wickham'
+album = 'Christmas'
+listened_at = '2024-12-24T21:34:31Z'
+
+[[tracks]]
+name = 'O Come, O Come, Emmanuel'
+artist = 'Francesca Battistelli'
+album = 'Christmas'
+listened_at = '2024-12-24T21:30:11Z'
+
+[[tracks]]
+name = 'The Holly and the Ivy'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2024-12-24T21:25:14Z'
+
+[[tracks]]
+name = 'Have Yourself a Merry Little Christmas'
+artist = 'Phoebe Bridgers'
+album = 'So Much Wine'
+listened_at = '2024-12-24T21:22:15Z'
+
+[[tracks]]
+name = 'Variations On The Kanon'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2024-12-24T18:00:17Z'
+
+[[tracks]]
 name = 'Night, Pt. 3: Minstrels'
 artist = 'George Winston'
 album = 'December'
