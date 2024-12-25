@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Hidden in the Leaves'
+artist = 'Witch Bolt'
+album = 'Bellow'
+listened_at = '2024-12-25T20:15:03Z'
+
+[[tracks]]
+name = 'As the Rush Comes'
+artist = 'Motorcycle'
+album = 'As The Rush Comes (Collected, Pt.1)'
+listened_at = '2024-12-25T20:11:11Z'
+
+[[tracks]]
+name = 'Exposure'
+artist = 'Gareth Emery'
+album = 'Exposure / Metropolis'
+listened_at = '2024-12-25T20:07:49Z'
+
+[[tracks]]
 name = 'God Will Not Hold Us Guiltless (Rebirth)'
 artist = 'Ranges'
 album = 'Bonhoeffer (Rebirth)'
