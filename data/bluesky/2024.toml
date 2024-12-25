@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3le3ry3rvdk2q'
+created_at = '2024-12-25T01:16:52.894Z'
+text = 'I have notifications turned off, but I still open up the app out of force of habit 😅'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5dnwnjydruv7wmbi33xchkr6/app.bsky.feed.post/3le3qdevai22i'
+author_did = 'did:plc:5dnwnjydruv7wmbi33xchkr6'
+author_handle = 'nate.rip'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3le3ar5zjec2s'
 created_at = '2024-12-24T20:08:46.750Z'
 text = 'Maybe I’ll finally break my habit of idly checking Slack on my phone by the time I go back to work next year.'
