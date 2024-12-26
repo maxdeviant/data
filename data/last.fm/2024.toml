@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Кроме'
+artist = 'Fraunhofer Diffraction'
+album = 'Отсветы'
+listened_at = '2024-12-26T00:35:12Z'
+
+[[tracks]]
+name = 'Снова'
+artist = 'Fraunhofer Diffraction'
+album = 'Отсветы'
+listened_at = '2024-12-26T00:29:54Z'
+
+[[tracks]]
+name = 'Сон'
+artist = 'Fraunhofer Diffraction'
+album = 'Отсветы'
+listened_at = '2024-12-26T00:26:05Z'
+
+[[tracks]]
+name = 'Кроме'
+artist = 'Fraunhofer Diffraction'
+album = 'Отсветы'
+listened_at = '2024-12-26T00:21:45Z'
+
+[[tracks]]
 name = 'Снова'
 artist = 'Fraunhofer Diffraction'
 album = 'Отсветы'
