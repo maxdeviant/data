@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Снова'
+artist = 'Fraunhofer Diffraction'
+album = 'Отсветы'
+listened_at = '2024-12-26T00:16:27Z'
+
+[[tracks]]
+name = 'Сон'
+artist = 'Fraunhofer Diffraction'
+album = 'Отсветы'
+listened_at = '2024-12-26T00:12:38Z'
+
+[[tracks]]
+name = 'Кроме'
+artist = 'Fraunhofer Diffraction'
+album = 'Отсветы'
+listened_at = '2024-12-26T00:08:19Z'
+
+[[tracks]]
+name = 'Снова'
+artist = 'Fraunhofer Diffraction'
+album = 'Отсветы'
+listened_at = '2024-12-26T00:03:00Z'
+
+[[tracks]]
+name = 'Сон'
+artist = 'Fraunhofer Diffraction'
+album = 'Отсветы'
+listened_at = '2024-12-25T23:59:11Z'
+
+[[tracks]]
+name = 'Кроме'
+artist = 'Fraunhofer Diffraction'
+album = 'Отсветы'
+listened_at = '2024-12-25T23:54:52Z'
+
+[[tracks]]
+name = 'Снова'
+artist = 'Fraunhofer Diffraction'
+album = 'Отсветы'
+listened_at = '2024-12-25T23:49:34Z'
+
+[[tracks]]
 name = 'Hidden in the Leaves'
 artist = 'Witch Bolt'
 album = 'Bellow'
