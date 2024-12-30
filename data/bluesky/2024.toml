@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lejlbof7u22u'
+created_at = '2024-12-30T12:54:14.536Z'
+text = 'I feel the same way. It would drive me up the wall if my wife didn’t have an iPhone.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3leikthmvfs2p'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lejks54vjc2u'
+created_at = '2024-12-30T12:45:33.121Z'
+text = 'He had literally one job.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xraomsuf6pvh7r2cqtdwhkvm/app.bsky.feed.post/3leiac2xcic2w'
+author_did = 'did:plc:xraomsuf6pvh7r2cqtdwhkvm'
+author_handle = 'swiftonsecurity.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3leelmw2ar22x'
 created_at = '2024-12-28T13:17:12.973Z'
 text = 'My vote is for Wind Waker'
