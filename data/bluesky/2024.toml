@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3len24llkg22s'
+created_at = '2024-12-31T21:57:49.167Z'
+text = 'I tried to get Claude to write me a parody version of Hot to Go once and it refused over copyright concerns 🙄'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3lemvvsoek22w'
+author_did = 'did:plc:h25avmes6g7fgcddc3xj7qmg'
+author_handle = 'moultano.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lemjuluuvc2i'
 created_at = '2024-12-31T17:07:01.170Z'
 text = 'I’ve been considering doing the same! Which one did you end up going with?'
