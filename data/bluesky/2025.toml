@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3leqaazwn2s2r'
+created_at = '2025-01-02T04:25:40.095Z'
+text = 'Wednesday Scaries'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3leq7uizbys2r'
+created_at = '2025-01-02T04:18:39.704Z'
+text = 'I like how I could tell this was in Zed even before I checked the alt text 😄'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6pz6ncxxtia36hrtbf24wzue/app.bsky.feed.post/3lepqugqn5s2y'
+author_did = 'did:plc:6pz6ncxxtia36hrtbf24wzue'
+author_handle = 'ellie.wtf'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lepo2y4rw22c'
 created_at = '2025-01-01T23:00:09.520Z'
 text = 'Last night I cleared out my email inbox from ~3,000 unread emails down to a mere 24 😮‍💨'
