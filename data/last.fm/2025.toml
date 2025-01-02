@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Wish You the Best'
+artist = 'Rain City Drive'
+album = 'Things Are Different Now'
+listened_at = '2025-01-01T22:18:50Z'
+
+[[tracks]]
+name = 'Lose My Composure'
+artist = 'Rain City Drive'
+album = 'Things Are Different Now'
+listened_at = '2025-01-01T20:59:15Z'
+
+[[tracks]]
 name = 'Nazareth'
 artist = 'Sleep Token'
 album = 'Two'
