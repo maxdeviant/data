@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ler6jxrcp22d'
+created_at = '2025-01-02T13:27:32.069Z'
+text = '“Rust is boring technology”, say it back.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3leqpsch7z225'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3leqaazwn2s2r'
 created_at = '2025-01-02T04:25:40.095Z'
 text = 'Wednesday Scaries'
