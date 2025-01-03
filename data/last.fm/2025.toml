@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Weeper'
+artist = 'Blacklit Canopy Official'
+album = 'Patient Demos (Deluxe)'
+listened_at = '2025-01-03T01:28:31Z'
+
+[[tracks]]
+name = 'Graves'
+artist = 'Blacklit Canopy Official'
+album = 'Patient Demos (Deluxe)'
+listened_at = '2025-01-03T01:24:30Z'
+
+[[tracks]]
+name = 'Will'
+artist = 'Blacklit Canopy Official'
+album = 'Patient Demos (Deluxe)'
+listened_at = '2025-01-03T01:21:38Z'
+
+[[tracks]]
+name = 'Tall Trees'
+artist = 'Blacklit Canopy Official'
+album = 'Tall Trees'
+listened_at = '2025-01-03T01:18:02Z'
+
+[[tracks]]
+name = 'When the Bough Breaks'
+artist = 'Sleep Token'
+album = 'One'
+listened_at = '2025-01-03T00:35:27Z'
+
+[[tracks]]
 name = 'The Cave We Fear to Enter'
 artist = 'As I Lay Dying'
 album = 'Through Storms Ahead'
