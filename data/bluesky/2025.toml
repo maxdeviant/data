@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3letru4zqms2m'
+created_at = '2025-01-03T14:18:33.704Z'
+text = 'This sounds like exactly what you need: getfullyear.com'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:of2s7m5juw4jmb3hwmqr7ruz/app.bsky.feed.post/3lerph5c7522i'
+author_did = 'did:plc:of2s7m5juw4jmb3hwmqr7ruz'
+author_handle = 'orhun.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lervbecco22c'
 created_at = '2025-01-02T20:14:19.281Z'
 text = 'How did you manage to sum me up so well in a tweet?'
