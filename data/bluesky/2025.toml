@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3leu3dqclyc2f'
+created_at = '2025-01-03T17:08:20.909Z'
+text = '''
+I think (?) I’m already on a paid Cloudflare plan, but I might be wrong.
+
+But I’m sure other folks would appreciate that patch 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3leu2wnhgmk2u'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3letzfuu7wk2f'
+created_at = '2025-01-03T16:33:45.307Z'
+text = 'This reminded me that I should really set this up for myself'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3letu6p5evc23'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3letru4zqms2m'
 created_at = '2025-01-03T14:18:33.704Z'
 text = 'This sounds like exactly what you need: getfullyear.com'
