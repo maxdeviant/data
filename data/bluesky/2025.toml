@@ -1,4 +1,41 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3levdddwxuk2c'
+created_at = '2025-01-04T05:03:57.618Z'
+text = 'Thank you for your honesty 🫡'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ohcfa44fac4a34w25ourbvqh/app.bsky.feed.post/3levcxl3jjk2a'
+author_did = 'did:plc:ohcfa44fac4a34w25ourbvqh'
+author_handle = 'isaacary.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lev6zna6ac2j'
+created_at = '2025-01-04T03:46:56.845Z'
+text = '''
+Was pretty painless!
+
+I think I typoed the value of my Bluesky username secret initially, but I updated it and then started seeing my scrobbles come in.
+
+I did notice a discrepancy in the weekly artists cron expression in the `wrangler.toml.example`.
+
+Opened a PR to fix: github.com/willmanduffy...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3lev6o25pss2a'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lev64ijgjs2o'
+created_at = '2025-01-04T03:30:38.825Z'
+text = 'Houston, we have liftoff!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3leu4hjqqm225'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3leuxv4hb3c2c'
 created_at = '2025-01-04T01:39:08.842Z'
 text = '''

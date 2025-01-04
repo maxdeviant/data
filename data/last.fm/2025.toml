@@ -1,4 +1,82 @@
 [[tracks]]
+name = 'Winter Storm'
+artist = 'Hermóðr'
+album = 'Forest Sky'
+listened_at = '2025-01-04T04:55:12Z'
+
+[[tracks]]
+name = 'Nazareth'
+artist = 'Sleep Token'
+album = 'Two'
+listened_at = '2025-01-04T04:06:57Z'
+
+[[tracks]]
+name = 'Wish You the Best'
+artist = 'Rain City Drive'
+album = 'Things Are Different Now'
+listened_at = '2025-01-04T04:04:02Z'
+
+[[tracks]]
+name = 'Aporia'
+artist = '''There's a Light'''
+album = 'Aporia'
+listened_at = '2025-01-04T03:48:59Z'
+
+[[tracks]]
+name = 'Will'
+artist = 'Blacklit Canopy Official'
+album = 'Patient Demos (Deluxe)'
+listened_at = '2025-01-04T03:46:05Z'
+
+[[tracks]]
+name = 'Guiding Light'
+artist = 'Caskets'
+album = 'Reflections'
+listened_at = '2025-01-04T03:41:42Z'
+
+[[tracks]]
+name = 'Mitsuko'
+artist = 'Lake Malice'
+album = 'Mitsuko'
+listened_at = '2025-01-04T03:39:32Z'
+
+[[tracks]]
+name = 'A.D.D'
+artist = 'Alt.'
+album = 'ABEYANCE'
+listened_at = '2025-01-04T03:35:54Z'
+
+[[tracks]]
+name = 'Spare Me'
+artist = 'The Plot in You'
+album = 'Vol. 3'
+listened_at = '2025-01-04T03:32:16Z'
+
+[[tracks]]
+name = 'Castle in the sky'
+artist = 'Blvck Ceiling'
+album = 'Castle in the sky'
+listened_at = '2025-01-04T03:27:44Z'
+
+[[tracks]]
+name = 'Shoegaze Rave'
+artist = 'Violet Cold'
+album = 'Səni Uzaq Kainatlarda Axtarıram'
+listened_at = '2025-01-04T03:23:40Z'
+
+[[tracks]]
+name = 'Violenciaga'
+artist = 'Violet Cold'
+album = 'Violenciaga'
+listened_at = '2025-01-04T03:14:46Z'
+
+[[tracks]]
+name = 'Violenciaga'
+artist = 'Violet Cold'
+album = 'Violenciaga'
+listened_at = '2025-01-04T03:08:32Z'
+
+[[tracks]]
 name = 'Migrate'
 artist = 'Bow Church'
 album = 'The Spirits In This Forest Are Older Than Your Gods'
