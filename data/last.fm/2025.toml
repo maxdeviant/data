@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Thrall'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-01-04T15:09:04Z'
+
+[[tracks]]
+name = 'Gui Xiang'
+artist = 'Laang'
+album = 'Riluo 日落'
+listened_at = '2025-01-04T15:04:34Z'
+
+[[tracks]]
 name = 'The Big Sleep'
 artist = 'The Amity Affliction'
 album = 'Not Without My Ghosts'
