@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Migrate'
+artist = 'Bow Church'
+album = 'The Spirits In This Forest Are Older Than Your Gods'
+listened_at = '2025-01-04T02:57:01Z'
+
+[[tracks]]
+name = 'Fate'
+artist = 'Fraunhofer Diffraction'
+album = 'Vice'
+listened_at = '2025-01-04T02:53:29Z'
+
+[[tracks]]
+name = 'Asphyxia'
+artist = 'Fraunhofer Diffraction'
+album = 'Vice'
+listened_at = '2025-01-04T02:49:06Z'
+
+[[tracks]]
+name = 'Guiding Light'
+artist = 'Caskets'
+album = 'Reflections'
+listened_at = '2025-01-04T00:40:24Z'
+
+[[tracks]]
+name = 'Mitsuko'
+artist = 'Lake Malice'
+album = 'Mitsuko'
+listened_at = '2025-01-04T00:38:14Z'
+
+[[tracks]]
+name = 'A.D.D'
+artist = 'Alt.'
+album = 'ABEYANCE'
+listened_at = '2025-01-04T00:34:38Z'
+
+[[tracks]]
+name = 'Castle in the sky'
+artist = 'Blvck Ceiling'
+album = 'Castle in the sky'
+listened_at = '2025-01-04T00:30:00Z'
+
+[[tracks]]
+name = 'Pretend'
+artist = 'The Plot in You'
+album = 'Vol. 3'
+listened_at = '2025-01-04T00:26:32Z'
+
+[[tracks]]
+name = 'Been Here Before'
+artist = 'The Plot in You'
+album = 'Vol. 3'
+listened_at = '2025-01-04T00:22:04Z'
+
+[[tracks]]
 name = 'Spare Me'
 artist = 'The Plot in You'
 album = 'Vol. 3'

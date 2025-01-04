@@ -1,4 +1,35 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3leuxv4hb3c2c'
+created_at = '2025-01-04T01:39:08.842Z'
+text = '''
+Definitely!
+
+I seem to recall our jj workflows aren't quite the same, but even for me I find myself with far less friction if I need to go off on a brief side quest from my current task that I can land as an independent change.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3leuxs7czvc2q'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3leuxhwkbtc2c'
+created_at = '2025-01-04T01:31:46.442Z'
+text = '''Sometimes I'll even do this if the changes are arguably related, but produce a messier diff.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3leuxh3wa7c2c'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3leuxh3wa7c2c'
+created_at = '2025-01-04T01:31:18.522Z'
+text = '''
+I'll never understand people who aren't entirely allergic to unrelated changes making it into a PR.
+
+Whenever I do something that results in a bunch of unrelated changes, I'll figure out a way to extract them into their own diff.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3leurdyaqoc27'
 created_at = '2025-01-03T23:42:11.557Z'
 text = '''Can't believe they went straight to describing programming in Rust as being in an emotionally abusive relationship and not as being in a consensual BDSM relationship where the borrow checker is your dominatrix.'''
