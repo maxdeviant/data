@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'The Sunset of Life'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-01-05T00:36:49Z'
+
+[[tracks]]
+name = 'Of Severance'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-01-05T00:26:59Z'
+
+[[tracks]]
+name = 'Suffocate (feat. Poppy)'
+artist = 'Knocked Loose'
+album = '''You Won't Go Before You're Supposed To'''
+listened_at = '2025-01-05T00:25:16Z'
+
+[[tracks]]
+name = 'Heaven'
+artist = 'Ocean Sleeper'
+album = 'Maybe Death Is All I Need'
+listened_at = '2025-01-05T00:23:29Z'
+
+[[tracks]]
 name = 'Lonely Love (feat. LiL Lotus)'
 artist = 'Ocean Sleeper'
 album = 'Maybe Death Is All I Need'
