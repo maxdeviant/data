@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'The Sunset of Life'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-01-05T18:14:14Z'
+
+[[tracks]]
+name = 'Thrall'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-01-05T18:06:40Z'
+
+[[tracks]]
+name = 'Euclid'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2025-01-05T18:00:57Z'
+
+[[tracks]]
 name = 'Take Me Back to Eden'
 artist = 'Sleep Token'
 album = 'Take Me Back to Eden'
