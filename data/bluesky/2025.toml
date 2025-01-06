@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lf3rudtihc27'
+created_at = '2025-01-06T18:39:58.746Z'
+text = '''
+This is a correct take.
+
+Not to mention that it wreaks havoc on your diffs when you add a single line that requires reindenting every other line 🙄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3lf3juvu56k2j'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lf3qszjyr227'
+created_at = '2025-01-06T18:21:20.653Z'
+text = 'This is sick! 🔥🔥🔥'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3lf3n4oxvfk2z'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lf3al24vus2l'
 created_at = '2025-01-06T13:30:32.968Z'
 text = 'You’re one step closer to building your own Factorio!'
