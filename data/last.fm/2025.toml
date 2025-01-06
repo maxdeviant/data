@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Eleonora'
+artist = 'Dvne'
+album = 'Voidkind'
+listened_at = '2025-01-06T00:44:43Z'
+
+[[tracks]]
+name = 'Summa Blasphemia'
+artist = 'Dvne'
+album = 'Voidkind'
+listened_at = '2025-01-06T00:39:16Z'
+
+[[tracks]]
+name = 'Fuck (feat. Josh Franceschi)'
+artist = 'Bring Me the Horizon'
+album = '''There Is A Hell Believe Me I've Seen It. There Is A Heaven Let's Keep It A Secret'''
+listened_at = '2025-01-06T00:34:29Z'
+
+[[tracks]]
+name = 'It Never Ends'
+artist = 'Bring Me the Horizon'
+album = '''There Is A Hell Believe Me I've Seen It. There Is A Heaven Let's Keep It A Secret'''
+listened_at = '2025-01-06T00:29:56Z'
+
+[[tracks]]
+name = 'Crucify Me (feat. Lights)'
+artist = 'Bring Me the Horizon'
+album = '''There Is A Hell Believe Me I've Seen It. There Is A Heaven Let's Keep It A Secret'''
+listened_at = '2025-01-06T00:23:20Z'
+
+[[tracks]]
 name = 'Faded Ghost'
 artist = 'Austere'
 album = 'Beneath the Threshold'
