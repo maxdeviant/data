@@ -1,4 +1,39 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lf6ugzguws2e'
+created_at = '2025-01-08T00:04:12.079Z'
+text = '''Pick one based on how you're feeling on a given day.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lf6tsgf4uk2r'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lf6sm2hdis2v'
+created_at = '2025-01-07T23:31:13.432Z'
+text = 'Here are some of the other replacements: github.com/natefaubion/...'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lf6sgekxkc2v'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lf6sgekxkc2v'
+created_at = '2025-01-07T23:28:02.709Z'
+text = '''
+This reminded me that in PureScript the compiler accepts Unicode characters in place of certain keywords.
+
+So, for instance, you can use `∀` in place of `forall`.
+
+And the PureScript formatter (purs-tidy) will actually replace the ASCII keywords to their Unicode glyphs, if so configured.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3lf6r2hk5hc2u'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lf6hh2x2nk22'
 created_at = '2025-01-07T20:11:35.015Z'
 text = 'I’m in a similar boat. Have done a workout in my home gym every day so far this year, and while it has been great for my mood/mental health, I am so physically exhausted each day 😪'
