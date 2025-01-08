@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfaqlcwrf22f'
+created_at = '2025-01-08T18:00:20.765Z'
+text = '''
+Love it when people open AI slop PRs to the Zed repo that don't make any sense.
+
+When the crux of your "fix" depends on an API that *very clearly* doesn't exist, then maybe you should reconsider your life choices.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lf7dynlo222d'
 created_at = '2025-01-08T04:42:29.761Z'
 text = 'For sale: baby shoes, never worn.'
