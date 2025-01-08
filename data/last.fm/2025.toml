@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Hypnosis'
+artist = 'Sleep Token'
+album = 'This Place Will Become Your Tomb'
+listened_at = '2025-01-08T14:58:17Z'
+
+[[tracks]]
+name = 'Atlantic'
+artist = 'Sleep Token'
+album = 'This Place Will Become Your Tomb'
+listened_at = '2025-01-08T14:53:25Z'
+
+[[tracks]]
+name = 'Bloodworm'
+artist = 'Kingdom of Giants'
+album = 'Bloodworm'
+listened_at = '2025-01-08T14:32:09Z'
+
+[[tracks]]
+name = 'Fatalist'
+artist = 'Half Me'
+album = 'Fatalist'
+listened_at = '2025-01-08T14:28:47Z'
+
+[[tracks]]
 name = 'Breath of Rats'
 artist = 'Doedsvangr'
 album = 'Koinonia'
