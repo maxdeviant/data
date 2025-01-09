@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfbtn3s3cs2a'
+created_at = '2025-01-09T04:27:41.343Z'
+text = '''
+Thank you for the recommendations!
+
+I’ve definitely heard “the world has always been like this” before, but I haven’t yet internalized it.
+
+There’s still an element of “okay, sure, but was it as bad as this?” that my mind tends to go.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3lfbr6tvtq22t'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfbqc2kkv224'
+created_at = '2025-01-09T03:27:49.724Z'
+text = '''
+On a personal level, I've been having a pretty good start to the year. I've been exercising every day and feeling much better than I've felt in a long time.
+
+But I'm having a really difficult time squaring this with how dismal things look when I look out into what's going on in the wider world.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfbb6iw6y22f'
 created_at = '2025-01-08T22:57:24.441Z'
 text = 'Waiting for Stripe to give you the option to send a big guy around with a baseball bat to improve your revenue recovery rate.'
