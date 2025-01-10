@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Face Me'
+artist = 'The Plot in You'
+album = 'Swan Song'
+listened_at = '2025-01-10T15:00:33Z'
+
+[[tracks]]
+name = 'Fall Again'
+artist = 'The Plot in You'
+album = 'Swan Song'
+listened_at = '2025-01-10T14:57:18Z'
+
+[[tracks]]
+name = 'Letters To A Dead Friend'
+artist = 'The Plot in You'
+album = 'Swan Song'
+listened_at = '2025-01-10T14:53:25Z'
+
+[[tracks]]
+name = 'The Apparition'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2025-01-10T14:48:44Z'
+
+[[tracks]]
+name = 'Take Me Back to Eden'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2025-01-10T14:47:10Z'
+
+[[tracks]]
+name = 'Hypnosis'
+artist = 'Sleep Token'
+album = 'This Place Will Become Your Tomb'
+listened_at = '2025-01-10T14:43:07Z'
+
+[[tracks]]
+name = 'Atlantic'
+artist = 'Sleep Token'
+album = 'This Place Will Become Your Tomb'
+listened_at = '2025-01-10T14:38:15Z'
+
+[[tracks]]
+name = 'The Apparition'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2025-01-10T14:38:08Z'
+
+[[tracks]]
+name = 'A Martyr Left Alive'
+artist = 'Counterparts'
+album = 'Heaven Let Them Die'
+listened_at = '2025-01-10T04:46:08Z'
+
+[[tracks]]
 name = 'Take Me Back to Eden'
 artist = 'Sleep Token'
 album = 'Take Me Back to Eden'
