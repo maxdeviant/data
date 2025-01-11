@@ -1,4 +1,52 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfilu5oa4c2g'
+created_at = '2025-01-11T20:57:06.429Z'
+text = '''
+Just rearranged my feeds so that "Discover" is pushed all the way to the right.
+
+Going to see if that makes a difference in how often I scroll it in comparison to my other feeds.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfil44tzm22g'
+created_at = '2025-01-11T20:43:40.264Z'
+text = 'Can someone explain to me why before I was exercising regularly I could eat a cheeseburger and fries without a second thought, but now that I am exercising I feel guilty about it?'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfigcyg7mc2w'
+created_at = '2025-01-11T19:18:01.789Z'
+text = '''I think it might be time for me to set up some political mute words (and maybe stop using the Discover feed, if I'm being totally honest with myself).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sjyy4yelu7htu5nzavtxauik/app.bsky.feed.post/3lfifwt5ies2q'
+author_did = 'did:plc:sjyy4yelu7htu5nzavtxauik'
+author_handle = 'ghoulpus.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lficwa35lk2f'
+created_at = '2025-01-11T18:17:12.382Z'
+text = 'The backs of my hands are SO dry right now.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3lfibj4efac2t'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lficurpd622f'
+created_at = '2025-01-11T18:16:23.761Z'
+text = 'I fear I shall be feeling this tomorrow.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lficu6dtwc2f'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lficu6dtwc2f'
+created_at = '2025-01-11T18:16:03.461Z'
+text = 'We got some more snow overnight, so this morning I got to pre-game my workout with a snow-shoveling workout.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lffn6ktsck27'
 created_at = '2025-01-10T16:42:50.315Z'
 text = '''
