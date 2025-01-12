@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfimzajxoc2g'
+created_at = '2025-01-11T21:17:50.950Z'
+text = '''
+Yea, that may end up being what happens.
+
+I do like browsing it from time to time, but I've found myself using it more than I would like, so I want to see if changing its position is enough to influence my behavior.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:hrm6yw3li6jnjy4l5hcdexht/app.bsky.feed.post/3lfimvtr7v22i'
+author_did = 'did:plc:hrm6yw3li6jnjy4l5hcdexht'
+author_handle = 'ok-ciel.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfilu5oa4c2g'
 created_at = '2025-01-11T20:57:06.429Z'
 text = '''
