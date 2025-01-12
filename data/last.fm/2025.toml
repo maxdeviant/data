@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Vore'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2025-01-12T20:37:50Z'
+
+[[tracks]]
+name = 'The Apparition'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2025-01-12T20:33:23Z'
+
+[[tracks]]
+name = '''Tag, You're It'''
+artist = 'Melanie Martinez'
+album = 'Cry Baby (Deluxe Edition)'
+listened_at = '2025-01-12T19:22:36Z'
+
+[[tracks]]
+name = 'Gasoline'
+artist = 'Halsey'
+album = 'BADLANDS (Deluxe)'
+listened_at = '2025-01-12T19:18:19Z'
+
+[[tracks]]
+name = 'Haunting'
+artist = 'Halsey'
+album = 'BADLANDS (Deluxe)'
+listened_at = '2025-01-12T19:13:59Z'
+
+[[tracks]]
+name = 'Strange Love'
+artist = 'Halsey'
+album = 'BADLANDS (Deluxe)'
+listened_at = '2025-01-12T18:00:45Z'
+
+[[tracks]]
 name = 'Colors Pt. II'
 artist = 'Halsey'
 album = 'BADLANDS (Deluxe)'
