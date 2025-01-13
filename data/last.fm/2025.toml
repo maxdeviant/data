@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Family Tree (Intro)'
+artist = 'Ethel Cain'
+album = 'Preacher’s Daughter'
+listened_at = '2025-01-13T03:38:14Z'
+
+[[tracks]]
+name = 'Shade Astray'
+artist = 'Invent Animate'
+album = 'Heavener (Definitive)'
+listened_at = '2025-01-12T23:39:30Z'
+
+[[tracks]]
 name = 'Absence Persistent'
 artist = 'Invent Animate'
 album = 'Heavener (Definitive)'
