@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Absence Persistent'
+artist = 'Invent Animate'
+album = 'Heavener (Definitive)'
+listened_at = '2025-01-12T23:35:40Z'
+
+[[tracks]]
+name = 'Without a Whisper - Reimagined'
+artist = 'Invent Animate'
+album = 'Heavener (Definitive)'
+listened_at = '2025-01-12T23:31:57Z'
+
+[[tracks]]
+name = 'A Martyr Left Alive'
+artist = 'Counterparts'
+album = 'Heaven Let Them Die'
+listened_at = '2025-01-12T20:43:30Z'
+
+[[tracks]]
 name = 'Vore'
 artist = 'Sleep Token'
 album = 'Take Me Back to Eden'
