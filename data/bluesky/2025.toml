@@ -1,4 +1,50 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfsacbdi7t2r'
+created_at = '2025-01-15T16:56:52.472Z'
+text = '''
+In the case of auto-revert, I see it still has the potential to be disruptive in that:
+
+1. Someone may have already branched off of `main` at the bad commit
+2. Depending on the state of the breakage it could impact `git bisect`
+
+I suspect those fall under the tradeoffs.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfsacbdi7s2r'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfsacbdi7s2r'
+created_at = '2025-01-15T16:56:52.471Z'
+text = '''I think that there's a smaller time horizon (in the sub-30 minutes realm) where the benefits of Bors outweigh the cost, because ideally I'd like for `main` to never go red.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfsacbc4bk2r'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfsacbc4bk2r'
+created_at = '2025-01-15T16:56:52.470Z'
+text = 'Yea, I can appreciate that there is a scale where the Bors approach becomes too slow. I do have a few minor contributions to the Rust compiler, and CI for that project is a bear (although it is a bear to build locally, too)!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3lfs7iaj4p22n'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfs4gtwkrc2n'
+created_at = '2025-01-15T15:47:51.265Z'
+text = 'I think it’s ludicrous that the prevailing standard for CI is “this PR passed on its own at the time it was last updated” and not “this PR passed when applied to HEAD at the time it was merged”.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfrzbuzil22n'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfrzbuzil22n'
 created_at = '2025-01-15T14:51:23.412Z'
 text = '''
