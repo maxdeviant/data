@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfuzs4lric27'
+created_at = '2025-01-16T19:38:27.437Z'
+text = '''Can't believe this is how I found out 😭'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3lfuzmmfhpc2x'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfufhz2m722o'
 created_at = '2025-01-16T13:34:53.349Z'
 text = 'I hear they’re working on the Switch64'
