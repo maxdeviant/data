@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfufhz2m722o'
+created_at = '2025-01-16T13:34:53.349Z'
+text = 'I hear they’re working on the Switch64'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:jye22xkea3jqsabskhfec347/app.bsky.feed.post/3lfufb5ir2c2i'
+author_did = 'did:plc:jye22xkea3jqsabskhfec347'
+author_handle = 'ramiismail.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfufensg4k2o'
+created_at = '2025-01-16T13:33:00.883Z'
+text = 'What in the world'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xfqcsi7wuwedeqaa5m7aih44/app.bsky.feed.post/3lfti7ioe6c2x'
+author_did = 'did:plc:xfqcsi7wuwedeqaa5m7aih44'
+author_handle = '0x0.boo'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lftbxv22oc2s'
 created_at = '2025-01-16T02:59:31.301Z'
 text = '''
