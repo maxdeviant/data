@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lftbxv22oc2s'
+created_at = '2025-01-16T02:59:31.301Z'
+text = '''
+Added a new page to my website for me to record my workouts for this year: maxdeviant.com/gym/workouts/
+
+Apparently I've already biked a total of 104 miles so far!'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfsgfixvbk27'
 created_at = '2025-01-15T18:46:03.638Z'
 text = 'I hate how one negative interaction can then derail the rest of my day 😪'
