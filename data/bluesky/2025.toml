@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfvr73kel22s'
+created_at = '2025-01-17T02:37:18.612Z'
+text = 'No Church encoding in the `while`.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3lfvqunn4tk2w'
+author_did = 'did:plc:fpruhuo22xkm5o7ttr2ktxdo'
+author_handle = 'danabra.mov'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lfuzs4lric27'
 created_at = '2025-01-16T19:38:27.437Z'
 text = '''Can't believe this is how I found out 😭'''
