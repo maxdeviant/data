@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Flight'
+artist = 'Earthbound.'
+album = 'Chronos'
+listened_at = '2025-01-20T17:31:05Z'
+
+[[tracks]]
+name = 'The Dark'
+artist = 'Night Rider'
+album = 'The Dark'
+listened_at = '2025-01-20T17:26:51Z'
+
+[[tracks]]
+name = 'River Of Sorrows'
+artist = 'PALEFACE SWISS'
+album = 'CURSED'
+listened_at = '2025-01-20T17:22:49Z'
+
+[[tracks]]
 name = 'Take Me Back to Eden'
 artist = 'Sleep Token'
 album = 'Take Me Back to Eden'
