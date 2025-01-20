@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg6zljvnqs2w'
+created_at = '2025-01-20T19:01:23.894Z'
+text = '''
+The plot thickens: the Medium article that led me here in the first place is a listicle for the "Top 10 Personal CRM Apps for 2024".
+
+This article was written by none other than the co-founder of Moments, and *nowhere* does it state that. They just go ahead and list themselves in the #1 slot!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg5jxqx2ys2a'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg5lfpmqn22b'
 created_at = '2025-01-20T05:14:56.433Z'
 text = '''
