@@ -1,4 +1,71 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg5lfpmqn22b'
+created_at = '2025-01-20T05:14:56.433Z'
+text = '''
+Yea, I feel like it’s just a huge misunderstanding of the problem.
+
+I don’t know what I think is worse:
+
+1. The devs adding this feature because AI is hot right now and they feel they have to
+2. The devs adding this feature because they think it’s actually something people want'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sshwio5obbx4zjfrn3fhsen6/app.bsky.feed.post/3lg5kv3n7pc23'
+author_did = 'did:plc:sshwio5obbx4zjfrn3fhsen6'
+author_handle = 'moshyfawn.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg5jxqx2ys2a'
+created_at = '2025-01-20T04:49:13.519Z'
+text = '''
+"We're here to help you connect": by feeding your friends and family AI-generated slop.
+
+This is absolutely vile.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg5jxqwz2c2a'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg5jxqwz2c2a'
+created_at = '2025-01-20T04:49:13.518Z'
+text = '''
+What the actual fuck?!
+
+Sure, why don't you stay in touch with "the people who matter most to you" by *checks notes* sending them AI-composed messages and emails.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg5jxqkins2a'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg5jxqkins2a'
+created_at = '2025-01-20T04:49:13.517Z'
+text = 'I scroll down to the feature list and am greeted by this:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg5jxq6fws2a'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg5jxq6fws2a'
+created_at = '2025-01-20T04:49:13.516Z'
+text = 'Stumbled upon this "Personal Relationship Manager" and thought "oh, that looks kind of nice"...'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg5gkaqcis2a'
+created_at = '2025-01-20T03:47:59.895Z'
+text = 'Really not looking forward to it'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3lg5ge4vlds2i'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg4mcukges24'
 created_at = '2025-01-19T19:58:34.951Z'
 text = 'Welcome to the party!'
