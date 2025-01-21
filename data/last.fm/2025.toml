@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Instinct (feat. MadeinTYO)'
+artist = 'Roy Woods'
+album = 'Nocturnal'
+listened_at = '2025-01-20T21:22:08Z'
+
+[[tracks]]
+name = 'Reminder'
+artist = 'The Weeknd'
+album = 'Starboy'
+listened_at = '2025-01-20T21:16:52Z'
+
+[[tracks]]
+name = 'The Labyrinth'
+artist = 'China Lake'
+album = 'The Labyrinth'
+listened_at = '2025-01-20T17:36:23Z'
+
+[[tracks]]
 name = 'Flight'
 artist = 'Earthbound.'
 album = 'Chronos'
