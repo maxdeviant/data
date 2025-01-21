@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lga3a4kdo22h'
+created_at = '2025-01-21T05:03:28.012Z'
+text = 'This one’s on my list! Have heard good things about it.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3lga33n3pbk2q'
+author_did = 'did:plc:fpruhuo22xkm5o7ttr2ktxdo'
+author_handle = 'danabra.mov'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lg7tti46ys2u'
 created_at = '2025-01-21T02:51:07.736Z'
 text = '''
