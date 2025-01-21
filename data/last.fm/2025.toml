@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Stray'
+artist = 'Save Us'
+album = 'Stray'
+listened_at = '2025-01-21T16:54:50Z'
+
+[[tracks]]
+name = 'The Labyrinth'
+artist = 'China Lake'
+album = 'The Labyrinth'
+listened_at = '2025-01-21T16:49:56Z'
+
+[[tracks]]
+name = 'Flight'
+artist = 'Earthbound.'
+album = 'Chronos'
+listened_at = '2025-01-21T16:44:37Z'
+
+[[tracks]]
+name = 'The Dark'
+artist = 'Night Rider'
+album = 'The Dark'
+listened_at = '2025-01-21T16:40:24Z'
+
+[[tracks]]
+name = 'Versatile'
+artist = 'Kodak Black'
+album = 'Project Baby 2: All Grown Up (Deluxe Edition)'
+listened_at = '2025-01-20T21:25:01Z'
+
+[[tracks]]
 name = 'Instinct (feat. MadeinTYO)'
 artist = 'Roy Woods'
 album = 'Nocturnal'
