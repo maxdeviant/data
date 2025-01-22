@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'GEMINI 4'
+artist = 'FOXCULT'
+album = 'GEMINI 4'
+listened_at = '2025-01-22T18:02:21Z'
+
+[[tracks]]
+name = 'Televised Suicide'
+artist = 'Volatile Ways'
+album = 'Televised Suicide'
+listened_at = '2025-01-22T17:45:39Z'
+
+[[tracks]]
+name = 'GEMINI 4'
+artist = 'FOXCULT'
+album = 'GEMINI 4'
+listened_at = '2025-01-22T17:41:54Z'
+
+[[tracks]]
+name = 'Coda'
+artist = 'Novelists'
+album = 'Coda'
+listened_at = '2025-01-22T02:47:41Z'
+
+[[tracks]]
 name = 'Game Over'
 artist = 'Ola Englund'
 album = 'Game Over'
