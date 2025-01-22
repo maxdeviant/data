@@ -1,4 +1,31 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgdlejkf4s2b'
+created_at = '2025-01-22T14:30:14.952Z'
+text = '''
+Alternatively, new Markdown quote syntax:
+
+>>>
+Do or do not. There is no try.
+
+&mdash; Master Yoda
+>>>'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgdkjrnrlc2b'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgdkjrnrlc2b'
+created_at = '2025-01-22T14:15:17.477Z'
+text = 'It sounds like the solution here is for <textarea>s to support multicursors 👀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mqqgy3lhxf37sp5nx2zc23mn/app.bsky.feed.post/3lgcneeqnnq2o'
+author_did = 'did:plc:mqqgy3lhxf37sp5nx2zc23mn'
+author_handle = 'thorstenball.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgc53nnedc2m'
 created_at = '2025-01-22T00:42:05.128Z'
 text = 'I have an anti-recommendation:'
