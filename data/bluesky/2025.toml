@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgg2l4tz422x'
+created_at = '2025-01-23T14:07:42.120Z'
+text = 'Wonder how much I could charge for CSS (Cascading Style Sheets) copy protection? 🤔'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3lgfztn2cgc25'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgfykm6hjc2x'
+created_at = '2025-01-23T13:31:37.148Z'
+text = 'In a shocking (no one is shocked) turn of events, Sam Altman continues to be an absolute reprobate.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgevrxxkps2b'
 created_at = '2025-01-23T03:09:23.428Z'
 text = 'Take care!'
