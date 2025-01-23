@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lggqq6wqks2r'
+created_at = '2025-01-23T20:44:14.399Z'
+text = '''
+This is perfect for when you're on the phone with your ISP and they want you to read your IP address out to them.
+
+Load up moanmyip.com and then hold the phone up to your speakers.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e5nncb3dr5thdkjir5cfaqfe/app.bsky.feed.post/3lggpfpz3kc2t'
+author_did = 'did:plc:e5nncb3dr5thdkjir5cfaqfe'
+author_handle = 'xeiaso.net'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgg2l4tz422x'
 created_at = '2025-01-23T14:07:42.120Z'
 text = 'Wonder how much I could charge for CSS (Cascading Style Sheets) copy protection? 🤔'
