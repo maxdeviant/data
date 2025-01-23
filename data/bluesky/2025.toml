@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgevrxxkps2b'
+created_at = '2025-01-23T03:09:23.428Z'
+text = 'Take care!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ujospssfohkwtnocit43op2r/app.bsky.feed.post/3lgevmslc6k2q'
+author_did = 'did:plc:ujospssfohkwtnocit43op2r'
+author_handle = 'zkat.tech'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgei5wvhbc2r'
 created_at = '2025-01-22T23:05:32.562Z'
 text = 'I know it goes without saying, but this administration is a bunch of absolute dorks:'
