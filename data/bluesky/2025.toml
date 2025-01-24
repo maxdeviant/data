@@ -1,4 +1,77 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgiwyihdis2n'
+created_at = '2025-01-24T17:41:34.744Z'
+text = 'Was great getting to work with you! Maybe our paths will cross again someday :)'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mqqgy3lhxf37sp5nx2zc23mn/app.bsky.feed.post/3lginempxld2l'
+author_did = 'did:plc:mqqgy3lhxf37sp5nx2zc23mn'
+author_handle = 'thorstenball.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgiun644bs23'
+created_at = '2025-01-24T16:59:27.308Z'
+text = 'What if it asks nicely?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wpznphv6cih7p5dqjjspknkd/app.bsky.feed.post/3lgiu6zies22h'
+author_did = 'did:plc:wpznphv6cih7p5dqjjspknkd'
+author_handle = 'timclicks.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgisloow5223'
+created_at = '2025-01-24T16:22:50.108Z'
+text = '''From now on I'm exclusively referring to Claude as "Agent Claude".'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lgishupps22t'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgiqdd4jp22n'
+created_at = '2025-01-24T15:42:22.053Z'
+text = 'But getting mired in a political morass for 4 years is equally acceptable.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgiqc35tq22n'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgiqc35tq22n'
+created_at = '2025-01-24T15:41:40.153Z'
+text = '''
+I’m definitely not saying that deporting a bunch of folks is a reasonable trade for trains!
+
+I was more going for them punting on the deportations to build rail to do it more efficiently, only to have his term run out before they have the chance to use it.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5hwy5afvfhonj6mrpcxm3rfy/app.bsky.feed.post/3lgipwcsh2k2c'
+author_did = 'did:plc:5hwy5afvfhonj6mrpcxm3rfy'
+author_handle = 'emily.gorcen.ski'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgiq6bbha22n'
+created_at = '2025-01-24T15:39:32.345Z'
+text = 'That’s good, because I totally forgot about it! 😂'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3lgiq3zax3k2u'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgipbjs2fk2n'
+created_at = '2025-01-24T15:23:28.193Z'
+text = 'Having the Trump administration spend all their time and effort building rail infrastructure seems like an ideal outcome for an otherwise incredibly shitty situation.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5hwy5afvfhonj6mrpcxm3rfy/app.bsky.feed.post/3lgip3yk2ik2c'
+author_did = 'did:plc:5hwy5afvfhonj6mrpcxm3rfy'
+author_handle = 'emily.gorcen.ski'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lginxr6e672u'
 created_at = '2025-01-24T15:00:05.956Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
