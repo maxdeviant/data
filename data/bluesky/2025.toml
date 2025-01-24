@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lginxr6e672u'
+created_at = '2025-01-24T15:00:05.956Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgigws6y7c2d'
+created_at = '2025-01-24T12:54:17.967Z'
+text = 'It’s hard to forget when I routinely end up with em dashes when I actually want “--“, like if I need to tell someone to use a command line flag (e.g., `--help`).'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:p2cp5gopk7mgjegy6wadk3ep/app.bsky.feed.post/3lgiarnznpc2v'
+author_did = 'did:plc:p2cp5gopk7mgjegy6wadk3ep'
+author_handle = 'samuel.bsky.team'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgh5nutgz22x'
 created_at = '2025-01-24T00:35:35.341Z'
 text = 'I bet they hadn’t gotten that far 🤦🏻‍♂️'
