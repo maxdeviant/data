@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgnsqyk24k2e'
+created_at = '2025-01-26T16:09:06.894Z'
+text = '''
+Westworld moment.
+
+(For the record I liked the later seasons of Westworld, and am immeasurably disappointed that they pulled it from HBO so I can’t do a whole rewatch without ponying up for the box set.)'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3lgnsh2krps2g'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgl3a2xlls2h'
 created_at = '2025-01-25T14:02:43.469Z'
 text = 'Happy birthday, Steve!'
