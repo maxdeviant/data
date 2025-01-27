@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Return to the Soil'
+artist = 'Summoning the Lich'
+album = 'Under The Reviled Throne'
+listened_at = '2025-01-27T16:54:22Z'
+
+[[tracks]]
+name = 'By Design'
+artist = 'Exist Immortal'
+album = 'By Design'
+listened_at = '2025-01-27T16:50:03Z'
+
+[[tracks]]
+name = 'Anhedonia'
+artist = 'Reflections'
+album = 'Shadow'
+listened_at = '2025-01-27T16:44:50Z'
+
+[[tracks]]
+name = 'Labyrinthian'
+artist = '''Humanity's Last Breath'''
+album = 'Ashen'
+listened_at = '2025-01-27T16:40:49Z'
+
+[[tracks]]
+name = 'Is It Your God'
+artist = 'Anciients'
+album = 'Beyond the Reach of the Sun'
+listened_at = '2025-01-27T16:33:48Z'
+
+[[tracks]]
+name = 'Frozen By Fear'
+artist = 'Inner Turmoil'
+album = 'Frozen By Fear'
+listened_at = '2025-01-27T16:28:36Z'
+
+[[tracks]]
+name = 'Euphoria Within Chaos'
+artist = 'Nightrage'
+album = 'Remains Of A Dead World'
+listened_at = '2025-01-27T16:24:03Z'
+
+[[tracks]]
 name = 'Striptease'
 artist = 'FKA twigs'
 album = 'Eusexua'
