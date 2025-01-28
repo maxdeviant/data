@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgrhtjo3ws2r'
+created_at = '2025-01-28T03:04:19.755Z'
+text = '“Have you heard the good word about Rust?”'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3lgrh5wb2xk2c'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgq42fkl6k2x'
 created_at = '2025-01-27T14:00:45.684Z'
 text = 'I saw blue immediately and thought “surely that can’t be it”, and then when it was the last one remaining I was rather surprised.'
