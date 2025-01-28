@@ -1,4 +1,70 @@
 [[tracks]]
+name = 'Dead Wrong'
+artist = 'To the Grave'
+album = '''Everyone's A Murderer'''
+listened_at = '2025-01-27T23:20:02Z'
+
+[[tracks]]
+name = 'At the Behest of Night'
+artist = 'In Mourning'
+album = 'The Bleeding Veil'
+listened_at = '2025-01-27T23:14:58Z'
+
+[[tracks]]
+name = 'Looking Glass'
+artist = 'Hallow Sanctum'
+album = 'Paramount - EP'
+listened_at = '2025-01-27T23:11:25Z'
+
+[[tracks]]
+name = 'Homewrecker'
+artist = 'Traveller'
+album = 'Broken Home'
+listened_at = '2025-01-27T23:08:13Z'
+
+[[tracks]]
+name = 'Ukko'
+artist = 'Atlas'
+album = 'Ukko'
+listened_at = '2025-01-27T23:03:40Z'
+
+[[tracks]]
+name = 'Take Me Away'
+artist = 'Glass Crown'
+album = 'Take Me Away'
+listened_at = '2025-01-27T22:52:51Z'
+
+[[tracks]]
+name = 'When Even The Ground is Hostile'
+artist = 'Panzerfaust'
+album = 'The Suns of Perdition - Chapter IV: To Shadow Zion'
+listened_at = '2025-01-27T22:46:23Z'
+
+[[tracks]]
+name = 'curse.you (me)'
+artist = 'Weeping Wound'
+album = 'particles of...'
+listened_at = '2025-01-27T22:42:46Z'
+
+[[tracks]]
+name = 'Martyrdom'
+artist = 'Shrine of Malice'
+album = 'Martyrdom'
+listened_at = '2025-01-27T22:38:18Z'
+
+[[tracks]]
+name = 'Espada'
+artist = 'Clayton King'
+album = 'Espada'
+listened_at = '2025-01-27T22:34:13Z'
+
+[[tracks]]
+name = 'BODYBAG'
+artist = 'Body Prison'
+album = 'BODYBAG'
+listened_at = '2025-01-27T16:58:21Z'
+
+[[tracks]]
 name = 'Return to the Soil'
 artist = 'Summoning the Lich'
 album = 'Under The Reviled Throne'
