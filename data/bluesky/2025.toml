@@ -1,4 +1,23 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgu6prb7bk2c'
+created_at = '2025-01-29T04:59:09.043Z'
+text = 'Jesus is, in fact, quite based.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3lgu6kwylls2h'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgtznq3wus2v'
+created_at = '2025-01-29T03:28:32.007Z'
+text = '''
+"I hoard memories that haunt me
+I collect scars that spear my dreams
+And little do you know, how I break while I sleep
+Little do you know, how much I want to disappear"'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgts5trtys2l'
 created_at = '2025-01-29T01:14:22.807Z'
 text = 'Everything feels so out of control.'

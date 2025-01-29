@@ -2,6 +2,36 @@
 name = '''With Autumn I'll Surrender'''
 artist = 'Harakiri for the Sky'
 album = 'Scorched Earth'
+listened_at = '2025-01-29T03:43:10Z'
+
+[[tracks]]
+name = 'No Graves but the Sea'
+artist = 'Harakiri for the Sky'
+album = 'Scorched Earth'
+listened_at = '2025-01-29T03:33:23Z'
+
+[[tracks]]
+name = '''Without You I'm Just a Sad Song'''
+artist = 'Harakiri for the Sky'
+album = 'Scorched Earth'
+listened_at = '2025-01-29T03:18:19Z'
+
+[[tracks]]
+name = '(You) On My Arm'
+artist = 'Leith Ross'
+album = 'To Learn'
+listened_at = '2025-01-29T02:55:51Z'
+
+[[tracks]]
+name = '''I Was Just Another Promise You Couldn't Keep'''
+artist = 'Harakiri for the Sky'
+album = 'Scorched Earth'
+listened_at = '2025-01-29T02:46:34Z'
+
+[[tracks]]
+name = '''With Autumn I'll Surrender'''
+artist = 'Harakiri for the Sky'
+album = 'Scorched Earth'
 listened_at = '2025-01-29T02:37:55Z'
 
 [[tracks]]
