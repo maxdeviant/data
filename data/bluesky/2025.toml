@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lh2bbvuk3f26'
+created_at = '2025-01-31T15:01:03.083Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lh25wczyhs2a'
+created_at = '2025-01-31T14:00:53.695Z'
+text = '“Figma” sounds like a diagnosis you get from your dermatologist.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dzqkzsraawn5lakp5ozsqcho/app.bsky.feed.post/3lh25u3f4fk2b'
+author_did = 'did:plc:dzqkzsraawn5lakp5ozsqcho'
+author_handle = 'tef.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lgv2sdf2ys2c'
 created_at = '2025-01-29T13:21:39.928Z'
 text = '新年快乐！ 恭喜发财！'
