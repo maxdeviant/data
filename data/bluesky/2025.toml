@@ -1,4 +1,57 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lh4rsxnrbk2a'
+created_at = '2025-02-01T15:02:15.415Z'
+text = 'Maybe he forgot and is going to hit the golf course today (and for the rest of his term)?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:x56l2n7i7babgdzqul4bd433/app.bsky.feed.post/3lh4qyymwl22o'
+author_did = 'did:plc:x56l2n7i7babgdzqul4bd433'
+author_handle = 'reckless.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lh4pwmb76k2a'
+created_at = '2025-02-01T14:28:30.203Z'
+text = '''
+TIL. I always thought the canaries were just considered expendable.
+
+Makes me much happier knowing that is not the case.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nvflwun6ztxyktjsoue3cmva/app.bsky.feed.post/3lh4plrcquc2x'
+author_did = 'did:plc:nvflwun6ztxyktjsoue3cmva'
+author_handle = 'myrrlyn.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lh4pjfg5zc2a'
+created_at = '2025-02-01T14:21:06.817Z'
+text = 'Thought this was the Soylent founder for a second. Was wondering how I missed him going off the deep end.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uyqnubfj3qlho6psy6uvvt6u/app.bsky.feed.post/3lh3w5ffbic2m'
+author_did = 'did:plc:uyqnubfj3qlho6psy6uvvt6u'
+author_handle = 'scoiattolo.mountainherder.xyz'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lh4p4pedbs2a'
+created_at = '2025-02-01T14:14:01.035Z'
+text = 'Kind of ironic how “OpenAI” is not very open at all.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3n5xhy6vl7smssmwxq5wgqa6/app.bsky.feed.post/3lh4cxi5imc2k'
+author_did = 'did:plc:3n5xhy6vl7smssmwxq5wgqa6'
+author_handle = 'gergely.pragmaticengineer.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lh4owy6dcc2a'
+created_at = '2025-02-01T14:10:48.949Z'
+text = 'Same here, my wife absolutely *loves* it when I’m clearing my throat with a little “gollum gollum” thrown in and start slinking around the house on all fours.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3lh4orby7t22w'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lh3iucwdpc2d'
 created_at = '2025-02-01T02:49:17.370Z'
 text = 'The last Trump term nearly destroyed my relationship with my father, and I fear this one may destroy it permanently.'
