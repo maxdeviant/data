@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhc2ualxrs2x'
+created_at = '2025-02-03T17:27:20.716Z'
+text = '''
+I was able to get productive in it pretty quickly.
+
+I would estimate I use jj for ~95% of my Git interactions now. The other 5% is for Git-specific stuff that jj doesn't support (like Git submodules), or for repos that I'm in very briefly (and don't want to bother initializing a jj repo).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e5djnkazrn2fiwxetqatigh4/app.bsky.feed.post/3lhbxcyxiec2b'
+author_did = 'did:plc:e5djnkazrn2fiwxetqatigh4'
+author_handle = 'brett.ooo'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhboshtyds2x'
 created_at = '2025-02-03T13:51:36.307Z'
 text = 'I’m aware, but I’d rather not have to do that at all. Especially if I forget and then have to redo my commit because a Git hook messed something up.'
