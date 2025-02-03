@@ -1,4 +1,40 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhboshtyds2x'
+created_at = '2025-02-03T13:51:36.307Z'
+text = 'I’m aware, but I’d rather not have to do that at all. Especially if I forget and then have to redo my commit because a Git hook messed something up.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:b4wthggvovz2uwoet47bstfp/app.bsky.feed.post/3lhboj36tfc2h'
+author_did = 'did:plc:b4wthggvovz2uwoet47bstfp'
+author_handle = 'daniellemaywood.uk'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhbnpeaccs2x'
+created_at = '2025-02-03T13:31:58.111Z'
+text = '''
+I have yet to find one that felt worth slowing down my commit speed.
+
+There are also many times where I may want to commit in an unformatted/unlintable state (to make an intermediate diff cleaner), and a hook that prevents me from doing that is infuriating.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xgkqvftbfqgwfnelo4u5k5c6/app.bsky.feed.post/3lhbnillcts2e'
+author_did = 'did:plc:xgkqvftbfqgwfnelo4u5k5c6'
+author_handle = 'adamgordonbell.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhbnczbdzk2x'
+created_at = '2025-02-03T13:25:03.958Z'
+text = '''
+This is your routine reminder that Git hooks are bad and if you’re forcing them onto people who use your repo, you should feel bad.
+
+Thankfully, using jj means I can avoid Git hooks entirely 😎'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhbmhl3ib22x'
+created_at = '2025-02-03T13:09:43.117Z'
+text = 'Not feeling it today.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhapabwafc2x'
 created_at = '2025-02-03T04:26:40.111Z'
 text = 'An absolute unit.'
