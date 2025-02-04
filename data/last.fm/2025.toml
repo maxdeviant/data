@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Backpackers'
+artist = 'Childish Gambino'
+album = 'Camp'
+listened_at = '2025-02-04T02:25:10Z'
+
+[[tracks]]
+name = 'Heartbeat'
+artist = 'Childish Gambino'
+album = 'Camp'
+listened_at = '2025-02-04T02:20:40Z'
+
+[[tracks]]
+name = 'Letter Home'
+artist = 'Childish Gambino'
+album = 'Camp'
+listened_at = '2025-02-04T02:18:56Z'
+
+[[tracks]]
+name = 'All The Shine'
+artist = 'Childish Gambino'
+album = 'Camp'
+listened_at = '2025-02-04T02:13:10Z'
+
+[[tracks]]
+name = 'Bonfire'
+artist = 'Childish Gambino'
+album = 'Camp'
+listened_at = '2025-02-04T02:09:58Z'
+
+[[tracks]]
+name = 'Thrall'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-02-04T00:22:55Z'
+
+[[tracks]]
+name = 'The Sunset of Life'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-02-04T00:13:16Z'
+
+[[tracks]]
 name = 'Of Severance'
 artist = 'Austere'
 album = 'Beneath the Threshold'
