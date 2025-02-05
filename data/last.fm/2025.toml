@@ -2,6 +2,42 @@
 name = 'Thrall'
 artist = 'Austere'
 album = 'Beneath the Threshold'
+listened_at = '2025-02-05T02:34:33Z'
+
+[[tracks]]
+name = 'Of Severance'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-02-05T02:24:43Z'
+
+[[tracks]]
+name = 'Words Unspoken'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-02-05T02:21:27Z'
+
+[[tracks]]
+name = 'Cold Cerecloth'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-02-05T02:14:42Z'
+
+[[tracks]]
+name = 'Faded Ghost'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-02-05T02:09:48Z'
+
+[[tracks]]
+name = 'The Sunset of Life'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-02-04T23:58:26Z'
+
+[[tracks]]
+name = 'Thrall'
+artist = 'Austere'
+album = 'Beneath the Threshold'
 listened_at = '2025-02-04T23:50:50Z'
 
 [[tracks]]
