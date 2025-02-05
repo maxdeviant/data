@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhhf2orlq222'
+created_at = '2025-02-05T20:13:13.017Z'
+text = 'Oh nice, I subscribe to this list too.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:oofa3qqoiszsmajbigfqskqv/app.bsky.feed.post/3lhhex7shyc25'
+author_did = 'did:plc:oofa3qqoiszsmajbigfqskqv'
+author_handle = 'chriswarcraft.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhhejof2p222'
+created_at = '2025-02-05T20:03:42.180Z'
+text = '''
+A side project of mine over the past few weeks has been adding support for icon themes to Zed.
+
+It just shipped today, so you can try it out!
+
+zed.dev/blog/icon-th...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhgyrp5p7c2z'
 created_at = '2025-02-05T16:33:26.521Z'
 text = '''
