@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhfr2yl2tc2d'
+created_at = '2025-02-05T04:42:48.714Z'
+text = '''It has to be. My neurodivergent ass has thrived ever since I left the office, and I don't ever want to return.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dzqkzsraawn5lakp5ozsqcho/app.bsky.feed.post/3lheefw3hcc2h'
+author_did = 'did:plc:dzqkzsraawn5lakp5ozsqcho'
+author_handle = 'tef.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhfm6tngc22g'
+created_at = '2025-02-05T03:15:29.057Z'
+text = 'Great music video, good song, incredible band name:'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lheodmmfo22p'
 created_at = '2025-02-04T18:21:17.198Z'
 text = 'As if we weren’t already fucked as it is.'
