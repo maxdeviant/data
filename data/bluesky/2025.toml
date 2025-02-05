@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhgyrp5p7c2z'
+created_at = '2025-02-05T16:33:26.521Z'
+text = '''
+There's no way to control visibility of items outside of a crate.
+
+In C#/.NET you can use `InternalsVisibleToAttribute` to expose `internal` items (the equivalent of `pub(crate)`) to other assemblies.
+
+The best you can do in Rust is mark it as `#[doc(hidden)]`, but that won't hard-prevent its use.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5dnwnjydruv7wmbi33xchkr6/app.bsky.feed.post/3lhgy3jgpas2u'
+author_did = 'did:plc:5dnwnjydruv7wmbi33xchkr6'
+author_handle = 'nate.rip'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhgo7sctkc22'
 created_at = '2025-02-05T13:24:28.438Z'
 text = 'Yep, it is a coup, and it’s horrifying that Musk and his lackeys haven’t been arrested for it yet.'
