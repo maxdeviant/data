@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhgo7sctkc22'
+created_at = '2025-02-05T13:24:28.438Z'
+text = 'Yep, it is a coup, and it’s horrifying that Musk and his lackeys haven’t been arrested for it yet.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:afrbolfpncwuewe4sccm6iws/app.bsky.feed.post/3lhgeqi3azk22'
+author_did = 'did:plc:afrbolfpncwuewe4sccm6iws'
+author_handle = 'lpil.uk'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhgnz2ngt222'
+created_at = '2025-02-05T13:20:42.289Z'
+text = 'The NYT is basically satire now.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:pmyqirafcp3jqdhrl7crpq7t/app.bsky.feed.post/3lhgi6zxsrs2n'
+author_did = 'did:plc:pmyqirafcp3jqdhrl7crpq7t'
+author_handle = 'numb.comfortab.ly'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhfr2yl2tc2d'
 created_at = '2025-02-05T04:42:48.714Z'
 text = '''It has to be. My neurodivergent ass has thrived ever since I left the office, and I don't ever want to return.'''
