@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Just Two'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T18:00:50Z'
+
+[[tracks]]
+name = 'Wet & Wild'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T17:57:48Z'
+
+[[tracks]]
+name = 'Free'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T17:54:36Z'
+
+[[tracks]]
+name = 'Damn'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T17:52:12Z'
+
+[[tracks]]
+name = 'Where Do We Go'
+artist = 'Charlotte de Witte'
+album = 'One Mind EP'
+listened_at = '2025-02-06T17:47:33Z'
+
+[[tracks]]
+name = 'One Mind'
+artist = 'Charlotte de Witte'
+album = 'One Mind EP'
+listened_at = '2025-02-06T17:41:47Z'
+
+[[tracks]]
+name = 'Where Do We Go'
+artist = 'Charlotte de Witte'
+album = 'One Mind EP'
+listened_at = '2025-02-06T17:36:49Z'
+
+[[tracks]]
+name = 'L.E.S.'
+artist = 'Childish Gambino'
+album = 'Camp'
+listened_at = '2025-02-06T14:04:46Z'
+
+[[tracks]]
+name = 'Faded Ghost'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-02-06T01:13:46Z'
+
+[[tracks]]
 name = 'The Sunset of Life'
 artist = 'Austere'
 album = 'Beneath the Threshold'
