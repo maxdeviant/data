@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhjyaamvg22v'
+created_at = '2025-02-06T21:01:40.081Z'
+text = 'You know, I could totally see Elon Musk walk into the Superdome with a neutron bomb and threaten to blow everybody up.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lhjxzfhqjc2k'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhidlvxda222'
 created_at = '2025-02-06T05:19:43.218Z'
 text = ''

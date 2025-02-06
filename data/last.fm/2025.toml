@@ -1,4 +1,46 @@
 [[tracks]]
+name = '''Everything Changes (But I Won't)'''
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T18:24:15Z'
+
+[[tracks]]
+name = 'First'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T18:21:06Z'
+
+[[tracks]]
+name = 'Hackney Wick'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T18:17:16Z'
+
+[[tracks]]
+name = 'Switch'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T18:14:15Z'
+
+[[tracks]]
+name = 'Angel Of Satisfaction'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T18:10:44Z'
+
+[[tracks]]
+name = 'Party People'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T18:07:30Z'
+
+[[tracks]]
+name = 'Tectonic'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T18:04:13Z'
+
+[[tracks]]
 name = 'Just Two'
 artist = 'Rose Gray'
 album = 'Louder, Please'
