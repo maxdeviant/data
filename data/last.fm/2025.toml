@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Wonderwall - Spotify Singles'
+artist = 'Bring Me the Horizon'
+album = 'Spotify Singles'
+listened_at = '2025-02-07T01:29:05Z'
+
+[[tracks]]
+name = 'Bad Behavior'
+artist = 'Silly Goose'
+album = 'Bad Behavior'
+listened_at = '2025-02-07T01:25:46Z'
+
+[[tracks]]
+name = 'Last Fall'
+artist = 'Lil Peep'
+album = 'Last Fall'
+listened_at = '2025-02-07T01:23:18Z'
+
+[[tracks]]
 name = 'Louder, Please'
 artist = 'Rose Gray'
 album = 'Louder, Please'
