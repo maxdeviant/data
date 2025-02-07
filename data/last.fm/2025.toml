@@ -1,4 +1,226 @@
 [[tracks]]
+name = 'Louder, Please'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:52:00Z'
+
+[[tracks]]
+name = '''Everything Changes (But I Won't)'''
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:48:08Z'
+
+[[tracks]]
+name = 'First'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:44:59Z'
+
+[[tracks]]
+name = 'Hackney Wick'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:41:09Z'
+
+[[tracks]]
+name = 'Switch'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:38:08Z'
+
+[[tracks]]
+name = 'Angel Of Satisfaction'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:34:37Z'
+
+[[tracks]]
+name = 'Party People'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:31:23Z'
+
+[[tracks]]
+name = 'Tectonic'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:28:06Z'
+
+[[tracks]]
+name = 'Just Two'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:24:43Z'
+
+[[tracks]]
+name = 'Wet & Wild'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:21:41Z'
+
+[[tracks]]
+name = 'Free'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:18:29Z'
+
+[[tracks]]
+name = 'Damn'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:16:03Z'
+
+[[tracks]]
+name = 'Louder, Please'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:10:33Z'
+
+[[tracks]]
+name = '''Everything Changes (But I Won't)'''
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:06:41Z'
+
+[[tracks]]
+name = 'First'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T23:03:32Z'
+
+[[tracks]]
+name = 'Hackney Wick'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T22:59:42Z'
+
+[[tracks]]
+name = 'Switch'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T22:56:41Z'
+
+[[tracks]]
+name = 'Angel Of Satisfaction'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T22:53:10Z'
+
+[[tracks]]
+name = 'Party People'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T22:49:55Z'
+
+[[tracks]]
+name = 'Tectonic'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T22:44:52Z'
+
+[[tracks]]
+name = 'Just Two'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T22:41:29Z'
+
+[[tracks]]
+name = 'Wet & Wild'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T22:38:27Z'
+
+[[tracks]]
+name = 'Free'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:49:11Z'
+
+[[tracks]]
+name = 'Damn'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:46:45Z'
+
+[[tracks]]
+name = 'Louder, Please'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:41:14Z'
+
+[[tracks]]
+name = '''Everything Changes (But I Won't)'''
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:37:22Z'
+
+[[tracks]]
+name = 'First'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:34:14Z'
+
+[[tracks]]
+name = 'Hackney Wick'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:30:23Z'
+
+[[tracks]]
+name = 'Switch'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:27:23Z'
+
+[[tracks]]
+name = 'Angel Of Satisfaction'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:23:51Z'
+
+[[tracks]]
+name = 'Party People'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:20:37Z'
+
+[[tracks]]
+name = 'Tectonic'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:17:20Z'
+
+[[tracks]]
+name = 'Just Two'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:13:58Z'
+
+[[tracks]]
+name = 'Wet & Wild'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:10:55Z'
+
+[[tracks]]
+name = 'Free'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:07:43Z'
+
+[[tracks]]
+name = 'Damn'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T21:05:17Z'
+
+[[tracks]]
+name = 'Louder, Please'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-06T20:59:47Z'
+
+[[tracks]]
 name = '''Everything Changes (But I Won't)'''
 artist = 'Rose Gray'
 album = 'Louder, Please'

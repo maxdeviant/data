@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhk7s52bvc2v'
+created_at = '2025-02-06T23:16:56.498Z'
+text = '''
+You can always tell when someone is new to Rust when they suffix their variables with stuff like like `_clone` or `_str`.
+
+Especially in cases where you can shadow.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhk2n7shhc2v'
+created_at = '2025-02-06T21:44:42.906Z'
+text = '`git bisect`, my beloved.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhjyaamvg22v'
 created_at = '2025-02-06T21:01:40.081Z'
 text = 'You know, I could totally see Elon Musk walk into the Superdome with a neutron bomb and threaten to blow everybody up.'
@@ -7,6 +20,11 @@ text = 'You know, I could totally see Elon Musk walk into the Superdome with a n
 uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lhjxzfhqjc2k'
 author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
 author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhjyaamvg22v'
+created_at = '2025-02-06T21:01:40.081Z'
+text = 'You know, I could totally see Elon Musk walk into the Superdome with a neutron bomb and threaten to blow everybody up.'
 
 [[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhidlvxda222'
