@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhkr7k2phc22'
+created_at = '2025-02-07T04:28:39.962Z'
+text = 'The world is on fire and still my laundry has the absolute audacity to demand me to fold and put it away.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhkpnwn5xs2q'
+created_at = '2025-02-07T04:00:55.427Z'
+text = 'Is this not a thing in Europe??'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mqqgy3lhxf37sp5nx2zc23mn/app.bsky.feed.post/3lhkpmwfwx22l'
+author_did = 'did:plc:mqqgy3lhxf37sp5nx2zc23mn'
+author_handle = 'thorstenball.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhkp7zbwvs2q'
+created_at = '2025-02-07T03:53:08.443Z'
+text = '''
+I really don't get people who haven't left Twitter yet.
+
+How do you justify staying on it to yourself?'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhk7s52bvc2v'
 created_at = '2025-02-06T23:16:56.498Z'
 text = '''
