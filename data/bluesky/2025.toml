@@ -1,4 +1,50 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhmiipcfhk26'
+created_at = '2025-02-07T20:58:03.246Z'
+text = '''If your `target/` directory doesn't look this, I don't know what to tell you.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhmfwvv6yk2y'
+created_at = '2025-02-07T20:12:18.682Z'
+text = '''
+Just catching myself up on this, and YIKES.
+
+Seems like he’s really not in a good place right now.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lhmfjltpj22i'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhmcskoauc2o'
+created_at = '2025-02-07T19:16:11.486Z'
+text = '''
+I don't think there are any concrete plans to remove it.
+
+But yes, you could have one extension that provides both your theme and icon theme and install it as a dev extension.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:33ktkm6tsts5ihvq2pdb4aoj/app.bsky.feed.post/3lhmbegrofs2s'
+author_did = 'did:plc:33ktkm6tsts5ihvq2pdb4aoj'
+author_handle = 'zerolimits.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhmb736eq22o'
+created_at = '2025-02-07T18:47:23.960Z'
+text = '''
+We probably won't add this.
+
+The support for loading themes from `~/.config/zed/themes` predates the extension system, and I'm not if we would have added it today.
+
+My recommendation would be to make an extension with your icon theme and install it as a dev extension.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:33ktkm6tsts5ihvq2pdb4aoj/app.bsky.feed.post/3lhkbpnlpwk2d'
+author_did = 'did:plc:33ktkm6tsts5ihvq2pdb4aoj'
+author_handle = 'zerolimits.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhlukaqzkp2m'
 created_at = '2025-02-07T15:00:59.467Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
