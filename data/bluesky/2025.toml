@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhlukaqzkp2m'
+created_at = '2025-02-07T15:00:59.467Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhlsahu24222'
+created_at = '2025-02-07T14:19:44.681Z'
+text = 'If it were entirely up to me, we wouldn’t be.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mojgntlezho4qt7uvcfkdndg/app.bsky.feed.post/3lhl4jbm6id2r'
+author_did = 'did:plc:mojgntlezho4qt7uvcfkdndg'
+author_handle = 'weethet.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhkr7k2phc22'
 created_at = '2025-02-07T04:28:39.962Z'
 text = 'The world is on fire and still my laundry has the absolute audacity to demand me to fold and put it away.'
