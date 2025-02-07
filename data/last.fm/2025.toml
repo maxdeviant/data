@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Free'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-07T17:01:10Z'
+
+[[tracks]]
+name = 'Damn'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-07T16:58:46Z'
+
+[[tracks]]
 name = '''Without You I'm Just a Sad Song'''
 artist = 'Harakiri for the Sky'
 album = 'Scorched Earth'
