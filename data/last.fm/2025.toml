@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'First'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-08T03:02:20Z'
+
+[[tracks]]
+name = 'Switch'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-08T02:58:51Z'
+
+[[tracks]]
+name = 'Angel Of Satisfaction'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-08T02:55:20Z'
+
+[[tracks]]
+name = 'Party People'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-07T23:02:54Z'
+
+[[tracks]]
 name = 'Tectonic'
 artist = 'Rose Gray'
 album = 'Louder, Please'
