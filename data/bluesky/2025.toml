@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhoe4y7m622l'
+created_at = '2025-02-08T14:45:14.444Z'
+text = 'I feel like Scout from To Kill a Mockingbird would have made a great scout.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nvflwun6ztxyktjsoue3cmva/app.bsky.feed.post/3lhodu7opgc27'
+author_did = 'did:plc:nvflwun6ztxyktjsoue3cmva'
+author_handle = 'myrrlyn.net'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhmiipcfhk26'
 created_at = '2025-02-07T20:58:03.246Z'
 text = '''If your `target/` directory doesn't look this, I don't know what to tell you.'''
