@@ -1,4 +1,10 @@
 [[tracks]]
+name = '''Everything Changes (But I Won't)'''
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-08T03:05:27Z'
+
+[[tracks]]
 name = 'First'
 artist = 'Rose Gray'
 album = 'Louder, Please'
