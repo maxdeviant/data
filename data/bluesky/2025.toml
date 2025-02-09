@@ -1,4 +1,40 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhqzp45yc226'
+created_at = '2025-02-09T16:16:30.623Z'
+text = '''
+I keep getting these emails from Gitsecure telling me my "scan quota has been exceeded".
+
+I've never heard of Gitsecure. I don't use Gitsecure.
+
+There is no info about *why* I'm getting this email (I suspect it's someone else's repo I'm pushing to), and no way to unsubscribe.
+
+Enjoy the block.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhqyxi53gs26'
+created_at = '2025-02-09T16:03:17.870Z'
+text = '''
+Sometimes this goes on multiple times.
+
+If I have to push multiple rounds of changes, I have to re-approve CI to run each and every time, even if I'm the only person pushing changes to their branch.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhqyxi4zic26'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhqyxi4zic26'
+created_at = '2025-02-09T16:03:17.869Z'
+text = '''
+One of the more annoying GitHub interactions I face regularly:
+
+1. A first-time contributor opens a PR to a repo I'm a maintainer on
+2. I approve CI to run
+3. CI fails and I push up some changes to their branch to fix it
+4. I have to approve CI *again*, despite me being a maintainer'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhoe4y7m622l'
 created_at = '2025-02-08T14:45:14.444Z'
 text = 'I feel like Scout from To Kill a Mockingbird would have made a great scout.'
