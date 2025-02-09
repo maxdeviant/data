@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'The Way Life Goes (feat. Oh Wonder)'
+artist = 'Lil Uzi Vert'
+album = 'Luv Is Rage 2'
+listened_at = '2025-02-09T01:24:14Z'
+
+[[tracks]]
+name = 'Cloudy Skies'
+artist = 'Lil Skies'
+album = 'Life of a Dark Rose'
+listened_at = '2025-02-09T01:21:00Z'
+
+[[tracks]]
+name = 'Switch - DEVAULT Remix'
+artist = '6LACK'
+album = 'Switch (DEVAULT Remix)'
+listened_at = '2025-02-09T01:17:11Z'
+
+[[tracks]]
+name = 'Thrall'
+artist = 'Austere'
+album = 'Beneath the Threshold'
+listened_at = '2025-02-08T18:45:41Z'
+
+[[tracks]]
 name = 'Hypnosis'
 artist = 'Sleep Token'
 album = 'This Place Will Become Your Tomb'
