@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Bad Behavior'
+artist = 'Silly Goose'
+album = 'Bad Behavior'
+listened_at = '2025-02-09T23:14:02Z'
+
+[[tracks]]
+name = 'Last Fall'
+artist = 'Lil Peep'
+album = 'Last Fall'
+listened_at = '2025-02-09T23:11:33Z'
+
+[[tracks]]
+name = 'Where Do We Go'
+artist = 'Charlotte de Witte'
+album = 'One Mind EP'
+listened_at = '2025-02-09T23:06:31Z'
+
+[[tracks]]
+name = 'Switch'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-09T23:03:34Z'
+
+[[tracks]]
 name = 'The Way Life Goes (feat. Oh Wonder)'
 artist = 'Lil Uzi Vert'
 album = 'Luv Is Rage 2'
