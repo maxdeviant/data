@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'HUMBLE.'
+artist = 'Kendrick Lamar'
+album = 'DAMN.'
+listened_at = '2025-02-10T03:54:50Z'
+
+[[tracks]]
+name = 'DNA.'
+artist = 'Kendrick Lamar'
+album = 'DAMN.'
+listened_at = '2025-02-10T03:51:25Z'
+
+[[tracks]]
+name = 'squabble up'
+artist = 'Kendrick Lamar'
+album = 'GNX'
+listened_at = '2025-02-10T03:48:06Z'
+
+[[tracks]]
+name = 'Not Like Us'
+artist = 'Kendrick Lamar'
+album = 'Not Like Us'
+listened_at = '2025-02-10T03:43:33Z'
+
+[[tracks]]
+name = 'Wonderwall - Spotify Singles'
+artist = 'Bring Me the Horizon'
+album = 'Spotify Singles'
+listened_at = '2025-02-10T03:43:00Z'
+
+[[tracks]]
 name = 'Bad Behavior'
 artist = 'Silly Goose'
 album = 'Bad Behavior'
