@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Entropy'
+artist = 'Love Rarely'
+album = 'Lonely People'
+listened_at = '2025-02-11T20:58:43Z'
+
+[[tracks]]
+name = 'Vespasian'
+artist = 'Ex Deo'
+album = 'Vespasian'
+listened_at = '2025-02-11T20:54:30Z'
+
+[[tracks]]
+name = 'Tarnished'
+artist = 'Asleep At The Helm'
+album = 'Tarnished'
+listened_at = '2025-02-11T17:18:17Z'
+
+[[tracks]]
 name = 'Sun Eater'
 artist = 'Prompts'
 album = 'Sun Eater'
