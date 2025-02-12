@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Novocaine'
+artist = 'Too Close to Touch'
+album = 'For Keeps'
+listened_at = '2025-02-12T17:58:03Z'
+
+[[tracks]]
+name = 'I Believe'
+artist = 'Killswitch Engage'
+album = 'I Believe'
+listened_at = '2025-02-12T17:54:08Z'
+
+[[tracks]]
+name = 'Memento Mori'
+artist = 'Architects'
+album = 'All Our Gods Have Abandoned Us'
+listened_at = '2025-02-12T17:45:55Z'
+
+[[tracks]]
+name = 'I. The Descent'
+artist = 'Enterprise Earth'
+album = 'I. The Descent'
+listened_at = '2025-02-12T17:42:09Z'
+
+[[tracks]]
 name = 'Have You Had Enough?'
 artist = 'Poppy'
 album = 'Negative Spaces'
