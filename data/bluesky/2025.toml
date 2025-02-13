@@ -1,4 +1,25 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3l6c6uy22x'
+created_at = '2025-02-13T20:55:51.256Z'
+text = '''
+We forgot to flip the feature flag on for everyone initially 😅
+
+But it's on now! If you restart Zed you should see a banner in the top right corner that will walk you through the onboarding.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uqrryaveb7djvaatfljbdhcb/app.bsky.feed.post/3li3is23xns2y'
+author_did = 'did:plc:uqrryaveb7djvaatfljbdhcb'
+author_handle = 'joel.drapper.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3hgiv77s2x'
+created_at = '2025-02-13T19:48:51.747Z'
+text = '''
+Very proud of the team for what we've built here!
+
+I'm someone who has never liked using Copilot, but the treatment in Zed is something that I find myself using regularly and enjoying.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li2sjlxbvk2m'
 created_at = '2025-02-13T13:34:47.042Z'
 text = 'Currently reeling from the fever dream I had last night.'
