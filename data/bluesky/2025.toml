@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li4hkgxapc2m'
+created_at = '2025-02-14T05:23:43.674Z'
+text = 'The children (me) yearn for the mines (writing WebGL in Rust).'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li4havq4u22m'
+created_at = '2025-02-14T05:18:23.624Z'
+text = 'Time to start on Caves of Qud 2!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3li4gmxgvgk2w'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3se5sejs25'
 created_at = '2025-02-13T23:04:24.172Z'
 text = 'And this is what that experience looks like:'
