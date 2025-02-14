@@ -1,4 +1,73 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5hs34h7u2e'
+created_at = '2025-02-14T15:00:38.711Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5fme3eok2m'
+created_at = '2025-02-14T14:21:40.027Z'
+text = '''
+Ah, I see.
+
+There’s not really a chance of me writing `#[no_std]` Rust for this project, so I think I’ll be alright 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:lk2rsifrzbc5c4wxuhawa36f/app.bsky.feed.post/3li5fhhvqu22j'
+author_did = 'did:plc:lk2rsifrzbc5c4wxuhawa36f'
+author_handle = 'johndisandonato.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5ekww5gs2m'
+created_at = '2025-02-14T14:02:58.928Z'
+text = 'Hey, I thought you were a Balatro streamer now?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3li5ejy7pws2d'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5e625kn22m'
+created_at = '2025-02-14T13:55:46.108Z'
+text = '''
+Because for some people these features are already table-stakes features in order to use an editor.
+
+We do have a team working on Git UI right now (with debugger support on deck afterwards).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:linrigsaay5zenhg756ca6tg/app.bsky.feed.post/3li4qj64rns2n'
+author_did = 'did:plc:linrigsaay5zenhg756ca6tg'
+author_handle = 'matthieu.bsky.team'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5dzdbjks2m'
+created_at = '2025-02-14T13:53:07.903Z'
+text = '''
+Yep, Zed is all Rust!
+
+But our UI framework, GPUI, takes inspiration from other declarative UI libraries, like React and SwiftUI.
+
+www.gpui.rs'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vrtd7miajksel7lujikzrx2s/app.bsky.feed.post/3li4n24vgt22g'
+author_did = 'did:plc:vrtd7miajksel7lujikzrx2s'
+author_handle = 'timohere.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5c7rg4zc2m'
+created_at = '2025-02-14T13:20:56.576Z'
+text = '''
+I’m currently using the WebGL APIs directly with `wasm-bindgen` and `web-sys`, which has been pretty nice so far.
+
+Haven’t really been too worried about the Wasm bundle size yet, but maybe I’ll need to be later.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:lk2rsifrzbc5c4wxuhawa36f/app.bsky.feed.post/3li4kujkvo22g'
+author_did = 'did:plc:lk2rsifrzbc5c4wxuhawa36f'
+author_handle = 'johndisandonato.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li4hkgxapc2m'
 created_at = '2025-02-14T05:23:43.674Z'
 text = 'The children (me) yearn for the mines (writing WebGL in Rust).'
@@ -289,15 +358,15 @@ uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhjyaamvg22v'
 created_at = '2025-02-06T21:01:40.081Z'
 text = 'You know, I could totally see Elon Musk walk into the Superdome with a neutron bomb and threaten to blow everybody up.'
 
-[[posts]]
-uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhjyaamvg22v'
-created_at = '2025-02-06T21:01:40.081Z'
-text = 'You know, I could totally see Elon Musk walk into the Superdome with a neutron bomb and threaten to blow everybody up.'
-
 [posts.in_reply_to]
 uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lhjxzfhqjc2k'
 author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
 author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhjyaamvg22v'
+created_at = '2025-02-06T21:01:40.081Z'
+text = 'You know, I could totally see Elon Musk walk into the Superdome with a neutron bomb and threaten to blow everybody up.'
 
 [[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhidlvxda222'
