@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Aporia'
+artist = '''There's a Light'''
+album = 'Aporia'
+listened_at = '2025-02-14T00:14:05Z'
+
+[[tracks]]
 name = 'Will'
 artist = 'Blacklit Canopy Official'
 album = 'Patient Demos (Deluxe)'
