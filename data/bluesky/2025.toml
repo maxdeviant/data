@@ -1,4 +1,52 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5pbkdfl225'
+created_at = '2025-02-14T17:14:34.900Z'
+text = 'Whoa, that would be great!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ouwer4dhlqu7oodiebpo4eco/app.bsky.feed.post/3li5ovuhnq22w'
+author_did = 'did:plc:ouwer4dhlqu7oodiebpo4eco'
+author_handle = 'lrz.hipbyte.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5o6bofgk25'
+created_at = '2025-02-14T16:54:51.419Z'
+text = '''
+Do you happen to have an Nvidia GPU as well?
+
+I searched our existing issues and it seems similar to this one: github.com/zed-industri...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ouwer4dhlqu7oodiebpo4eco/app.bsky.feed.post/3li5njjfaw22p'
+author_did = 'did:plc:ouwer4dhlqu7oodiebpo4eco'
+author_handle = 'lrz.hipbyte.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5lypebf225'
+created_at = '2025-02-14T16:15:56.957Z'
+text = '''
+That doesn't look great!
+
+Looks like the text renderer might have given out.
+
+What platform are you running Zed on?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ouwer4dhlqu7oodiebpo4eco/app.bsky.feed.post/3li5eb42ngc2f'
+author_did = 'did:plc:ouwer4dhlqu7oodiebpo4eco'
+author_handle = 'lrz.hipbyte.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5kgutkek25'
+created_at = '2025-02-14T15:48:04.979Z'
+text = 'Jak explaining Rust and compiler dev to viewers:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3li5jjkctik2r'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5hs34h7u2e'
 created_at = '2025-02-14T15:00:38.711Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
