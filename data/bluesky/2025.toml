@@ -1,4 +1,96 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3se5sejs25'
+created_at = '2025-02-13T23:04:24.172Z'
+text = 'And this is what that experience looks like:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3sce5yys25'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3sce5yys25'
+created_at = '2025-02-13T23:03:23.735Z'
+text = '''
+Adding this to your settings should do it:
+
+```
+{
+  "edit_predictions": {
+    "mode": "auto"
+  }
+}
+```'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5mfigtsgic755554fa4tp7it/app.bsky.feed.post/3li3s3wezbk2i'
+author_did = 'did:plc:5mfigtsgic755554fa4tp7it'
+author_handle = 'chesterstone.ovh'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3rw2p2ts25'
+created_at = '2025-02-13T22:56:31.156Z'
+text = '''
+Yea, we had a lot of internal debate around this one.
+
+We almost shipped with it being `option-tab` (on macOS) by default.
+
+I still don't like using `tab` to accept completions, so I actually use a different experience we're trialing that requires using `option` to summon the predictions into view.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5mfigtsgic755554fa4tp7it/app.bsky.feed.post/3li3qsy5te22i'
+author_did = 'did:plc:5mfigtsgic755554fa4tp7it'
+author_handle = 'chesterstone.ovh'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3qs7oc4c2x'
+created_at = '2025-02-13T22:36:28.413Z'
+text = '''I'm actually quite devastated by this, as I'm still using my first and only mechanical keyboard from them, and I absolutely love it: maxdeviant.com/uses/#wasd-v...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3qqh7zdc2x'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3qqh7zdc2x'
+created_at = '2025-02-13T22:35:29.225Z'
+text = '''I was going to come and shill WASD Keyboards, only to find out that it seems they've stopped doing business:'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3li3qlf2yis2u'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3on3ktuk2x'
+created_at = '2025-02-13T21:57:48.849Z'
+text = 'Thinking of starting a wall of shame for some of the ridiculous PRs we get to the Zed repo.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3mv5gbgc2m'
+created_at = '2025-02-13T21:26:31.750Z'
+text = 'Awesome! Hope you enjoy it 🙂'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uqrryaveb7djvaatfljbdhcb/app.bsky.feed.post/3li3mhsu3r22y'
+author_did = 'did:plc:uqrryaveb7djvaatfljbdhcb'
+author_handle = 'joel.drapper.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3m2pu25c2x'
+created_at = '2025-02-13T21:11:45.104Z'
+text = '''
+Hmm, could you try running `edit prediction: reset onboarding` from the command palette?
+
+You should see this afterwards:'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uqrryaveb7djvaatfljbdhcb/app.bsky.feed.post/3li3luco6ps2i'
+author_did = 'did:plc:uqrryaveb7djvaatfljbdhcb'
+author_handle = 'joel.drapper.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li3l6c6uy22x'
 created_at = '2025-02-13T20:55:51.256Z'
 text = '''
@@ -182,15 +274,15 @@ uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhjyaamvg22v'
 created_at = '2025-02-06T21:01:40.081Z'
 text = 'You know, I could totally see Elon Musk walk into the Superdome with a neutron bomb and threaten to blow everybody up.'
 
-[posts.in_reply_to]
-uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lhjxzfhqjc2k'
-author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
-author_handle = 'dame.is'
-
 [[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhjyaamvg22v'
 created_at = '2025-02-06T21:01:40.081Z'
 text = 'You know, I could totally see Elon Musk walk into the Superdome with a neutron bomb and threaten to blow everybody up.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lhjxzfhqjc2k'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
 
 [[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lhidlvxda222'
