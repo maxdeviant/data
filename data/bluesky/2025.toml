@@ -1,4 +1,53 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5skgdu6325'
+created_at = '2025-02-14T18:13:13.760Z'
+text = '''
+So that got me excited about the idea of using the web as a distribution mechanism for the client.
+
+If having someone try out the game is as simple as going to a URL in the browser, that really lowers the activation energy required for me to get something in people's hands.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5skgdt6t25'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5skgdt6t25'
+created_at = '2025-02-14T18:13:13.759Z'
+text = '''I'm a long time RuneScape/Old School RuneScape player, and I was recently harkening back to the days of loading up the RuneScape client in basically any browser and being able to play.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5skgdt6s25'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5skgdt6s25'
+created_at = '2025-02-14T18:13:13.758Z'
+text = '''
+This most recent revision—which is only about a week old, at this point—is a reaction to a previous sticking point I've had regarding getting the client into people's hands.
+
+I develop on macOS, so the thought of having to deal with builds for Linux and Windows felt particularly onerous.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5skg6ef225'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5skg6ef225'
+created_at = '2025-02-14T18:13:13.757Z'
+text = '''
+This is the latest iteration in my ongoing quest to build a multiplayer online RPG.
+
+I've been working on this idea for a number of years now, doing a lot of exploratory projects that so far have all ended up not feeling right.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:lk2rsifrzbc5c4wxuhawa36f/app.bsky.feed.post/3li5hgpqkz22z'
+author_did = 'did:plc:lk2rsifrzbc5c4wxuhawa36f'
+author_handle = 'johndisandonato.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5pbkdfl225'
 created_at = '2025-02-14T17:14:34.900Z'
 text = 'Whoa, that would be great!'

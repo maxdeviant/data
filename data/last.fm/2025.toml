@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Wonderwall - Spotify Singles'
+artist = 'Bring Me the Horizon'
+album = 'Spotify Singles'
+listened_at = '2025-02-14T20:58:36Z'
+
+[[tracks]]
+name = 'Bad Behavior'
+artist = 'Silly Goose'
+album = 'Bad Behavior'
+listened_at = '2025-02-14T20:55:17Z'
+
+[[tracks]]
+name = 'Last Fall'
+artist = 'Lil Peep'
+album = 'Last Fall'
+listened_at = '2025-02-14T20:52:47Z'
+
+[[tracks]]
+name = 'Where Do We Go'
+artist = 'Charlotte de Witte'
+album = 'One Mind EP'
+listened_at = '2025-02-14T20:47:48Z'
+
+[[tracks]]
+name = 'Switch'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-02-14T20:44:48Z'
+
+[[tracks]]
 name = 'Aporia'
 artist = '''There's a Light'''
 album = 'Aporia'
