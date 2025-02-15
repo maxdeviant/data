@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li6nl24trs2d'
+created_at = '2025-02-15T02:16:45.700Z'
+text = '''When I'm making a change in someone else's codebase and running the formatter produces a huge diff:'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li6mv7dn6s2d'
+created_at = '2025-02-15T02:04:32.974Z'
+text = '''
+It's been a little over a week since icon themes launched in Zed, and there has already been a deluge of PRs to add support for theming more icons.
+
+Having to define these in Zed itself isn't great, so today I made it so icon themes can bring their own associations:
+
+github.com/zed-industri...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li676xnclk2d'
 created_at = '2025-02-14T21:59:28.063Z'
 text = '''
