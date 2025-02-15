@@ -1,4 +1,68 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li7uuohznk2m'
+created_at = '2025-02-15T14:00:04.967Z'
+text = 'They haven’t changed in the year and change that I’ve been here, but maybe it happened before that.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:pdn5wndcxozaxostumiv5nv5/app.bsky.feed.post/3li7um7qm5s2u'
+author_did = 'did:plc:pdn5wndcxozaxostumiv5nv5'
+author_handle = 'skatkov.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li7tenpiac2m'
+created_at = '2025-02-15T13:33:13.550Z'
+text = '''
+Whoa, this looks great!
+
+Always love seeing what people are building in GPUI. I commend you for being brave enough to dive into the Zed source to find out how GPUI works 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:cnsfj57ozmfzm3wurnp4r7z5/app.bsky.feed.post/3ldhayz66ks2i'
+author_did = 'did:plc:cnsfj57ozmfzm3wurnp4r7z5'
+author_handle = 'jflessau.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li7szqcq2k2m'
+created_at = '2025-02-15T13:27:07.177Z'
+text = '''
+If we use timestamps for Zed releases, that is news to me 😅
+
+Right now all of our versions look like v0.173.9, v0.174.0, etc.
+
+They’re SemVer format, but I don’t know that we’re exactly following SemVer rules (pre-v1.0.0 right now, so anything goes).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:pdn5wndcxozaxostumiv5nv5/app.bsky.feed.post/3ldxq5qwyc22n'
+author_did = 'did:plc:pdn5wndcxozaxostumiv5nv5'
+author_handle = 'skatkov.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li7s6i4wrk2m'
+created_at = '2025-02-15T13:11:52.630Z'
+text = '''
+Does this person really not have anything better to do with their time than delete a bunch of code instead of contributing something positive?
+
+Surely they know that this would never be accepted.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li7s4moqns2m'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li7s4moqns2m'
+created_at = '2025-02-15T13:10:50.300Z'
+text = '''
+Early on after going open source, we had someone open a PR to delete the entire codebase. Something like that probably only takes a few minutes to open.
+
+But this one confuses me, because it probably took some effort to go through and remove only certain things. And for what?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:jydevjhclpkbrjyyda7x6i7j/app.bsky.feed.post/3li64ihvfqc2k'
+author_did = 'did:plc:jydevjhclpkbrjyyda7x6i7j'
+author_handle = 'd34dl0ck.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li6nl24trs2d'
 created_at = '2025-02-15T02:16:45.700Z'
 text = '''When I'm making a change in someone else's codebase and running the formatter produces a huge diff:'''
