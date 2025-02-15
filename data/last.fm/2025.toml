@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Mirror'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2025-02-15T16:12:59Z'
+
+[[tracks]]
+name = 'Dødslængsel'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2025-02-15T16:12:59Z'
+
+[[tracks]]
+name = 'Dødslængsel'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2025-02-15T16:04:14Z'
+
+[[tracks]]
+name = 'Delirium'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2025-02-15T16:04:14Z'
+
+[[tracks]]
+name = 'Delirium'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2025-02-15T15:55:17Z'
+
+[[tracks]]
+name = 'A Martyr Left Alive'
+artist = 'Counterparts'
+album = 'Heaven Let Them Die'
+listened_at = '2025-02-15T15:55:17Z'
+
+[[tracks]]
+name = 'Foragt'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2025-02-15T15:43:46Z'
+
+[[tracks]]
+name = 'Ensomhed'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2025-02-15T15:31:19Z'
+
+[[tracks]]
+name = 'Forlist'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2025-02-15T15:29:47Z'
+
+[[tracks]]
 name = 'Vore'
 artist = 'Sleep Token'
 album = 'Take Me Back to Eden'

@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lia4rcmsls2e'
+created_at = '2025-02-15T16:21:21.811Z'
+text = '''
+More WebGL in Rust today. We're moving into 3D space!
+
+#screenshotsaturday'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li7uuohznk2m'
 created_at = '2025-02-15T14:00:04.967Z'
 text = 'They haven’t changed in the year and change that I’ve been here, but maybe it happened before that.'
