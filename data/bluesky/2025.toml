@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li676xnclk2d'
+created_at = '2025-02-14T21:59:28.063Z'
+text = '''
+I don't remember exactly when I bought mine, but it's probably around a similar time frame.
+
+Now I'm worried about the day it decides to die on me 😥'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:elpdw5nwg3yzxouqzzjqjg43/app.bsky.feed.post/3li65qpkfck2i'
+author_did = 'did:plc:elpdw5nwg3yzxouqzzjqjg43'
+author_handle = 'andyleclair.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3li5skgdu6325'
 created_at = '2025-02-14T18:13:13.760Z'
 text = '''
