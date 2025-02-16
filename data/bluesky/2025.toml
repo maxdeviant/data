@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3liapwe6ask24'
+created_at = '2025-02-15T22:04:12.294Z'
+text = 'I say “veck deck”'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3liaoyhrk7s2u'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lia4rcmsls2e'
 created_at = '2025-02-15T16:21:21.811Z'
 text = '''
