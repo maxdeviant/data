@@ -1,4 +1,22 @@
 [[tracks]]
+name = '''Larry's High Silk Hat'''
+artist = 'VeggieTales'
+album = 'And Now It’s Time For Silly Songs With Larry'
+listened_at = '2025-02-16T02:31:41Z'
+
+[[tracks]]
+name = 'LUST.'
+artist = 'Kendrick Lamar'
+album = 'DAMN.'
+listened_at = '2025-02-16T00:36:21Z'
+
+[[tracks]]
+name = 'Reflection'
+artist = 'Olhava'
+album = 'Reborn'
+listened_at = '2025-02-15T20:25:31Z'
+
+[[tracks]]
 name = 'Reborn - Pt. I'
 artist = 'Olhava'
 album = 'Reborn'
