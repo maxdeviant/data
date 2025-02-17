@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Face of the Sun'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2025-02-17T15:30:44Z'
+
+[[tracks]]
+name = 'Centaur'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2025-02-17T15:25:48Z'
+
+[[tracks]]
+name = 'Heart of Sky'
+artist = 'Vital Spirit'
+album = 'In The Faith That Looks Through Death'
+listened_at = '2025-02-17T15:21:34Z'
+
+[[tracks]]
+name = '''Larry's High Silk Hat'''
+artist = 'VeggieTales'
+album = 'And Now It’s Time For Silly Songs With Larry'
+listened_at = '2025-02-17T15:21:23Z'
+
+[[tracks]]
 name = 'Reborn - Pt. II'
 artist = 'Olhava'
 album = 'Reborn'
