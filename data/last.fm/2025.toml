@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Svart aska'
+artist = 'Dödsrit'
+album = 'Dödsrit'
+listened_at = '2025-02-18T19:19:25Z'
+
+[[tracks]]
+name = 'Endless Circle'
+artist = 'Dödsrit'
+album = 'Dödsrit'
+listened_at = '2025-02-18T19:13:24Z'
+
+[[tracks]]
+name = 'Heklugjá'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2025-02-18T18:48:21Z'
+
+[[tracks]]
+name = 'Heklugjá'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2025-02-18T15:33:17Z'
+
+[[tracks]]
 name = 'Eldorgía'
 artist = 'Vosbúð'
 album = 'Heklugjá'
