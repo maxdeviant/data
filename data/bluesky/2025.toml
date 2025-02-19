@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3liiwdbtydk2e'
+created_at = '2025-02-19T04:20:06.431Z'
+text = '''
+Who on the Bluesky team do I have to bribe to get keyboard navigation?
+
+I just want to be able to move through my feed with j/k!'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lieryuurcs2u'
 created_at = '2025-02-17T12:52:03.354Z'
 text = 'Power went out at 5pm yesterday and is still not back on 😩'
