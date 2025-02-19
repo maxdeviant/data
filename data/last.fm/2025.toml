@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Abysmal Loop'
+artist = 'The Hero and a Monster'
+album = 'Abysmal Loop'
+listened_at = '2025-02-18T21:39:33Z'
+
+[[tracks]]
+name = 'Nature’s Inexorable Imperative - Repowered'
+artist = 'Suntorn'
+album = 'The Will To Power (Repowered)'
+listened_at = '2025-02-18T21:34:43Z'
+
+[[tracks]]
+name = 'The Void'
+artist = 'Dödsrit'
+album = 'Dödsrit'
+listened_at = '2025-02-18T19:25:05Z'
+
+[[tracks]]
 name = 'Svart aska'
 artist = 'Dödsrit'
 album = 'Dödsrit'
