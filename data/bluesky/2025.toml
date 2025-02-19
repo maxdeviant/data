@@ -1,4 +1,85 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijz5ebvb22k'
+created_at = '2025-02-19T14:43:08.620Z'
+text = '''
+Fixed an issue where models in the Assistant were not being showing in the model selector until after opening the configuration view:
+
+github.com/zed-industri...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijz3pajtc2k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijz3pajtc2k'
+created_at = '2025-02-19T14:42:13.001Z'
+text = '''
+This one's for the new version of the Assistant that hasn't shipped yet, but myself and some other team members were running into it ourselves in our usage of Zed Nightly, so it seemed like fair game.
+
+Fixed thread history only working in one Zed window:
+
+github.com/zed-industri...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijyxulyuk2k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijyxulyuk2k'
+created_at = '2025-02-19T14:40:04.403Z'
+text = '''
+Removed some noisy logs about themes/icon themes not existing when they were coming from extensions that had not loaded yet:
+
+github.com/zed-industri...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijyvkpmpk2k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijyvkpmpk2k'
+created_at = '2025-02-19T14:38:46.926Z'
+text = 'Tuesday I was running around a bunch dealing with a power outage at my house, but I was still able to get a few things shipped.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijytsuuwk2k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijytsuuwk2k'
+created_at = '2025-02-19T14:37:48.379Z'
+text = 'Monday I was OOO for the US holiday.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijyszbp2s2k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijyszbp2s2k'
+created_at = '2025-02-19T14:37:21.535Z'
+text = '''
+It's Quality Week at @zed.dev this week!
+
+We do these periodically to take a break from our ongoing development projects and fix a bunch of bugs, papercuts, and other quality detractors in Zed.
+
+I thought it would be fun to start a thread of the things that I have a hand in fixing this week.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijwfg3puc26'
+created_at = '2025-02-19T13:53:57.722Z'
+text = 'Guber'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:p2cp5gopk7mgjegy6wadk3ep/app.bsky.feed.post/3lijukuzy2c2m'
+author_did = 'did:plc:p2cp5gopk7mgjegy6wadk3ep'
+author_handle = 'samuel.bsky.team'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3liiwdbtydk2e'
 created_at = '2025-02-19T04:20:06.431Z'
 text = '''
