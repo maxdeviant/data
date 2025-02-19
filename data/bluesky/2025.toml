@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lik7rxynb22k'
+created_at = '2025-02-19T16:42:02.828Z'
+text = '''
+Added a new `allow_rewrap` setting to control the behavior of `editor::Rewrap` on a per-language basis.
+
+Previously rewrapping would only work with comments or in Markdown and plain text files (which were special-cased in the implementation).
+
+github.com/zed-industri...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijz5ebvb22k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lijz5ebvb22k'
 created_at = '2025-02-19T14:43:08.620Z'
 text = '''
