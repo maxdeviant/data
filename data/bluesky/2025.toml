@@ -1,4 +1,81 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3limzxfx42k2z'
+created_at = '2025-02-20T19:35:41.995Z'
+text = '''
+Fixed an issue with the TOML extension where it wouldn't respect the language server `binary` settings if they were configured in Zed:
+
+github.com/zed-industri...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3limxnonia22z'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3limxsnxvnc2z'
+created_at = '2025-02-20T18:57:15.154Z'
+text = '''It's super messed up!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3limwhtijl226'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3limxnonia22z'
+created_at = '2025-02-20T18:54:28.089Z'
+text = '''
+Also, if anyone knows a better way of bypassing the incessant keychain prompts when running development builds of a macOS app, please let me know.
+
+It would be nice if we could find a way to use the real keychain in development without having to enter your password every. single. time.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3limxkyzy622z'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3limxkyzy622z'
+created_at = '2025-02-20T18:52:58.321Z'
+text = '''
+We also previously had a special environment variable that you needed to set in order to opt in to the development credentials provider.
+
+Now I'm flipping that so you see it by default, and can use an environment variable if you need to get out:
+
+github.com/zed-industri...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3limxit5no22z'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3limxit5no22z'
+created_at = '2025-02-20T18:51:45.004Z'
+text = '''
+So today I spent some time reworking those codepaths to use a new `CredentialsProvider` trait that has a custom backend for development builds: github.com/zed-industri...
+
+This was a pattern we had already used to bypass keychain annoyances, but hadn't applied it across the board.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3limxit4ikk2z'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3limxit4ikk2z'
+created_at = '2025-02-20T18:51:45.003Z'
+text = '''
+The fix for models now showing up in the Assistant's model selector had some annoying repercussions for the development workflow.
+
+It meant you would now always see the macOS keychain prompt in development if you had any LLM providers configured with credentials. Not great.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lik7rxynb22k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3likvtm57o22z'
 created_at = '2025-02-19T23:16:39.825Z'
 text = 'The artifacting on this image really adds to it.'
