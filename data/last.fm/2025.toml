@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Mortal Coil'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2025-02-21T02:53:14Z'
+
+[[tracks]]
+name = 'Shallow Graves'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2025-02-21T02:45:52Z'
+
+[[tracks]]
+name = 'The Third Door'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2025-02-21T02:34:36Z'
+
+[[tracks]]
+name = 'Spirit Crusher'
+artist = 'Dödsrit'
+album = 'Spirit Crusher'
+listened_at = '2025-02-21T02:19:26Z'
+
+[[tracks]]
+name = 'Spirit Crusher'
+artist = 'Dödsrit'
+album = 'Spirit Crusher'
+listened_at = '2025-02-20T23:56:20Z'
+
+[[tracks]]
 name = 'A Drowning Voice'
 artist = 'Dödsrit'
 album = 'Spirit Crusher'
