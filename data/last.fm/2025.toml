@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Das Dunkel der Welt'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2025-02-21T03:32:20Z'
+
+[[tracks]]
+name = 'Sonne der Nacht'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2025-02-21T03:26:05Z'
+
+[[tracks]]
+name = '''Adonaia's Elegien'''
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2025-02-21T03:19:32Z'
+
+[[tracks]]
+name = 'Phantasmagorie'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2025-02-21T03:11:25Z'
+
+[[tracks]]
+name = 'Apathetic Tongues'
+artist = 'Dödsrit'
+album = 'Mortal Coil'
+listened_at = '2025-02-21T03:01:50Z'
+
+[[tracks]]
 name = 'Mortal Coil'
 artist = 'Dödsrit'
 album = 'Mortal Coil'
