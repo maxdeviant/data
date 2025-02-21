@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'A Drowning Voice'
+artist = 'Dödsrit'
+album = 'Spirit Crusher'
+listened_at = '2025-02-20T23:48:53Z'
+
+[[tracks]]
+name = 'Ändlösa ådror'
+artist = 'Dödsrit'
+album = 'Spirit Crusher'
+listened_at = '2025-02-20T23:38:58Z'
+
+[[tracks]]
+name = 'Aura'
+artist = 'Dödsrit'
+album = 'Spirit Crusher'
+listened_at = '2025-02-20T23:27:28Z'
+
+[[tracks]]
+name = 'Eternity'
+artist = 'The Curse Within'
+album = 'Eternity'
+listened_at = '2025-02-20T21:20:23Z'
+
+[[tracks]]
+name = 'The Labyrinth'
+artist = 'China Lake'
+album = 'The Labyrinth'
+listened_at = '2025-02-20T21:15:29Z'
+
+[[tracks]]
+name = 'VIVE LA DÉCEPTION'
+artist = 'GAI 荄'
+album = 'VIVE LA DÉCEPTION'
+listened_at = '2025-02-20T21:12:30Z'
+
+[[tracks]]
+name = 'Relinquish'
+artist = 'Ascend The Helix'
+album = 'Anamnesis'
+listened_at = '2025-02-20T21:06:36Z'
+
+[[tracks]]
+name = 'Burning Low'
+artist = 'Too Late For Roses'
+album = 'Burning Low'
+listened_at = '2025-02-20T21:03:35Z'
+
+[[tracks]]
 name = 'String Theory'
 artist = 'Intervals'
 album = 'Circadian'
