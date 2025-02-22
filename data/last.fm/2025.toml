@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Not Like Us'
+artist = 'Kendrick Lamar'
+album = 'Not Like Us'
+listened_at = '2025-02-22T01:31:42Z'
+
+[[tracks]]
+name = '''He'll Have to Go'''
+artist = 'Beautiful Death'
+album = 'No Grave Can Hold Me'
+listened_at = '2025-02-21T23:39:36Z'
+
+[[tracks]]
 name = 'When I Survey the Wondrous Cross'
 artist = 'Beautiful Death'
 album = 'No Grave Can Hold Me'
