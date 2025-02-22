@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lipy3lqelk2w'
+created_at = '2025-02-21T23:40:14.014Z'
+text = '''
+To round out Quality Week, I updated Zed's theme loading to prioritize the theme and icon theme in the settings.
+
+This should address the issue where the default themes would briefly be visible until the extensions containing the desired themes finished loading.
+
+github.com/zed-industri...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3limzxfx42k2z'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lipmh7l2c22f'
 created_at = '2025-02-21T20:11:59.009Z'
 text = '$SKYT'
