@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lisgi5osxc2e'
+created_at = '2025-02-22T23:03:07.354Z'
+text = 'My guess would be Morocco, based on its location.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ujospssfohkwtnocit43op2r/app.bsky.feed.post/3lisgfhmgdc2z'
+author_did = 'did:plc:ujospssfohkwtnocit43op2r'
+author_handle = 'zkat.tech'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lisfvgf6f22e'
+created_at = '2025-02-22T22:52:38.941Z'
+text = 'Phew, good thing I planned ahead and wrote a thread of what I did last week:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lisfaivjqk2c'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lis6hi3fkk2k'
 created_at = '2025-02-22T20:39:34.752Z'
 text = '''
