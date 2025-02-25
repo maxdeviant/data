@@ -1,4 +1,47 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lixthy3mzc2b'
+created_at = '2025-02-25T02:38:58.812Z'
+text = 'I have been listening almost exclusively to Beautiful Death for the past three days.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lixrxigqgs2b'
+created_at = '2025-02-25T02:11:51.792Z'
+text = '''
+We ran into this pretty recently at Zed.
+
+We wanted to have a fast path for PRs that only touched the docs to bypass the CI that actually builds and tests Zed.
+
+But with required status checks, simply making those jobs not run would make sure the required status checks never passed 🫠'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:geozyv62fx63m7jhr4eraubc/app.bsky.feed.post/3lixi6hc4rk2g'
+author_did = 'did:plc:geozyv62fx63m7jhr4eraubc'
+author_handle = 'alilleybrinker.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lixruom73k2b'
+created_at = '2025-02-25T02:10:17.599Z'
+text = '''
+Ugh, PLEASE.
+
+I love CI systems, but doing anything in GitHub Actions makes me want to put pencils through my eyes.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:geozyv62fx63m7jhr4eraubc/app.bsky.feed.post/3lixi6hbxvc2g'
+author_did = 'did:plc:geozyv62fx63m7jhr4eraubc'
+author_handle = 'alilleybrinker.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lixm4am4p22b'
+created_at = '2025-02-25T00:27:08.901Z'
+text = 'That’s what private repos are for 😂'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gttrfs4hfmrclyxvwkwcgpj7/app.bsky.feed.post/3lixm3jzmlc2l'
+author_did = 'did:plc:gttrfs4hfmrclyxvwkwcgpj7'
+author_handle = 'aparker.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lixl7x2lh22y'
 created_at = '2025-02-25T00:11:19.364Z'
 text = '''
