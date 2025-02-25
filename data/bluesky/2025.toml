@@ -1,4 +1,63 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lizhb37nf22y'
+created_at = '2025-02-25T18:05:41.789Z'
+text = 'Is this general commentary, or are you stuck using Asana right now?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3lizh57h43c25'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lizfj3m6ws2y'
+created_at = '2025-02-25T17:34:23.151Z'
+text = '''
+This is something that we're looking to explore more at Zed: how can we build a representation of the code that includes other artifacts (docs, conversations, general metadata) along with it.
+
+Not something we've explored super deeply yet, still focused on building the actual editor bits 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xfjf7fkhv6rwsx5e6p2ar37o/app.bsky.feed.post/3lizer3ovac2v'
+author_did = 'did:plc:xfjf7fkhv6rwsx5e6p2ar37o'
+author_handle = 'hazelweakly.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lize7po7ys2q'
+created_at = '2025-02-25T17:11:14.834Z'
+text = '''I even considered having separate modules that contained the LLM-generated bits so that I can look back later and easily see "oh yea, the LLM wrote this and it *seems* to work okay, but hasn't been heavily quality-controlled".'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lize7pm3nc2q'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lize7pm3nc2q'
+created_at = '2025-02-25T17:11:14.833Z'
+text = '''
+I've been using LLMs pretty heavily in a recent project of mine involving graphics programming.
+
+It's been quite useful in helping me get a grasp on things, but I've found myself wanting better signage for which parts of this were written by the LLM.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xfjf7fkhv6rwsx5e6p2ar37o/app.bsky.feed.post/3lizdoga3ff2u'
+author_did = 'did:plc:xfjf7fkhv6rwsx5e6p2ar37o'
+author_handle = 'hazelweakly.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lizaxgehmc2y'
+created_at = '2025-02-25T16:12:55.485Z'
+text = '''
+Yea, I thought it was going to be a separate app on the ATProto that maybe had some affordances for cross-posting.
+
+That seems more like what I would want as opposed to a Bluesky client that is scoped to pictures.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3liz5kujftk2k'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3liy24qaiuk2m'
 created_at = '2025-02-25T04:37:57.682Z'
 text = '''
