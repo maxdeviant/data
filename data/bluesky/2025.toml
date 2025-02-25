@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lizhfnznd22y'
+created_at = '2025-02-25T18:08:15.732Z'
+text = '''
+Oof, that's rough.
+
+I bet you're just staring longingly out the window at Linear 😂'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3lizhdtizik25'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lizhb37nf22y'
 created_at = '2025-02-25T18:05:41.789Z'
 text = 'Is this general commentary, or are you stuck using Asana right now?'
