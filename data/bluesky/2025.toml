@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lixl7x2lh22y'
+created_at = '2025-02-25T00:11:19.364Z'
+text = '''
+People with private GitHub activity:
+
+WHAT ARE YOU HIDING??'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lixgbbct2c2b'
+created_at = '2025-02-24T22:42:34.961Z'
+text = 'It’s 2025, how can we not AirDrop files to our printers?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:x7omzi5ydqux3nr2dcorz3o2/app.bsky.feed.post/3lixfzckizk2w'
+author_did = 'did:plc:x7omzi5ydqux3nr2dcorz3o2'
+author_handle = 'jmduke.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3livmn3l7o22x'
 created_at = '2025-02-24T05:31:14.572Z'
 text = 'Dame recreated the “Nosedive” episode of Black Mirror on ATProto.'
