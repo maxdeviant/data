@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lj2lxwgr7226'
+created_at = '2025-02-26T05:02:43.231Z'
+text = '''
+Just thinking about how I’d respond if a résumé came across my desk with DOGE listed as a previous employer.
+
+And I think I would do an immediate rejection with a personalized “fuck you” to the applicant, as well as burning them within my entire professional network.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lj2jrlz7m22v'
+created_at = '2025-02-26T04:23:23.497Z'
+text = 'How do you feel about comparisons with Winnie the Pooh?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3livd2pvfws2i'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lj2a4rzr7k26'
 created_at = '2025-02-26T01:30:41.486Z'
 text = '''Congrats on the round! Looking forward to what y'all are going to build 😄'''
