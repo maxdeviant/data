@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lj2a4rzr7k26'
+created_at = '2025-02-26T01:30:41.486Z'
+text = '''Congrats on the round! Looking forward to what y'all are going to build 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:kc34cv7fzruymzxv7jvd7z6l/app.bsky.feed.post/3lj27ynwsjc2z'
+author_did = 'did:plc:kc34cv7fzruymzxv7jvd7z6l'
+author_handle = 'stephenhaney.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lj25v6bv6226'
+created_at = '2025-02-26T00:50:38.416Z'
+text = 'Nominative determinism.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ucct3fwwarzd7rety6nzq4cc/app.bsky.feed.post/3liv6r5mgfc2o'
+author_did = 'did:plc:ucct3fwwarzd7rety6nzq4cc'
+author_handle = 'bcantrill.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lizhfnznd22y'
 created_at = '2025-02-25T18:08:15.732Z'
 text = '''
