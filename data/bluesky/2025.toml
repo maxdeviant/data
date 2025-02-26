@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lj3k2h5gy226'
+created_at = '2025-02-26T14:01:00.121Z'
+text = '''
+Yea, I think it’s a shame that as an industry we’ve gone in the direction of trying to anthropomorphize LLMs.
+
+Even “AI” itself as a term feels like attributing human characteristics.
+
+I wish we could use more “LLM”-centric terminology and stop giving models human names.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3n5xhy6vl7smssmwxq5wgqa6/app.bsky.feed.post/3lj3elnmz622e'
+author_did = 'did:plc:3n5xhy6vl7smssmwxq5wgqa6'
+author_handle = 'gergely.pragmaticengineer.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lj2lxwgr7226'
 created_at = '2025-02-26T05:02:43.231Z'
 text = '''
