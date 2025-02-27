@@ -1,4 +1,30 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lj6ercdwrk2r'
+created_at = '2025-02-27T17:04:23.606Z'
+text = '''
+This was an interesting read! Thanks for sharing.
+
+Also, I really love the aesthetics of your website.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:jzlmuo76vzsgla6vkhgecmp7/app.bsky.feed.post/3lj636cxggk2c'
+author_did = 'did:plc:jzlmuo76vzsgla6vkhgecmp7'
+author_handle = 'mrjohz.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lj6awzojjs2v'
+created_at = '2025-02-27T15:56:00.876Z'
+text = '''
+I can't remember which version of macOS I've done it on (so possible that they broke it), but for a while you could click on the notification itself (not either of the buttons) and it would just open up System Preferences and you could close the window.
+
+Still needs a regular close button!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qflwqnlrkfjjpiidudejkzxs/app.bsky.feed.post/3lj65sib7qk2r'
+author_did = 'did:plc:qflwqnlrkfjjpiidudejkzxs'
+author_handle = 'brandur.org'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lj4zv3dmqs2v'
 created_at = '2025-02-27T04:16:59.575Z'
 text = '''If anyone asks if I'm okay and I say "yea, I'm fine", just know that it's a bold-faced lie.'''
