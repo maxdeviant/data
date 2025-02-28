@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljbcckmdqc2h'
+created_at = '2025-02-28T20:58:20.685Z'
+text = 'C.S. Lewis really has so many banger quotes.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3ljbbv45wic2e'
+author_did = 'did:plc:h25avmes6g7fgcddc3xj7qmg'
+author_handle = 'moultano.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljb7oxdajk2m'
+created_at = '2025-02-28T20:11:35.446Z'
+text = '''Share that repo in Zed and now you've got collaboration too!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3ljb7elwmuk2k'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljapdlvu3c2b'
 created_at = '2025-02-28T15:18:54.505Z'
 text = '''
