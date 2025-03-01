@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljbtu3wpms2a'
+created_at = '2025-03-01T02:12:22.882Z'
+text = 'If it doesn’t exist yet, someone should make a video codec that takes video files and renders each frame in real time as ASCII art.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ybis62fh2uwcfrb33pt5k6dc/app.bsky.feed.post/3ljbt55pyl22h'
+author_did = 'did:plc:ybis62fh2uwcfrb33pt5k6dc'
+author_handle = 'hjvt.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljbstskb722d'
+created_at = '2025-03-01T01:54:19.300Z'
+text = 'Lynx'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ujospssfohkwtnocit43op2r/app.bsky.feed.post/3ljbshzdvak2j'
+author_did = 'did:plc:ujospssfohkwtnocit43op2r'
+author_handle = 'zkat.tech'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljbcckmdqc2h'
 created_at = '2025-02-28T20:58:20.685Z'
 text = 'C.S. Lewis really has so many banger quotes.'
