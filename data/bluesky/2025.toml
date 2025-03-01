@@ -1,4 +1,67 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljd3n6kmb22a'
+created_at = '2025-03-01T14:04:20.429Z'
+text = 'Trying to enjoy my weekend but now I’m compelled to continue my transformation into the Joker.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xfqcsi7wuwedeqaa5m7aih44/app.bsky.feed.post/3ljd37wtojc2h'
+author_did = 'did:plc:xfqcsi7wuwedeqaa5m7aih44'
+author_handle = '0x0.boo'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljd3isb2ak2a'
+created_at = '2025-03-01T14:01:53.315Z'
+text = 'That comparison is certainly a choice. Like ???????'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:pmyqirafcp3jqdhrl7crpq7t/app.bsky.feed.post/3ljd23ztqcc26'
+author_did = 'did:plc:pmyqirafcp3jqdhrl7crpq7t'
+author_handle = 'numb.comfortab.ly'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljd2xdp5fk2a'
+created_at = '2025-03-01T13:52:07.623Z'
+text = 'Get it trending!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uyqnubfj3qlho6psy6uvvt6u/app.bsky.feed.post/3ljd2u345v22z'
+author_did = 'did:plc:uyqnubfj3qlho6psy6uvvt6u'
+author_handle = 'scoiattolo.mountainherder.xyz'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljd2jnksz22a'
+created_at = '2025-03-01T13:44:28.205Z'
+text = '''
+They’re the same model.
+
+The only difference is whether you are bringing your own Anthropic API key or using your Zed authentication to access Claude 3.7 Sonnet.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ukamafh37qoz6qcvj42zlrkn/app.bsky.feed.post/3lj2m2amqxs2h'
+author_did = 'did:plc:ukamafh37qoz6qcvj42zlrkn'
+author_handle = 'nathan.run'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljczp2t7qc2a'
+created_at = '2025-03-01T13:29:36.142Z'
+text = 'Where’d February go? Feels like it went by in a flash.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljczdmc2q22a'
+created_at = '2025-03-01T13:23:11.801Z'
+text = '''
+The beauty of jj is that it’s interoperable with Git (when using the Git backend).
+
+So I can still commit changes using the Git UI and have those changes show up in jj.
+
+I do think that having first-class jj support would be a huge win, cause no other editors are doing it AFAIK.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5dnwnjydruv7wmbi33xchkr6/app.bsky.feed.post/3ljcyzxjlwc2p'
+author_did = 'did:plc:5dnwnjydruv7wmbi33xchkr6'
+author_handle = 'nate.rip'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljbtu3wpms2a'
 created_at = '2025-03-01T02:12:22.882Z'
 text = 'If it doesn’t exist yet, someone should make a video codec that takes video files and renders each frame in real time as ASCII art.'
