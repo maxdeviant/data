@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Blackhole'
+artist = 'Architects'
+album = 'The Sky, the Earth & All Between'
+listened_at = '2025-03-02T01:14:32Z'
+
+[[tracks]]
+name = 'Whiplash'
+artist = 'Architects'
+album = 'The Sky, the Earth & All Between'
+listened_at = '2025-03-02T01:10:45Z'
+
+[[tracks]]
+name = 'Elegy'
+artist = 'Architects'
+album = 'The Sky, the Earth & All Between'
+listened_at = '2025-03-02T01:07:11Z'
+
+[[tracks]]
+name = 'The Space Between Us'
+artist = 'Beautiful Death'
+album = 'By Still Waters'
+listened_at = '2025-03-01T16:53:42Z'
+
+[[tracks]]
 name = 'Beneath a Mourning Sky'
 artist = 'Beautiful Death'
 album = 'By Still Waters'
