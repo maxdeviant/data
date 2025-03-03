@@ -1,4 +1,78 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lji7w4ia7k2t'
+created_at = '2025-03-03T15:04:13.901Z'
+text = '''
+Welp, was not looking forward to this day.
+
+Guess I'm looking for a new browser.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lji7kamnp22g'
+created_at = '2025-03-03T14:57:35.588Z'
+text = '''
+Wow, that was quite a read.
+
+Hard to believe that there are people out there who actually behave this way.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljhzbgkfsc2g'
+created_at = '2025-03-03T13:05:17.366Z'
+text = 'It’s the best'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3ljhz2ifhhs2d'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljhz7ous3c2g'
+created_at = '2025-03-03T13:04:18.985Z'
+text = 'Mfs will literally build their entire ATProto app on top of the Bluesky lexicon instead of going to therapy.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljhyzvjffc2g'
+created_at = '2025-03-03T13:01:04.625Z'
+text = 'le.xxx/icon'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3ljhyxvor522d'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljhywvmdgk2g'
+created_at = '2025-03-03T12:59:24.056Z'
+text = '''
+Thought this was a pretty cool idea until I saw the replies.
+
+For the love of all that is holy, PLEASE just use your own lexicon.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljhykqkros2g'
+created_at = '2025-03-03T12:52:36.111Z'
+text = 'Developers building ATProto apps use a lexicon challenge 2025 (impossible)'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3ljhy774n3s2d'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljhy6bmecc2g'
+created_at = '2025-03-03T12:45:37.781Z'
+text = 'Another day, another broken `main` that could have been prevented with Bors.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljhxfgkuek2g'
+created_at = '2025-03-03T12:31:44.110Z'
+text = 'Same here'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uyjvm2kqevlb4pa6sf63476h/app.bsky.feed.post/3ljhxarnyrs2e'
+author_did = 'did:plc:uyjvm2kqevlb4pa6sf63476h'
+author_handle = 'nickthesick.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljh2mkvzek2d'
 created_at = '2025-03-03T03:56:45.042Z'
 text = '''
