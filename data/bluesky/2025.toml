@@ -1,4 +1,50 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljihwqlwbc2n'
+created_at = '2025-03-03T17:27:44.930Z'
+text = '🙈'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:inqg622bfagfglt5xqbibd3x/app.bsky.feed.post/3ljihvgr6gc2v'
+author_did = 'did:plc:inqg622bfagfglt5xqbibd3x'
+author_handle = 'davidbarsky.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljid54ds4s2g'
+created_at = '2025-03-03T16:01:49.864Z'
+text = '''
+I'm also in the process of switching to Fastmail (on the long tail of changing my accounts over).
+
+I'm curious what you're dissatisfied about with 1Password. I've been a very happy 1Password user for years now.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ybis62fh2uwcfrb33pt5k6dc/app.bsky.feed.post/3ljicaetf322c'
+author_did = 'did:plc:ybis62fh2uwcfrb33pt5k6dc'
+author_handle = 'hjvt.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljiaaivskk2t'
+created_at = '2025-03-03T15:10:02.475Z'
+text = '''
+I think I may still switch to another browser for general internet browsing, since it seems clear that Chrome is hostile to the way I want to interact with the web.
+
+I don't think I can give up Chrome DevTools for development yet, though.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljia5out5k2t'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljia5out5k2t'
+created_at = '2025-03-03T15:08:28.069Z'
+text = 'Found out that you can still turn it back on from chrome://extensions/'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lji7w4ia7k2t'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lji7w4ia7k2t'
 created_at = '2025-03-03T15:04:13.901Z'
 text = '''
