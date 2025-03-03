@@ -1,4 +1,51 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljh2mkvzek2d'
+created_at = '2025-03-03T03:56:45.042Z'
+text = '''
+This is the dumbest take I've read in a long time.
+
+"only 'bad guys' refer to the people they are in conflict with as 'bad guys.'"
+
+Umm, no, I refer to Nazis as bad guys BECAUSE THEY'RE FUCKING NAZIS.
+
+Do better.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:fwpysycuktpgbbi76xhnx5oq/app.bsky.feed.post/3ljg2fpjaos2f'
+author_did = 'did:plc:fwpysycuktpgbbi76xhnx5oq'
+author_handle = 'dasniel.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljgzd4lxuc2d'
+created_at = '2025-03-03T03:33:34.301Z'
+text = 'Aubrey, no 💀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:hs22zme55gwbp5lgygsdtdll/app.bsky.feed.post/3ljgxhygmr22y'
+author_did = 'did:plc:hs22zme55gwbp5lgygsdtdll'
+author_handle = 'aub.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljgz4pncvs2d'
+created_at = '2025-03-03T03:29:59.385Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3ljgwnezyn2s2'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljgyiwzj5k2d'
+created_at = '2025-03-03T03:18:56.038Z'
+text = 'He is *serving* in this photo.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3ljgw4xjjok2d'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljd3n6kmb22a'
 created_at = '2025-03-01T14:04:20.429Z'
 text = 'Trying to enjoy my weekend but now I’m compelled to continue my transformation into the Joker.'
