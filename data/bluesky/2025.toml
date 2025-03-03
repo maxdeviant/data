@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljisri5jzc2n'
+created_at = '2025-03-03T20:41:39.458Z'
+text = 'Very thankful for `jj undo` whenever I accidentally run a `jj commit -m "Whatever"` command from my shell history instead of running my last `cargo run` command.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljihwqlwbc2n'
 created_at = '2025-03-03T17:27:44.930Z'
 text = '🙈'
