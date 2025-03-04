@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Villain'
+artist = 'Julia Wolf'
+album = 'Villain'
+listened_at = '2025-03-04T00:47:22Z'
+
+[[tracks]]
+name = 'Everything Ends'
+artist = 'Architects'
+album = 'The Sky, the Earth & All Between'
+listened_at = '2025-03-04T00:46:00Z'
+
+[[tracks]]
+name = 'Sea'
+artist = 'Violet Cold'
+album = 'Magic Night'
+listened_at = '2025-03-03T22:38:02Z'
+
+[[tracks]]
 name = 'For Amelie (Polish Lullaby)'
 artist = 'Violet Cold'
 album = 'Magic Night'
