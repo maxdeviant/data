@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljizan6wnc2g'
+created_at = '2025-03-03T22:37:30.514Z'
+text = 'What if I don’t like Arc? 😅'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:fz7kayw4wxmkdzrtiv6r7i4d/app.bsky.feed.post/3ljiz6yva2c2z'
+author_did = 'did:plc:fz7kayw4wxmkdzrtiv6r7i4d'
+author_handle = 'aymennasri.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljisri5jzc2n'
 created_at = '2025-03-03T20:41:39.458Z'
 text = 'Very thankful for `jj undo` whenever I accidentally run a `jj commit -m "Whatever"` command from my shell history instead of running my last `cargo run` command.'
