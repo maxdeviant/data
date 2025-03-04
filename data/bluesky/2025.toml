@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljlb266c222n'
+created_at = '2025-03-04T20:02:22.849Z'
+text = 'The first-party Twitter client has supported it since at least the React Native Web rewrite, possibly earlier!'
+
+[posts.in_reply_to]
+uri = 'at://did:web:lizthegrey.com/app.bsky.feed.post/3ljlagrbhck2n'
+author_did = 'did:web:lizthegrey.com'
+author_handle = 'web.lizthegrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljla57neg22n'
+created_at = '2025-03-04T19:46:11.313Z'
+text = '''I'm still waiting on being able to navigate through my Bluesky feed with j/k 🥲'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4tfenpfog244rxry5uz4vtk/app.bsky.feed.post/3ljl7o4kxhs2a'
+author_did = 'did:plc:i4tfenpfog244rxry5uz4vtk'
+author_handle = 'lizthegrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljl7xmz7gc2n'
+created_at = '2025-03-04T19:43:03.968Z'
+text = 'Not my home, but I know my way around'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljkta5fpu22g'
 created_at = '2025-03-04T15:55:10.980Z'
 text = ''
