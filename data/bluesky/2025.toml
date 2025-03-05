@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljlizi3n5s2n'
+created_at = '2025-03-04T22:25:09.628Z'
+text = 'Whaaaat, this sounds so useful!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3ljlip24hvk2n'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljlb266c222n'
 created_at = '2025-03-04T20:02:22.849Z'
 text = 'The first-party Twitter client has supported it since at least the React Native Web rewrite, possibly earlier!'
