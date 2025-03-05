@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Love Is an Ocean'
+artist = 'The Midnight'
+album = 'Love Is an Ocean'
+listened_at = '2025-03-05T17:28:03Z'
+
+[[tracks]]
+name = 'Findling'
+artist = 'Karg'
+album = 'Findling'
+listened_at = '2025-03-05T17:28:03Z'
+
+[[tracks]]
+name = 'Warm Winter'
+artist = 'Violet Cold'
+album = 'Magic Night'
+listened_at = '2025-03-05T17:07:20Z'
+
+[[tracks]]
+name = 'Magic Night'
+artist = 'Violet Cold'
+album = 'Magic Night'
+listened_at = '2025-03-05T16:56:29Z'
+
+[[tracks]]
+name = 'Everything You Can Imagine Is Real... - 2016 Remastered Version'
+artist = 'Violet Cold'
+album = 'Magic Night'
+listened_at = '2025-03-05T16:49:20Z'
+
+[[tracks]]
 name = 'Silver Moon, Pt. 1'
 artist = 'Violet Cold'
 album = 'Magic Night'
