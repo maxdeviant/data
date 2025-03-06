@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Vanishing'
+artist = 'Fields Of Mildew'
+album = 'IV'
+listened_at = '2025-03-06T01:29:25Z'
+
+[[tracks]]
+name = 'Ignis fatuus'
+artist = 'Fields Of Mildew'
+album = 'IV'
+listened_at = '2025-03-06T01:26:41Z'
+
+[[tracks]]
+name = 'Morningstar'
+artist = 'Alura'
+album = 'Morningstar'
+listened_at = '2025-03-06T01:22:47Z'
+
+[[tracks]]
+name = 'Eyes Without A Face'
+artist = 'Brothel'
+album = 'Eyes Without A Face'
+listened_at = '2025-03-06T01:20:39Z'
+
+[[tracks]]
+name = 'Life Is A Storm'
+artist = 'Julia Wolf'
+album = 'Life Is A Storm'
+listened_at = '2025-03-06T01:17:49Z'
+
+[[tracks]]
+name = 'Villain'
+artist = 'Julia Wolf'
+album = 'Villain'
+listened_at = '2025-03-06T01:14:53Z'
+
+[[tracks]]
+name = 'Life Is A Storm'
+artist = 'Julia Wolf'
+album = 'Life Is A Storm'
+listened_at = '2025-03-06T01:14:37Z'
+
+[[tracks]]
 name = 'Rain on Us'
 artist = 'Beautiful Death'
 album = 'Isolation'
