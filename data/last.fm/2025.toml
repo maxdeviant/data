@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Whare Ra'
+artist = 'Pull Down the Sun'
+album = 'Of Valleys and Mountains'
+listened_at = '2025-03-06T17:55:28Z'
+
+[[tracks]]
+name = 'Aka'
+artist = 'Pull Down the Sun'
+album = 'Of Valleys and Mountains'
+listened_at = '2025-03-06T17:53:58Z'
+
+[[tracks]]
+name = 'Beyond the Veil'
+artist = 'Beautiful Death'
+album = 'Undying'
+listened_at = '2025-03-06T15:45:56Z'
+
+[[tracks]]
+name = 'Life Is A Storm'
+artist = 'Julia Wolf'
+album = 'Life Is A Storm'
+listened_at = '2025-03-06T15:43:18Z'
+
+[[tracks]]
+name = 'Villain'
+artist = 'Julia Wolf'
+album = 'Villain'
+listened_at = '2025-03-06T15:40:22Z'
+
+[[tracks]]
+name = 'Ignis fatuus'
+artist = 'Fields Of Mildew'
+album = 'IV'
+listened_at = '2025-03-06T01:33:50Z'
+
+[[tracks]]
 name = 'Vanishing'
 artist = 'Fields Of Mildew'
 album = 'IV'
