@@ -1,4 +1,26 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljqojpwqgs2n'
+created_at = '2025-03-06T23:47:02.127Z'
+text = '''
+Donald Trump is a white supremacist, full stop
+If you vote[d] for him again, you're a white supremacist, full stop'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljqhm2ujpc2n'
+created_at = '2025-03-06T21:43:04.506Z'
+text = '''Chemicals in the water turned the friggin' whales gay...'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljqfozw3gs2n'
+created_at = '2025-03-06T21:08:56.687Z'
+text = 'C++ developers be like:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3ljqfj3y2ek26'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ljpspjkbws2p'
 created_at = '2025-03-06T15:29:11.983Z'
 text = '''
