@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'A Dozen Roses'
+artist = 'Amira Elfeky'
+album = 'A Dozen Roses'
+listened_at = '2025-03-09T03:01:08Z'
+
+[[tracks]]
+name = 'Death Of Me'
+artist = 'Amira Elfeky'
+album = 'Death Of Me'
+listened_at = '2025-03-09T02:57:58Z'
+
+[[tracks]]
+name = 'Will You Love Me When I’m Dead'
+artist = 'Amira Elfeky'
+album = 'Will You Love Me When I’m Dead'
+listened_at = '2025-03-09T02:53:55Z'
+
+[[tracks]]
 name = 'Higher'
 artist = 'Sleep Token'
 album = 'Sundowning'
