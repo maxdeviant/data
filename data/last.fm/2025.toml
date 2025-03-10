@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Keep Sweet'
+artist = 'Spiritbox'
+album = 'TSUNAMI SEA'
+listened_at = '2025-03-10T16:37:53Z'
+
+[[tracks]]
+name = 'White Noise'
+artist = 'PVRIS'
+album = 'White Noise'
+listened_at = '2025-03-10T03:13:50Z'
+
+[[tracks]]
 name = 'Fata Morgana'
 artist = 'Spiritbox'
 album = 'TSUNAMI SEA'
