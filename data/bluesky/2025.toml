@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk3zpylh7s2c'
+created_at = '2025-03-11T12:06:40.803Z'
+text = 'When they persisted in questioning Him, He stood up and said to them, "The one without syn among you should be the first to throw a stone at her."'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3lk3tdd3ug22t'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk2yknxins2v'
 created_at = '2025-03-11T02:13:08.411Z'
 text = 'Mundus sine Caesaribus.'
