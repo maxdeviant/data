@@ -1,4 +1,44 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4ssmwbw224'
+created_at = '2025-03-11T19:35:32.785Z'
+text = 'The size of your dinner party now directly correlates to how risky you’re feeling on a given evening.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:kc5rrqvj2ahkgu4igfnxbfdj/app.bsky.feed.post/3lk4spim2es2d'
+author_did = 'did:plc:kc5rrqvj2ahkgu4igfnxbfdj'
+author_handle = 'paintedsky.ca'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4soe45dc24'
+created_at = '2025-03-11T19:33:09.322Z'
+text = 'There are cathedrals everywhere, etc.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4slxtfss24'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4slxtfss24'
+created_at = '2025-03-11T19:31:49.344Z'
+text = 'Just picturing a folding table in the middle of the kitchen with an extension cord running to it to power a line of 6-8 air fryers.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4sj2hkic24'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4sj2hkic24'
+created_at = '2025-03-11T19:30:11.438Z'
+text = 'The solution is to have dinner guests bring their own air fryers and then you as the host/cook hook them all up to cook individual portions of food at once.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3lk4s5k7njk2j'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4hb6ckk22n'
 created_at = '2025-03-11T16:08:55.872Z'
 text = '''
