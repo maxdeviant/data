@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4cya7rpc24'
+created_at = '2025-03-11T14:52:20.921Z'
+text = '''
+In Go??
+
+Rust is literally right there.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4463qkuk24'
+created_at = '2025-03-11T12:50:21.363Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3lk3mwkhsrc2g'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk3zpylh7s2c'
 created_at = '2025-03-11T12:06:40.803Z'
 text = 'When they persisted in questioning Him, He stood up and said to them, "The one without syn among you should be the first to throw a stone at her."'
