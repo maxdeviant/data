@@ -1,4 +1,42 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4hb6ckk22n'
+created_at = '2025-03-11T16:08:55.872Z'
+text = '''
+Interestingly, when I Googled the BA492 flight number it turned up some articles from February 26, 2019 that had the same flight number experiencing high winds when trying to land in Gibraltar:
+
+www.aerotime.aero/articles/229...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xfqcsi7wuwedeqaa5m7aih44/app.bsky.feed.post/3lk4gx4wpjs2s'
+author_did = 'did:plc:xfqcsi7wuwedeqaa5m7aih44'
+author_handle = '0x0.boo'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4e3bhi3s2u'
+created_at = '2025-03-11T15:11:56.628Z'
+text = '''You're asking the right questions, here.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3lk4dxnaszk2m'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4dyijpnc2u'
+created_at = '2025-03-11T15:10:23.377Z'
+text = '''
+Yea, it does seem like being able to maintain similar structure of the code was a big motivating factor:
+
+"By far the most important aspect is that we need to keep the new codebase as compatible as possible, both in terms of semantics and in terms of code structure."
+
+github.com/microsoft/ty...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uytq636zrrw7ihme4zfy526r/app.bsky.feed.post/3lk4dcfmwfs2f'
+author_did = 'did:plc:uytq636zrrw7ihme4zfy526r'
+author_handle = 'aapoalas.trynova.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4cya7rpc24'
 created_at = '2025-03-11T14:52:20.921Z'
 text = '''
