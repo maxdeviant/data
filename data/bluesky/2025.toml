@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk5nu5iynk2n'
+created_at = '2025-03-12T03:39:34.758Z'
+text = '''
+Been wondering why my WebGL draw order seemed backwards, with geometry drawn first showing up on top of geometry that was drawn later.
+
+Turns out I had enabled `gl.DEPTH_TEST` but hadn't changed the depth func to `gl.LEQUAL` 🤦🏻‍♂️'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk4ssmwbw224'
 created_at = '2025-03-11T19:35:32.785Z'
 text = 'The size of your dinner party now directly correlates to how risky you’re feeling on a given evening.'
