@@ -1,4 +1,110 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk7h6t5ki22z'
+created_at = '2025-03-12T20:45:36.281Z'
+text = '''I feel like I need to get a desk chair without arms, because I keep catching myself leaning on my left elbow while I'm sitting and typing.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk7gibu32k2z'
+created_at = '2025-03-12T20:32:59.947Z'
+text = 'That void in my heart is where I put my feelings about Go.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3lk7gednok22i'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk7g7nqvhs2z'
+created_at = '2025-03-12T20:28:10.435Z'
+text = '#itlanded'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:urx2hrgoruj3gyx5dm73igus/app.bsky.feed.post/3lk7fg57opc2q'
+author_did = 'did:plc:urx2hrgoruj3gyx5dm73igus'
+author_handle = 'buttondown.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk7fkwh6ss2z'
+created_at = '2025-03-12T20:16:34.911Z'
+text = '''
+You can disable the LLM features by adding this to your settings:
+
+```
+{
+  "assistant": {
+    "version": "2",
+    "enabled": false,
+    "button": false
+  },
+  "features": {
+    "edit_prediction_provider": "none"
+  }
+}
+```'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4s26pdwhk4t2hnyvfv7ogky/app.bsky.feed.post/3lk7feirdoc2g'
+author_did = 'did:plc:i4s26pdwhk4t2hnyvfv7ogky'
+author_handle = 'byronic.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk7fdzcko22z'
+created_at = '2025-03-12T20:12:43.023Z'
+text = 'You can do that too:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4s26pdwhk4t2hnyvfv7ogky/app.bsky.feed.post/3lk7f7odhzk2g'
+author_did = 'did:plc:i4s26pdwhk4t2hnyvfv7ogky'
+author_handle = 'byronic.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk7cfpqq5k2k'
+created_at = '2025-03-12T19:19:58.886Z'
+text = '''
+Those are "inlay hints"!
+
+```
+"inlay_hints": {
+  "enabled": true
+}
+```
+
+zed.dev/docs/configu...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4s26pdwhk4t2hnyvfv7ogky/app.bsky.feed.post/3lk7cc5bcns24'
+author_did = 'did:plc:i4s26pdwhk4t2hnyvfv7ogky'
+author_handle = 'byronic.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk7c32zcxs27'
+created_at = '2025-03-12T19:14:01.604Z'
+text = 'My new form of social protest is to reply with an xcancel.com version of the link every time someone shares a Twitter link in Slack.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk7ampb3rs27'
+created_at = '2025-03-12T18:48:05.772Z'
+text = '''
+Zed natively supports Rust since that’s what we use to build it.
+
+No extension needed!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4s26pdwhk4t2hnyvfv7ogky/app.bsky.feed.post/3lk3xrh4ai22h'
+author_did = 'did:plc:i4s26pdwhk4t2hnyvfv7ogky'
+author_handle = 'byronic.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk772btjcc2z'
+created_at = '2025-03-12T18:19:53.973Z'
+text = '''That's a lot of turtles!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lk76vzzf4s2o'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk6u65k46225'
 created_at = '2025-03-12T15:05:12.522Z'
 text = '''
