@@ -1,4 +1,65 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk6u65k46225'
+created_at = '2025-03-12T15:05:12.522Z'
+text = '''
+It seems this isn't new behavior either.
+
+Found this PR to the facebookresearch/TensorComprehensions repository in September 2019:'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk6toi7zic25'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk6toi7zic25'
+created_at = '2025-03-12T14:56:26.841Z'
+text = '''I clicked the link to their YouTube channel as well and it's all slop videos with clickbait titles and thumbnails:'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk6tjalpbs25'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk6tjalpbs25'
+created_at = '2025-03-12T14:53:31.076Z'
+text = '''The author's GitHub profile is raising so many red flags:'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk6tg3lkl225'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk6tg3lkl225'
+created_at = '2025-03-12T14:51:45.167Z'
+text = '''
+Woke up to this PR in the Zed PR list.
+
+What in the world is going on??'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk6phlm6qc27'
+created_at = '2025-03-12T13:41:00.545Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3lk6p4clry22p'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk6mza7v7k27'
+created_at = '2025-03-12T12:57:11.373Z'
+text = '''
+I hate how long it takes my circadian rhythms to adjust after the DST switch.
+
+The clock change just wrecks my quality of sleep for weeks.
+
+Abolish DST.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lk5nu5iynk2n'
 created_at = '2025-03-12T03:39:34.758Z'
 text = '''
