@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Compass'
+artist = 'Forest Of Ember Skies'
+album = 'Alexithymia'
+listened_at = '2025-03-13T03:00:49Z'
+
+[[tracks]]
+name = 'Stay Here With Me'
+artist = 'Forest Of Ember Skies'
+album = 'Alexithymia'
+listened_at = '2025-03-13T02:55:39Z'
+
+[[tracks]]
+name = '''Winter's Leaf'''
+artist = 'Forest Of Ember Skies'
+album = 'Alexithymia'
+listened_at = '2025-03-13T02:51:47Z'
+
+[[tracks]]
+name = 'Alexithymia'
+artist = 'Forest Of Ember Skies'
+album = 'Alexithymia'
+listened_at = '2025-03-13T02:48:27Z'
+
+[[tracks]]
 name = 'A Hope in Hell'
 artist = 'Bleed from Within'
 album = 'God Complex'
