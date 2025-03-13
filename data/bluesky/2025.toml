@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkb3d3kcis23'
+created_at = '2025-03-13T12:18:33.879Z'
+text = '''
+Woke up this morning feeling groggy and disoriented and thinking it was Friday.
+
+It’s going to be a long day.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkb2virdns23'
+created_at = '2025-03-13T12:10:57.980Z'
+text = 'I also do this with the sponge when I’m washing dishes.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:awyncbnck2xzf4obkdqep7ms/app.bsky.feed.post/3lk7t3bqipc2n'
+author_did = 'did:plc:awyncbnck2xzf4obkdqep7ms'
+author_handle = 'itsabbyyep.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lka7shlibk23'
 created_at = '2025-03-13T04:06:05.046Z'
 text = '''
