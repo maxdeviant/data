@@ -1,4 +1,52 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkduubxtl32g'
+created_at = '2025-03-14T15:00:53.207Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkduruzpus2h'
+created_at = '2025-03-14T14:59:33.384Z'
+text = '@willman.online Uh oh, is scrobble.blue a casualty of DST?'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkdum43xpk2j'
+created_at = '2025-03-14T14:56:19.471Z'
+text = 'I...'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e5nncb3dr5thdkjir5cfaqfe/app.bsky.feed.post/3lkduknl36k2c'
+author_did = 'did:plc:e5nncb3dr5thdkjir5cfaqfe'
+author_handle = 'xeiaso.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkdmkbqijk2g'
+created_at = '2025-03-14T12:32:08.342Z'
+text = 'How does it work on the push side of things?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkdmay3dtk2g'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkdmfmwnmk2g'
+created_at = '2025-03-14T12:29:32.306Z'
+text = 'Just have to make it through today.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkdmay3dtk2g'
+created_at = '2025-03-14T12:26:56.222Z'
+text = '''
+Seems handy!
+
+I also switch between multiple machines quite often, and am well-acquainted with the walk of shame when I’m sat in the living room on my laptop and have to walk over to the office to push up some changes from my desktop.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3lkdlxqgnnk25'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkbwrll7cc2j'
 created_at = '2025-03-13T20:29:51.478Z'
 text = 'Yes, spoil it for me, please.'
