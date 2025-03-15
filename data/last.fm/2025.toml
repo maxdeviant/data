@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Emergence'
+artist = 'Sleep Token'
+album = 'Emergence'
+listened_at = '2025-03-14T22:18:01Z'
+
+[[tracks]]
+name = 'A Superior Lament'
+artist = 'Panopticon'
+album = 'Autumn Eternal'
+listened_at = '2025-03-14T21:39:03Z'
+
+[[tracks]]
+name = 'Pale Ghosts'
+artist = 'Panopticon'
+album = 'Autumn Eternal'
+listened_at = '2025-03-14T21:30:49Z'
+
+[[tracks]]
+name = 'Sleep To The Sound Of The Waves Crashing'
+artist = 'Panopticon'
+album = 'Autumn Eternal'
+listened_at = '2025-03-14T21:22:08Z'
+
+[[tracks]]
+name = 'Oaks Ablaze'
+artist = 'Panopticon'
+album = 'Autumn Eternal'
+listened_at = '2025-03-14T20:43:38Z'
+
+[[tracks]]
 name = 'Autumn Eternal'
 artist = 'Panopticon'
 album = 'Autumn Eternal'
