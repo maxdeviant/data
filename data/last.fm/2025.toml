@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Venenosa'
+artist = 'Thousand Below'
+album = 'Hell Finds You Everywhere'
+listened_at = '2025-03-17T00:54:43Z'
+
+[[tracks]]
+name = 'Hell Finds You Everywhere (feat. Noah Sebastian)'
+artist = 'Thousand Below'
+album = 'Hell Finds You Everywhere'
+listened_at = '2025-03-17T00:51:21Z'
+
+[[tracks]]
+name = 'Sabotage'
+artist = 'Thousand Below'
+album = 'Hell Finds You Everywhere'
+listened_at = '2025-03-16T02:16:41Z'
+
+[[tracks]]
 name = 'Face to Face'
 artist = 'Thousand Below'
 album = 'Hell Finds You Everywhere'
