@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'The Fall'
+artist = 'Mayfire'
+album = 'Cloudscapes & Silhouettes'
+listened_at = '2025-03-18T15:03:14Z'
+
+[[tracks]]
+name = 'Hybrisma'
+artist = 'Daturah'
+album = 'reverie'
+listened_at = '2025-03-18T14:53:42Z'
+
+[[tracks]]
+name = 'Once Again'
+artist = 'Jeff Agnes'
+album = 'April'
+listened_at = '2025-03-18T14:49:49Z'
+
+[[tracks]]
+name = 'Homesick'
+artist = 'Rosetta'
+album = 'Three Way Split w/ East Of The Wall & Year Of No Light'
+listened_at = '2025-03-18T14:42:32Z'
+
+[[tracks]]
+name = 'Gallows Bird'
+artist = 'Trees of Eternity'
+album = 'Hour of the Nightingale'
+listened_at = '2025-03-18T14:31:14Z'
+
+[[tracks]]
+name = 'Shade'
+artist = 'Thousand Below'
+album = 'Hell Finds You Everywhere'
+listened_at = '2025-03-18T14:22:14Z'
+
+[[tracks]]
+name = 'The Bereaved'
+artist = 'Khemmis'
+album = 'Absolution'
+listened_at = '2025-03-18T14:22:13Z'
+
+[[tracks]]
 name = 'Shade'
 artist = 'Thousand Below'
 album = 'Hell Finds You Everywhere'
