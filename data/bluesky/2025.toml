@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkmfkzmde22p'
+created_at = '2025-03-18T00:21:14.810Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:7xcczzi3yaao2a45aokhyndj/app.bsky.feed.post/3lkithvicxs2o'
+author_did = 'did:plc:7xcczzi3yaao2a45aokhyndj'
+author_handle = 'amadeus1981.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkmfdyikts2p'
+created_at = '2025-03-18T00:17:18.760Z'
+text = 'I’m getting a lot of mileage out of the “Blank” feed lately.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkhgdikgnc2o'
 created_at = '2025-03-16T00:51:37.105Z'
 text = 'Do you know if they’re using their own lexicon?'
