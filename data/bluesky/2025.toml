@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkqqriy6ic2l'
+created_at = '2025-03-19T17:52:22.381Z'
+text = '👀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ujospssfohkwtnocit43op2r/app.bsky.feed.post/3lkqqk4hhbc2v'
+author_did = 'did:plc:ujospssfohkwtnocit43op2r'
+author_handle = 'zkat.tech'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkq5k52fes2v'
 created_at = '2025-03-19T12:08:13.896Z'
 text = 'My guess was under by $270.'
