@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkq5k52fes2v'
+created_at = '2025-03-19T12:08:13.896Z'
+text = 'My guess was under by $270.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:lvx6ctj2xkeka6mys5bvndo3/app.bsky.feed.post/3lkoi5cesrs22'
+author_did = 'did:plc:lvx6ctj2xkeka6mys5bvndo3'
+author_handle = 'alexdecampi.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkoueqrh422k'
 created_at = '2025-03-18T23:51:29.833Z'
 text = 'You start at the top, I’ll start at the bottom, and we’ll meet in the middle'
