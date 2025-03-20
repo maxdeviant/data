@@ -1,4 +1,35 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkrtcmxyxc23'
+created_at = '2025-03-20T04:10:24.218Z'
+text = '''
+There was a brief moment during this where I thought I was losing it, but it turned out I was just logging some coordinates *before* applying the inversion.
+
+Phew.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkrt6l5epk23'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkrt6l5epk23'
+created_at = '2025-03-20T04:08:08.078Z'
+text = '''
+Everything seems to be in order now.
+
+My map coordinates are (+X = Right, +Z = Forward) and my world coordinates are (+X = Right, +Y = Up, -Z = Forward).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkrsvxcuhs23'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkrsvxcuhs23'
+created_at = '2025-03-20T04:03:18.851Z'
+text = 'I decided that tonight I’d have a nice, relaxing evening of *checks notes* inverting the Z coordinates of my map from the world coordinates.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkrip3voxs2u'
 created_at = '2025-03-20T01:00:31.364Z'
 text = '''
