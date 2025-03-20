@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkrip3voxs2u'
+created_at = '2025-03-20T01:00:31.364Z'
+text = '''
+I think one of the worst typos that I repeatedly make is "now" instead of "not", as it can almost completely change the meaning of a sentence.
+
+"I'm not going to delete the production database" -> "I'm now going to delete the production database"'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkr5haenp223'
 created_at = '2025-03-19T21:39:16.452Z'
 text = 'I hope you made IHH the keynote speaker!'
