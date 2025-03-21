@@ -1,4 +1,28 @@
 [[tracks]]
+name = '''The Ptarmigan's Cry'''
+artist = 'Sgàile'
+album = 'Traverse The Bealach'
+listened_at = '2025-03-21T02:51:38Z'
+
+[[tracks]]
+name = 'Lamentations By The Lochan'
+artist = 'Sgàile'
+album = 'Traverse The Bealach'
+listened_at = '2025-03-21T02:42:16Z'
+
+[[tracks]]
+name = 'Pestilence'
+artist = 'King Plague'
+album = 'Pestilence'
+listened_at = '2025-03-21T02:42:10Z'
+
+[[tracks]]
+name = 'Psalms To Shout At The Void'
+artist = 'Sgàile'
+album = 'Traverse The Bealach'
+listened_at = '2025-03-21T02:31:14Z'
+
+[[tracks]]
 name = 'Refugium'
 artist = 'Flesh'
 album = 'Refugium'
