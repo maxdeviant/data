@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkveqgbiwy25'
+created_at = '2025-03-21T14:00:18.622Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lkv6osjt2223'
+created_at = '2025-03-21T12:12:03.072Z'
+text = '''
+As David said, currently all syntax highlighting in Zed is done just with syntax information from Tree-sitter.
+
+We don’t yet support semantic syntax highlighting using information from the language server.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:inqg622bfagfglt5xqbibd3x/app.bsky.feed.post/3lkv6dx3xkk25'
+author_did = 'did:plc:inqg622bfagfglt5xqbibd3x'
+author_handle = 'davidbarsky.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lktobe2vq223'
 created_at = '2025-03-20T21:45:32.089Z'
 text = 'That is certainly a reply to your original skeet.'
