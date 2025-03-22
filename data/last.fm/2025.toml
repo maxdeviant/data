@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Violent Delights'
+artist = 'Galleons'
+album = 'Violent Delights'
+listened_at = '2025-03-22T03:41:55Z'
+
+[[tracks]]
+name = 'Blue Lagoon'
+artist = 'Galleons'
+album = 'Violent Delights'
+listened_at = '2025-03-22T03:38:25Z'
+
+[[tracks]]
+name = 'Kismet'
+artist = 'Galleons'
+album = 'Violent Delights'
+listened_at = '2025-03-22T03:34:31Z'
+
+[[tracks]]
+name = 'Vagabond'
+artist = 'Galleons'
+album = 'Violent Delights'
+listened_at = '2025-03-22T03:31:01Z'
+
+[[tracks]]
+name = 'Temptation'
+artist = 'Fraunhofer Diffraction'
+album = 'A Place to Drown The Dreams'
+listened_at = '2025-03-21T15:28:32Z'
+
+[[tracks]]
 name = 'Ghostlands'
 artist = 'DYZPHORIA'
 album = 'Ghostlands'
