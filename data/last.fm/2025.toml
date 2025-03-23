@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'They Faced Each Other'
+artist = 'The Chariot'
+album = 'The Fiancée'
+listened_at = '2025-03-23T19:46:43Z'
+
+[[tracks]]
+name = 'Back To Back'
+artist = 'The Chariot'
+album = 'The Fiancée'
+listened_at = '2025-03-23T19:45:11Z'
+
+[[tracks]]
 name = 'Violent Delights'
 artist = 'Galleons'
 album = 'Violent Delights'
