@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ll6f2n24k22s'
+created_at = '2025-03-25T04:00:00.065Z'
+text = 'Maybe next time Pete Hegseth will post the war plans to TikTok with him doing a fun little dance instead of posting them in the Signal group chat.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4w3lx5jmokfvihilz2q562ev/app.bsky.feed.post/3ll6erkpjpk2a'
+author_did = 'did:plc:4w3lx5jmokfvihilz2q562ev'
+author_handle = 'seldo.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ll4qutguq22s'
 created_at = '2025-03-24T12:26:10.873Z'
 text = 'Gottem'
