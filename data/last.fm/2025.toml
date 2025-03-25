@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Pangaea'
+artist = 'Sunset Gore'
+album = 'Murder'
+listened_at = '2025-03-25T19:37:53Z'
+
+[[tracks]]
+name = 'Panthalassa'
+artist = 'Sunset Gore'
+album = 'Murder'
+listened_at = '2025-03-25T19:36:06Z'
+
+[[tracks]]
+name = 'Outside'
+artist = 'breakk.away'
+album = 'Outside'
+listened_at = '2025-03-25T19:31:19Z'
+
+[[tracks]]
+name = 'Glass Frames'
+artist = 'Ghost Chant'
+album = 'Glass Frames'
+listened_at = '2025-03-25T19:27:51Z'
+
+[[tracks]]
+name = 'spring flashes'
+artist = 'Sadness'
+album = 'your perfect hands and my repeated words'
+listened_at = '2025-03-25T18:13:04Z'
+
+[[tracks]]
+name = 'lowsun bridge'
+artist = 'Sadness'
+album = 'your perfect hands and my repeated words'
+listened_at = '2025-03-25T18:02:55Z'
+
+[[tracks]]
 name = 'pink clouds'
 artist = 'Sadness'
 album = 'your perfect hands and my repeated words'
