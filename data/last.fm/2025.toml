@@ -1,4 +1,124 @@
 [[tracks]]
+name = 'Bad Behavior'
+artist = 'Silly Goose'
+album = 'Bad Behavior'
+listened_at = '2025-03-26T18:02:14Z'
+
+[[tracks]]
+name = 'Last Fall'
+artist = 'Lil Peep'
+album = 'Last Fall'
+listened_at = '2025-03-26T17:59:45Z'
+
+[[tracks]]
+name = 'Where Do We Go'
+artist = 'Charlotte de Witte'
+album = 'One Mind EP'
+listened_at = '2025-03-26T17:54:41Z'
+
+[[tracks]]
+name = 'Switch'
+artist = 'Rose Gray'
+album = 'Louder, Please'
+listened_at = '2025-03-26T17:51:40Z'
+
+[[tracks]]
+name = 'Burning Low'
+artist = 'Too Late For Roses'
+album = 'Burning Low'
+listened_at = '2025-03-26T17:48:38Z'
+
+[[tracks]]
+name = 'No Road Left to Ride'
+artist = 'Beautiful Death'
+album = 'No Grave Can Hold Me'
+listened_at = '2025-03-26T17:44:56Z'
+
+[[tracks]]
+name = 'Undying'
+artist = 'Beautiful Death'
+album = 'Undying'
+listened_at = '2025-03-26T17:41:42Z'
+
+[[tracks]]
+name = 'Beyond the Veil'
+artist = 'Beautiful Death'
+album = 'Undying'
+listened_at = '2025-03-26T17:39:38Z'
+
+[[tracks]]
+name = 'Life Is A Storm'
+artist = 'Julia Wolf'
+album = 'Life Is A Storm'
+listened_at = '2025-03-26T17:36:59Z'
+
+[[tracks]]
+name = 'Villain'
+artist = 'Julia Wolf'
+album = 'Villain'
+listened_at = '2025-03-26T17:34:03Z'
+
+[[tracks]]
+name = 'Rain on Us'
+artist = 'Beautiful Death'
+album = 'Isolation'
+listened_at = '2025-03-26T17:32:06Z'
+
+[[tracks]]
+name = 'Be Thou My Vision'
+artist = 'Beautiful Death'
+album = 'Isolation'
+listened_at = '2025-03-26T17:30:17Z'
+
+[[tracks]]
+name = 'Solitude'
+artist = 'Beautiful Death'
+album = 'Isolation'
+listened_at = '2025-03-26T17:26:48Z'
+
+[[tracks]]
+name = '''Jennifer's Friend - Live'''
+artist = 'Beautiful Death'
+album = 'Beauty & Pain: The Live Collection'
+listened_at = '2025-03-26T17:23:27Z'
+
+[[tracks]]
+name = 'Where Beauty and Pain Meet - Live'
+artist = 'Beautiful Death'
+album = 'Beauty & Pain: The Live Collection'
+listened_at = '2025-03-26T17:19:46Z'
+
+[[tracks]]
+name = 'Emergence'
+artist = 'Sleep Token'
+album = 'Emergence'
+listened_at = '2025-03-26T15:29:38Z'
+
+[[tracks]]
+name = 'greedy'
+artist = 'Tate McRae'
+album = 'THINK LATER'
+listened_at = '2025-03-26T15:27:28Z'
+
+[[tracks]]
+name = 'At the Foot of the Mountain'
+artist = 'Panopticon'
+album = 'The Scars of Man on the Once Nameless Wilderness, Pt. 2'
+listened_at = '2025-03-26T15:18:19Z'
+
+[[tracks]]
+name = '''Hedgehog's Dilemma'''
+artist = 'Mirabi Frame'
+album = '''Hedgehog's Dilemma'''
+listened_at = '2025-03-26T15:13:57Z'
+
+[[tracks]]
+name = 'VI: The Exodus Of Autonomy - Instrumental'
+artist = 'Wretched'
+album = 'The Exodus of Autonomy'
+listened_at = '2025-03-26T15:05:07Z'
+
+[[tracks]]
 name = 'II'
 artist = 'Athletics'
 album = 'Who You Are Is Not Enough'
