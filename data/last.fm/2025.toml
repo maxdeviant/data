@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'II'
+artist = 'Athletics'
+album = 'Who You Are Is Not Enough'
+listened_at = '2025-03-26T14:55:51Z'
+
+[[tracks]]
+name = 'Vagabond'
+artist = 'Galleons'
+album = 'Violent Delights'
+listened_at = '2025-03-26T14:52:18Z'
+
+[[tracks]]
+name = 'GLOVES GO ON HANDS'
+artist = 'Blvck Ceiling'
+album = 'GLOVES GO ON HANDS'
+listened_at = '2025-03-26T14:48:18Z'
+
+[[tracks]]
+name = 'WVFFLIFE'
+artist = 'Blvck Ceiling'
+album = 'TEENWVFF'
+listened_at = '2025-03-26T14:44:33Z'
+
+[[tracks]]
+name = '2 hands'
+artist = 'Tate McRae'
+album = 'sports car'
+listened_at = '2025-03-26T14:41:32Z'
+
+[[tracks]]
+name = 'Diamond'
+artist = 'Sunset Gore'
+album = 'Murder'
+listened_at = '2025-03-25T19:41:18Z'
+
+[[tracks]]
 name = 'Pangaea'
 artist = 'Sunset Gore'
 album = 'Murder'
