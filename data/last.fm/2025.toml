@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Garden of Eden'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-03-27T13:30:46Z'
+
+[[tracks]]
+name = 'Cashmere'
+artist = 'Galleons'
+album = 'Violent Delights'
+listened_at = '2025-03-27T13:15:15Z'
+
+[[tracks]]
 name = 'The Giver'
 artist = 'Chappell Roan'
 album = 'The Giver'
