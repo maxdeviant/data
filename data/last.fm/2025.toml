@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'The Giver'
+artist = 'Chappell Roan'
+album = 'The Giver'
+listened_at = '2025-03-27T03:45:03Z'
+
+[[tracks]]
+name = 'The Beast'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-03-27T03:28:44Z'
+
+[[tracks]]
+name = 'Shadow of a Man'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-03-27T03:25:24Z'
+
+[[tracks]]
+name = '''Don't Call Tonight'''
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-03-27T03:21:38Z'
+
+[[tracks]]
+name = 'How Bad Do U Want Me'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-03-27T03:17:39Z'
+
+[[tracks]]
+name = 'Shadow of a Man'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-03-27T03:16:35Z'
+
+[[tracks]]
+name = 'LoveDrug'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-03-27T03:14:27Z'
+
+[[tracks]]
 name = 'LoveDrug'
 artist = 'Lady Gaga'
 album = 'MAYHEM'
