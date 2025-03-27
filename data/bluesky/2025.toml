@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lldbvjmrcs2m'
+created_at = '2025-03-27T02:46:46.175Z'
+text = '''
+I find it really annoying that Chrome now pesters me when signing into an account on localhost with an insecure password.
+
+This is just a local development account, I don't care that the credentials appear in a data breach. Let me live!'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llbu2xclsk2s'
 created_at = '2025-03-26T13:06:36.169Z'
 text = '''
