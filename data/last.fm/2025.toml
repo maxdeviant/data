@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Disparity'
+artist = 'Svalbard'
+album = 'One Day All This Will End'
+listened_at = '2025-03-28T00:08:09Z'
+
+[[tracks]]
+name = 'Unnatural Light'
+artist = 'Svalbard'
+album = 'One Day All This Will End'
+listened_at = '2025-03-27T20:01:37Z'
+
+[[tracks]]
 name = 'The Damage Done'
 artist = 'Svalbard'
 album = 'One Day All This Will End'
