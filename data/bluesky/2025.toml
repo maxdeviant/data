@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llgxynzvcu2s'
+created_at = '2025-03-28T14:00:12.072Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llgx7hizmc25'
+created_at = '2025-03-28T13:46:07.293Z'
+text = '''
+User: You get those tool results yet?
+Claude: Sure did boss, real fuckin' sexy just like you asked.
+User: what'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llfxab2fak2x'
 created_at = '2025-03-28T04:13:54.338Z'
 text = 'Long ago, the planets lived together in harmony…'
