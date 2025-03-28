@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llhcl7jwbs2i'
+created_at = '2025-03-28T17:09:32.747Z'
+text = '''
+I wish GitHub Actions let you restart a failed job before all of the jobs have failed.
+
+Because right now if CI fails for one platform, instead of restarting that job and giving it a head start I need to wait for the other jobs to finish before I can restart it.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llgxynzvcu2s'
 created_at = '2025-03-28T14:00:12.072Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
