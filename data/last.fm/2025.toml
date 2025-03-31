@@ -2,6 +2,42 @@
 name = 'Exercises in Futility V'
 artist = 'Mgła'
 album = 'Exercises in Futility'
+listened_at = '2025-03-31T15:38:54Z'
+
+[[tracks]]
+name = 'Exercises in Futility IV'
+artist = 'Mgła'
+album = 'Exercises in Futility'
+listened_at = '2025-03-31T15:33:33Z'
+
+[[tracks]]
+name = 'Exercises in Futility III'
+artist = 'Mgła'
+album = 'Exercises in Futility'
+listened_at = '2025-03-31T15:28:55Z'
+
+[[tracks]]
+name = 'Exercises in Futility II'
+artist = 'Mgła'
+album = 'Exercises in Futility'
+listened_at = '2025-03-31T15:21:06Z'
+
+[[tracks]]
+name = 'Exercises in Futility I'
+artist = 'Mgła'
+album = 'Exercises in Futility'
+listened_at = '2025-03-31T15:13:08Z'
+
+[[tracks]]
+name = 'Exercises in Futility VI'
+artist = 'Mgła'
+album = 'Exercises in Futility'
+listened_at = '2025-03-31T15:04:18Z'
+
+[[tracks]]
+name = 'Exercises in Futility V'
+artist = 'Mgła'
+album = 'Exercises in Futility'
 listened_at = '2025-03-31T14:56:02Z'
 
 [[tracks]]
