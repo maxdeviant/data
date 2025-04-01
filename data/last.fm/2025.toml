@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Perfect Celebrity'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-03-31T22:07:16Z'
+
+[[tracks]]
+name = 'Garden of Eden'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-03-31T22:03:16Z'
+
+[[tracks]]
+name = 'Exercises in Futility VI'
+artist = 'Mgła'
+album = 'Exercises in Futility'
+listened_at = '2025-03-31T21:28:10Z'
+
+[[tracks]]
+name = 'Exercises in Futility V'
+artist = 'Mgła'
+album = 'Exercises in Futility'
+listened_at = '2025-03-31T21:19:54Z'
+
+[[tracks]]
+name = 'Exercises in Futility IV'
+artist = 'Mgła'
+album = 'Exercises in Futility'
+listened_at = '2025-03-31T21:15:09Z'
+
+[[tracks]]
+name = 'Exercises in Futility III'
+artist = 'Mgła'
+album = 'Exercises in Futility'
+listened_at = '2025-03-31T21:10:31Z'
+
+[[tracks]]
+name = 'Exercises in Futility II'
+artist = 'Mgła'
+album = 'Exercises in Futility'
+listened_at = '2025-03-31T21:02:42Z'
+
+[[tracks]]
 name = 'Exercises in Futility I'
 artist = 'Mgła'
 album = 'Exercises in Futility'
