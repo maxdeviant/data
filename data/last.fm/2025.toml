@@ -2,6 +2,48 @@
 name = 'Loss'
 artist = 'Cult of Fire'
 album = 'The one, who is made of smoke'
+listened_at = '2025-04-02T15:01:38Z'
+
+[[tracks]]
+name = 'There is more to lose'
+artist = 'Cult of Fire'
+album = 'The one, who is made of smoke'
+listened_at = '2025-04-02T14:56:10Z'
+
+[[tracks]]
+name = 'Joy'
+artist = 'Cult of Fire'
+album = 'The one, who is made of smoke'
+listened_at = '2025-04-02T14:49:32Z'
+
+[[tracks]]
+name = 'Blessing'
+artist = 'Cult of Fire'
+album = 'The one, who is made of smoke'
+listened_at = '2025-04-02T14:43:13Z'
+
+[[tracks]]
+name = 'Dhoom'
+artist = 'Cult of Fire'
+album = 'The one, who is made of smoke'
+listened_at = '2025-04-02T14:38:27Z'
+
+[[tracks]]
+name = 'Anger'
+artist = 'Cult of Fire'
+album = 'The one, who is made of smoke'
+listened_at = '2025-04-02T14:31:46Z'
+
+[[tracks]]
+name = 'Mourning'
+artist = 'Cult of Fire'
+album = 'The one, who is made of smoke'
+listened_at = '2025-04-02T01:34:17Z'
+
+[[tracks]]
+name = 'Loss'
+artist = 'Cult of Fire'
+album = 'The one, who is made of smoke'
 listened_at = '2025-04-02T01:30:56Z'
 
 [[tracks]]
