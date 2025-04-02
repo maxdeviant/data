@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Loss'
+artist = 'Cult of Fire'
+album = 'The one, who is made of smoke'
+listened_at = '2025-04-02T01:30:56Z'
+
+[[tracks]]
+name = 'Eternal Cycle'
+artist = 'Genus Ordinis Dei'
+album = 'Eternal Cycle'
+listened_at = '2025-04-01T20:20:38Z'
+
+[[tracks]]
 name = 'Holy Hell'
 artist = 'Mourning Eve'
 album = 'Holy Hell'
