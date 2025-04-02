@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llubxig5ts27'
+created_at = '2025-04-02T21:03:07.572Z'
+text = '''
+I suppose it is 😅
+
+I think what I'd want more is to have the ability for people to not @-mention me at all without me expressly allowing it in advance.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:7x6wc6fbj464biqdarmhxucv/app.bsky.feed.post/3llubprram22l'
+author_did = 'did:plc:7x6wc6fbj464biqdarmhxucv'
+author_handle = 'gearsco.de'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llub5vhmhs27'
+created_at = '2025-04-02T20:48:48.836Z'
+text = 'Wish there was a way in Discord to remove the ability to @-mention me from specific people.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llpysnf3tc2o'
 created_at = '2025-04-01T04:08:42.353Z'
 text = 'mfs on April Fools’ Day:'
