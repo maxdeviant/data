@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llvwdfls7k2s'
+created_at = '2025-04-03T12:40:21.839Z'
+text = 'Trump take USD.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xfqcsi7wuwedeqaa5m7aih44/app.bsky.feed.post/3llvvsg5d3s2z'
+author_did = 'did:plc:xfqcsi7wuwedeqaa5m7aih44'
+author_handle = '0x0.boo'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lluxsksp3s2q'
 created_at = '2025-04-03T03:34:04.628Z'
 text = 'I bet if you can get Claude to reveal its true name it will then do whatever you ask when you invoke it.'
