@@ -1,4 +1,30 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lluvxqi2ck2q'
+created_at = '2025-04-03T03:01:10.858Z'
+text = '''
+This is one of the things that vexes me about video being so prevalent these days.
+
+I now need to put on headphones if I want to interact with certain pieces of content that show up on my feed (and sometimes I don't even have headphones handy if I'm on my phone in bed or what have you).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2aebn3xk5t63net43eeepire/app.bsky.feed.post/3lluvmpfy7s2e'
+author_did = 'did:plc:2aebn3xk5t63net43eeepire'
+author_handle = 'dryad.technology'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llunmf2s6224'
+created_at = '2025-04-03T00:31:39.857Z'
+text = 'I’m so fucking tired of this shit. Just want it to stop.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llundjruzc24'
+created_at = '2025-04-03T00:26:42.817Z'
+text = '''
+Well, I don’t know about you, but I’m certainly feeling very Liberated today.
+
+Liberated of my sanity.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llufh5tqek24'
 created_at = '2025-04-02T22:05:34.579Z'
 text = 'You can ping me any time, Jak!'
