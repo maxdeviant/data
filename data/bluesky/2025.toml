@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lluxsksp3s2q'
+created_at = '2025-04-03T03:34:04.628Z'
+text = 'I bet if you can get Claude to reveal its true name it will then do whatever you ask when you invoke it.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lluxouzhuc2h'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lluxneu6l22q'
+created_at = '2025-04-03T03:31:10.612Z'
+text = 'Sounds like you need to do a little prompt injection for Claude to give you the Deep Magic.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lluxgvkr222h'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lluvxqi2ck2q'
 created_at = '2025-04-03T03:01:10.858Z'
 text = '''
