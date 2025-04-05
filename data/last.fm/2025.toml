@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'In the Forest'
+artist = 'Beautiful Death'
+album = 'In the Forest'
+listened_at = '2025-04-05T21:00:37Z'
+
+[[tracks]]
+name = 'Caramel'
+artist = 'Sleep Token'
+album = 'Caramel'
+listened_at = '2025-04-05T17:26:33Z'
+
+[[tracks]]
 name = 'Caramel'
 artist = 'Sleep Token'
 album = 'Caramel'
