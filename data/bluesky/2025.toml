@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lm5qlul2ok2g'
+created_at = '2025-04-06T15:19:01.434Z'
+text = 'This skeet coming to you from cruising altitude.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lm5grujfm22k'
 created_at = '2025-04-06T12:23:25.288Z'
 text = '“I hope you brought enough to share with the cabin”'
