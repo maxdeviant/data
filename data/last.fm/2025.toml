@@ -1,4 +1,22 @@
 [[tracks]]
+name = '''Death's Theme'''
+artist = 'Beautiful Death'
+album = 'In the Forest'
+listened_at = '2025-04-05T21:09:02Z'
+
+[[tracks]]
+name = 'Solace of Sunrise'
+artist = 'Beautiful Death'
+album = 'In the Forest'
+listened_at = '2025-04-05T21:07:43Z'
+
+[[tracks]]
+name = 'Home'
+artist = 'Beautiful Death'
+album = 'In the Forest'
+listened_at = '2025-04-05T21:02:19Z'
+
+[[tracks]]
 name = 'In the Forest'
 artist = 'Beautiful Death'
 album = 'In the Forest'
