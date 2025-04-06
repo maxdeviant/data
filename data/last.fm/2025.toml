@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Caramel'
+artist = 'Sleep Token'
+album = 'Caramel'
+listened_at = '2025-04-06T01:21:24Z'
+
+[[tracks]]
+name = 'Lower World'
+artist = 'Imperial Triumphant'
+album = 'Vile Luxury'
+listened_at = '2025-04-06T00:52:26Z'
+
+[[tracks]]
+name = 'Swarming Opulence'
+artist = 'Imperial Triumphant'
+album = 'Vile Luxury'
+listened_at = '2025-04-06T00:46:02Z'
+
+[[tracks]]
+name = 'Love Exchange Failure'
+artist = 'White Ward'
+album = 'Love Exchange Failure'
+listened_at = '2025-04-06T00:41:22Z'
+
+[[tracks]]
+name = 'Where Darkness Awaits'
+artist = 'Beautiful Death'
+album = 'In the Forest'
+listened_at = '2025-04-05T21:12:37Z'
+
+[[tracks]]
 name = '''Death's Theme'''
 artist = 'Beautiful Death'
 album = 'In the Forest'
