@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lm5grujfm22k'
+created_at = '2025-04-06T12:23:25.288Z'
+text = '“I hope you brought enough to share with the cabin”'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:z2rokxrttw5254hogmucux2x/app.bsky.feed.post/3lm5gqsstwk2n'
+author_did = 'did:plc:z2rokxrttw5254hogmucux2x'
+author_handle = 'lookitup.baby'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3llylcp76k32h'
 created_at = '2025-04-04T14:01:05.651Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
