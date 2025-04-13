@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Caramel'
+artist = 'Sleep Token'
+album = 'Caramel'
+listened_at = '2025-04-13T15:15:47Z'
+
+[[tracks]]
+name = 'Caramel'
+artist = 'Sleep Token'
+album = 'Caramel'
+listened_at = '2025-04-13T15:05:48Z'
+
+[[tracks]]
+name = 'The Throes of Lust'
+artist = 'Beautiful Death'
+album = 'Forgotten'
+listened_at = '2025-04-13T15:01:56Z'
+
+[[tracks]]
 name = 'Something Has To Change'
 artist = 'You Win Again Gravity'
 album = 'Lost Within the Leaves'
