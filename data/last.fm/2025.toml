@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Deathwaters Of Acheron'
+artist = 'Red Apollo'
+album = 'The Laurels Of Serenity'
+listened_at = '2025-04-16T17:07:14Z'
+
+[[tracks]]
+name = 'The Ides Of March'
+artist = 'Red Apollo'
+album = 'The Laurels Of Serenity'
+listened_at = '2025-04-16T17:02:19Z'
+
+[[tracks]]
+name = 'Anguish and Purgatory'
+artist = 'Red Apollo'
+album = 'The Laurels Of Serenity'
+listened_at = '2025-04-16T16:57:34Z'
+
+[[tracks]]
+name = 'The Laurels Of Serenity'
+artist = 'Red Apollo'
+album = 'The Laurels Of Serenity'
+listened_at = '2025-04-16T16:41:14Z'
+
+[[tracks]]
 name = '1.000 Different Paths'
 artist = 'Chapel of Disease'
 album = '...and as We Have Seen the Storm, We Have Embraced the Eye'
