@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lmwk23vdbs24'
+created_at = '2025-04-16T11:58:16.139Z'
+text = 'I hope jj never gets precommit hooks.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3lmwiajm6ck2b'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lmvm2qxyu224'
 created_at = '2025-04-16T03:01:45.993Z'
 text = 'The only downside to JSON having sum types would be fewer excuses to not use JSON.'
