@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'The Ides Of March'
+artist = 'Red Apollo'
+album = 'The Laurels Of Serenity'
+listened_at = '2025-04-18T22:07:02Z'
+
+[[tracks]]
+name = 'Anguish and Purgatory'
+artist = 'Red Apollo'
+album = 'The Laurels Of Serenity'
+listened_at = '2025-04-18T22:02:17Z'
+
+[[tracks]]
+name = 'The Laurels Of Serenity'
+artist = 'Red Apollo'
+album = 'The Laurels Of Serenity'
+listened_at = '2025-04-18T21:54:54Z'
+
+[[tracks]]
+name = 'Sacrificing Permanence'
+artist = 'Red Apollo'
+album = 'Altruist'
+listened_at = '2025-04-18T21:06:10Z'
+
+[[tracks]]
+name = 'Lovegazers'
+artist = 'Red Apollo'
+album = 'Altruist'
+listened_at = '2025-04-18T21:01:26Z'
+
+[[tracks]]
 name = 'Prurience'
 artist = 'Red Apollo'
 album = 'Altruist'
