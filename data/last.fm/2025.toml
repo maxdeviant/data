@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Glory'
+artist = 'Phil Wickham'
+album = 'The Ascension'
+listened_at = '2025-04-20T15:23:01Z'
+
+[[tracks]]
+name = 'Mercy'
+artist = 'Phil Wickham'
+album = 'The Ascension'
+listened_at = '2025-04-20T15:18:53Z'
+
+[[tracks]]
+name = 'When My Heart Is Torn Asunder'
+artist = 'Phil Wickham'
+album = 'The Ascension'
+listened_at = '2025-04-20T15:14:34Z'
+
+[[tracks]]
+name = 'Over All'
+artist = 'Phil Wickham'
+album = 'The Ascension'
+listened_at = '2025-04-20T15:10:06Z'
+
+[[tracks]]
+name = 'This Is Amazing Grace'
+artist = 'Phil Wickham'
+album = 'The Ascension'
+listened_at = '2025-04-20T15:05:26Z'
+
+[[tracks]]
+name = 'Carry My Soul'
+artist = 'Phil Wickham'
+album = 'The Ascension'
+listened_at = '2025-04-20T15:00:44Z'
+
+[[tracks]]
 name = 'Holy Light'
 artist = 'Phil Wickham'
 album = 'The Ascension'
