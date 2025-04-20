@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'LoveDrug'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-04-20T21:01:22Z'
+
+[[tracks]]
+name = 'Vanish Into You'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-04-20T20:57:07Z'
+
+[[tracks]]
+name = 'Perfect Celebrity'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-04-20T20:53:18Z'
+
+[[tracks]]
+name = 'Garden of Eden'
+artist = 'Lady Gaga'
+album = 'MAYHEM'
+listened_at = '2025-04-20T20:49:19Z'
+
+[[tracks]]
 name = 'Glory'
 artist = 'Phil Wickham'
 album = 'The Ascension'
