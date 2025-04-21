@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Lilac'
+artist = 'Katatonia'
+album = 'Lilac'
+listened_at = '2025-04-21T16:45:26Z'
+
+[[tracks]]
+name = 'The Last Flower'
+artist = 'Shores of Null'
+album = 'The Loss of Beauty'
+listened_at = '2025-04-21T16:40:26Z'
+
+[[tracks]]
+name = 'Mortals'
+artist = 'Human Deception'
+album = 'Mortals'
+listened_at = '2025-04-21T16:35:57Z'
+
+[[tracks]]
+name = 'Dies Irae'
+artist = 'Faidra'
+album = 'Dies Irae'
+listened_at = '2025-04-21T16:29:03Z'
+
+[[tracks]]
+name = 'Edge of Infinity'
+artist = 'Bleed from Within'
+album = 'Zenith'
+listened_at = '2025-04-21T15:53:26Z'
+
+[[tracks]]
+name = 'Gloom'
+artist = 'Brace'
+album = 'Gloom'
+listened_at = '2025-04-21T15:49:19Z'
+
+[[tracks]]
+name = 'Cruelty Is the Point'
+artist = 'Mechina'
+album = 'Bellum Interruptum'
+listened_at = '2025-04-21T15:43:56Z'
+
+[[tracks]]
+name = 'The Sylvan Embrace'
+artist = 'Saor'
+album = 'Amidst the Ruins'
+listened_at = '2025-04-21T15:35:38Z'
+
+[[tracks]]
 name = 'WVFFLIFE'
 artist = 'Blvck Ceiling'
 album = 'TEENWVFF'
