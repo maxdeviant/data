@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'WVFFLIFE'
+artist = 'Blvck Ceiling'
+album = 'TEENWVFF'
+listened_at = '2025-04-21T00:14:09Z'
+
+[[tracks]]
+name = '2 hands'
+artist = 'Tate McRae'
+album = 'sports car'
+listened_at = '2025-04-21T00:11:08Z'
+
+[[tracks]]
+name = 'Disparity'
+artist = 'Svalbard'
+album = 'One Day All This Will End'
+listened_at = '2025-04-21T00:06:32Z'
+
+[[tracks]]
+name = 'Caramel'
+artist = 'Sleep Token'
+album = 'Caramel'
+listened_at = '2025-04-21T00:01:43Z'
+
+[[tracks]]
 name = 'LoveDrug'
 artist = 'Lady Gaga'
 album = 'MAYHEM'
