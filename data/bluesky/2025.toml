@@ -1,4 +1,30 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lneesw7gxk2e'
+created_at = '2025-04-22T00:02:02.927Z'
+text = '''
+Whoa, congrats!
+
+I first heard about StarlingMonkey at a Wasm WG meeting earlier this year, and it sounds like a very cool project.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ujospssfohkwtnocit43op2r/app.bsky.feed.post/3lndrjou3bc2a'
+author_did = 'did:plc:ujospssfohkwtnocit43op2r'
+author_handle = 'zkat.tech'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lne57d57ls2l'
+created_at = '2025-04-21T21:45:49.203Z'
+text = '''
+These are some great ideas!
+
+I think I may have to give this a go.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rqm4qgf6jdmb35mxatuzi6cq/app.bsky.feed.post/3lndyepamzc2v'
+author_did = 'did:plc:rqm4qgf6jdmb35mxatuzi6cq'
+author_handle = 'jamesmunns.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lndmscqqxk2a'
 created_at = '2025-04-21T16:52:12.718Z'
 text = '''Amazes me how many people still don't know what font ligatures are.'''
