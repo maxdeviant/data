@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lnkmdix2l22d'
+created_at = '2025-04-24T11:32:34.069Z'
+text = 'Me, who also really enjoys refactoring and migrations: Oh….'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4tfenpfog244rxry5uz4vtk/app.bsky.feed.post/3lnkkkeshzc2b'
+author_did = 'did:plc:i4tfenpfog244rxry5uz4vtk'
+author_handle = 'lizthegrey.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lngwlfb6uk2h'
 created_at = '2025-04-23T00:25:17.107Z'
 text = 'Straight, it’s so confusing sometimes to be a straight (straight, straight, straight, straight)'
