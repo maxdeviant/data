@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lnt3ujavek26'
+created_at = '2025-04-27T20:31:48.850Z'
+text = 'Nintendo really going hard on the “planned obsolescence” angle.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2aebn3xk5t63net43eeepire/app.bsky.feed.post/3lnt2xhsaps2y'
+author_did = 'did:plc:2aebn3xk5t63net43eeepire'
+author_handle = 'dryad.technology'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lnobu5udas2e'
 created_at = '2025-04-25T22:35:40.663Z'
 text = 'GitHub should add support for heaven banning users from a repo/org.'
