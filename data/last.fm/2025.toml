@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Emergence'
+artist = 'Sleep Token'
+album = 'Emergence'
+listened_at = '2025-04-27T00:48:11Z'
+
+[[tracks]]
+name = 'Exhalation'
+artist = 'Fraunhofer Diffraction'
+album = 'Star Trails'
+listened_at = '2025-04-27T00:45:47Z'
+
+[[tracks]]
+name = 'damocles'
+artist = 'Sleep Token'
+album = 'Damocles'
+listened_at = '2025-04-27T00:43:47Z'
+
+[[tracks]]
 name = 'edge of the universe'
 artist = 'Fraunhofer Diffraction'
 album = 'Star Trails'
