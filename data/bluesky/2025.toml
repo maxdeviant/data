@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lnxdrs6yuk2k'
+created_at = '2025-04-29T13:04:06.451Z'
+text = 'First I’m hearing about this. That’s a huge bummer 😭'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:yym5dkfbnzf6lspvh4hnstjg/app.bsky.feed.post/3lnwzmdgl3s26'
+author_did = 'did:plc:yym5dkfbnzf6lspvh4hnstjg'
+author_handle = 'mitsuhiko.at'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lnxckhe63k2k'
+created_at = '2025-04-29T12:42:06.463Z'
+text = 'Reading this was a real trip:'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lnxcdf2hpk2k'
+created_at = '2025-04-29T12:38:09.167Z'
+text = 'We’ve never been more back'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3lnx4y3p4icor'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lntroswznk2e'
 created_at = '2025-04-28T03:02:20.007Z'
 text = '''
