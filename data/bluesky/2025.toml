@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lnxrme7rxc2c'
+created_at = '2025-04-29T17:11:36.409Z'
+text = '''
+Another big feature for Zed is right around the corner!
+
+I've never been a huge fan of debuggers, but from what I've seen so far, I think this one could make me a convert.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lnxnbmruj227'
+created_at = '2025-04-29T15:54:01.324Z'
+text = '600ms to run tests? In this economy?!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3lnxlookyo22s'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lnxdrs6yuk2k'
 created_at = '2025-04-29T13:04:06.451Z'
 text = 'First I’m hearing about this. That’s a huge bummer 😭'
