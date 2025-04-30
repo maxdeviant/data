@@ -1,4 +1,40 @@
 [[tracks]]
+name = '360'
+artist = 'Charli xcx'
+album = 'BRAT'
+listened_at = '2025-04-30T01:13:05Z'
+
+[[tracks]]
+name = 'Sympathy is a knife'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2025-04-30T01:10:33Z'
+
+[[tracks]]
+name = 'Apple'
+artist = 'Charli XCX'
+album = 'BRAT'
+listened_at = '2025-04-30T01:08:01Z'
+
+[[tracks]]
+name = 'Dark Elf Wisdom'
+artist = 'Deep Gnome'
+album = 'Wanderlore'
+listened_at = '2025-04-30T01:05:30Z'
+
+[[tracks]]
+name = 'Girl, so confusing featuring lorde'
+artist = 'Charli XCX'
+album = 'Girl, so confusing featuring lorde'
+listened_at = '2025-04-30T01:02:05Z'
+
+[[tracks]]
+name = 'Massaharha'
+artist = 'Sara'
+album = 'Hallava'
+listened_at = '2025-04-29T22:27:57Z'
+
+[[tracks]]
 name = 'Vaeltaa'
 artist = 'Sara'
 album = 'Hallava'
