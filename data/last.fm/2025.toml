@@ -2,6 +2,30 @@
 name = 'Sempiternal'
 artist = 'Clepsydra'
 album = 'Sempiternal'
+listened_at = '2025-05-02T00:35:36Z'
+
+[[tracks]]
+name = 'Dissension'
+artist = 'Blood Wolf'
+album = 'Sempiternal'
+listened_at = '2025-05-02T00:31:58Z'
+
+[[tracks]]
+name = 'The Music is Crying'
+artist = 'Åpostol'
+album = 'Sempiternal'
+listened_at = '2025-05-02T00:27:51Z'
+
+[[tracks]]
+name = 'Alchimia'
+artist = 'Clepsydra'
+album = 'Sempiternal'
+listened_at = '2025-05-02T00:24:08Z'
+
+[[tracks]]
+name = 'Sempiternal'
+artist = 'Clepsydra'
+album = 'Sempiternal'
 listened_at = '2025-04-30T21:40:20Z'
 
 [[tracks]]
