@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lobbmzjgx22l'
+created_at = '2025-05-03T11:52:16.252Z'
+text = '''
+I don’t like acapella music either and am, thankfully, not familiar with these characters.
+
+Although now my morbid curiosity wants to find out just how bad it is 🫣'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:tobjstnxqmztpmjjcnaxpzzb/app.bsky.feed.post/3lobbhuyhhc2v'
+author_did = 'did:plc:tobjstnxqmztpmjjcnaxpzzb'
+author_handle = 'acollierastro.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lo7skpf5ls23'
 created_at = '2025-05-02T21:49:52.655Z'
 text = 'I’ve been enjoying them a lot! Very much looking forward to the full album.'
