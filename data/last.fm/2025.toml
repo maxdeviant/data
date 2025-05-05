@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Ходдмимир'
+artist = 'Рожь'
+album = 'Знание'
+listened_at = '2025-05-05T20:38:50Z'
+
+[[tracks]]
+name = 'Гало'
+artist = 'Рожь'
+album = 'Знание'
+listened_at = '2025-05-05T20:25:24Z'
+
+[[tracks]]
+name = 'Sempiternal'
+artist = 'Clepsydra'
+album = 'Sempiternal'
+listened_at = '2025-05-03T04:23:50Z'
+
+[[tracks]]
 name = 'Exhibition of Wrath'
 artist = 'Blood Wolf'
 album = 'Sempiternal'
