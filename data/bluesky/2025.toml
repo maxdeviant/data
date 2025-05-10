@@ -1,4 +1,58 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3losygrgj6s2a'
+created_at = '2025-05-10T12:55:38.061Z'
+text = '''
+If kidnapped, what would you post that would alarm your followers without the kidnappers knowing you're asking for help?
+
+“Go is actually a pretty good language.”'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3losx6eay7c2a'
+created_at = '2025-05-10T12:33:02.074Z'
+text = '''
+We do plan to add this!
+
+We’ve been busy with the Agent launch, but since that’s shipped we’ll be taking a look at what’s next for the AI team, which will likely include spending some more time on edit predictions.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6hbqm2oftpotwuw7gvvrui3i/app.bsky.feed.post/3lonwxplats2z'
+author_did = 'did:plc:6hbqm2oftpotwuw7gvvrui3i'
+author_handle = 'knotbin.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3loswqdfnas2a'
+created_at = '2025-05-10T12:25:11.405Z'
+text = 'In the Claude Code setup docs they also hint at the Anthropic Console (where you get an API key) as having different billing than a Claude subscription:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3loswkzic522a'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3loswkzic522a'
+created_at = '2025-05-10T12:22:13.241Z'
+text = 'I found this about how to use Claude Code with a Claude Max Plan, but they talk about a different authentication mechanism that isn’t an API key: support.anthropic.com/en/articles/...'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3loswh7sqf22a'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3loswh7sqf22a'
+created_at = '2025-05-10T12:20:05.657Z'
+text = '''
+If you can get an Anthropic key that is tied to Claude Max then you can put it in to Zed.
+
+Although I seem to recall that Claude subscriptions are different than paying for API credits 😕'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3loqoibxx4s2q'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lorj3xhy3k2p'
 created_at = '2025-05-09T22:48:29.439Z'
 text = '''
