@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3louvjdvk5k2z'
+created_at = '2025-05-11T07:08:42.787Z'
+text = 'Does Game Informer count?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rqm4qgf6jdmb35mxatuzi6cq/app.bsky.feed.post/3louswusz5s2t'
+author_did = 'did:plc:rqm4qgf6jdmb35mxatuzi6cq'
+author_handle = 'jamesmunns.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lotc6vznfs2l'
 created_at = '2025-05-10T15:50:11.868Z'
 text = 'Dream of Excommunication 🎶'
