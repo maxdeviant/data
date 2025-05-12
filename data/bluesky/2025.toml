@@ -1,4 +1,11 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3loyujrey5s25'
+created_at = '2025-05-12T21:01:42.129Z'
+text = '''
+“Windows in Paris, ain’t that the Jay-Z and Kanye song?”
+“Yea, it’s the PC version”'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3loxqkayqyk2x'
 created_at = '2025-05-12T10:17:43.806Z'
 text = 'One of my coworkers expressed the same sentiment to me just yesterday'
