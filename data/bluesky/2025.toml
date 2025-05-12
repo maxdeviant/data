@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3loxqkayqyk2x'
+created_at = '2025-05-12T10:17:43.806Z'
+text = 'One of my coworkers expressed the same sentiment to me just yesterday'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qfrekkhphlonkdee4pgjba7s/app.bsky.feed.post/3loxmwggioc2m'
+author_did = 'did:plc:qfrekkhphlonkdee4pgjba7s'
+author_handle = 'without.boats'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3louvjdvk5k2z'
 created_at = '2025-05-11T07:08:42.787Z'
 text = 'Does Game Informer count?'
