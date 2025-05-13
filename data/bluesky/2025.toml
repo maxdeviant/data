@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lp2ax2pi222c'
+created_at = '2025-05-13T10:16:32.768Z'
+text = 'Awesome! Hope to see you there!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5rc3vpldcyehjjqkj2qmdwvo/app.bsky.feed.post/3lp2akikv4k22'
+author_did = 'did:plc:5rc3vpldcyehjjqkj2qmdwvo'
+author_handle = 'vitallium.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lozyfvnbkc2c'
 created_at = '2025-05-13T07:43:47.077Z'
 text = 'Will be hanging out at the Zed booth, come say hi!'
