@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Dangerous'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-05-14T21:42:56Z'
+
+[[tracks]]
+name = 'Past Self'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-05-14T21:39:23Z'
+
+[[tracks]]
 name = 'Even in Arcadia'
 artist = 'Sleep Token'
 album = 'Even In Arcadia'
