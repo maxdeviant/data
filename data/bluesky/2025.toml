@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpflibnmsc2i'
+created_at = '2025-05-17T22:24:25.013Z'
+text = 'Dare I ask?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uyqnubfj3qlho6psy6uvvt6u/app.bsky.feed.post/3lpflc2w4vc23'
+author_did = 'did:plc:uyqnubfj3qlho6psy6uvvt6u'
+author_handle = 'scoiattolo.mountainherder.xyz'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpfd2cngys24'
 created_at = '2025-05-17T19:53:26.353Z'
 text = 'Starting a family Signal chat so I can periodically say “We are currently clean on OPSEC” in it.'
