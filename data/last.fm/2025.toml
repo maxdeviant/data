@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Bellum Regiis'
+artist = 'Hate'
+album = 'Bellum Regiis'
+listened_at = '2025-05-19T15:44:37Z'
+
+[[tracks]]
+name = 'Bitter'
+artist = 'Twist it'
+album = 'Bitter'
+listened_at = '2025-05-19T15:41:48Z'
+
+[[tracks]]
+name = 'Remedy'
+artist = 'Our Chronicle'
+album = 'Remedy'
+listened_at = '2025-05-19T15:38:20Z'
+
+[[tracks]]
+name = 'last kiss'
+artist = 'Azael'
+album = 'last kiss'
+listened_at = '2025-05-19T15:35:38Z'
+
+[[tracks]]
+name = 'Elapse'
+artist = 'Jia'
+album = 'Elapse'
+listened_at = '2025-05-19T15:32:11Z'
+
+[[tracks]]
+name = '''Atba'a Al-Namrood'''
+artist = 'Al-Namrood'
+album = 'Jaish Al-Namrood'
+listened_at = '2025-05-19T15:27:02Z'
+
+[[tracks]]
+name = 'Eldhaf'
+artist = 'Múr'
+album = 'Múr'
+listened_at = '2025-05-19T15:17:58Z'
+
+[[tracks]]
 name = 'Infinite Baths'
 artist = 'Sleep Token'
 album = 'Even In Arcadia'
