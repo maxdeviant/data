@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Needles'
+artist = 'Ghost Bath'
+album = 'Rose Thorn Necklace'
+listened_at = '2025-05-20T16:15:58Z'
+
+[[tracks]]
+name = 'Stamen and Pistil'
+artist = 'Ghost Bath'
+album = 'Rose Thorn Necklace'
+listened_at = '2025-05-20T16:10:51Z'
+
+[[tracks]]
+name = 'Vodka Butterfly'
+artist = 'Ghost Bath'
+album = 'Rose Thorn Necklace'
+listened_at = '2025-05-20T16:06:17Z'
+
+[[tracks]]
+name = 'Dandelion Tea'
+artist = 'Ghost Bath'
+album = 'Rose Thorn Necklace'
+listened_at = '2025-05-20T16:01:26Z'
+
+[[tracks]]
+name = 'Thinly Sliced Heart Muscle'
+artist = 'Ghost Bath'
+album = 'Rose Thorn Necklace'
+listened_at = '2025-05-20T15:58:09Z'
+
+[[tracks]]
+name = 'Well, I Tried Drowning'
+artist = 'Ghost Bath'
+album = 'Rose Thorn Necklace'
+listened_at = '2025-05-20T15:53:46Z'
+
+[[tracks]]
+name = 'Rose Thorn Necklace'
+artist = 'Ghost Bath'
+album = 'Rose Thorn Necklace'
+listened_at = '2025-05-20T15:49:32Z'
+
+[[tracks]]
+name = 'Grotesque Display'
+artist = 'Ghost Bath'
+album = 'Rose Thorn Necklace'
+listened_at = '2025-05-20T15:47:36Z'
+
+[[tracks]]
+name = 'London'
+artist = 'Interia'
+album = 'London'
+listened_at = '2025-05-20T13:50:27Z'
+
+[[tracks]]
 name = 'Olm 053'
 artist = 'Lucid Planet'
 album = 'Lucid Planet'
