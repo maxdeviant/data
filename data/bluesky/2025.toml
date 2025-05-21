@@ -1,4 +1,37 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpoktgajqc2f'
+created_at = '2025-05-21T12:06:42.830Z'
+text = 'Time to make a Slackbot that runs this against people’s messages'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3lpoko5toes2f'
+author_did = 'did:plc:rkm6m4dsc4da2yzdlvxorhf3'
+author_handle = 'uncenter.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpoizwbfvk2f'
+created_at = '2025-05-21T11:34:33.479Z'
+text = '''
+Forever cursed to see people routinely miscapitalize letters in company/product names.
+
+It’s GitHub, Cloudflare, Bluesky.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpoiona7qs2f'
+created_at = '2025-05-21T11:28:14.904Z'
+text = '🫡'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dzqkzsraawn5lakp5ozsqcho/app.bsky.feed.post/3lpoeeshivc2o'
+author_did = 'did:plc:dzqkzsraawn5lakp5ozsqcho'
+author_handle = 'tef.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpofqwtje22f'
+created_at = '2025-05-21T10:35:50.855Z'
+text = '@johnakers.net Good to run into you on the internet again :)'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpnosepxk22f'
 created_at = '2025-05-21T03:45:02.912Z'
 text = '''
