@@ -1,4 +1,112 @@
 [[tracks]]
+name = 'Caramel'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-05-22T21:00:12Z'
+
+[[tracks]]
+name = 'Dangerous'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-05-22T20:56:01Z'
+
+[[tracks]]
+name = 'Past Self'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-05-22T20:21:23Z'
+
+[[tracks]]
+name = 'Emergence'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-05-22T20:14:56Z'
+
+[[tracks]]
+name = 'Look to Windward'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-05-22T20:07:11Z'
+
+[[tracks]]
+name = 'Fathomless Catacombs'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T19:15:56Z'
+
+[[tracks]]
+name = 'Blood Atonement'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T19:11:11Z'
+
+[[tracks]]
+name = 'That Which Consumes All Things'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T19:05:42Z'
+
+[[tracks]]
+name = 'Of Unworldly Origin'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T19:01:12Z'
+
+[[tracks]]
+name = 'A Starless Darkness'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T18:53:57Z'
+
+[[tracks]]
+name = 'Luciferous'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T18:49:07Z'
+
+[[tracks]]
+name = 'Ex Nihilo'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T18:44:42Z'
+
+[[tracks]]
+name = 'Vanitas'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T18:38:48Z'
+
+[[tracks]]
+name = 'The Outer Ones'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T18:33:05Z'
+
+[[tracks]]
+name = 'Fathomless Catacombs'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T18:27:31Z'
+
+[[tracks]]
+name = 'Blood Atonement'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T18:22:46Z'
+
+[[tracks]]
+name = 'That Which Consumes All Things'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T18:17:16Z'
+
+[[tracks]]
+name = 'Of Unworldly Origin'
+artist = 'Revocation'
+album = 'The Outer Ones'
+listened_at = '2025-05-22T18:12:48Z'
+
+[[tracks]]
 name = 'Grand Unification Part 1'
 artist = 'Fightstar'
 album = 'Grand Unification'
