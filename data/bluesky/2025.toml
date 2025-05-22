@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpriahlw6224'
+created_at = '2025-05-22T15:58:18.449Z'
+text = '''
+Not me wondering "I wonder when Beautiful Death will put out a new album?" when they just put out an album in February.
+
+Guess I have to wait for a while...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpoktgajqc2f'
 created_at = '2025-05-21T12:06:42.830Z'
 text = 'Time to make a Slackbot that runs this against people’s messages'
