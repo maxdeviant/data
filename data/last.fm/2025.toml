@@ -1,4 +1,112 @@
 [[tracks]]
+name = 'Up Next'
+artist = 'SENIOR YEAR X LA'
+album = 'Up Next'
+listened_at = '2025-05-23T21:00:04Z'
+
+[[tracks]]
+name = 'From Stormveil To Liurnia'
+artist = 'Bloody Valkyria'
+album = 'In Our Home, Across The Fog'
+listened_at = '2025-05-23T20:56:19Z'
+
+[[tracks]]
+name = 'The Final Lock'
+artist = 'closed book'
+album = 'The Final Lock'
+listened_at = '2025-05-23T20:52:13Z'
+
+[[tracks]]
+name = 'Reincarnate'
+artist = 'Reverie'
+album = 'Reincarnate'
+listened_at = '2025-05-23T20:49:54Z'
+
+[[tracks]]
+name = 'The Cauldron Born'
+artist = 'Håndgemeng'
+album = 'Satanic Panic Attack'
+listened_at = '2025-05-23T20:45:31Z'
+
+[[tracks]]
+name = 'Hopeless Magic'
+artist = 'Cave Sermon'
+album = 'Fragile Wings'
+listened_at = '2025-05-23T20:39:26Z'
+
+[[tracks]]
+name = 'Entwined'
+artist = 'World Divided'
+album = 'Entwined'
+listened_at = '2025-05-23T20:36:38Z'
+
+[[tracks]]
+name = 'Hors ligne'
+artist = 'Breed Machine'
+album = 'Asura'
+listened_at = '2025-05-23T20:31:52Z'
+
+[[tracks]]
+name = 'Fjord'
+artist = 'Lucid Fly'
+album = 'Fjord'
+listened_at = '2025-05-23T20:26:53Z'
+
+[[tracks]]
+name = 'London'
+artist = 'Interia'
+album = 'London'
+listened_at = '2025-05-23T20:22:32Z'
+
+[[tracks]]
+name = 'Olm 053'
+artist = 'Lucid Planet'
+album = 'Lucid Planet'
+listened_at = '2025-05-23T20:15:36Z'
+
+[[tracks]]
+name = 'Bellum Regiis'
+artist = 'Hate'
+album = 'Bellum Regiis'
+listened_at = '2025-05-23T20:08:52Z'
+
+[[tracks]]
+name = 'Bitter'
+artist = 'Twist it'
+album = 'Bitter'
+listened_at = '2025-05-23T20:06:03Z'
+
+[[tracks]]
+name = 'Remedy'
+artist = 'Our Chronicle'
+album = 'Remedy'
+listened_at = '2025-05-23T20:02:34Z'
+
+[[tracks]]
+name = 'last kiss'
+artist = 'Azael'
+album = 'last kiss'
+listened_at = '2025-05-23T19:59:56Z'
+
+[[tracks]]
+name = 'Elapse'
+artist = 'Jia'
+album = 'Elapse'
+listened_at = '2025-05-23T19:56:30Z'
+
+[[tracks]]
+name = '''Atba'a Al-Namrood'''
+artist = 'Al-Namrood'
+album = 'Jaish Al-Namrood'
+listened_at = '2025-05-23T19:51:21Z'
+
+[[tracks]]
+name = 'Eldhaf'
+artist = 'Múr'
+album = 'Múr'
+listened_at = '2025-05-23T19:42:18Z'
+
+[[tracks]]
 name = 'For Her Grave'
 artist = 'Beautiful Death'
 album = 'The Wanderer'
