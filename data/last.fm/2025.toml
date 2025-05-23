@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Class Fight'
+artist = 'Melanie Martinez'
+album = 'K-12'
+listened_at = '2025-05-23T01:18:39Z'
+
+[[tracks]]
+name = 'Look to Windward'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-05-23T01:18:22Z'
+
+[[tracks]]
 name = 'Even in Arcadia'
 artist = 'Sleep Token'
 album = 'Even In Arcadia'

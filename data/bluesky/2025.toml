@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpsgrvryes2g'
+created_at = '2025-05-23T01:04:56.008Z'
+text = 'I was confused by the same thing. Seems like a negligible improvement, but at 5x the price'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3lpsdlrxjikd3'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpriahlw6224'
 created_at = '2025-05-22T15:58:18.449Z'
 text = '''
