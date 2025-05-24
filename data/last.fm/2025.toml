@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Lunar Effigy'
+artist = 'Ethereal Treason'
+album = 'Rituals'
+listened_at = '2025-05-24T15:01:05Z'
+
+[[tracks]]
+name = 'Scythe'
+artist = 'Ethereal Treason'
+album = 'Rituals'
+listened_at = '2025-05-24T14:58:46Z'
+
+[[tracks]]
+name = 'So That It May Persist'
+artist = 'Ethereal Treason'
+album = 'Rituals'
+listened_at = '2025-05-24T14:55:08Z'
+
+[[tracks]]
+name = 'Rituals'
+artist = 'Ethereal Treason'
+album = 'Rituals'
+listened_at = '2025-05-24T14:51:00Z'
+
+[[tracks]]
 name = 'So That It May Persist'
 artist = 'Ethereal Treason'
 album = 'Rituals'
