@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpw3nflqpc2o'
+created_at = '2025-05-24T11:56:12.601Z'
+text = '''
+Sometimes I have the same thought cross my mind about movies or albums.
+
+“Should I start buying physical copies of these before they are no longer available?”'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ysqjmrbdrmjqt664qwfk3v3g/app.bsky.feed.post/3lpvlm6kkbk2p'
+author_did = 'did:plc:ysqjmrbdrmjqt664qwfk3v3g'
+author_handle = 'mnchrm.co'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpw3gzrfuc2o'
+created_at = '2025-05-24T11:52:38.878Z'
+text = 'Many such cases'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3lpvpdmj3w22g'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpvbdzaar22o'
 created_at = '2025-05-24T04:05:40.365Z'
 text = 'open.spotify.com/track/53yryF...'
