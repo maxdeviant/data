@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpyr3urre223'
+created_at = '2025-05-25T13:25:26.344Z'
+text = 'A'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lpxbvexpdc2v'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpyqvcrfls23'
+created_at = '2025-05-25T13:21:46.131Z'
+text = 'More time to do sudoku if you’re letting ChatGPT do the rest of your thinking for you!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4dwqsb2d5dsi6afmrgt7wowo/app.bsky.feed.post/3lpy2j3h2us2s'
+author_did = 'did:plc:4dwqsb2d5dsi6afmrgt7wowo'
+author_handle = 'risu.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpxnxljy3k26'
 created_at = '2025-05-25T02:56:41.471Z'
 text = 'Putting yourself in S tier, I see'
