@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Emergence'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-05-25T17:52:08Z'
+
+[[tracks]]
+name = 'Scythe'
+artist = 'Ethereal Treason'
+album = 'Rituals'
+listened_at = '2025-05-25T17:45:04Z'
+
+[[tracks]]
+name = 'Look to Windward'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-05-25T17:43:58Z'
+
+[[tracks]]
 name = 'So That It May Persist'
 artist = 'Ethereal Treason'
 album = 'Rituals'
