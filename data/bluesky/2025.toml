@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq2bczr6e22x'
+created_at = '2025-05-26T03:48:26.056Z'
+text = 'Thread:'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq2au57wrc2x'
+created_at = '2025-05-26T03:40:06.369Z'
+text = '''
+Just rewatched the original—and only, as far as I’m concerned—Lilo & Stitch.
+
+I shall not be watching the live action remake.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lpzziomq422r'
 created_at = '2025-05-26T01:28:25.768Z'
 text = '"This will fix me"'
