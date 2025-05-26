@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq3c7djous2x'
+created_at = '2025-05-26T13:36:55.560Z'
+text = 'I rewatched it last night and was definitely getting that vibe as well!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:d52zupdjr23ew7gzkfn3ekvc/app.bsky.feed.post/3lq35sopmvc2s'
+author_did = 'did:plc:d52zupdjr23ew7gzkfn3ekvc'
+author_handle = 'cjprice.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq2bczr6e22x'
 created_at = '2025-05-26T03:48:26.056Z'
 text = 'Thread:'
