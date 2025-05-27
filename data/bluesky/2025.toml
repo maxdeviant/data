@@ -1,4 +1,69 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq4ekvtn422y'
+created_at = '2025-05-26T23:51:51.081Z'
+text = 'The posting will continue until the numbers improve.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:pmyqirafcp3jqdhrl7crpq7t/app.bsky.feed.post/3lq4edeoa322y'
+author_did = 'did:plc:pmyqirafcp3jqdhrl7crpq7t'
+author_handle = 'numb.comfortab.ly'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq4bepiebs2r'
+created_at = '2025-05-26T22:54:41.868Z'
+text = '''
+I find that I use the Agent Panel even more outside of work, as my side projects are smaller and perhaps more amenable to using an LLM.
+
+Claude has been very useful as I've been learning graphics programming using raw WebGL2.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq4bbudy2s2r'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq4bbudy2s2r'
+created_at = '2025-05-26T22:53:05.269Z'
+text = '''I've been doing a lot of work on billing lately, and using the Agent Panel to have Claude write a JS script for extracting some data from the Stripe API has saved me a fair bit of time.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq4bbtxkm22r'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq4bbtxkm22r'
+created_at = '2025-05-26T22:53:05.268Z'
+text = '''
+Based on the task I'm doing, I'll reach for Claude in the Agent Panel.
+
+I find it's very good for tasks where I need to do something self-contained or creating a new implementation of something where an example already exists.
+
+zed.dev/agentic'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq4bbtedek2r'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq4bbtedek2r'
+created_at = '2025-05-26T22:53:05.267Z'
+text = '''
+I always have edit prediction in Zed enabled (using subtle mode, so it isn't quite so distracting).
+
+It's pretty good at speeding up rote operations like adding a new field to a struct and then threading it through to constructors, etc.
+
+zed.dev/edit-predict...
+
+zed.dev/blog/out-of-...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3lq4a4orea22f'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq3ihzu6qk2x'
 created_at = '2025-05-26T15:29:09.858Z'
 text = 'Pairs well with the “🤠” emoji'
