@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Memorial'
+artist = 'Russian Circles'
+album = 'Memorial'
+listened_at = '2025-05-27T15:19:54Z'
+
+[[tracks]]
+name = 'Sensual'
+artist = 'Earmake'
+album = 'Parallels'
+listened_at = '2025-05-27T15:15:33Z'
+
+[[tracks]]
+name = 'Nocturnal'
+artist = 'Cassetter'
+album = 'Nocturnal'
+listened_at = '2025-05-27T15:11:49Z'
+
+[[tracks]]
+name = 'What Once Was'
+artist = 'Oh Hiroshima'
+album = 'Resistance Is Futile'
+listened_at = '2025-05-27T15:08:02Z'
+
+[[tracks]]
+name = 'Just Remember How We Smiling'
+artist = 'The Best Pessimist'
+album = 'The Half-World'
+listened_at = '2025-05-27T15:03:49Z'
+
+[[tracks]]
 name = 'The Night Before'
 artist = 'Melt Motif'
 album = 'The Night Before'
