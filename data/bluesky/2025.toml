@@ -1,4 +1,30 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lqasnokvk22o'
+created_at = '2025-05-28T18:14:35.457Z'
+text = '''
+Sentence case!
+
+Although this post was about people not capitalizing proper nouns, like "GitHub" in their PR titles.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uytq636zrrw7ihme4zfy526r/app.bsky.feed.post/3lqaq5f5ucc23'
+author_did = 'did:plc:uytq636zrrw7ihme4zfy526r'
+author_handle = 'aapoalas.trynova.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lqasmkh74k2o'
+created_at = '2025-05-28T18:13:57.586Z'
+text = '''
+I actually do have this plugin that I wrote for Danger that enforces PR hygiene: github.com/maxdeviant/d...
+
+Doesn't yet support checking for proper casing of proper nouns like "GitHub", but I could certainly add that!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e36rydewmbaixxwanys5xz45/app.bsky.feed.post/3lqah3snyp22f'
+author_did = 'did:plc:e36rydewmbaixxwanys5xz45'
+author_handle = 'johnakers.net'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lqaf3k3g7s2o'
 created_at = '2025-05-28T14:11:48.132Z'
 text = 'Begging people to use proper capitalization in their GitHub PR titles 😩'
