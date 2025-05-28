@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Rose Thorn Necklace'
+artist = 'Ghost Bath'
+album = 'Rose Thorn Necklace'
+listened_at = '2025-05-28T00:48:18Z'
+
+[[tracks]]
+name = 'Djinn'
+artist = 'UADA'
+album = 'Djinn'
+listened_at = '2025-05-28T00:40:25Z'
+
+[[tracks]]
+name = 'Rituals'
+artist = 'Ethereal Treason'
+album = 'Rituals'
+listened_at = '2025-05-28T00:36:16Z'
+
+[[tracks]]
+name = 'Leave Behind'
+artist = 'Matt Lange'
+album = 'Bleed Together'
+listened_at = '2025-05-28T00:32:41Z'
+
+[[tracks]]
+name = 'Bleed Together'
+artist = 'Matt Lange'
+album = 'Bleed Together'
+listened_at = '2025-05-27T21:54:48Z'
+
+[[tracks]]
 name = 'Calliope'
 artist = 'Matt Lange'
 album = 'Bleed Together'
