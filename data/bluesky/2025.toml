@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lqaf3k3g7s2o'
+created_at = '2025-05-28T14:11:48.132Z'
+text = 'Begging people to use proper capitalization in their GitHub PR titles 😩'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lq5ojiggkk26'
 created_at = '2025-05-27T12:22:40.618Z'
 text = 'Sounds like it’s just them making up excuses to kill it off so they can focus on their AI-first browser.'
