@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lqcp6bmnvc2n'
+created_at = '2025-05-29T12:17:36.818Z'
+text = '''
+That was my understanding as well, but also haven’t gotten hard confirmation on it.
+
+If it isn’t against ToS then we would certainly love to make Claude Max (and other plans) usable in Zed.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3lqcoz5txqk2r'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lqcmtqwttc2x'
 created_at = '2025-05-29T11:35:56.297Z'
 text = 'Just to clarify, do you mean using Claude Max with other services is against Anthropic’s ToS?'
