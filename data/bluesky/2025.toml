@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lqbuehdadc25'
+created_at = '2025-05-29T04:17:53.098Z'
+text = 'AI kissed a girl and AI liked it'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rqm4qgf6jdmb35mxatuzi6cq/app.bsky.feed.post/3lqbjk5pm2s2z'
+author_did = 'did:plc:rqm4qgf6jdmb35mxatuzi6cq'
+author_handle = 'jamesmunns.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lqb4dd7cu22o'
 created_at = '2025-05-28T21:07:45.416Z'
 text = 'Thanks for basically summing up my thoughts on the matter 😄'
