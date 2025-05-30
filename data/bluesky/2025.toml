@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lqeewryscs23'
+created_at = '2025-05-30T04:19:47.616Z'
+text = '''
+Neither “free” as in “free speech” nor “free” as in “free beer”, but a third kind of free:
+
+“Free” as in “free use”'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lqdzq3lxis2k'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lqdxsd543k23'
 created_at = '2025-05-30T00:24:39.167Z'
 text = 'Which kind are you?'
