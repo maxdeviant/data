@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Hell To Pay'
+artist = 'Mourn'
+album = 'The Next Life'
+listened_at = '2025-05-31T19:16:44Z'
+
+[[tracks]]
+name = 'Pray for Violence'
+artist = 'Mourn'
+album = 'The Next Life'
+listened_at = '2025-05-31T19:12:50Z'
+
+[[tracks]]
+name = 'Poisoned Tongues'
+artist = 'Mourn'
+album = 'Poisoned Tongues'
+listened_at = '2025-05-31T03:11:17Z'
+
+[[tracks]]
 name = 'In the Name of the Father'
 artist = 'President'
 album = 'In the Name of the Father'
