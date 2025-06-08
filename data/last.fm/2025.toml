@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Anhedonia'
+artist = 'Sara'
+album = 'Hallava'
+listened_at = '2025-06-07T23:51:48Z'
+
+[[tracks]]
+name = 'Massaharha'
+artist = 'Sara'
+album = 'Hallava'
+listened_at = '2025-06-07T23:47:11Z'
+
+[[tracks]]
+name = 'johnny skyz'
+artist = 'Blvck Ceiling'
+album = 'skeleton'
+listened_at = '2025-06-07T14:53:38Z'
+
+[[tracks]]
 name = 'dew drops'
 artist = 'Blvck Ceiling'
 album = 'skeleton'
