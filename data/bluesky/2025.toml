@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lrgkxlotjs2g'
+created_at = '2025-06-12T18:38:08.107Z'
+text = '''I'm seeing issues with Cloudflare myself (errors from Durable Objects, can't get into the dashboard) and seeing reports of lots of other status having issues (a number of which have open incidents on their status pages).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xraomsuf6pvh7r2cqtdwhkvm/app.bsky.feed.post/3lrgkvevq522o'
+author_did = 'did:plc:xraomsuf6pvh7r2cqtdwhkvm'
+author_handle = 'swiftonsecurity.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lrgj7ph3es2e'
 created_at = '2025-06-12T18:06:52.999Z'
 text = '''
