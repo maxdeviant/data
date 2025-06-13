@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lrhatrw62c2o'
+created_at = '2025-06-13T01:09:42.741Z'
+text = '''
+When I said I wanted more nuclear energy I didn't envision it as coming in the form of exploding warheads.
+
+Monkey's paw wins again.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3lrhaliq5cs2w'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lrhah3pizc2o'
+created_at = '2025-06-13T01:02:36.801Z'
+text = '''Current events seem to be going from 0 to 100 this week, and I'm not sure how much more of it I can bear.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lrgkxlotjs2g'
 created_at = '2025-06-12T18:38:08.107Z'
 text = '''I'm seeing issues with Cloudflare myself (errors from Durable Objects, can't get into the dashboard) and seeing reports of lots of other status having issues (a number of which have open incidents on their status pages).'''
