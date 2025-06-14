@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'I Will Never Settle'
+artist = 'Metric'
+album = 'Formentera'
+listened_at = '2025-06-14T15:00:44Z'
+
+[[tracks]]
 name = 'Formentera'
 artist = 'Metric'
 album = 'Formentera'
