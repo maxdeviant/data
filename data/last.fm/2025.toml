@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Seven'
+artist = 'Anberlin'
+album = 'Vega'
+listened_at = '2025-06-13T23:54:21Z'
+
+[[tracks]]
 name = 'Animals'
 artist = 'Anberlin'
 album = 'Vega'
