@@ -1,4 +1,100 @@
 [[tracks]]
+name = 'Animals'
+artist = 'Anberlin'
+album = 'Vega'
+listened_at = '2025-06-13T23:50:35Z'
+
+[[tracks]]
+name = 'Armageddon'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:57:31Z'
+
+[[tracks]]
+name = 'We Are Destroyer'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:54:02Z'
+
+[[tracks]]
+name = 'Harbinger'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:49:24Z'
+
+[[tracks]]
+name = 'Hearing Voices'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:45:49Z'
+
+[[tracks]]
+name = 'Losing It All'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:41:35Z'
+
+[[tracks]]
+name = 'Dissenter'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:38:19Z'
+
+[[tracks]]
+name = 'Birds Of Prey'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:34:23Z'
+
+[[tracks]]
+name = 'Atonement'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:30:06Z'
+
+[[tracks]]
+name = 'Velvet Covered Brick'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:26:09Z'
+
+[[tracks]]
+name = 'Stranger Ways'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:21:27Z'
+
+[[tracks]]
+name = 'Armageddon'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:17:21Z'
+
+[[tracks]]
+name = 'We Are Destroyer'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:13:52Z'
+
+[[tracks]]
+name = 'Harbinger'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:09:14Z'
+
+[[tracks]]
+name = 'Hearing Voices'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:05:39Z'
+
+[[tracks]]
+name = 'Losing It All'
+artist = 'Anberlin'
+album = 'Lowborn'
+listened_at = '2025-06-13T21:01:25Z'
+
+[[tracks]]
 name = 'Dissenter'
 artist = 'Anberlin'
 album = 'Lowborn'
