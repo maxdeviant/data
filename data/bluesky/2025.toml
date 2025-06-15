@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lrncofzdt22p'
+created_at = '2025-06-15T10:58:28.404Z'
+text = 'Hiring a Head of Democratizing to run our democratizing campaigns'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qfrekkhphlonkdee4pgjba7s/app.bsky.feed.post/3lrn7rgcot22g'
+author_did = 'did:plc:qfrekkhphlonkdee4pgjba7s'
+author_handle = 'without.boats'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lrmmg23hos2v'
 created_at = '2025-06-15T04:20:05.135Z'
 text = 'Miserable old man has miserable birthday party. Exactly what he deserves.'
