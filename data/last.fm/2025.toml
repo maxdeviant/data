@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Reconfig - Shikimo Remix'
+artist = 'Shortwire'
+album = 'Reconfig (Shikimo Remix)'
+listened_at = '2025-06-16T15:48:07Z'
+
+[[tracks]]
+name = 'Free Fall'
+artist = 'New Arcades'
+album = 'In the Deepest of Dreams'
+listened_at = '2025-06-16T15:46:21Z'
+
+[[tracks]]
+name = 'Sequence'
+artist = 'The New Division'
+album = 'Modern Life'
+listened_at = '2025-06-16T15:43:02Z'
+
+[[tracks]]
+name = '''You've been on my mind'''
+artist = 'Frequency'
+album = '''You've been on my mind'''
+listened_at = '2025-06-16T14:40:20Z'
+
+[[tracks]]
 name = 'Decoherence'
 artist = 'Insomnium'
 album = 'One for Sorrow'
