@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Decoherence'
+artist = 'Insomnium'
+album = 'One for Sorrow'
+listened_at = '2025-06-16T14:37:01Z'
+
+[[tracks]]
+name = 'Suffer'
+artist = 'Hundredth'
+album = 'Rare'
+listened_at = '2025-06-16T14:33:05Z'
+
+[[tracks]]
+name = 'Gypsy Tears'
+artist = 'Analog Tears'
+album = 'Gypsy Tears'
+listened_at = '2025-06-16T14:29:38Z'
+
+[[tracks]]
+name = 'Vampires'
+artist = 'The Haunting'
+album = 'Alone Together / Borrowed Time'
+listened_at = '2025-06-16T14:26:18Z'
+
+[[tracks]]
+name = 'Kill the Noise'
+artist = 'Me Not You'
+album = 'Kill The Noise'
+listened_at = '2025-06-16T14:23:14Z'
+
+[[tracks]]
+name = 'My Game'
+artist = 'Lysithea'
+album = 'My Game'
+listened_at = '2025-06-16T14:19:19Z'
+
+[[tracks]]
 name = 'All Comes Crashing'
 artist = 'Metric'
 album = 'Formentera'
