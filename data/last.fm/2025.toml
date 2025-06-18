@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Infinite Baths'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-06-18T03:35:11Z'
+
+[[tracks]]
+name = 'gethsemane'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-06-18T03:28:48Z'
+
+[[tracks]]
+name = 'damocles'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-06-18T03:24:24Z'
+
+[[tracks]]
 name = 'Even in Arcadia'
 artist = 'Sleep Token'
 album = 'Even In Arcadia'
