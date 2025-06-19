@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lrvxbi35nk25'
+created_at = '2025-06-18T21:28:20.839Z'
+text = 'Do you mean the explicit music itself or the practice of categorizing it as “explicit”?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ysqjmrbdrmjqt664qwfk3v3g/app.bsky.feed.post/3lrvx4vmb6k2z'
+author_did = 'did:plc:ysqjmrbdrmjqt664qwfk3v3g'
+author_handle = 'mnchrm.co'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lrncofzdt22p'
 created_at = '2025-06-15T10:58:28.404Z'
 text = 'Hiring a Head of Democratizing to run our democratizing campaigns'
