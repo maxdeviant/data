@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Circles'
+artist = 'Elephant Tree'
+album = 'Elephant Tree'
+listened_at = '2025-06-23T21:28:02Z'
+
+[[tracks]]
+name = 'Driving Alone'
+artist = 'Dryve'
+album = '''Seulement L'amour'''
+listened_at = '2025-06-23T21:24:22Z'
+
+[[tracks]]
+name = 'Abysmal'
+artist = 'Open Ocean'
+album = 'Abysmal'
+listened_at = '2025-06-23T21:22:05Z'
+
+[[tracks]]
+name = 'Shadows'
+artist = 'Goddess'
+album = 'Goddess'
+listened_at = '2025-06-23T21:17:49Z'
+
+[[tracks]]
+name = 'Strong Belief'
+artist = 'The Jelly Jam'
+album = 'Profit'
+listened_at = '2025-06-23T21:14:16Z'
+
+[[tracks]]
+name = 'Interlinked (Essenger Remix) - Instrumental'
+artist = 'Young Medicine'
+album = 'Interlinked (Instrumentals)'
+listened_at = '2025-06-23T21:11:28Z'
+
+[[tracks]]
+name = 'No Sound'
+artist = 'MERCY GIRL'
+album = 'No Sound'
+listened_at = '2025-06-23T21:08:30Z'
+
+[[tracks]]
+name = 'Right To Life'
+artist = 'Walking Across Jupiter'
+album = 'Scent'
+listened_at = '2025-06-23T21:04:53Z'
+
+[[tracks]]
 name = 'I Hope It Hurts Like Hell'
 artist = 'Lost Outrider'
 album = 'Blush'
