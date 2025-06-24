@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Trance/Floden, Som Kan Lede'
+artist = 'ORM'
+album = 'Intet • Altet'
+listened_at = '2025-06-24T20:20:04Z'
+
+[[tracks]]
+name = 'Floden, Som Kan Skabe'
+artist = 'ORM'
+album = 'Intet • Altet'
+listened_at = '2025-06-24T19:55:49Z'
+
+[[tracks]]
+name = 'Fra dyden'
+artist = 'ORM'
+album = 'Intet • Altet'
+listened_at = '2025-06-24T19:31:11Z'
+
+[[tracks]]
+name = 'Days Of Wonder'
+artist = 'Clemens Ruh'
+album = 'Days Of Wonder'
+listened_at = '2025-06-24T18:04:42Z'
+
+[[tracks]]
 name = 'Sutekh'
 artist = 'IMANU'
 album = 'Sutekh'
