@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lsfqtpmzyc2i'
+created_at = '2025-06-25T04:15:52.366Z'
+text = 'How many more weeks of winter is that?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3lsfmmox6422t'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lsfqlxnrbk2i'
+created_at = '2025-06-25T04:11:32.340Z'
+text = 'I need @dieworkwear.bsky.social to do a thread on this.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ls277gbqb72x'
 created_at = '2025-06-20T14:00:59.682Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
