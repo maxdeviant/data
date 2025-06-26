@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lsix7jronc2x'
+created_at = '2025-06-26T10:47:50.545Z'
+text = '''
+If we’re wishlisting async improvements we’d like to see, I would love it if the ecosystem were a bit more agnostic when it comes to async runtimes.
+
+At Zed we run into a lot of headaches because we have our own async runtimes, which can make it hard to consume popular crates that are tied to tokio.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rqm4qgf6jdmb35mxatuzi6cq/app.bsky.feed.post/3lsiwsadv222l'
+author_did = 'did:plc:rqm4qgf6jdmb35mxatuzi6cq'
+author_handle = 'jamesmunns.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lsibnryfx22x'
 created_at = '2025-06-26T04:22:06.597Z'
 text = 'Like the abundance of comments. Not everything needs a comment, Claude!'
