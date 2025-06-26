@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lsjh4m3i3c22'
+created_at = '2025-06-26T15:32:32.169Z'
+text = 'Ah, I somehow missed you were focused specifically on improvements in the compiler itself 😄'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rqm4qgf6jdmb35mxatuzi6cq/app.bsky.feed.post/3lsj2e47v622y'
+author_did = 'did:plc:rqm4qgf6jdmb35mxatuzi6cq'
+author_handle = 'jamesmunns.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lsix7jronc2x'
 created_at = '2025-06-26T10:47:50.545Z'
 text = '''
