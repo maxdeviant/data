@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lsibnryfx22x'
+created_at = '2025-06-26T04:22:06.597Z'
+text = 'Like the abundance of comments. Not everything needs a comment, Claude!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3lsi66gk2bc2q'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lsfqtpmzyc2i'
 created_at = '2025-06-25T04:15:52.366Z'
 text = 'How many more weeks of winter is that?'
