@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lskjbukui22z'
+created_at = '2025-06-27T01:43:56.057Z'
+text = 'Second to last.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lskdwmqqh22p'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lsjh4m3i3c22'
 created_at = '2025-06-26T15:32:32.169Z'
 text = 'Ah, I somehow missed you were focused specifically on improvements in the compiler itself 😄'
