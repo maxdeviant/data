@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'The Antimatter'
+artist = 'Unreqvited'
+album = 'A Pathway to the Moon'
+listened_at = '2025-06-27T19:15:05Z'
+
+[[tracks]]
+name = 'Overture: I Disintegrate'
+artist = 'Unreqvited'
+album = 'A Pathway to the Moon'
+listened_at = '2025-06-27T19:12:47Z'
+
+[[tracks]]
+name = 'Artificial Love'
+artist = 'Violet Cold'
+album = 'Səni Uzaq Kainatlarda Axtarıram'
+listened_at = '2025-06-27T18:33:56Z'
+
+[[tracks]]
+name = 'Getmə'
+artist = 'Violet Cold'
+album = 'Səni Uzaq Kainatlarda Axtarıram'
+listened_at = '2025-06-27T18:30:38Z'
+
+[[tracks]]
+name = 'Immersive Collapse'
+artist = 'Violet Cold'
+album = 'Səni Uzaq Kainatlarda Axtarıram'
+listened_at = '2025-06-27T18:24:55Z'
+
+[[tracks]]
+name = 'Shoegaze Rave'
+artist = 'Violet Cold'
+album = 'Səni Uzaq Kainatlarda Axtarıram'
+listened_at = '2025-06-27T18:16:02Z'
+
+[[tracks]]
+name = 'Venus'
+artist = 'Violet Cold'
+album = 'Səni Uzaq Kainatlarda Axtarıram'
+listened_at = '2025-06-27T18:13:16Z'
+
+[[tracks]]
+name = 'Demise'
+artist = 'Violet Cold'
+album = 'Səni Uzaq Kainatlarda Axtarıram'
+listened_at = '2025-06-27T18:07:38Z'
+
+[[tracks]]
 name = 'Artificial Love'
 artist = 'Violet Cold'
 album = 'Səni Uzaq Kainatlarda Axtarıram'
