@@ -1,4 +1,106 @@
 [[tracks]]
+name = 'Man of the Year'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T22:16:18Z'
+
+[[tracks]]
+name = 'Shapeshifter'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T22:03:50Z'
+
+[[tracks]]
+name = 'What Was That'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T22:00:21Z'
+
+[[tracks]]
+name = 'Hammer'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:57:07Z'
+
+[[tracks]]
+name = 'David'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:53:42Z'
+
+[[tracks]]
+name = 'If She Could See Me Now'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:50:45Z'
+
+[[tracks]]
+name = 'Broken Glass'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:47:31Z'
+
+[[tracks]]
+name = 'GRWM'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:44:55Z'
+
+[[tracks]]
+name = 'Clearblue'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:42:58Z'
+
+[[tracks]]
+name = 'Current Affairs'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:39:40Z'
+
+[[tracks]]
+name = 'Favourite Daughter'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:36:11Z'
+
+[[tracks]]
+name = 'Man of the Year'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:33:10Z'
+
+[[tracks]]
+name = 'Shapeshifter'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:28:53Z'
+
+[[tracks]]
+name = 'What Was That'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:25:24Z'
+
+[[tracks]]
+name = 'Hammer'
+artist = 'Lorde'
+album = 'Virgin'
+listened_at = '2025-06-27T21:22:12Z'
+
+[[tracks]]
+name = 'Savior'
+artist = 'Hollywood Undead'
+album = 'SAVIOR'
+listened_at = '2025-06-27T21:17:03Z'
+
+[[tracks]]
+name = 'Savior'
+artist = 'Hollywood Undead'
+album = 'SAVIOR'
+listened_at = '2025-06-27T21:12:15Z'
+
+[[tracks]]
 name = 'The Antimatter'
 artist = 'Unreqvited'
 album = 'A Pathway to the Moon'
