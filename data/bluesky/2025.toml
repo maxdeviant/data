@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lsuqda5osk2c'
+created_at = '2025-07-01T03:16:35.339Z'
+text = 'Bill, Bill, Bill!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3lsuofpxj4k22'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lst5p5m7a22v'
 created_at = '2025-06-30T12:10:34.488Z'
 text = 'Someone should invent a week where it’s easier to switch between work mode and weekend mode.'
