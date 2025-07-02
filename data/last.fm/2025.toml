@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Failure'
+artist = 'Breaking Benjamin'
+album = 'Dark Before Dawn'
+listened_at = '2025-07-02T03:31:21Z'
+
+[[tracks]]
+name = 'Dark'
+artist = 'Breaking Benjamin'
+album = 'Dark Before Dawn'
+listened_at = '2025-07-02T03:29:12Z'
+
+[[tracks]]
 name = 'So Cold - Remix'
 artist = 'Breaking Benjamin'
 album = 'We Are Not Alone'
