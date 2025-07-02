@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lsy7xl4cgk2m'
+created_at = '2025-07-02T12:34:23.259Z'
+text = '''
+Big fan of Justfiles!
+
+I wasn’t aware that you can nest them; seems pretty handy.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:x7omzi5ydqux3nr2dcorz3o2/app.bsky.feed.post/3lsw7cd4gw42e'
+author_did = 'did:plc:x7omzi5ydqux3nr2dcorz3o2'
+author_handle = 'jmduke.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lswhxoywu22d'
 created_at = '2025-07-01T19:52:17.800Z'
 text = 'What a day to see this when I woke up to my fridge making new noises.'
