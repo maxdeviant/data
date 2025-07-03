@@ -2,6 +2,12 @@
 name = 'the white mountain view'
 artist = 'Panopticon'
 album = 'The White Mountain View'
+listened_at = '2025-07-03T14:26:49Z'
+
+[[tracks]]
+name = 'the white mountain view'
+artist = 'Panopticon'
+album = 'The White Mountain View'
 listened_at = '2025-07-03T14:15:58Z'
 
 [[tracks]]
