@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lt5fp4m6u62m'
+created_at = '2025-07-04T14:00:20.171Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lt5bqrx3wk2f'
+created_at = '2025-07-04T12:49:41.722Z'
+text = '''
+I think I read the Eragon books (the ones that were out at the time, at least) when I was around that age.
+
+Just finished reading them again and the descriptions of violence are a bit more gruesome than I remember from as a teen, so do with that what you will 😅'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uyqnubfj3qlho6psy6uvvt6u/app.bsky.feed.post/3lt5bgcrm4c2g'
+author_did = 'did:plc:uyqnubfj3qlho6psy6uvvt6u'
+author_handle = 'scoiattolo.mountainherder.xyz'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lszusxc2lk2p'
 created_at = '2025-07-03T04:20:16.574Z'
 text = '“I really wish I could divest myself, but the Nazis are my biggest customers!”'
