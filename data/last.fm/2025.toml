@@ -1,4 +1,22 @@
 [[tracks]]
+name = '''This Mortal Coil's Rusted'''
+artist = 'Panopticon'
+album = '''This Mortal Coil's Rusted'''
+listened_at = '2025-07-05T00:33:42Z'
+
+[[tracks]]
+name = 'Ever North'
+artist = 'Panopticon'
+album = 'Ever North'
+listened_at = '2025-07-05T00:28:56Z'
+
+[[tracks]]
+name = 'And Again Into the Light'
+artist = 'Panopticon'
+album = '...and Again Into the Light'
+listened_at = '2025-07-04T03:39:55Z'
+
+[[tracks]]
 name = '''Winter's Ghost'''
 artist = 'Panopticon'
 album = 'The Rime of Memory'
