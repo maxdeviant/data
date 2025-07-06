@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltawtvlpo222'
+created_at = '2025-07-05T23:45:14.001Z'
+text = '''
+It’s Day 2 of my ComputerCraft adventures and things are getting interesting.
+
+I wrote a bit about the journey so far:
+
+maxdeviant.com/posts/2025/t...'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltawmvoz5s22'
+created_at = '2025-07-05T23:41:19.227Z'
+text = '''
+This is so relatable!
+
+I’ve been messing around with ComputerCraft since yesterday:
+
+maxdeviant.com/posts/2025/t...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wovfeu2jgwq6bb2smkfz3vgu/app.bsky.feed.post/3lt5v26vsv22b'
+author_did = 'did:plc:wovfeu2jgwq6bb2smkfz3vgu'
+author_handle = 'sarahedo.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lt6gnyyxbs2r'
 created_at = '2025-07-04T23:50:16.908Z'
 text = 'Going down the ComputerCraft rabbit hole.'
