@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltazra3z7k2b'
+created_at = '2025-07-06T00:37:25.582Z'
+text = '''
+I'm "cheating" a bit by editing all my programs externally using Zed and then have some tooling to copy them into the server folder.
+
+I definitely couldn't handle doing anything complex in the built-in editor either 😅
+
+I may have to give Create a try as well!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wovfeu2jgwq6bb2smkfz3vgu/app.bsky.feed.post/3ltazm2qttc2l'
+author_did = 'did:plc:wovfeu2jgwq6bb2smkfz3vgu'
+author_handle = 'sarahedo.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltawtvlpo222'
 created_at = '2025-07-05T23:45:14.001Z'
 text = '''
