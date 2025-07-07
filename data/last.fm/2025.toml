@@ -2,6 +2,30 @@
 name = 'the white mountain view'
 artist = 'Panopticon'
 album = 'The White Mountain View'
+listened_at = '2025-07-07T01:05:19Z'
+
+[[tracks]]
+name = 'the white mountain view'
+artist = 'Panopticon'
+album = 'The White Mountain View'
+listened_at = '2025-07-07T00:54:27Z'
+
+[[tracks]]
+name = 'the white mountain view'
+artist = 'Panopticon'
+album = 'The White Mountain View'
+listened_at = '2025-07-07T00:43:35Z'
+
+[[tracks]]
+name = 'the white mountain view'
+artist = 'Panopticon'
+album = 'The White Mountain View'
+listened_at = '2025-07-07T00:32:44Z'
+
+[[tracks]]
+name = 'the white mountain view'
+artist = 'Panopticon'
+album = 'The White Mountain View'
 listened_at = '2025-07-05T13:09:02Z'
 
 [[tracks]]
