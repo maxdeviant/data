@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lthusp5kis2a'
+created_at = '2025-07-08T17:57:24.375Z'
+text = '''
+Wish there was a way to have GitHub auto-lock PRs after a certain amount of time has elapsed after merging.
+
+Can't tell you how many times someone will come along and necro an old Zed PR.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltfz7fps3c2e'
 created_at = '2025-07-08T00:10:46.186Z'
 text = 'This looks divine 🤤'
