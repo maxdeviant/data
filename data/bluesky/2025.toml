@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltii22yvic2f'
+created_at = '2025-07-08T23:41:32.782Z'
+text = 'Gets me all the time in SQL 😭'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:g4kfvq6qttlpqiwfzmz2o73c/app.bsky.feed.post/3ltih66lbqc24'
+author_did = 'did:plc:g4kfvq6qttlpqiwfzmz2o73c'
+author_handle = 'pcwalton.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltifegs6us2f'
+created_at = '2025-07-08T22:53:39.464Z'
+text = 'Happy birthday! 🥳'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:xfjf7fkhv6rwsx5e6p2ar37o/app.bsky.feed.post/3ltidzmpwq22f'
+author_did = 'did:plc:xfjf7fkhv6rwsx5e6p2ar37o'
+author_handle = 'hazelweakly.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lthusp5kis2a'
 created_at = '2025-07-08T17:57:24.375Z'
 text = '''
