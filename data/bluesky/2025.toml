@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltmxs24nxs2t'
+created_at = '2025-07-10T18:34:02.244Z'
+text = '''
+It’s been a blast getting to work with you, and myself and the rest of the team will miss having you around!
+
+Best of luck on your next gig 🙂'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5dnwnjydruv7wmbi33xchkr6/app.bsky.feed.post/3ltmwi6t5k22e'
+author_did = 'did:plc:5dnwnjydruv7wmbi33xchkr6'
+author_handle = 'nate.rip'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltl6oyqqxc2r'
 created_at = '2025-07-10T01:32:16.857Z'
 text = '“It feels like an added humiliation to live through all this and have it all feel so flat and meaningless. Everyday feels like an extended ritual exercise in how much barbaric cruelty can people take.”'
