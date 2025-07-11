@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltnvtae3ns2q'
+created_at = '2025-07-11T03:31:34.480Z'
+text = 'So hearing this makes me think that maybe I stick with my automatic watch and forgo adding yet another notification delivery device to my person.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltnvtaar7k2q'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltnvtaar7k2q'
+created_at = '2025-07-11T03:31:34.479Z'
+text = '''
+"But tracking! Biometrics! Yeah, sure. The reality is I cannot point to a single action or decision I've made based on the data that my Apple Watch has collected for me over the past year or so."
+
+As someone who doesn't have an Apple Watch, this is the reason that I've considered getting one.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:x7omzi5ydqux3nr2dcorz3o2/app.bsky.feed.post/3ltnraabfpo2p'
+author_did = 'did:plc:x7omzi5ydqux3nr2dcorz3o2'
+author_handle = 'jmduke.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltmxs24nxs2t'
 created_at = '2025-07-10T18:34:02.244Z'
 text = '''
