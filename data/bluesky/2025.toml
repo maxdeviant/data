@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltnyo5wfys22'
+created_at = '2025-07-11T04:22:25.495Z'
+text = 'I’m at the point now where every time I go into a Fantano video about an album I really enjoy I already know he’s going to give it a 2 to light 3 🙄'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3ltnxlwn6sk22'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltnvtae3ns2q'
 created_at = '2025-07-11T03:31:34.480Z'
 text = 'So hearing this makes me think that maybe I stick with my automatic watch and forgo adding yet another notification delivery device to my person.'
