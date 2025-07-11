@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltpeeqi62s2a'
+created_at = '2025-07-11T17:24:34.048Z'
+text = 'I think, therefore IAM.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e5nncb3dr5thdkjir5cfaqfe/app.bsky.feed.post/3ltpdtjb7rk2q'
+author_did = 'did:plc:e5nncb3dr5thdkjir5cfaqfe'
+author_handle = 'xeiaso.net'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltoyyyprdf27'
 created_at = '2025-07-11T14:01:07.987Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
