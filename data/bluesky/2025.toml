@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltoserxubc22'
+created_at = '2025-07-11T12:02:28.258Z'
+text = 'NEET dad life'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5dnwnjydruv7wmbi33xchkr6/app.bsky.feed.post/3ltosda6ot22h'
+author_did = 'did:plc:5dnwnjydruv7wmbi33xchkr6'
+author_handle = 'nate.rip'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltoqmupqxc22'
+created_at = '2025-07-11T11:31:12.090Z'
+text = 'Just watched it last night. It’s sooooo good!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ybbiy4w7zkngubrwarzizgv6/app.bsky.feed.post/3ltoazkvlsc2n'
+author_did = 'did:plc:ybbiy4w7zkngubrwarzizgv6'
+author_handle = 'byjessicaelena.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltnyo5wfys22'
 created_at = '2025-07-11T04:22:25.495Z'
 text = 'I’m at the point now where every time I go into a Fantano video about an album I really enjoy I already know he’s going to give it a 2 to light 3 🙄'
