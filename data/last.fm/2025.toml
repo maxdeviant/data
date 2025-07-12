@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'FYP'
+artist = 'Julia Wolf'
+album = 'pressure'
+listened_at = '2025-07-11T22:12:26Z'
+
+[[tracks]]
+name = 'Loser'
+artist = 'Julia Wolf'
+album = 'pressure'
+listened_at = '2025-07-11T22:10:19Z'
+
+[[tracks]]
+name = 'Fingernails'
+artist = 'Julia Wolf'
+album = 'pressure'
+listened_at = '2025-07-11T22:06:51Z'
+
+[[tracks]]
+name = 'PEARL'
+artist = 'Julia Wolf'
+album = 'pressure'
+listened_at = '2025-07-11T22:04:40Z'
+
+[[tracks]]
+name = 'KILL YOU OFF'
+artist = 'Julia Wolf'
+album = 'pressure'
+listened_at = '2025-07-11T22:02:27Z'
+
+[[tracks]]
+name = 'Sleeptalk'
+artist = 'Dayseeker'
+album = 'Sleeptalk (Deluxe)'
+listened_at = '2025-07-11T18:36:20Z'
+
+[[tracks]]
 name = 'Burial Plot'
 artist = 'Dayseeker'
 album = 'Sleeptalk (Deluxe)'
