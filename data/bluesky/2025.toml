@@ -1,4 +1,30 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltreljauwk2e'
+created_at = '2025-07-12T12:33:40.827Z'
+text = '''
+Not blaming the Zen browser developer for this, to be clear.
+
+I just think that browsers are such a Herculean project that using one that is primarily maintained by a single person is not a good idea for one’s security posture.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltre4bmvrs2e'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltre4bmvrs2e'
+created_at = '2025-07-12T12:25:09.516Z'
+text = '''
+I won’t be using Zen because of issues like this:
+
+github.com/zen-browser/...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:fz7kayw4wxmkdzrtiv6r7i4d/app.bsky.feed.post/3ltrbj37gh22u'
+author_did = 'did:plc:fz7kayw4wxmkdzrtiv6r7i4d'
+author_handle = 'aymennasri.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltqjcpyt7s2s'
 created_at = '2025-07-12T04:25:34.883Z'
 text = '''
