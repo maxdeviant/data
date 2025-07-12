@@ -1,4 +1,66 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltqjcpyt7s2s'
+created_at = '2025-07-12T04:25:34.883Z'
+text = '''
+A burial plot for you and I
+Where we can both learn to die'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltqimldam22w'
+created_at = '2025-07-12T04:13:11.784Z'
+text = 'Xlass'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e5nncb3dr5thdkjir5cfaqfe/app.bsky.feed.post/3ltqikwxnhk2d'
+author_did = 'did:plc:e5nncb3dr5thdkjir5cfaqfe'
+author_handle = 'xeiaso.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltqhnemzjc2j'
+created_at = '2025-07-12T03:55:44.578Z'
+text = '''Think I'm about ready to crash out.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltqh5oolhs2j'
+created_at = '2025-07-12T03:46:58.244Z'
+text = 'Even though I have it working again in Chrome, this is my sign to start spending more time in Firefox.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltqh3gq2sk2j'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltqh3gq2sk2j'
+created_at = '2025-07-12T03:45:42.793Z'
+text = 'Fuck you, Google 🖕🏻'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltqgyhxlqk2j'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltqgyhxlqk2j'
+created_at = '2025-07-12T03:44:03.426Z'
+text = '''
+You can still get it back with a bit of work:
+
+1. Go to `chrome://flags` and enable "Allow legacy extension manifest versions"
+2. Download the Chromium zip from github.com/gorhill/uBlo...
+3. Go to `chrome://extensions` and use "Load unpacked" to load the unzipped extension'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltqgragxl22j'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltqgragxl22j'
+created_at = '2025-07-12T03:40:00.659Z'
+text = 'Looks like Chrome is back on its bullshit.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltq6l7qqss27'
 created_at = '2025-07-12T01:13:28.670Z'
 text = '''
