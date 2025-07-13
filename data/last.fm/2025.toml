@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Sunshine State'
+artist = 'Julia Wolf'
+album = 'pressure'
+listened_at = '2025-07-13T12:09:06Z'
+
+[[tracks]]
 name = 'In My Room'
 artist = 'Julia Wolf'
 album = 'pressure'
