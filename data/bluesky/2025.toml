@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lttp7ll2e22z'
+created_at = '2025-07-13T10:49:11.241Z'
+text = 'Going to start referring to all my endeavors as “THE TALK OF THE WORLD”.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:d7tmskct5roydblt7ws6mcwt/app.bsky.feed.post/3ltt46k43j22m'
+author_did = 'did:plc:d7tmskct5roydblt7ws6mcwt'
+author_handle = 'graydon-pub.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltreljauwk2e'
 created_at = '2025-07-12T12:33:40.827Z'
 text = '''
