@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'dive'
+artist = 'chauncy'
+album = 'dive'
+listened_at = '2025-07-14T15:03:11Z'
+
+[[tracks]]
+name = 'The War That You Are'
+artist = 'Born of Osiris'
+album = 'Through Shadows'
+listened_at = '2025-07-14T14:59:31Z'
+
+[[tracks]]
+name = 'My Mind Is A Mountain'
+artist = 'Deftones'
+album = 'my mind is a mountain'
+listened_at = '2025-07-14T14:56:40Z'
+
+[[tracks]]
+name = 'it follows'
+artist = 'Salt+'
+album = 'angel teeth'
+listened_at = '2025-07-14T14:53:01Z'
+
+[[tracks]]
 name = 'Drunk'
 artist = 'Dayseeker'
 album = 'Sleeptalk (Deluxe)'
