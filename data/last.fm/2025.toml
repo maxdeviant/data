@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Girls'
+artist = 'Julia Wolf'
+album = 'pressure'
+listened_at = '2025-07-14T00:23:24Z'
+
+[[tracks]]
+name = 'Limewire'
+artist = 'Julia Wolf'
+album = 'pressure'
+listened_at = '2025-07-14T00:21:08Z'
+
+[[tracks]]
 name = 'Sunshine State'
 artist = 'Julia Wolf'
 album = 'pressure'
