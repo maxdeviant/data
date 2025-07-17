@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu4hj4fed22u'
+created_at = '2025-07-16T22:25:18.580Z'
+text = 'Oh, I am gazing!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:z2rokxrttw5254hogmucux2x/app.bsky.feed.post/3lu4grn2n5222'
+author_did = 'did:plc:z2rokxrttw5254hogmucux2x'
+author_handle = 'lookitup.baby'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu4e24tamc2u'
+created_at = '2025-07-16T21:23:14.493Z'
+text = 'Are you riding around town like this?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3lu4dnytdzc2r'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ltxpo345322f'
 created_at = '2025-07-15T01:07:56.244Z'
 text = 'What an incredible Game Changer episode!'
