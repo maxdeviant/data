@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'A Frame'
+artist = 'Our Chronicle'
+album = 'Between the Lines'
+listened_at = '2025-07-17T00:41:43Z'
+
+[[tracks]]
+name = 'Opening'
+artist = 'Our Chronicle'
+album = 'Between the Lines'
+listened_at = '2025-07-17T00:40:02Z'
+
+[[tracks]]
 name = 'A Crystal Lattice'
 artist = 'Ghost Bath'
 album = 'Self Loather'
