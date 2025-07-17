@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu652usifk2u'
+created_at = '2025-07-17T14:23:42.919Z'
+text = 'Whoa, that is quite the view!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6zmpivlni6audavjxmfizvlr/app.bsky.feed.post/3lu64hpyjts25'
+author_did = 'did:plc:6zmpivlni6audavjxmfizvlr'
+author_handle = 'music.chriskrycho.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu4hj4fed22u'
 created_at = '2025-07-16T22:25:18.580Z'
 text = 'Oh, I am gazing!'
