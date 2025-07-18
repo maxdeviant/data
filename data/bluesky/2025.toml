@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu7kvayx7k2x'
+created_at = '2025-07-18T04:03:46.510Z'
+text = '''
+That aside, these kinds of logs are very useful for us! Will make sure to pass along to the rest of the team.
+
+We’re starting work on edit prediction v2 in the coming weeks.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qe4q32ixqribeorbqdkd6lrh/app.bsky.feed.post/3lu7khqhmec2j'
+author_did = 'did:plc:qe4q32ixqribeorbqdkd6lrh'
+author_handle = 'passcod.nz'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu7k5h7cas2x'
+created_at = '2025-07-18T03:50:27.703Z'
+text = 'A note about some of these Zed entries: you have the model listed as a Claude variant, but it sounds like you’re using the inline completions—edit predictions, as we call them—which would be powered by our Zeta model.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qe4q32ixqribeorbqdkd6lrh/app.bsky.feed.post/3lu7ifcczhk2j'
+author_did = 'did:plc:qe4q32ixqribeorbqdkd6lrh'
+author_handle = 'passcod.nz'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu7bjxu5b22j'
 created_at = '2025-07-18T01:16:24.141Z'
 text = '''
