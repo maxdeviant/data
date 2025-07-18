@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu7bjxu5b22j'
+created_at = '2025-07-18T01:16:24.141Z'
+text = '''
+I've had success with using the News Feed Eradicator extension to block out my Facebook feed.
+
+Means I can keep my account and still visit people's profiles if I need to, but don't get the feed pushed in my face.
+
+github.com/jordwest/new...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dgbfbbzpfofxaqv42yj26xsd/app.bsky.feed.post/3lu7bfcohh22n'
+author_did = 'did:plc:dgbfbbzpfofxaqv42yj26xsd'
+author_handle = 'brian.blue'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu6xsjt3ic2n'
 created_at = '2025-07-17T22:22:13.998Z'
 text = '''
