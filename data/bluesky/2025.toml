@@ -1,4 +1,25 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu6xsjt3ic2n'
+created_at = '2025-07-17T22:22:13.998Z'
+text = '''
+I mostly go to Lobste.rs these days instead of Hacker News and it seems (?) like the balance is a bit better there.
+
+Still agree with the general premise, though. I feel like an LLM post on either site ultimately ends up with a comment section of people beating dead horses on either side.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:bdkc5h2smfxl266ptjhztd27/app.bsky.feed.post/3lu6x5uffq22r'
+author_did = 'did:plc:bdkc5h2smfxl266ptjhztd27'
+author_handle = 'stuffwithstuff.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu6worktr22n'
+created_at = '2025-07-17T22:02:14.157Z'
+text = '''
+Had the misfortune of having to touch Next.js today and got burned by not slapping a `cache: "no-store"` on a `fetch` request.
+
+What a terrible framework.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lu652usifk2u'
 created_at = '2025-07-17T14:23:42.919Z'
 text = 'Whoa, that is quite the view!'
