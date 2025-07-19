@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Going Home'
+artist = 'The Aces'
+album = 'Under My Influence'
+listened_at = '2025-07-19T03:54:28Z'
+
+[[tracks]]
+name = 'rage'
+artist = 'President'
+album = 'RAGE'
+listened_at = '2025-07-19T03:01:57Z'
+
+[[tracks]]
+name = 'Burial Plot'
+artist = 'Dayseeker'
+album = 'Sleeptalk (Deluxe)'
+listened_at = '2025-07-19T02:50:44Z'
+
+[[tracks]]
 name = 'Sleeptalk'
 artist = 'Dayseeker'
 album = 'Sleeptalk (Deluxe)'

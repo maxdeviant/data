@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3luc6j6o2p22g'
+created_at = '2025-07-19T05:00:15.717Z'
+text = 'Can’t believe they haven’t tried that yet, honestly.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lubp3plhcs2x'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3luam7qdesf2d'
 created_at = '2025-07-18T14:00:11.297Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
