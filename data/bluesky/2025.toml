@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3luefhgdbq22s'
+created_at = '2025-07-20T02:09:52.312Z'
+text = '''
+Been messing around with some procgen stuff lately and it brought you to mind 😄
+
+You have any gamedev projects going on these days?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:x3m7npg7dn4vgc3abozdvuz7/app.bsky.feed.post/3ludzgvakis2t'
+author_did = 'did:plc:x3m7npg7dn4vgc3abozdvuz7'
+author_handle = 'eigenbom.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ludnkkbl7k2v'
 created_at = '2025-07-19T19:02:07.311Z'
 text = '''
