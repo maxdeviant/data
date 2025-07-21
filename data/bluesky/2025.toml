@@ -1,4 +1,25 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lui7qgc75c2r'
+created_at = '2025-07-21T14:38:10.769Z'
+text = '''
+The visual imagery of you having your own cannon that you can shoot yourself out of Evel Knievel-style whenever you want is great.
+
+(Sorry for latching on to a spelling mistake)'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3lui7cjmx7c2s'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3luhznuti2c2v'
+created_at = '2025-07-21T12:49:22.900Z'
+text = '''
+Andy Byron walked so all the other people having affairs could run.
+
+Now if you get caught on the kiss cam with your mistress and duck out of sight, everyone will just think you’re doing a bit.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lug7bj44ck2o'
 created_at = '2025-07-20T19:24:30.920Z'
 text = ''
