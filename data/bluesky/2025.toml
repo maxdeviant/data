@@ -1,4 +1,16 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3luq22nk3q227'
+created_at = '2025-07-24T17:17:49.368Z'
+text = '''
+Looking for a new editor
+Ask the company if their editor is custom or a VS Code fork
+Company doesn't understand
+Pull out diagram explaining what is custom and what is a VS code fork
+Company laughs and says "it's a good editor, sir"
+Download the editor
+It's a VS Code fork'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3luph2b7ams2v'
 created_at = '2025-07-24T11:37:35.335Z'
 text = 'There go my plans of moving to Thailand to escape the US 😭'
