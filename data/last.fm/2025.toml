@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Someone Who Cares'
+artist = 'Three Days Grace'
+album = 'Life Starts Now'
+listened_at = '2025-07-26T02:27:54Z'
+
+[[tracks]]
+name = 'Last To Know'
+artist = 'Three Days Grace'
+album = 'Life Starts Now'
+listened_at = '2025-07-26T02:24:27Z'
+
+[[tracks]]
+name = 'No More'
+artist = 'Three Days Grace'
+album = 'Life Starts Now'
+listened_at = '2025-07-26T02:20:44Z'
+
+[[tracks]]
+name = 'The Good Life'
+artist = 'Three Days Grace'
+album = 'Life Starts Now'
+listened_at = '2025-07-26T02:17:48Z'
+
+[[tracks]]
+name = 'World So Cold'
+artist = 'Three Days Grace'
+album = 'Life Starts Now'
+listened_at = '2025-07-26T02:09:51Z'
+
+[[tracks]]
+name = 'Break'
+artist = 'Three Days Grace'
+album = 'Life Starts Now'
+listened_at = '2025-07-26T00:33:36Z'
+
+[[tracks]]
+name = 'Bitter Taste'
+artist = 'Three Days Grace'
+album = 'Life Starts Now'
+listened_at = '2025-07-26T00:29:36Z'
+
+[[tracks]]
+name = 'Mayday'
+artist = 'Three Days Grace'
+album = 'Kill Me Fast'
+listened_at = '2025-07-25T22:25:46Z'
+
+[[tracks]]
 name = 'Apologies'
 artist = 'Three Days Grace'
 album = 'Kill Me Fast'
