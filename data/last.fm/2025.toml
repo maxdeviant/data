@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Desolation'
+artist = 'Imminence'
+album = 'The Return of The Black'
+listened_at = '2025-07-28T18:03:00Z'
+
+[[tracks]]
+name = 'Beyond the Pale'
+artist = 'Imminence'
+album = 'The Return of The Black'
+listened_at = '2025-07-28T17:58:46Z'
+
+[[tracks]]
+name = '''The Only Heaven You'll Know'''
+artist = 'Caskets'
+album = '''The Only Heaven You'll Know'''
+listened_at = '2025-07-28T17:55:03Z'
+
+[[tracks]]
+name = 'Kill Me Fast'
+artist = 'Three Days Grace'
+album = 'Kill Me Fast'
+listened_at = '2025-07-28T14:54:48Z'
+
+[[tracks]]
 name = 'Thy Shadow'
 artist = 'Beautiful Death'
 album = 'Thy Shadow'
