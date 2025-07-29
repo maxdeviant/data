@@ -2,6 +2,96 @@
 name = 'rage'
 artist = 'President'
 album = 'RAGE'
+listened_at = '2025-07-29T20:21:00Z'
+
+[[tracks]]
+name = 'Going Home'
+artist = 'The Aces'
+album = 'Under My Influence'
+listened_at = '2025-07-29T20:17:04Z'
+
+[[tracks]]
+name = 'Infohazard'
+artist = 'Ninajirachi'
+album = 'Infohazard'
+listened_at = '2025-07-29T20:12:34Z'
+
+[[tracks]]
+name = 'iPod Touch'
+artist = 'Ninajirachi'
+album = 'iPod Touch'
+listened_at = '2025-07-29T20:09:17Z'
+
+[[tracks]]
+name = 'Catalyst'
+artist = 'The Unending'
+album = 'Catalyst'
+listened_at = '2025-07-29T20:04:29Z'
+
+[[tracks]]
+name = 'Tirida'
+artist = 'NEVBORN'
+album = 'Alkaios · Part II · The Peacock'
+listened_at = '2025-07-29T19:51:36Z'
+
+[[tracks]]
+name = 'God Fearing Man'
+artist = 'Imminence'
+album = 'The Return of The Black'
+listened_at = '2025-07-29T19:46:16Z'
+
+[[tracks]]
+name = 'Desolation'
+artist = 'Imminence'
+album = 'The Return of The Black'
+listened_at = '2025-07-29T19:42:06Z'
+
+[[tracks]]
+name = 'Beyond the Pale'
+artist = 'Imminence'
+album = 'The Return of The Black'
+listened_at = '2025-07-29T19:37:52Z'
+
+[[tracks]]
+name = '''The Only Heaven You'll Know'''
+artist = 'Caskets'
+album = '''The Only Heaven You'll Know'''
+listened_at = '2025-07-29T19:34:08Z'
+
+[[tracks]]
+name = 'Kill Me Fast'
+artist = 'Three Days Grace'
+album = 'Kill Me Fast'
+listened_at = '2025-07-29T19:30:50Z'
+
+[[tracks]]
+name = 'Along the Winding Path'
+artist = 'Beautiful Death'
+album = 'Thy Shadow'
+listened_at = '2025-07-29T19:28:52Z'
+
+[[tracks]]
+name = 'Queen'
+artist = 'CASHFORGOLD'
+album = 'manic pixie nightmare'
+listened_at = '2025-07-29T19:24:56Z'
+
+[[tracks]]
+name = 'Nunca Volveré A Amar'
+artist = 'Dead On A Sunday'
+album = 'Nunca Volveré A Amar'
+listened_at = '2025-07-29T19:21:08Z'
+
+[[tracks]]
+name = 'Sleeptalk'
+artist = 'Dayseeker'
+album = 'Sleeptalk (Deluxe)'
+listened_at = '2025-07-29T16:23:46Z'
+
+[[tracks]]
+name = 'rage'
+artist = 'President'
+album = 'RAGE'
 listened_at = '2025-07-29T16:19:37Z'
 
 [[tracks]]
