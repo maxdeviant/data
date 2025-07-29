@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lv2tzerhlc2s'
+created_at = '2025-07-29T00:29:01.289Z'
+text = 'Finally vindicated for wearing skinny jeans this whole time'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:z2rokxrttw5254hogmucux2x/app.bsky.feed.post/3lv2sv5qku224'
+author_did = 'did:plc:z2rokxrttw5254hogmucux2x'
+author_handle = 'lookitup.baby'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3luwa3ipfws2g'
 created_at = '2025-07-27T04:21:38.736Z'
 text = 'Reminds me of this comic I saw earlier this week: bsky.app/profile/full...'
