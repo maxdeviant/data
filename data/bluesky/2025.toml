@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lv5jaswz6s2r'
+created_at = '2025-07-30T01:54:19.088Z'
+text = 'Unless you’re JD Vance, then it’s not enough to merely sit on it.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3lv5itn7gs223'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lv2ubiiipc2s'
 created_at = '2025-07-29T00:33:33.626Z'
 text = 'The police are taking action against the weather'
