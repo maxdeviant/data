@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Divisionary'
+artist = 'ERRA'
+album = 'ERRA'
+listened_at = '2025-07-31T00:55:44Z'
+
+[[tracks]]
+name = 'Gungrave'
+artist = 'ERRA'
+album = 'ERRA'
+listened_at = '2025-07-31T00:51:44Z'
+
+[[tracks]]
+name = 'Snowblood'
+artist = 'ERRA'
+album = 'ERRA'
+listened_at = '2025-07-31T00:47:31Z'
+
+[[tracks]]
+name = 'Kill Me Fast'
+artist = 'Three Days Grace'
+album = 'Kill Me Fast'
+listened_at = '2025-07-31T00:46:12Z'
+
+[[tracks]]
 name = 'Burial Plot'
 artist = 'Dayseeker'
 album = 'Sleeptalk (Deluxe)'
