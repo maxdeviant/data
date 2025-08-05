@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvmqfje2ic23'
+created_at = '2025-08-05T03:12:09.069Z'
+text = '''I don't know who Labubu is, and at this point I'm too afraid to ask.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvmpiz4nic23'
+created_at = '2025-08-05T02:56:12.526Z'
+text = 'When will we reach the point of “deep research” meaning that the LLM goes off to play Qud for a few hours?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3lvmpaq4r2227'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvdssisizq26'
 created_at = '2025-08-01T14:01:13.750Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
