@@ -1,4 +1,59 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvqchotd3c2d'
+created_at = '2025-08-06T13:13:28.489Z'
+text = 'Because an “are you 18 or over?” sign has definitely always prevented minors from entering a digital space.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:7z74hulsehboe53mcqnpu6hv/app.bsky.feed.post/3lvqc4frkes26'
+author_did = 'did:plc:7z74hulsehboe53mcqnpu6hv'
+author_handle = 'bongtologicalshock.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvqc37rdgk2d'
+created_at = '2025-08-06T13:06:29.949Z'
+text = 'But it’s all a bit moot since I’d never recommend or choose to use them of my own volition anymore after CEO showed his true colors 🤷🏻‍♂️'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvqc37ohn22d'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvqc37ohn22d'
+created_at = '2025-08-06T13:06:29.948Z'
+text = '''
+I never really had any issues with my personal, static site back when I hosted it there.
+
+But have had innumerable issues with various work-related projects that have been hosted on Vercel.
+
+Like how you have to jump through hoops if you want to create a new project not synced to a GitHub repo.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3lvqboxshec2v'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvqbo5gbos2d'
+created_at = '2025-08-06T12:59:11.374Z'
+text = 'Vercel is also just a dogwater platform, in general.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3lvpl2g2dh22f'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvqaeeqqr22d'
+created_at = '2025-08-06T12:35:49.760Z'
+text = 'Ah, that would explain why I didn’t see the post in question:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3lvq7xk62bs2d'
+author_did = 'did:plc:fpruhuo22xkm5o7ttr2ktxdo'
+author_handle = 'danabra.mov'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvq6f74jfc2d'
 created_at = '2025-08-06T12:00:29.938Z'
 text = 'Hopefully the US government doesn’t ban IDEs next.'
