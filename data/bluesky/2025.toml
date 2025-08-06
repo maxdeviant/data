@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvpbmqqsv223'
+created_at = '2025-08-06T03:25:44.797Z'
+text = '"Today we will be taking Claude Sonnet 3 out back and shooting it in the head"'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lvpbfolj522q'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvpaxq66bk23'
+created_at = '2025-08-06T03:13:59.542Z'
+text = '''
+Been listening to a lot of Wolves in the Throne Room the past couple days.
+
+Looks like I'm back on my black metal bullshit.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvoth5mukk2t'
 created_at = '2025-08-05T23:12:04.585Z'
 text = 'RFK, Jr. can fuck ALL the way off.'

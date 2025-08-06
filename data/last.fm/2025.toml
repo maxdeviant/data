@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'The Old Ones Are With Us'
+artist = 'Wolves in the Throne Room'
+album = 'Thrice Woven'
+listened_at = '2025-08-06T02:52:15Z'
+
+[[tracks]]
+name = '''Born from the Serpent's Eye'''
+artist = 'Wolves in the Throne Room'
+album = 'Thrice Woven'
+listened_at = '2025-08-06T02:42:40Z'
+
+[[tracks]]
+name = 'Ex Cathedra'
+artist = 'Wolves in the Throne Room'
+album = 'Black Cascade'
+listened_at = '2025-08-06T02:26:50Z'
+
+[[tracks]]
+name = 'Ahrimanic Trance'
+artist = 'Wolves in the Throne Room'
+album = 'Black Cascade'
+listened_at = '2025-08-06T02:02:38Z'
+
+[[tracks]]
+name = 'Wanderer Above the Sea of Fog'
+artist = 'Wolves in the Throne Room'
+album = 'Black Cascade'
+listened_at = '2025-08-06T01:51:05Z'
+
+[[tracks]]
+name = 'Cleansing'
+artist = 'Wolves in the Throne Room'
+album = 'Two Hunters'
+listened_at = '2025-08-05T21:22:49Z'
+
+[[tracks]]
 name = 'Vastness and Sorrow'
 artist = 'Wolves in the Throne Room'
 album = 'Two Hunters'
