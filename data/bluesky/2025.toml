@@ -1,4 +1,50 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvq6f74jfc2d'
+created_at = '2025-08-06T12:00:29.938Z'
+text = 'Hopefully the US government doesn’t ban IDEs next.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3lvq5m5fhi22x'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willman.online'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvq4ltb5es2l'
+created_at = '2025-08-06T11:28:24.904Z'
+text = '''
+In practice, what I found is that using a library like `io-ts` to unify the static and runtime types is table stakes for gaining back any level of confidence in the static types.
+
+I think it should be something that is built-in to the language (and would be interested in seeing the idea explored).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvq4dy3xwc2l'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvq4dy3xwc2l'
+created_at = '2025-08-06T11:24:01.488Z'
+text = 'And then this dynamically-typed value propagates through the system until it finally introduces a type error somewhere else. It could even happen in statically-typed code calling statically-typed code!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvq4dy2d6s2l'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvq4dy2d6s2l'
+created_at = '2025-08-06T11:24:01.487Z'
+text = '''
+At least in TypeScript, throwing a type error would be a drastic improvement over the status quo.
+
+It’s all too common for calling a dynamically-typed function to result in silently returning the wrong shape of data from a statically-typed function (which is now lying about its return type).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qfrekkhphlonkdee4pgjba7s/app.bsky.feed.post/3lvpwbjztgs2r'
+author_did = 'did:plc:qfrekkhphlonkdee4pgjba7s'
+author_handle = 'without.boats'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvpbmqqsv223'
 created_at = '2025-08-06T03:25:44.797Z'
 text = '"Today we will be taking Claude Sonnet 3 out back and shooting it in the head"'
