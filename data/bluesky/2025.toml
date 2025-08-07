@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvtlen36xk2c'
+created_at = '2025-08-07T20:30:48.878Z'
+text = 'These days it feels like Googling something is just asking a question to an LLM with extra steps.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvtjuyeia227'
+created_at = '2025-08-07T20:04:10.105Z'
+text = '''
+Is BuildJet just totally down for anyone else?
+
+Nothing on their status page, no other comms from them that I've seen.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvsnyl4pzc2z'
 created_at = '2025-08-07T11:45:05.666Z'
 text = 'This drives me nuts too! People, please just suffix your times in Slack messages with a time zone 😩'
