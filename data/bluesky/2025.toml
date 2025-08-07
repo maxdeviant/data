@@ -1,4 +1,30 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvrlq2gsk22r'
+created_at = '2025-08-07T01:31:52.193Z'
+text = '''
+If you open an issue on the Vue repo and I can flag it to the team internally.
+
+Even better if you have a repo that you're able to share that exhibits the problem, as that will help us diagnose the issue quicker.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvrlq252zc2r'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvrlq252zc2r'
+created_at = '2025-08-07T01:31:52.192Z'
+text = '''
+I remember us having some issues when v2.0 of the language server came out, resulting in us having to pin it to v1.8 for a while.
+
+I thought we fixed those (but I'm not a Vue user, so hard to say). It looks like we may be in a similar situation with v2.0 -> v3.0: github.com/zed-extensio...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3lvrkbisht2z6'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvqm7gtnnk2b'
 created_at = '2025-08-06T16:07:49.094Z'
 text = 'The saying really is true: if you want something done right you have to do it your fucking self.'
