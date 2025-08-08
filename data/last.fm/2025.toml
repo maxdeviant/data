@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Savior'
+artist = 'Hollywood Undead'
+album = 'SAVIOR'
+listened_at = '2025-08-08T01:11:51Z'
+
+[[tracks]]
+name = 'Sleeptalk'
+artist = 'Dayseeker'
+album = 'Sleeptalk (Deluxe)'
+listened_at = '2025-08-07T23:33:58Z'
+
+[[tracks]]
 name = 'rage'
 artist = 'President'
 album = 'RAGE'
