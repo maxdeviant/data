@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Electronic Malfunction'
+artist = 'circa96'
+album = 'Electronic Malfunction'
+listened_at = '2025-08-08T03:56:46Z'
+
+[[tracks]]
+name = '''You've been on my mind'''
+artist = 'Frequency'
+album = '''You've been on my mind'''
+listened_at = '2025-08-08T03:52:59Z'
+
+[[tracks]]
+name = 'Say It'
+artist = 'Veela'
+album = 'VERSATILE'
+listened_at = '2025-08-08T03:49:06Z'
+
+[[tracks]]
+name = 'Renunciation'
+artist = 'Violet Cold'
+album = 'Renunciation'
+listened_at = '2025-08-08T03:19:11Z'
+
+[[tracks]]
+name = 'Switch Play'
+artist = 'd72'
+album = 'Switch Play'
+listened_at = '2025-08-08T03:19:05Z'
+
+[[tracks]]
 name = 'Savior'
 artist = 'Hollywood Undead'
 album = 'SAVIOR'
