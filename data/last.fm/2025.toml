@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'rage'
+artist = 'President'
+album = 'RAGE'
+listened_at = '2025-08-07T23:29:49Z'
+
+[[tracks]]
+name = 'Going Home'
+artist = 'The Aces'
+album = 'Under My Influence'
+listened_at = '2025-08-07T23:25:53Z'
+
+[[tracks]]
+name = 'iPod Touch'
+artist = 'Ninajirachi'
+album = 'iPod Touch'
+listened_at = '2025-08-07T23:22:13Z'
+
+[[tracks]]
+name = 'Infohazard'
+artist = 'Ninajirachi'
+album = 'Infohazard'
+listened_at = '2025-08-07T23:17:39Z'
+
+[[tracks]]
 name = 'Masters Of Rain And Storm'
 artist = 'Wolves in the Throne Room'
 album = 'Primordial Arcana'
