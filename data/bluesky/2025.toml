@@ -1,4 +1,40 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvxrcxnohc2w'
+created_at = '2025-08-09T12:27:54.266Z'
+text = 'Feel like 64GB is the minimum for playing Minecraft'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3lvwynhklv2jd'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvxrap52os2w'
+created_at = '2025-08-09T12:26:38.224Z'
+text = '''
+Going to bed always helps for me. I’ll inevitably have some new insights about the problem in the morning.
+
+And yet I still stay up late slamming my head against the problem instead of stepping away and going to sleep.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:z2rokxrttw5254hogmucux2x/app.bsky.feed.post/3lvx2o5vk5s2u'
+author_did = 'did:plc:z2rokxrttw5254hogmucux2x'
+author_handle = 'lookitup.baby'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvxqg62kn22w'
+created_at = '2025-08-09T12:11:47.900Z'
+text = '''
+Depends on how you interpret the title.
+
+Pretty sure the “AI” is being applied as a descriptor to both, so they’re specifically talking about AI coding *and* AI software engineering technologies.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ttoyg6wb2iamebtm4svedlvk/app.bsky.feed.post/3lvxeutf77c2u'
+author_did = 'did:plc:ttoyg6wb2iamebtm4svedlvk'
+author_handle = 'paxxi.delusional.nu'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvxpowxvnc2w'
 created_at = '2025-08-09T11:58:48.722Z'
 text = 'Wow, that’s quite the ending to this ordeal. So glad to hear she’s back home!'
