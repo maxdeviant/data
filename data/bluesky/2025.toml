@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvxpowxvnc2w'
+created_at = '2025-08-09T11:58:48.722Z'
+text = 'Wow, that’s quite the ending to this ordeal. So glad to hear she’s back home!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4w3lx5jmokfvihilz2q562ev/app.bsky.feed.post/3lvxkovdvp22n'
+author_did = 'did:plc:4w3lx5jmokfvihilz2q562ev'
+author_handle = 'seldo.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvxpkw2e2s2w'
+created_at = '2025-08-09T11:56:33.535Z'
+text = 'Tim “loves the taste of jackboots” Apple'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvwtafuswc2b'
 created_at = '2025-08-09T03:29:36.262Z'
 text = 'Living the dream.'
