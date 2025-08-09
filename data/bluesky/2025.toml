@@ -1,4 +1,32 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvwtafuswc2b'
+created_at = '2025-08-09T03:29:36.262Z'
+text = 'Living the dream.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lvwt3vw7d42y'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvwsmqtbg225'
+created_at = '2025-08-09T03:18:36.657Z'
+text = 'The fishing games on the Switch are about to go so hard.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3lvwrbynnp225'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvwp2sghe22b'
+created_at = '2025-08-09T02:14:53.128Z'
+text = '''
+Blackbraid III came out today, and it is glorious.
+
+open.spotify.com/album/4BXzJi...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lvw3bkfae22t'
 created_at = '2025-08-08T20:20:44.742Z'
 text = 'Another one for the @killedbygoogle.com graveyard:'
