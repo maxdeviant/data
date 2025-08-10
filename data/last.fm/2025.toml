@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Battery Death'
+artist = 'Ninajirachi'
+album = 'I Love My Computer'
+listened_at = '2025-08-10T02:35:23Z'
+
+[[tracks]]
+name = '''It's You'''
+artist = 'Ninajirachi'
+album = 'I Love My Computer'
+listened_at = '2025-08-10T02:23:50Z'
+
+[[tracks]]
+name = 'Sing Good'
+artist = 'Ninajirachi'
+album = 'I Love My Computer'
+listened_at = '2025-08-10T02:21:11Z'
+
+[[tracks]]
+name = 'Specter'
+artist = 'Bad Omens'
+album = 'Specter'
+listened_at = '2025-08-10T00:30:41Z'
+
+[[tracks]]
 name = 'Specter'
 artist = 'Bad Omens'
 album = 'Specter'
