@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lw7kjnmtns2n'
+created_at = '2025-08-12T14:47:40.347Z'
+text = '''
+Good morning!
+
+What kind of tea is that? Looks like white tea, but I can’t be sure.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3lw7k22lf7223'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lw6eblf7gs2e'
 created_at = '2025-08-12T03:23:07.367Z'
 text = 'This section on the Gleam website does a lot of heavy lifting in terms of keeping the worst people out of the community/Discord:'
