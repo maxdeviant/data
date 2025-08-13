@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwadkeg5ws2k'
+created_at = '2025-08-12T22:15:27.791Z'
+text = '''
+Hey, at least that one widens into `unknown`!
+
+I’ve had many bugs from an inadvertent widening into something that is effectively untyped.
+
+Like a `string | "important_flag"` 🙈'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3lwacjbnefc2s'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lw7kjnmtns2n'
 created_at = '2025-08-12T14:47:40.347Z'
 text = '''
