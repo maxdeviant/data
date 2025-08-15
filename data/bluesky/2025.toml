@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwgqngxo4s2t'
+created_at = '2025-08-15T11:25:48.200Z'
+text = '''
+You post about it on Bluesky and wait for me to see it 😄
+
+I passed it along internally, will see if we can get this added!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3lwgocmylek2f'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwc2kvkhjk2u'
 created_at = '2025-08-13T14:40:01.556Z'
 text = 'This is modern art.'
