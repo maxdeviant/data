@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'the white mountain view'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
+listened_at = '2025-08-17T16:14:18Z'
+
+[[tracks]]
+name = 'The Road to Bergen'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
+listened_at = '2025-08-17T16:05:03Z'
+
+[[tracks]]
+name = 'Pon de Replay'
+artist = 'Rihanna'
+album = 'Music of the Sun'
+listened_at = '2025-08-17T16:04:53Z'
+
+[[tracks]]
 name = 'From Bergen to Jotunheimen'
 artist = 'Panopticon'
 album = 'Songs of Hiraeth'
