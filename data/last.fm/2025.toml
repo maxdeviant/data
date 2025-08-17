@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'From Bergen to Jotunheimen'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
+listened_at = '2025-08-17T12:52:54Z'
+
+[[tracks]]
+name = 'The Road to Bergen'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
+listened_at = '2025-08-17T12:42:38Z'
+
+[[tracks]]
+name = 'A Knock at the Door'
+artist = 'Ethel Cain'
+album = '''Willoughby Tucker, I'll Always Love You'''
+listened_at = '2025-08-17T01:41:43Z'
+
+[[tracks]]
 name = 'Dust Bowl'
 artist = 'Ethel Cain'
 album = '''Willoughby Tucker, I'll Always Love You'''

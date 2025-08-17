@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwlxfaoel222'
+created_at = '2025-08-17T13:09:48.052Z'
+text = '''And of *course* the guy's main project is a Git hooks manager. I should have known.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwlwikne4k2b'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwlwikne4k2b'
+created_at = '2025-08-17T12:53:45.426Z'
+text = 'Had someone try to get ChatGPT to ELI5 "micro refactorings" to me after I closed their "refactoring" PR that made the code worse. LMFAO.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwltu73mek2d'
 created_at = '2025-08-17T12:06:34.739Z'
 text = '''
