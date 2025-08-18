@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Dead Weight'
+artist = 'Bad/Love'
+album = 'Mono No Aware'
+listened_at = '2025-08-18T20:24:55Z'
+
+[[tracks]]
+name = 'Disconnect'
+artist = 'Bad/Love'
+album = 'Mono No Aware'
+listened_at = '2025-08-18T20:21:04Z'
+
+[[tracks]]
+name = 'Flowers in the Ditch'
+artist = 'Panopticon'
+album = 'Laurentian Blue'
+listened_at = '2025-08-18T18:38:32Z'
+
+[[tracks]]
+name = 'I Want to be Alone'
+artist = 'Panopticon'
+album = 'Laurentian Blue'
+listened_at = '2025-08-18T18:35:27Z'
+
+[[tracks]]
+name = 'Ever North'
+artist = 'Panopticon'
+album = 'Laurentian Blue'
+listened_at = '2025-08-18T18:30:40Z'
+
+[[tracks]]
+name = 'The Poetry in Roadkill'
+artist = 'Panopticon'
+album = 'Laurentian Blue'
+listened_at = '2025-08-18T18:26:43Z'
+
+[[tracks]]
+name = 'Kicked Out'
+artist = 'Pussy Galore'
+album = '''Dial 'M' for Motherfucker'''
+listened_at = '2025-08-18T18:22:39Z'
+
+[[tracks]]
 name = 'the white mountain view'
 artist = 'Panopticon'
 album = 'Songs of Hiraeth'
