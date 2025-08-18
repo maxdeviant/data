@@ -2,6 +2,18 @@
 name = 'the white mountain view'
 artist = 'Panopticon'
 album = 'Songs of Hiraeth'
+listened_at = '2025-08-17T21:19:27Z'
+
+[[tracks]]
+name = 'From Bergen to Jotunheimen'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
+listened_at = '2025-08-17T16:15:19Z'
+
+[[tracks]]
+name = 'the white mountain view'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
 listened_at = '2025-08-17T16:14:18Z'
 
 [[tracks]]
