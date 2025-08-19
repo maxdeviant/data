@@ -1,4 +1,52 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwphiyzvcs2u'
+created_at = '2025-08-18T22:36:13.344Z'
+text = 'I feel like it belongs in the `pedantic` category of Clippy lints.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwphicacn22u'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwphicacn22u'
+created_at = '2025-08-18T22:35:49.437Z'
+text = '''
+Yea, I have yet to see a compelling justification for it.
+
+I run afoul of it mostly when I'm creating a type that could be `Default` today, but I know will likely not be `Default` in the near future.
+
+For a while I would just suppress the instances, but I finally turned it off entirely.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:geozyv62fx63m7jhr4eraubc/app.bsky.feed.post/3lwpg6favls2v'
+author_did = 'did:plc:geozyv62fx63m7jhr4eraubc'
+author_handle = 'alilleybrinker.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwphfgvt422u'
+created_at = '2025-08-18T22:34:13.672Z'
+text = '''
+No, this has been a thing for a while.
+
+It only applies to types that have a `new` constructor with no arguments where the type itself can also be `Default`.
+
+But we had it turned off in the Zed repo and someone wanted to turn it on. I said "no, thanks" 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5dnwnjydruv7wmbi33xchkr6/app.bsky.feed.post/3lwpfii7ihc26'
+author_did = 'did:plc:5dnwnjydruv7wmbi33xchkr6'
+author_handle = 'nate.rip'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwpeavztys27'
+created_at = '2025-08-18T21:38:00.535Z'
+text = '''
+Does anybody actually find the `clippy::new_without_default` lint useful?
+
+rust-lang.github.io/rust-clippy/...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwlxfaoel222'
 created_at = '2025-08-17T13:09:48.052Z'
 text = '''And of *course* the guy's main project is a Git hooks manager. I should have known.'''
