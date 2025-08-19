@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Nod'
+artist = 'Rise Against'
+album = 'Ricochet'
+listened_at = '2025-08-19T15:00:56Z'
+
+[[tracks]]
 name = 'A Letter'
 artist = 'Panopticon'
 album = 'Songs of Hiraeth'

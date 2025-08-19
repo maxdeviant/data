@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwr4mxhimk2z'
+created_at = '2025-08-19T14:26:54.227Z'
+text = 'Caves of Crud'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwquahdbts2o'
 created_at = '2025-08-19T11:56:44.721Z'
 text = 'If anyone is looking for an Elm replacement, try out Gleam with Lustre: hexdocs.pm/lustre/index...'
