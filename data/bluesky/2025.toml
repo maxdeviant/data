@@ -1,4 +1,47 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwrknkdm4s2e'
+created_at = '2025-08-19T18:37:46.407Z'
+text = '''
+The other day I was reminded of a computing vision I had back when they announced Ubuntu for phones: www.theverge.com/2013/1/2/382...
+
+Except this time it was being able to have a suped-up version of an iPhone that could be the primary computing device.
+
+Dock it into peripherals and code on it, etc.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:inqg622bfagfglt5xqbibd3x/app.bsky.feed.post/3lwrkk223ws2w'
+author_did = 'did:plc:inqg622bfagfglt5xqbibd3x'
+author_handle = 'davidbarsky.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwrkhbwu4k2e'
+created_at = '2025-08-19T18:34:16.274Z'
+text = '''
+I'm of the opinion that only things that conceptually make sense to have a `Default` should need to implement `Default`.
+
+I don't even like using `String::default` a lot of the time, because often an empty string is not a valid state (granted, maybe the argument there is to use a `NonEmptyString`).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwrkew74kc2e'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwrkew74kc2e'
+created_at = '2025-08-19T18:32:56.854Z'
+text = '''
+The reason I don't like this approach is that `Default` has a virality to it.
+
+I could have a type that *today* has needs no parameters, but I know will likely need some parameters in the future.
+
+In the meantime, `impl Default` means someone can accidentally use it in another `#[derive(Default)]`.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:htsnmeozwqcgo3ar7z65azjr/app.bsky.feed.post/3lwrk6rcigk2d'
+author_did = 'did:plc:htsnmeozwqcgo3ar7z65azjr'
+author_handle = 'djc.ochtman.nl'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwrczbji7c2e'
 created_at = '2025-08-19T16:21:09.881Z'
 text = 'My pipe dream for LLMs is ones that are at least the equivalent of a Claude Sonnet 4 today that can run entirely on-device without hogging too many resources.'

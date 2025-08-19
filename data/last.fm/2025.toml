@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'the white mountain view'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
+listened_at = '2025-08-19T18:21:30Z'
+
+[[tracks]]
+name = 'From Bergen to Jotunheimen'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
+listened_at = '2025-08-19T18:10:45Z'
+
+[[tracks]]
+name = 'The Road to Bergen'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
+listened_at = '2025-08-19T18:00:28Z'
+
+[[tracks]]
 name = 'The Eulogy'
 artist = 'Panopticon'
 album = 'Songs of Hiraeth'
