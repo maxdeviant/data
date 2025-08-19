@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwputwq4j22e'
+created_at = '2025-08-19T02:34:58.668Z'
+text = 'Stop using `varchar` in Postgres challenge 2025 (impossible)'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwphiyzvcs2u'
 created_at = '2025-08-18T22:36:13.344Z'
 text = 'I feel like it belongs in the `pedantic` category of Clippy lints.'
