@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwrczbji7c2e'
+created_at = '2025-08-19T16:21:09.881Z'
+text = 'My pipe dream for LLMs is ones that are at least the equivalent of a Claude Sonnet 4 today that can run entirely on-device without hogging too many resources.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:jjld7ws2qgyls32p5efdu4qm/app.bsky.feed.post/3lwrcokwhsc2j'
+author_did = 'did:plc:jjld7ws2qgyls32p5efdu4qm'
+author_handle = 'quinnypig.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwr4mxhimk2z'
 created_at = '2025-08-19T14:26:54.227Z'
 text = 'Caves of Crud'
