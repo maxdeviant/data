@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwtuzdytos2e'
+created_at = '2025-08-20T16:48:39.312Z'
+text = 'Excited to have you on the team!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:f5ebkg5ihfedjffcyxszgb5n/app.bsky.feed.post/3lwtpfpzrss2v'
+author_did = 'did:plc:f5ebkg5ihfedjffcyxszgb5n'
+author_handle = 'mattermill.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwtpbxwhic2e'
+created_at = '2025-08-20T15:06:06.190Z'
+text = '''Nope, it's been all Rust from day one 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ignhnxxeyhotkkhmt6rurrcl/app.bsky.feed.post/3lwto75kids2m'
+author_did = 'did:plc:ignhnxxeyhotkkhmt6rurrcl'
+author_handle = 'peregrine.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwtnwv4dbs2e'
 created_at = '2025-08-20T14:42:00.396Z'
 text = '''
