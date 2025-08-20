@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwsalgiej22m'
+created_at = '2025-08-20T01:10:17.580Z'
+text = 'I’m afraid to run this skeet through a YAML validator.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6ouaxjxgcbwzw6porooiafil/app.bsky.feed.post/3lws7jk7ipc24'
+author_did = 'did:plc:6ouaxjxgcbwzw6porooiafil'
+author_handle = 'fullmoon.id'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwrknkdm4s2e'
 created_at = '2025-08-19T18:37:46.407Z'
 text = '''
