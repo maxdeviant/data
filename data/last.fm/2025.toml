@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Fuck Me Eyes'
+artist = 'Ethel Cain'
+album = '''Willoughby Tucker, I'll Always Love You'''
+listened_at = '2025-08-20T18:21:27Z'
+
+[[tracks]]
+name = '''Willoughby's Theme'''
+artist = 'Ethel Cain'
+album = '''Willoughby Tucker, I'll Always Love You'''
+listened_at = '2025-08-20T18:16:43Z'
+
+[[tracks]]
+name = 'Janie'
+artist = 'Ethel Cain'
+album = '''Willoughby Tucker, I'll Always Love You'''
+listened_at = '2025-08-20T18:11:43Z'
+
+[[tracks]]
+name = 'Waco, Texas'
+artist = 'Ethel Cain'
+album = '''Willoughby Tucker, I'll Always Love You'''
+listened_at = '2025-08-20T17:56:27Z'
+
+[[tracks]]
 name = 'tempest'
 artist = 'Ethel Cain'
 album = '''Willoughby Tucker, I'll Always Love You'''
