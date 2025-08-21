@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwv2mxlqjs2e'
+created_at = '2025-08-21T04:01:45.836Z'
+text = 'Series L + ratio'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3lwu4bn3q2s2b'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwtuzdytos2e'
 created_at = '2025-08-20T16:48:39.312Z'
 text = 'Excited to have you on the team!'
