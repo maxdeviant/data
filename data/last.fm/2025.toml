@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'The Road to Bergen'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
+listened_at = '2025-08-21T00:35:22Z'
+
+[[tracks]]
+name = 'No Broke Boys'
+artist = 'Disco Lines'
+album = 'No Broke Boys'
+listened_at = '2025-08-21T00:35:09Z'
+
+[[tracks]]
+name = '''Dunning Kruger's Loser Cruiser'''
+artist = 'Tropical Fuck Storm'
+album = 'Fairyland Codex'
+listened_at = '2025-08-20T22:49:04Z'
+
+[[tracks]]
 name = 'Fairyland Codex'
 artist = 'Tropical Fuck Storm'
 album = 'Fairyland Codex'
