@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwvseogkf22e'
+created_at = '2025-08-21T11:06:37.597Z'
+text = 'Clocking in for my daily shift at the Bluesky factory.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:amotxl3i7fbejbparrfdkxeo/app.bsky.feed.post/3lwvavkqlhs2p'
+author_did = 'did:plc:amotxl3i7fbejbparrfdkxeo'
+author_handle = 'ruby0x1.ca'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwv2mxlqjs2e'
 created_at = '2025-08-21T04:01:45.836Z'
 text = 'Series L + ratio'
