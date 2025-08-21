@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'tempest'
+artist = 'Ethel Cain'
+album = '''Willoughby Tucker, I'll Always Love You'''
+listened_at = '2025-08-21T20:46:12Z'
+
+[[tracks]]
+name = 'From Bergen to Jotunheimen'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
+listened_at = '2025-08-21T00:45:37Z'
+
+[[tracks]]
 name = 'The Road to Bergen'
 artist = 'Panopticon'
 album = 'Songs of Hiraeth'
