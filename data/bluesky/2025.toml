@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwxetjmouk2c'
+created_at = '2025-08-22T02:09:42.962Z'
+text = 'rustdoc is my favorite, of all the one’s I’ve used. The fact that the entire ecosystem uses it is a huge plus, as well.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:j7ri4agbraq6g3dfmyccxep2/app.bsky.feed.post/3lwxapdfb2k2p'
+author_did = 'did:plc:j7ri4agbraq6g3dfmyccxep2'
+author_handle = 'welltypedwit.ch'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lww277pkoc2o'
 created_at = '2025-08-21T13:26:44.324Z'
 text = 'Fucking hate it here'
