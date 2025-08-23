@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lx2x4suhv226'
+created_at = '2025-08-23T12:15:01.212Z'
+text = 'You know, you’d think Christians would be more on board with socialism given that Jesus was the original socialist.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3lx27uzvy422b'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lx2wpwge2226'
 created_at = '2025-08-23T12:07:48.727Z'
 text = 's/mine/cave'
