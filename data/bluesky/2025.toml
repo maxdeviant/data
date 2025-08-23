@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lx2wpwge2226'
+created_at = '2025-08-23T12:07:48.727Z'
+text = 's/mine/cave'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qe4q32ixqribeorbqdkd6lrh/app.bsky.feed.post/3lx2p5rwd722v'
+author_did = 'did:plc:qe4q32ixqribeorbqdkd6lrh'
+author_handle = 'passcod.nz'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwzz5sz2nk2u'
 created_at = '2025-08-23T03:18:42.662Z'
 text = 'This would go so hard.'
