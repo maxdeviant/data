@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lx3f5v6tsc2m'
+created_at = '2025-08-23T16:26:09.590Z'
+text = 'Local macro definitions are S-tier!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vt464ohreg6sglmnb4cuctmr/app.bsky.feed.post/3lx374edldc2u'
+author_did = 'did:plc:vt464ohreg6sglmnb4cuctmr'
+author_handle = 'eikopf.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lx2x4suhv226'
 created_at = '2025-08-23T12:15:01.212Z'
 text = 'You know, you’d think Christians would be more on board with socialism given that Jesus was the original socialist.'
