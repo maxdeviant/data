@@ -9,6 +9,11 @@ author_did = 'did:plc:z2rokxrttw5254hogmucux2x'
 author_handle = 'lookitup.baby'
 
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwzz5sz2nk2u'
+created_at = '2025-08-23T03:18:42.662Z'
+text = 'This would go so hard.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lwzxqbd7ns2u'
 created_at = '2025-08-23T02:53:14.163Z'
 text = '''
