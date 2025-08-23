@@ -1,4 +1,100 @@
 [[tracks]]
+name = 'INERTIA'
+artist = 'Lorn'
+album = 'Drown the Traitor Within'
+listened_at = '2025-08-22T23:19:23Z'
+
+[[tracks]]
+name = '2 LATE'
+artist = 'Lorn'
+album = 'Drown the Traitor Within'
+listened_at = '2025-08-22T23:18:09Z'
+
+[[tracks]]
+name = 'BLINK'
+artist = 'Lorn'
+album = 'Drown the Traitor Within'
+listened_at = '2025-08-22T23:16:36Z'
+
+[[tracks]]
+name = 'The Power'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-22T22:37:31Z'
+
+[[tracks]]
+name = 'In Cold Blood'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-22T22:34:17Z'
+
+[[tracks]]
+name = '''Don't Wanna Go Home Tonight'''
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-22T22:30:46Z'
+
+[[tracks]]
+name = 'Deathwish'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-22T22:27:33Z'
+
+[[tracks]]
+name = 'Never Ordinary'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-22T22:23:45Z'
+
+[[tracks]]
+name = 'Alienation'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-22T22:20:49Z'
+
+[[tracks]]
+name = 'In Waves'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-22T22:17:25Z'
+
+[[tracks]]
+name = 'Kill Me Fast'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-22T22:14:07Z'
+
+[[tracks]]
+name = 'Mayday'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-22T22:10:44Z'
+
+[[tracks]]
+name = 'Apologies'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-22T22:07:37Z'
+
+[[tracks]]
+name = 'Dominate'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-22T22:04:23Z'
+
+[[tracks]]
+name = 'tempest'
+artist = 'Ethel Cain'
+album = '''Willoughby Tucker, I'll Always Love You'''
+listened_at = '2025-08-22T03:25:41Z'
+
+[[tracks]]
+name = 'From Bergen to Jotunheimen'
+artist = 'Panopticon'
+album = 'Songs of Hiraeth'
+listened_at = '2025-08-22T03:25:29Z'
+
+[[tracks]]
 name = 'Neon Trees'
 artist = 'Goth Babe'
 album = 'Lola'
