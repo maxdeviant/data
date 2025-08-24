@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'In Waves'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-23T23:28:16Z'
+
+[[tracks]]
+name = 'Kill Me Fast'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-23T23:24:59Z'
+
+[[tracks]]
+name = 'Mayday'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-23T23:21:36Z'
+
+[[tracks]]
+name = 'Apologies'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-23T23:18:29Z'
+
+[[tracks]]
+name = 'Dominate'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-23T23:15:13Z'
+
+[[tracks]]
 name = 'Saints'
 artist = 'Bad/Love'
 album = 'Mono No Aware'
