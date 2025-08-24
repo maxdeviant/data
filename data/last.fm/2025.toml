@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'In Cold Blood'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-24T00:52:24Z'
+
+[[tracks]]
+name = '''Don't Wanna Go Home Tonight'''
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-24T00:48:52Z'
+
+[[tracks]]
+name = 'Deathwish'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-24T00:45:39Z'
+
+[[tracks]]
+name = 'Never Ordinary'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-24T00:41:51Z'
+
+[[tracks]]
+name = 'Alienation'
+artist = 'Three Days Grace'
+album = 'Alienation'
+listened_at = '2025-08-23T23:31:41Z'
+
+[[tracks]]
 name = 'In Waves'
 artist = 'Three Days Grace'
 album = 'Alienation'
