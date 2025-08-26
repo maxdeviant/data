@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxcqtmntdc2m'
+created_at = '2025-08-26T14:43:48.170Z'
+text = 'And they even have a crab as the mascot, like ????'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3lxcqiwk55se6'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxbk44fqyk23'
 created_at = '2025-08-26T03:10:37.186Z'
 text = 'This is *atrocious*.'
