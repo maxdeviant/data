@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Coma'
+artist = 'Gaerea'
+album = 'Coma'
+listened_at = '2025-08-27T17:39:29Z'
+
+[[tracks]]
+name = 'World Ablaze'
+artist = 'Gaerea'
+album = 'Coma'
+listened_at = '2025-08-27T17:35:59Z'
+
+[[tracks]]
+name = 'Suspended'
+artist = 'Gaerea'
+album = 'Coma'
+listened_at = '2025-08-27T17:30:57Z'
+
+[[tracks]]
+name = 'Hope Shatters'
+artist = 'Gaerea'
+album = 'Coma'
+listened_at = '2025-08-27T17:26:51Z'
+
+[[tracks]]
+name = 'The Ashen Falls'
+artist = 'Heretoir'
+album = 'Season of Grief'
+listened_at = '2025-08-27T17:21:54Z'
+
+[[tracks]]
+name = '''The Poet's Ballet'''
+artist = 'Gaerea'
+album = 'Coma'
+listened_at = '2025-08-27T17:19:13Z'
+
+[[tracks]]
 name = 'Season of Grief'
 artist = 'Heretoir'
 album = 'Season of Grief'
