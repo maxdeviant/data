@@ -1,4 +1,35 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxinq6dhvs2q'
+created_at = '2025-08-28T23:04:09.691Z'
+text = 'And you can take it for a spin in Zed:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:asqrltlnmzecxz42wklq6yy2/app.bsky.feed.post/3lxifbhelwk24'
+author_did = 'did:plc:asqrltlnmzecxz42wklq6yy2'
+author_handle = 'zachdaniel.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxin4phzbc2q'
+created_at = '2025-08-28T22:53:16.578Z'
+text = '''
+This is also a great opportunity to contribute to the Elixir extension, as the treatment of completions and symbols is still pretty simple:
+
+github.com/zed-extensio...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lximybnlrk2q'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lximybnlrk2q'
+created_at = '2025-08-28T22:50:47.862Z'
+text = '''
+I just added support for Expert to @zed.dev, if anyone wants to try it out!
+
+You'll need to install v0.2.0 of the Elixir extension and follow the instructions here to update your settings: zed.dev/docs/languag...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxdxtw4jps2k'
 created_at = '2025-08-27T02:21:54.016Z'
 text = ''
