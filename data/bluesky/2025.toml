@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxiz67ilcc2k'
+created_at = '2025-08-29T02:28:51.829Z'
+text = 'They got the deadmau5 cube at @rustforgeconf.com?!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3lxiz22sr3k2a'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxivcvfpfk2w'
+created_at = '2025-08-29T01:19:54.054Z'
+text = '''
+Boggles my mind how people still default to using npm in 2025.
+
+I'm begging you to use pnpm!'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxinq6dhvs2q'
 created_at = '2025-08-28T23:04:09.691Z'
 text = 'And you can take it for a spin in Zed:'
