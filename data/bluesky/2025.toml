@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxjzmwgo4226'
+created_at = '2025-08-29T12:09:45.384Z'
+text = '''
+There’s a special circle of hell reserved for RFK Jr.
+
+The man is incredibly dangerous and needs to be removed from office ASAP.
+
+Fuck him.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxjwt5qifs2i'
+created_at = '2025-08-29T11:19:33.147Z'
+text = 'I should have clarified that all of this is prefaced with “if you have no other choice but to use JavaScript”'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:7x6wc6fbj464biqdarmhxucv/app.bsky.feed.post/3lxjlo6cgts2o'
+author_did = 'did:plc:7x6wc6fbj464biqdarmhxucv'
+author_handle = 'gearsco.de'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxiz67ilcc2k'
 created_at = '2025-08-29T02:28:51.829Z'
 text = 'They got the deadmau5 cube at @rustforgeconf.com?!'
