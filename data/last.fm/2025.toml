@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Strategy'
+artist = 'TWICE'
+album = 'KPop Demon Hunters (Soundtrack from the Netflix Film)'
+listened_at = '2025-08-30T02:03:30Z'
+
+[[tracks]]
+name = 'Golden'
+artist = 'HUNTR/X'
+album = 'KPop Demon Hunters (Soundtrack from the Netflix Film)'
+listened_at = '2025-08-30T02:00:16Z'
+
+[[tracks]]
+name = 'LOOP'
+artist = 'Jagwar Twin'
+album = 'LOOP'
+listened_at = '2025-08-30T01:57:09Z'
+
+[[tracks]]
 name = 'Golden'
 artist = 'HUNTR/X'
 album = 'KPop Demon Hunters (Soundtrack from the Netflix Film)'
