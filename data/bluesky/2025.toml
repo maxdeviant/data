@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxu7ivxpos2b'
+created_at = '2025-09-02T13:21:30.512Z'
+text = 'I think I’d be potentially more accepting if it was more interwoven into the story, but having it as a parenthetical like that is just… why?!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:u2kbbxwg73awffktq4oi2fts/app.bsky.feed.post/3lxu2svd7ak2g'
+author_did = 'did:plc:u2kbbxwg73awffktq4oi2fts'
+author_handle = 'craze.co.uk'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxu3lbo3m222'
+created_at = '2025-09-02T12:11:14.921Z'
+text = 'Hayleigh, we all know you don’t have a test suite.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:j67yqsbcjczp73i3b73ei2kj/app.bsky.feed.post/3lxttvhz2yc2b'
+author_did = 'did:plc:j67yqsbcjczp73i3b73ei2kj'
+author_handle = 'hayleigh.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxt7nufmes25'
 created_at = '2025-09-02T03:51:36.904Z'
 text = 'Sashimi is the best thing since sliced fish.'
