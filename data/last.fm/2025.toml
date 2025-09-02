@@ -1,4 +1,100 @@
 [[tracks]]
+name = 'Stray'
+artist = 'Save Us'
+album = 'Stray'
+listened_at = '2025-09-02T19:49:57Z'
+
+[[tracks]]
+name = 'Echoes'
+artist = 'Allt'
+album = 'From the New World'
+listened_at = '2025-09-02T19:46:39Z'
+
+[[tracks]]
+name = 'Close My Eyes'
+artist = 'A Sense of Purpose'
+album = 'Close My Eyes'
+listened_at = '2025-09-02T19:43:02Z'
+
+[[tracks]]
+name = 'Demons'
+artist = 'Glasslands'
+album = 'Pariah'
+listened_at = '2025-09-02T19:38:53Z'
+
+[[tracks]]
+name = 'Perfect Death'
+artist = 'Catsclaw'
+album = 'Perfect Death'
+listened_at = '2025-09-02T19:35:25Z'
+
+[[tracks]]
+name = 'Lamb'
+artist = 'Stoneside.'
+album = 'Lamb'
+listened_at = '2025-09-02T19:30:15Z'
+
+[[tracks]]
+name = 'The Lake of Twisted Limbs'
+artist = 'Pridelands'
+album = 'Light Bends'
+listened_at = '2025-09-02T19:26:08Z'
+
+[[tracks]]
+name = 'In Heaven'
+artist = 'Novelists'
+album = 'Coda'
+listened_at = '2025-09-02T19:21:43Z'
+
+[[tracks]]
+name = 'Obsidian'
+artist = 'Northlane'
+album = 'Obsidian'
+listened_at = '2025-09-02T19:17:45Z'
+
+[[tracks]]
+name = '''i'd never do that to you'''
+artist = 'The World Without Us'
+album = '''i'd never do that to you'''
+listened_at = '2025-09-02T19:13:28Z'
+
+[[tracks]]
+name = 'Mirrorman'
+artist = 'Black Orchid Empire'
+album = 'Mirrorman'
+listened_at = '2025-09-02T19:08:22Z'
+
+[[tracks]]
+name = 'Anodyne'
+artist = 'Atlas'
+album = 'Anodyne'
+listened_at = '2025-09-02T19:04:05Z'
+
+[[tracks]]
+name = 'SMOKEBOMB'
+artist = 'Rinrin'
+album = 'SMOKEBOMB'
+listened_at = '2025-09-02T19:01:06Z'
+
+[[tracks]]
+name = 'Words We Never Said'
+artist = 'Deathly Hours'
+album = 'Words We Never Said'
+listened_at = '2025-09-02T18:56:40Z'
+
+[[tracks]]
+name = 'In Vertigo'
+artist = 'CODE:WORDS'
+album = 'In Vertigo'
+listened_at = '2025-09-02T18:53:19Z'
+
+[[tracks]]
+name = 'Atlantis'
+artist = 'Dreams They Have Stolen'
+album = 'Atlantis'
+listened_at = '2025-09-02T15:27:53Z'
+
+[[tracks]]
 name = 'When the Shadows First Lengthened'
 artist = 'Andromida'
 album = 'When the Shadows First Lengthened'
