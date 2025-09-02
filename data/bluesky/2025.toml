@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxt7nufmes25'
+created_at = '2025-09-02T03:51:36.904Z'
+text = 'Sashimi is the best thing since sliced fish.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxp76dbzuk24'
 created_at = '2025-08-31T13:32:16.690Z'
 text = '''
