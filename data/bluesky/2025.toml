@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxwoeiyo3c2x'
+created_at = '2025-09-03T12:52:48.288Z'
+text = 'Your POV after using `std::mem::transmute` incorrectly:'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxv766hs4k2t'
 created_at = '2025-09-02T22:48:10.066Z'
 text = 'phpBBno$'
