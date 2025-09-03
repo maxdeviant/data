@@ -1,4 +1,43 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxxehuxwcs2z'
+created_at = '2025-09-03T19:28:23.839Z'
+text = '''
+Just had my first "oh shit" moment where I realized I had some missing changes that were in a now-deleted jj revision.
+
+Thankfully was able to quickly recover it from the `jj op log` with `jj op restore`.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxxaroqbmk2q'
+created_at = '2025-09-03T18:22:17.875Z'
+text = '''
+No problem! It's definitely a confusing situation.
+
+I hadn't even heard of IBM's ACP until someone else pointed it out in reference to Zed's ACP.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6amf2dzllh6lvnsqxsr4nf6e/app.bsky.feed.post/3lxxao5oabk2d'
+author_did = 'did:plc:6amf2dzllh6lvnsqxsr4nf6e'
+author_handle = 'advanced-eschatonics.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxxapux5qk2q'
+created_at = '2025-09-03T18:21:17.282Z'
+text = '@fasterthanli.me I recall you wanting to use your Claude Max plan with Zed. Now you can!'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxxahrkqhk2q'
+created_at = '2025-09-03T18:16:45.294Z'
+text = '''
+This is just an initialism collision, Zed has its own Agent Client Protocol (ACP) that is separate from IBM's Agent Communication Protocol
+
+agentclientprotocol.com/overview/int...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6amf2dzllh6lvnsqxsr4nf6e/app.bsky.feed.post/3lxxa2rqwdc2d'
+author_did = 'did:plc:6amf2dzllh6lvnsqxsr4nf6e'
+author_handle = 'advanced-eschatonics.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxwoeiyo3c2x'
 created_at = '2025-09-03T12:52:48.288Z'
 text = 'Your POV after using `std::mem::transmute` incorrectly:'
