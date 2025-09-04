@@ -1,4 +1,64 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxyafpdcss22'
+created_at = '2025-09-04T03:48:15.583Z'
+text = 'What could possibly go wrong?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:z2rokxrttw5254hogmucux2x/app.bsky.feed.post/3lxxvir2ce222'
+author_did = 'did:plc:z2rokxrttw5254hogmucux2x'
+author_handle = 'lookitup.baby'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxya3ma4d222'
+created_at = '2025-09-04T03:42:36.788Z'
+text = 'We’ve had extension support in Zed since April 2024.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:glotgozv6ephhuvnnos5eezs/app.bsky.feed.post/3lxy6wbyc322q'
+author_did = 'did:plc:glotgozv6ephhuvnnos5eezs'
+author_handle = 'stephenskory.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxy7hy7apk2k'
+created_at = '2025-09-04T03:31:38.254Z'
+text = 'Sure, Lean has `simp_all`, but does it have `maximumSuccSucc`?'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxy72ekryc2k'
+created_at = '2025-09-04T03:24:01.454Z'
+text = 'Xe...'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e5nncb3dr5thdkjir5cfaqfe/app.bsky.feed.post/3lxy5q6obvk2j'
+author_did = 'did:plc:e5nncb3dr5thdkjir5cfaqfe'
+author_handle = 'xeiaso.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxy6xfwlnc2k'
+created_at = '2025-09-04T03:22:22.183Z'
+text = '''Another one I saw making the rounds more recently is Madeleine Mortensen's "Jujutsu For Busy Devs": maddie.wtf/posts/2025-0...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxy6xfvbnk2k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxy6xfvbnk2k'
+created_at = '2025-09-04T03:22:22.182Z'
+text = '''
+These are the two resources I usually recommend:
+
+- Steve Klabnik's jj tutorial (a bit outdated, think he's currently working on a new version): steveklabnik.github.io/jujutsu-tuto...
+
+- Chris Krycho's essay on jj: v5.chriskrycho.com/essays/jj-in...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nqsmtem32y5uqc3cgp42hpda/app.bsky.feed.post/3lxxwt5dwvc27'
+author_did = 'did:plc:nqsmtem32y5uqc3cgp42hpda'
+author_handle = 'hodge.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxxqbbwf5c2u'
 created_at = '2025-09-03T22:59:27.441Z'
 text = '''You definitely should! I've been maining it since last October and it's been great.'''
