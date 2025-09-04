@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxz5m7fs7c25'
+created_at = '2025-09-04T12:30:52.269Z'
+text = 'Mercurial users when they see everyone switching to jj:'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxyafpdcss22'
 created_at = '2025-09-04T03:48:15.583Z'
 text = 'What could possibly go wrong?'
