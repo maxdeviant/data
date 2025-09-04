@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxxqbbwf5c2u'
+created_at = '2025-09-03T22:59:27.441Z'
+text = '''You definitely should! I've been maining it since last October and it's been great.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nqsmtem32y5uqc3cgp42hpda/app.bsky.feed.post/3lxxgb2qgy22r'
+author_did = 'did:plc:nqsmtem32y5uqc3cgp42hpda'
+author_handle = 'hodge.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxxpivyxh22q'
+created_at = '2025-09-03T22:45:49.636Z'
+text = 'That post may or may not have been the inspiration for this one 😄'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rqm4qgf6jdmb35mxatuzi6cq/app.bsky.feed.post/3lxwojs6eec2m'
+author_did = 'did:plc:rqm4qgf6jdmb35mxatuzi6cq'
+author_handle = 'jamesmunns.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxxehuxwcs2z'
 created_at = '2025-09-03T19:28:23.839Z'
 text = '''
