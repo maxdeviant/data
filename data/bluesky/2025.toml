@@ -1,4 +1,55 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxznmizbuk2n'
+created_at = '2025-09-04T17:17:22.226Z'
+text = '''Also, credit where it's due, when the attendant returned to the desk after being gone, she did ask if anyone in line had a camera card and rushed us through.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxzkomenz224'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxzkomenz224'
+created_at = '2025-09-04T16:24:51.629Z'
+text = 'Out in 30 minutes! Not bad.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxzje4r2ts24'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxzje4r2ts24'
+created_at = '2025-09-04T16:01:05.971Z'
+text = '''
+I just don’t understand the design of a system where the *sole* person who is acting as the load balancer can step away for 10+ minutes.
+
+But maybe my failing is trying to apply logic to the design of the DMV queuing system.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxziyu5q2k24'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxziyu5q2k24'
+created_at = '2025-09-04T15:54:47.851Z'
+text = '''
+Last time I was at the DMV they had an automated system for getting a ticket, which let you avoid most of the line if you were in for a driver’s license photo (which I am).
+
+This time around there is a single line upon entry, and the attendant has left the desk.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxziqztxkk24'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxziqztxkk24'
+created_at = '2025-09-04T15:50:25.384Z'
+text = 'Entering the black hole of the DMV. Wish me luck 🫡'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lxz5m7fs7c25'
 created_at = '2025-09-04T12:30:52.269Z'
 text = 'Mercurial users when they see everyone switching to jj:'
