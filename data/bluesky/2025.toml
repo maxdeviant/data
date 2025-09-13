@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lyoliwqpzk2h'
+created_at = '2025-09-13T01:05:29.431Z'
+text = '''
+That’s a name I haven’t heard in a while. Don’t think I’ve listened to them since high school.
+
+Hope it’s a good time!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dgbfbbzpfofxaqv42yj26xsd/app.bsky.feed.post/3lyoh5fxyc22a'
+author_did = 'did:plc:dgbfbbzpfofxaqv42yj26xsd'
+author_handle = 'brian.blue'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lyngdflwbn24'
 created_at = '2025-09-12T14:00:14.353Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
