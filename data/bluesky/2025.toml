@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lypubnxah22h'
+created_at = '2025-09-13T13:15:08.741Z'
+text = 'Average'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:j67yqsbcjczp73i3b73ei2kj/app.bsky.feed.post/3lyptpu7oc22a'
+author_did = 'did:plc:j67yqsbcjczp73i3b73ei2kj'
+author_handle = 'hayleigh.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lyoliwqpzk2h'
 created_at = '2025-09-13T01:05:29.431Z'
 text = '''
