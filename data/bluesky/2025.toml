@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lytxgzmiok22'
+created_at = '2025-09-15T04:22:28.923Z'
+text = 'Unfortunate that you had to find out about him at all'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:7dudjk2uag3q4wb7l6vfe5yk/app.bsky.feed.post/3lytxblsyvs2t'
+author_did = 'did:plc:7dudjk2uag3q4wb7l6vfe5yk'
+author_handle = 'apenwarr.ca'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lypubnxah22h'
 created_at = '2025-09-13T13:15:08.741Z'
 text = 'Average'
