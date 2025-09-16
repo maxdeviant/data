@@ -1,4 +1,32 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lyw4xawhac24'
+created_at = '2025-09-16T01:06:21.645Z'
+text = '''N.B. I suspect that even 2020 was a bit too late to be considering working at Basecamp / 37signals, but I wasn't as in-the-know back then as to the sort of person he is.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lyw4t2nge224'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lyw4t2nge224'
+created_at = '2025-09-16T01:04:00.840Z'
+text = '''
+With each new heinous DHH post, I am increasingly thankful that I never heard from Basecamp when I applied there in 2020.
+
+What felt quite disappointing at the time was really a blessing in disguise.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lyw2rfjcos25'
+created_at = '2025-09-16T00:27:17.647Z'
+text = 'Just when you think DHH has reached peak awful, he always does something else to one-up himself.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3lyvymj23us2i'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lytxgzmiok22'
 created_at = '2025-09-15T04:22:28.923Z'
 text = 'Unfortunate that you had to find out about him at all'
