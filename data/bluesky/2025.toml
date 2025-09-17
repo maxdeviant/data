@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lyywpt3jbk25'
+created_at = '2025-09-17T03:52:49.015Z'
+text = 'This is a true test of your loyalties to a specific region of Italy!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3lyywmnqns22p'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lyyuxp2pfc2a'
+created_at = '2025-09-17T03:21:25.745Z'
+text = '''
+I can't stop listening to "The Conqueror Worm" off of the new Dance Gavin Dance album.
+
+Even when I'm not listening to it, it's still stuck in my head.
+
+open.spotify.com/track/4gqb5V...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lyyu7i674c2a'
 created_at = '2025-09-17T03:07:53.213Z'
 text = '''My brain initially read "SGML" as "sigma male" and now I can't unsee it 😭'''
