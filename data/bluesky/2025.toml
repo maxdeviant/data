@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lz52x4zgdc2z'
+created_at = '2025-09-18T19:19:08.233Z'
+text = 'I added :lolsob: to the Zed Slack the other day because I was missing it.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rqm4qgf6jdmb35mxatuzi6cq/app.bsky.feed.post/3lz52pzxtck2k'
+author_did = 'did:plc:rqm4qgf6jdmb35mxatuzi6cq'
+author_handle = 'jamesmunns.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lyywpt3jbk25'
 created_at = '2025-09-17T03:52:49.015Z'
 text = 'This is a true test of your loyalties to a specific region of Italy!'
