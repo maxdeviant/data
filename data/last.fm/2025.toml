@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Metaphor'
+artist = 'Heretoir'
+album = 'Solastalgia'
+listened_at = '2025-09-21T00:06:50Z'
+
+[[tracks]]
+name = 'To The Moon And Back (feat. Ginger)'
+artist = 'Boris Brejcha'
+album = 'Space Diver'
+listened_at = '2025-09-21T00:06:48Z'
+
+[[tracks]]
+name = 'The Swimming Pool'
+artist = 'Perturbator'
+album = 'The Swimming Pool'
+listened_at = '2025-09-21T00:06:12Z'
+
+[[tracks]]
 name = 'The Same Hell MMXXV'
 artist = 'Heretoir'
 album = 'Solastalgia'
