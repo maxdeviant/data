@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'The River'
+artist = 'Good Charlotte'
+album = 'Good Morning Revival'
+listened_at = '2025-09-23T16:43:28Z'
+
+[[tracks]]
+name = 'Big N Thick'
+artist = 'KRAZKA'
+album = 'Big N Thick'
+listened_at = '2025-09-23T16:41:25Z'
+
+[[tracks]]
 name = 'Trap Door'
 artist = 'Dance Gavin Dance'
 album = 'Pantheon'
