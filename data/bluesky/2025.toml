@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzlf4afxgc2q'
+created_at = '2025-09-24T11:58:13.317Z'
+text = '''
+Oh nice, I’ll have to give that a try!
+
+I already tried selecting all notifications and marking as read in the UI, so I’m at notification bankruptcy anyways.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4jstqn73n4vff7w4xlbvvk2z/app.bsky.feed.post/3lzkz6pad522c'
+author_did = 'did:plc:4jstqn73n4vff7w4xlbvvk2z'
+author_handle = 'antoineprv.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzkhdntfcs2y'
 created_at = '2025-09-24T03:05:30.016Z'
 text = '''
