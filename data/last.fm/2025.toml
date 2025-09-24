@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Take It Easy'
+artist = 'Lights'
+album = 'A6'
+listened_at = '2025-09-24T13:56:14Z'
+
+[[tracks]]
+name = 'The Guidance of Ralos'
+artist = 'Jagex Audio Team'
+album = 'RuneScape: Varlamore (Original Soundtrack)'
+listened_at = '2025-09-24T13:52:15Z'
+
+[[tracks]]
 name = 'Dammit'
 artist = 'blink-182'
 album = 'Dude Ranch'
