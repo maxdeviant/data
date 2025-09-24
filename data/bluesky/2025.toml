@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzljum2ink2q'
+created_at = '2025-09-24T13:23:25.798Z'
+text = 'LMAO'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:so3nphemmrxnh63ye3c4x6dg/app.bsky.feed.post/3lzk2yn5yah2h'
+author_did = 'did:plc:so3nphemmrxnh63ye3c4x6dg'
+author_handle = 'davidcel.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzlf4afxgc2q'
 created_at = '2025-09-24T11:58:13.317Z'
 text = '''

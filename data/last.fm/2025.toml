@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Dammit'
+artist = 'blink-182'
+album = 'Dude Ranch'
+listened_at = '2025-09-24T13:52:01Z'
+
+[[tracks]]
 name = 'Ghost Girl on First'
 artist = 'Lights'
 album = 'A6'
