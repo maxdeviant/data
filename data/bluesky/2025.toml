@@ -1,4 +1,47 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzkhdntfcs2y'
+created_at = '2025-09-24T03:05:30.016Z'
+text = '''
+When I'm writing tests I'll routinely add "red herrings": test data that shouldn't be touched by the system under test.
+
+And I can't do so without thinking about @willmanduffy.bsky.social, who introduced the term to me.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzkcqtom222w'
+created_at = '2025-09-24T01:43:23.649Z'
+text = '''"Ever wonder what 'child-combatant' might look like in the mix? Well, you're in luck! We've cooked up some examples of how you could use the 'child-combatant' [...]"'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:f5ebkg5ihfedjffcyxszgb5n/app.bsky.feed.post/3lynuyr3gck2m'
+author_did = 'did:plc:f5ebkg5ihfedjffcyxszgb5n'
+author_handle = 'mattermill.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzkcmiswrk2w'
+created_at = '2025-09-24T01:40:58.039Z'
+text = '''In this case it looks like the account/org already got nuked, so I don't think I can block them 🫠'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sshwio5obbx4zjfrn3fhsen6/app.bsky.feed.post/3lzkajftxns2m'
+author_did = 'did:plc:sshwio5obbx4zjfrn3fhsen6'
+author_handle = 'moshyfawn.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzk77fqne22o'
+created_at = '2025-09-24T00:39:57.383Z'
+text = 'And it seems the culprit is a spam repo that has been deleted, as I can see neither the repo nor the notification from it.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzk74qw44k2o'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzk74qw44k2o'
+created_at = '2025-09-24T00:38:28.433Z'
+text = '''Oh no... I have a persistent GitHub notification that I can't get rid of'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lziwnwfb222h'
 created_at = '2025-09-23T12:34:21.183Z'
 text = '''
