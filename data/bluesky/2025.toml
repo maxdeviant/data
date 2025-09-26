@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzqmw2zzyq2p'
+created_at = '2025-09-26T14:01:14.742Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzpmyw3y3c27'
 created_at = '2025-09-26T04:30:10.728Z'
 text = 'As someone who retweets a lot, I’m begging Bluesky to allow turning off retweets for specific users so that my followers can turn off my retweets, if they so desire.'
