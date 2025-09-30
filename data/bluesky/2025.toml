@@ -1,4 +1,62 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzzk63pitk2l'
+created_at = '2025-09-30T03:06:00.542Z'
+text = 'If that sounds like your cup of tea, we are hiring'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzzk43bz2s2v'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzzk43bz2s2v'
+created_at = '2025-09-30T03:04:52.991Z'
+text = '''Come work at Zed, where tonight's topic of conversation in the `#lounge` channel is algebraic effects (courtesy of @haecceity.cc)'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzzebczwh22v'
+created_at = '2025-09-30T01:20:26.437Z'
+text = '''
+Yea, the price increase is definitely pretty steep.
+
+I've also heard (in reference to Gemini, not Sonnet) that the model can get pretty unreliable as the amount of tokens in the context increases, so going up to 1m tokens may not even be worth it.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4tfenpfog244rxry5uz4vtk/app.bsky.feed.post/3lzzdw3n5zs2y'
+author_did = 'did:plc:i4tfenpfog244rxry5uz4vtk'
+author_handle = 'lizthegrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzzdiyihy22y'
+created_at = '2025-09-30T01:06:50.072Z'
+text = '''Think we'll all still be using GitHub in the 20250s?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3lzzdcpgibs2u'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzzdfz4rok2y'
+created_at = '2025-09-30T01:05:10.075Z'
+text = '''Is this with the 200k context window or the 1m context window? (I don't recall how widely available the 1m token context window is)'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4tfenpfog244rxry5uz4vtk/app.bsky.feed.post/3lzzbypdavs2w'
+author_did = 'did:plc:i4tfenpfog244rxry5uz4vtk'
+author_handle = 'lizthegrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzzbq4v6k224'
+created_at = '2025-09-30T00:35:02.080Z'
+text = '@gleam.run is probably fairly high up on the list: gleam.run'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5tlwm4ujvnudrzndqubefgiu/app.bsky.feed.post/3lzzatqj6r22z'
+author_did = 'did:plc:5tlwm4ujvnudrzndqubefgiu'
+author_handle = 'danny.page'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzyzzjtssk23'
 created_at = '2025-09-29T22:17:07.722Z'
 text = '''
