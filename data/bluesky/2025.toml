@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzznbv2zss2o'
+created_at = '2025-09-30T04:01:49.022Z'
+text = 'Maybe I’ll open a PR for this'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzzl6mshws2l'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzzl6mshws2l'
+created_at = '2025-09-30T03:24:12.207Z'
+text = '@willmanduffy.bsky.social feature request for Scrobble Blue to use the appropriate plurality of "artists" in the (definitely very common) scenario of only listening to a single artist in a given week'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzzk63pitk2l'
 created_at = '2025-09-30T03:06:00.542Z'
 text = 'If that sounds like your cup of tea, we are hiring'
