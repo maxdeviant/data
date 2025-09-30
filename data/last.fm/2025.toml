@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Paradise'
+artist = 'Straight Shot Home'
+album = 'Paradise'
+listened_at = '2025-09-29T22:23:41Z'
+
+[[tracks]]
+name = 'Outsider'
+artist = 'Underoath'
+album = 'The Place After This One'
+listened_at = '2025-09-29T22:19:23Z'
+
+[[tracks]]
 name = 'Fireside'
 artist = 'Invent Animate'
 album = 'Greyview'
