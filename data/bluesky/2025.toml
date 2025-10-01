@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m2467bt4x22z'
+created_at = '2025-10-01T04:09:54.820Z'
+text = '''
+Asking a model what version it is is not a reliable way of determining that information.
+
+Models don’t know what version they are unless it is specified in the system prompt (which Zed doesn’t do).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:px5taitx244tffe23t757yyp/app.bsky.feed.post/3m22mwsfum22x'
+author_did = 'did:plc:px5taitx244tffe23t757yyp'
+author_handle = 'bletch.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3lzznbv2zss2o'
 created_at = '2025-09-30T04:01:49.022Z'
 text = 'Maybe I’ll open a PR for this'
