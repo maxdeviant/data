@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Thread The Needle'
+artist = 'Sleep Token'
+album = 'One'
+listened_at = '2025-10-02T12:44:17Z'
+
+[[tracks]]
+name = 'Glædesfærd'
+artist = 'Sunken'
+album = 'Glædesfærd'
+listened_at = '2025-10-02T12:43:52Z'
+
+[[tracks]]
 name = 'Og det er Lykke'
 artist = 'Sunken'
 album = 'Og det er Lykke'
