@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Glædesfærd'
+artist = 'Sunken'
+album = 'Glædesfærd'
+listened_at = '2025-10-01T21:49:45Z'
+
+[[tracks]]
+name = 'Og det er Lykke'
+artist = 'Sunken'
+album = 'Og det er Lykke'
+listened_at = '2025-10-01T20:20:44Z'
+
+[[tracks]]
 name = 'Og det er Lykke'
 artist = 'Sunken'
 album = 'Og det er Lykke'
