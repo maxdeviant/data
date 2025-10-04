@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'august'
+artist = 'Taylor Swift'
+album = 'folklore'
+listened_at = '2025-10-03T22:39:27Z'
+
+[[tracks]]
+name = 'seven'
+artist = 'Taylor Swift'
+album = 'folklore'
+listened_at = '2025-10-03T22:35:58Z'
+
+[[tracks]]
+name = 'mirrorball'
+artist = 'Taylor Swift'
+album = 'folklore'
+listened_at = '2025-10-03T22:32:29Z'
+
+[[tracks]]
+name = 'my tears ricochet'
+artist = 'Taylor Swift'
+album = 'folklore'
+listened_at = '2025-10-03T22:28:13Z'
+
+[[tracks]]
+name = 'exile (feat. Bon Iver)'
+artist = 'Taylor Swift'
+album = 'folklore'
+listened_at = '2025-10-03T22:23:28Z'
+
+[[tracks]]
+name = 'the last great american dynasty'
+artist = 'Taylor Swift'
+album = 'folklore'
+listened_at = '2025-10-03T22:19:37Z'
+
+[[tracks]]
+name = 'cardigan'
+artist = 'Taylor Swift'
+album = 'folklore'
+listened_at = '2025-10-03T22:15:37Z'
+
+[[tracks]]
+name = 'the 1'
+artist = 'Taylor Swift'
+album = 'folklore'
+listened_at = '2025-10-03T22:12:08Z'
+
+[[tracks]]
+name = 'Nooneunderground'
+artist = 'AFI'
+album = 'Silver Bleeds the Black Sun...'
+listened_at = '2025-10-03T17:57:08Z'
+
+[[tracks]]
 name = 'A World Unmade'
 artist = 'AFI'
 album = 'Silver Bleeds the Black Sun...'
