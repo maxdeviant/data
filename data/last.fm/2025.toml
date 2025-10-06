@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Cold'
+artist = 'Flake'
+album = 'Cold'
+listened_at = '2025-10-06T20:21:24Z'
+
+[[tracks]]
+name = 'SVTLIGHTNING'
+artist = 'Money'
+album = 'Stovepipe'
+listened_at = '2025-10-06T20:16:41Z'
+
+[[tracks]]
+name = 'Orbiting'
+artist = 'gore.'
+album = 'If You Do Not Fear Me...'
+listened_at = '2025-10-06T20:13:35Z'
+
+[[tracks]]
+name = 'Mistake to Wonder'
+artist = 'Soul Blind'
+album = 'Mistake To Wonder'
+listened_at = '2025-10-06T20:10:23Z'
+
+[[tracks]]
+name = 'LOVERSDANCE'
+artist = 'HeavensGate'
+album = 'AND ALL I LOVED, I LOVED ALONE'
+listened_at = '2025-10-06T20:07:24Z'
+
+[[tracks]]
+name = 'Cloud Cascade'
+artist = 'Invent Animate'
+album = 'Greyview'
+listened_at = '2025-10-06T20:03:15Z'
+
+[[tracks]]
+name = 'this is me trying'
+artist = 'Taylor Swift'
+album = 'folklore'
+listened_at = '2025-10-06T00:37:13Z'
+
+[[tracks]]
+name = 'PETRICHOR'
+artist = 'HeavensGate'
+album = 'PETRICHOR'
+listened_at = '2025-10-06T00:32:19Z'
+
+[[tracks]]
 name = 'Oblivion'
 artist = 'HeavensGate'
 album = 'PETRICHOR'
