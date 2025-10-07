@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m2mmq2wrg22c'
+created_at = '2025-10-07T17:12:26.224Z'
+text = '''
+Yea, my issue isn't so much the move to SourceHut as it is the way in which it was done.
+
+We have an anonymous-looking account that doesn't seem at all associated with the project nuking the entire repository contents and replacing it with a manifesto of sorts.
+
+Why not just archive and leave it?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:cl6wctpmccyhbm7sdozz5roc/app.bsky.feed.post/3m2leyf67h223'
+author_did = 'did:plc:cl6wctpmccyhbm7sdozz5roc'
+author_handle = 'stip.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m2l4oevkyk2a'
 created_at = '2025-10-07T02:52:29.950Z'
 text = 'The entire repo has been nuked:'
