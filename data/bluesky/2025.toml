@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m2l4oevkyk2a'
+created_at = '2025-10-07T02:52:29.950Z'
+text = 'The entire repo has been nuked:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m2l3xrewa22e'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m2l3xrewa22e'
+created_at = '2025-10-07T02:39:51.288Z'
+text = 'What the fuck is going on with `bincode`?'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m2dfr6emp225'
 created_at = '2025-10-04T01:13:49.541Z'
 text = 'Yes'
