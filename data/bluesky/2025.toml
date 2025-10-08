@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m2oryhqw4c26'
+created_at = '2025-10-08T13:51:56.286Z'
+text = 'Congratulations to the Mrs!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3m2oqpd7z4c27'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m2oo2vuxes26'
+created_at = '2025-10-08T12:41:43.238Z'
+text = 'Congratulations! Hope you have fun working with @nate.rip :)'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zos5kmlm4vle7b4xntem6sat/app.bsky.feed.post/3m2oic4uphc2n'
+author_did = 'did:plc:zos5kmlm4vle7b4xntem6sat'
+author_handle = 'maggieappleton.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m2mwwtriak2u'
 created_at = '2025-10-07T20:15:11.010Z'
 text = '💀💀💀'
