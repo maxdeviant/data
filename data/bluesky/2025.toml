@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3no7vbft22y'
+created_at = '2025-10-20T20:37:02.260Z'
+text = '''Semantic versioning is so passé, today I'm all about sadistic versioning, which is when there is no rhyme or reason to my versioning and breaking changes can appear in any version.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3m3nlpbboos2m'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3fgohhdy72d'
 created_at = '2025-10-17T14:00:42.316Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
