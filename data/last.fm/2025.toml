@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Long Night of Solace'
+artist = 'KINDRID'
+album = 'Inertia of Solitude'
+listened_at = '2025-10-20T15:01:57Z'
+
+[[tracks]]
+name = 'Tyrfing'
+artist = 'Naden'
+album = 'Tyrfing'
+listened_at = '2025-10-20T14:58:05Z'
+
+[[tracks]]
+name = 'It Feels Like Christmas (Spotify Singles Holiday)'
+artist = 'Fall Out Boy'
+album = 'It Feels Like Christmas (Spotify Singles Holiday)'
+listened_at = '2025-10-20T06:05:07Z'
+
+[[tracks]]
+name = 'Gethsemane'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-10-19T04:38:45Z'
+
+[[tracks]]
 name = 'Wings of Nightmares - Lofi'
 artist = 'Mik'
 album = 'Wings of Nightmares (Lofi)'
