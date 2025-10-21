@@ -2,6 +2,18 @@
 name = 'Submerged'
 artist = 'Gaerea'
 album = 'Submerged'
+listened_at = '2025-10-21T18:13:16Z'
+
+[[tracks]]
+name = 'Hellbound'
+artist = 'Gaerea'
+album = 'Hellbound'
+listened_at = '2025-10-21T18:07:52Z'
+
+[[tracks]]
+name = 'Submerged'
+artist = 'Gaerea'
+album = 'Submerged'
 listened_at = '2025-10-21T18:02:44Z'
 
 [[tracks]]
