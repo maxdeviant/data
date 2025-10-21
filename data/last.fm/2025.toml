@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Divisionary'
+artist = 'ERRA'
+album = 'ERRA'
+listened_at = '2025-10-21T01:08:37Z'
+
+[[tracks]]
+name = 'Gungrave'
+artist = 'ERRA'
+album = 'ERRA'
+listened_at = '2025-10-21T01:04:36Z'
+
+[[tracks]]
+name = 'Snowblood'
+artist = 'ERRA'
+album = 'ERRA'
+listened_at = '2025-10-21T01:00:23Z'
+
+[[tracks]]
 name = 'split'
 artist = 'Maggie Lindemann'
 album = 'i feel everything'
