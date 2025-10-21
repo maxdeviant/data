@@ -1,4 +1,34 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3pvfxdot22v'
+created_at = '2025-10-21T17:51:01.425Z'
+text = 'Who watches the watchmen?'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3pqgcd7xk2i'
+created_at = '2025-10-21T16:21:44.230Z'
+text = '''
+Needless to say, I'm far more comfortable staying on `paste` rather than depending on a crate by a basically unknown entity.
+
+Security advisories like this are just noise.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3pqgccx6c2i'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3pqgccx6c2i'
+created_at = '2025-10-21T16:21:44.229Z'
+text = '''
+Just came across RUSTSEC-2024-0436, regarding the `paste` crate being marked as "unmaintained".
+
+And I just want to know whose idea it was to suggest `pastey` as a possible solution.
+
+The fork seems to be by some random person and the quality seems to be low.
+
+rustsec.org/advisories/R...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3no7vbft22y'
 created_at = '2025-10-20T20:37:02.260Z'
 text = '''Semantic versioning is so passé, today I'm all about sadistic versioning, which is when there is no rhyme or reason to my versioning and breaking changes can appear in any version.'''
