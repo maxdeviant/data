@@ -1,4 +1,112 @@
 [[tracks]]
+name = 'split'
+artist = 'Maggie Lindemann'
+album = 'i feel everything'
+listened_at = '2025-10-20T22:43:53Z'
+
+[[tracks]]
+name = 'Long Night of Solace'
+artist = 'KINDRID'
+album = 'Inertia of Solitude'
+listened_at = '2025-10-20T22:39:47Z'
+
+[[tracks]]
+name = 'Tyrfing'
+artist = 'Naden'
+album = 'Tyrfing'
+listened_at = '2025-10-20T22:35:54Z'
+
+[[tracks]]
+name = 'Deep Waters'
+artist = 'hazy waters'
+album = 'Watch Out For Deep Waters'
+listened_at = '2025-10-20T22:32:05Z'
+
+[[tracks]]
+name = 'Earthshaker'
+artist = 'Phantogram'
+album = 'Earthshaker'
+listened_at = '2025-10-20T22:29:04Z'
+
+[[tracks]]
+name = 'The Mire'
+artist = 'Conjurer'
+album = 'Mire'
+listened_at = '2025-10-20T22:24:50Z'
+
+[[tracks]]
+name = 'Cancer / Moonspeak'
+artist = 'Rivers of Nihil'
+album = 'Where Owls Know My Name'
+listened_at = '2025-10-20T22:23:05Z'
+
+[[tracks]]
+name = 'Steppe & Veld'
+artist = 'Latitudes'
+album = 'Agonist'
+listened_at = '2025-10-20T22:19:26Z'
+
+[[tracks]]
+name = 'Dragonfly'
+artist = 'Fogweaver'
+album = 'Vedurnan'
+listened_at = '2025-10-20T22:16:50Z'
+
+[[tracks]]
+name = 'AFTERLIFE'
+artist = 'The Pretty Wild'
+album = 'AFTERLIFE'
+listened_at = '2025-10-20T22:13:14Z'
+
+[[tracks]]
+name = 'Discrimen'
+artist = 'Amenra'
+album = 'Mass I (remastered)'
+listened_at = '2025-10-20T22:11:08Z'
+
+[[tracks]]
+name = 'Duality'
+artist = 'Venues'
+album = 'Duality'
+listened_at = '2025-10-20T22:08:03Z'
+
+[[tracks]]
+name = 'Helios'
+artist = 'fromjoy'
+album = 'fromjoy'
+listened_at = '2025-10-20T22:06:14Z'
+
+[[tracks]]
+name = 'My Constant'
+artist = 'brototype'
+album = 'Brototype'
+listened_at = '2025-10-20T22:02:33Z'
+
+[[tracks]]
+name = 'You'
+artist = 'DEADLUVE'
+album = 'You'
+listened_at = '2025-10-20T21:59:23Z'
+
+[[tracks]]
+name = 'All I Need'
+artist = 'Cannons'
+album = 'All I Need'
+listened_at = '2025-10-20T21:55:35Z'
+
+[[tracks]]
+name = 'The Cambrian Explosion'
+artist = 'The Ocean'
+album = 'Phanerozoic I: Palaeozoic'
+listened_at = '2025-10-20T21:53:40Z'
+
+[[tracks]]
+name = 'Artificial Angels'
+artist = 'Grimes'
+album = 'Artificial Angels'
+listened_at = '2025-10-20T20:35:11Z'
+
+[[tracks]]
 name = 'Artificial Angels'
 artist = 'Grimes'
 album = 'Artificial Angels'
