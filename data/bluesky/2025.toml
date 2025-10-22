@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3qxtjdnts24'
+created_at = '2025-10-22T04:07:03.732Z'
+text = '''
+I don’t like conventional commits in the first place, but something about the framing of something being a “chore” just really rubs me the wrong way.
+
+“Fix a small typo” is a fine PR title, doesn’t need any further clarification.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:lhhwwevzhcxyi72uvg6ip762/app.bsky.feed.post/3m3qxphntvk2x'
+author_did = 'did:plc:lhhwwevzhcxyi72uvg6ip762'
+author_handle = '347online.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3qwc3gpq224'
+created_at = '2025-10-22T03:39:24.984Z'
+text = 'Seeing `chore:` as a PR prefix makes me so irate.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3q4ux2ue222'
 created_at = '2025-10-21T20:04:40.648Z'
 text = 'Hella rad, innit?'
