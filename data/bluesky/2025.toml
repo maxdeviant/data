@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3voxzhbp22l'
+created_at = '2025-10-24T01:11:49.861Z'
+text = '👀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:x7omzi5ydqux3nr2dcorz3o2/app.bsky.feed.post/3m3vowoqu4c2k'
+author_did = 'did:plc:x7omzi5ydqux3nr2dcorz3o2'
+author_handle = 'jmduke.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3vngc44ok2l'
+created_at = '2025-10-24T00:44:01.210Z'
+text = '''Got my annual flu and COVID vaccines today. Remember to get yours, if you haven't already!'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m3tf3q5kls2d'
 created_at = '2025-10-23T03:09:37.428Z'
 text = 'I give it a "looks delicious/10"'

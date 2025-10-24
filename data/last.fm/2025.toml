@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Graveyard Bars'
+artist = 'Lil Revive'
+album = 'Fetch Me Their Souls'
+listened_at = '2025-10-24T00:48:05Z'
+
+[[tracks]]
+name = 'Disasterpiece'
+artist = 'Slipknot'
+album = 'Iowa'
+listened_at = '2025-10-23T22:22:15Z'
+
+[[tracks]]
 name = 'People = Shit'
 artist = 'Slipknot'
 album = 'Iowa'
