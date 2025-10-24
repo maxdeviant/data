@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Og det er Lykke'
+artist = 'Sunken'
+album = 'Lykke'
+listened_at = '2025-10-24T14:49:07Z'
+
+[[tracks]]
+name = 'Din røst malede farver i luften'
+artist = 'Sunken'
+album = 'Lykke'
+listened_at = '2025-10-24T14:15:51Z'
+
+[[tracks]]
+name = 'Kids'
+artist = 'MGMT'
+album = 'Oracular Spectacular'
+listened_at = '2025-10-24T04:39:25Z'
+
+[[tracks]]
 name = 'Graveyard Bars'
 artist = 'Lil Revive'
 album = 'Fetch Me Their Souls'
