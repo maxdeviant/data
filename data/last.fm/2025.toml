@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'People = Shit'
+artist = 'Slipknot'
+album = 'Iowa'
+listened_at = '2025-10-23T22:18:39Z'
+
+[[tracks]]
+name = '(515)'
+artist = 'Slipknot'
+album = 'Iowa'
+listened_at = '2025-10-23T22:17:40Z'
+
+[[tracks]]
+name = 'Somewhere I Belong'
+artist = 'Linkin Park'
+album = 'Meteora'
+listened_at = '2025-10-23T21:59:59Z'
+
+[[tracks]]
+name = '''Don't Stay'''
+artist = 'Linkin Park'
+album = 'Meteora'
+listened_at = '2025-10-23T21:56:51Z'
+
+[[tracks]]
+name = 'Evergreen'
+artist = 'Ben Howard'
+album = 'I Forget Where We Were'
+listened_at = '2025-10-23T19:03:04Z'
+
+[[tracks]]
+name = 'Graveyard Bars'
+artist = 'Lil Revive'
+album = 'Fetch Me Their Souls'
+listened_at = '2025-10-23T16:46:33Z'
+
+[[tracks]]
 name = 'Creature of the Night'
 artist = 'Lil Revive'
 album = 'Fetch Me Their Souls'
