@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Jaws'
+artist = 'Sleep Token'
+album = 'Jaws'
+listened_at = '2025-10-24T23:24:07Z'
+
+[[tracks]]
+name = 'Din røst malede farver i luften'
+artist = 'Sunken'
+album = 'Lykke'
+listened_at = '2025-10-24T23:24:04Z'
+
+[[tracks]]
 name = 'Din røst malede farver i luften'
 artist = 'Sunken'
 album = 'Lykke'
