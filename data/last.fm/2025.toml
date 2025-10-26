@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'The Descent'
+artist = 'Nick DePirro'
+album = 'The Descent'
+listened_at = '2025-10-26T15:01:19Z'
+
+[[tracks]]
+name = 'Og det er Lykke'
+artist = 'Sunken'
+album = 'Lykke'
+listened_at = '2025-10-25T22:29:09Z'
+
+[[tracks]]
 name = 'Jaws'
 artist = 'Sleep Token'
 album = 'Jaws'
