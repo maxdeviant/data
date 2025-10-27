@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m46jain6p225'
+created_at = '2025-10-27T13:23:09.412Z'
+text = 'Oh, in this particular case the formatting is broken *unless* I add the comment.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3m46i25k7q22k'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m46gevsexk2v'
+created_at = '2025-10-27T12:31:56.206Z'
+text = '''
+I seem to recall there being some work towards making rustfmt indicate when it is unable to format a particular section of code so that you’re aware of it.
+
+That would help immeasurably, as often it takes the code becoming a mess for me to realize rustfmt isn’t working.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3m45wwphozs2w'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m45d4l7pec25'
 created_at = '2025-10-27T02:00:55.709Z'
 text = 'I like to think that whoever signed off on this knew *exactly* what they were doing.'
