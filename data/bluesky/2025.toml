@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m46ywtmnvk2l'
+created_at = '2025-10-27T18:04:05.254Z'
+text = '''I don't want any of my CSS rules to feel left out, so I mark them all as `!important`.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6ouaxjxgcbwzw6porooiafil/app.bsky.feed.post/3m46ytrmt7s2u'
+author_did = 'did:plc:6ouaxjxgcbwzw6porooiafil'
+author_handle = 'fullmoon.id'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m46jain6p225'
 created_at = '2025-10-27T13:23:09.412Z'
 text = 'Oh, in this particular case the formatting is broken *unless* I add the comment.'
