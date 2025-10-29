@@ -1,4 +1,37 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4chcntfec2s'
+created_at = '2025-10-29T02:59:13.438Z'
+text = '''
+This should do the trick for simple CSV data:
+
+```
+pbpaste | sed 's/,/\t/g' | pbcopy
+```'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4ch5cfhkk2s'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4ch5cfhkk2s'
+created_at = '2025-10-29T02:56:13.674Z'
+text = '''
+Can't believe it's 2025 and Google Sheets *still* doesn't like it when you copy/paste CSV data in.
+
+TSV works fine, but sometimes I can't be bothered to convert CSV to TSV.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4cbds5zfs2l'
+created_at = '2025-10-29T01:12:29.083Z'
+text = 'Do you see a world where nextest could supplant `cargo test` as the test runner distributed with Cargo?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3m4c7pacqmc25'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m46ywtmnvk2l'
 created_at = '2025-10-27T18:04:05.254Z'
 text = '''I don't want any of my CSS rules to feel left out, so I mark them all as `!important`.'''
