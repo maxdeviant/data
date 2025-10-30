@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'In Memory of the Lost'
+artist = 'Beautiful Death'
+album = 'By Still Waters'
+listened_at = '2025-10-30T20:40:39Z'
+
+[[tracks]]
+name = 'By Still Waters'
+artist = 'Beautiful Death'
+album = 'By Still Waters'
+listened_at = '2025-10-30T19:43:04Z'
+
+[[tracks]]
+name = 'The End of All Things'
+artist = 'Beautiful Death'
+album = 'By Still Waters'
+listened_at = '2025-10-30T19:40:23Z'
+
+[[tracks]]
+name = 'Rise from the Ashes'
+artist = 'Beautiful Death'
+album = 'In the Forest'
+listened_at = '2025-10-30T19:35:48Z'
+
+[[tracks]]
+name = 'Where Darkness Awaits'
+artist = 'Beautiful Death'
+album = 'In the Forest'
+listened_at = '2025-10-30T19:32:51Z'
+
+[[tracks]]
+name = '''Death's Theme'''
+artist = 'Beautiful Death'
+album = 'In the Forest'
+listened_at = '2025-10-30T19:29:16Z'
+
+[[tracks]]
+name = 'Solace of Sunrise'
+artist = 'Beautiful Death'
+album = 'In the Forest'
+listened_at = '2025-10-30T19:27:57Z'
+
+[[tracks]]
+name = 'Home'
+artist = 'Beautiful Death'
+album = 'In the Forest'
+listened_at = '2025-10-30T19:22:34Z'
+
+[[tracks]]
+name = 'In the Forest'
+artist = 'Beautiful Death'
+album = 'In the Forest'
+listened_at = '2025-10-30T19:20:52Z'
+
+[[tracks]]
 name = 'Specter'
 artist = 'Bad Omens'
 album = 'Dying To Love'
