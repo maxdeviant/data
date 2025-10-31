@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4hi2obr4k26'
+created_at = '2025-10-31T02:55:57.905Z'
+text = 'Why did I read this like Benoit Blanc??'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4gashops22r'
 created_at = '2025-10-30T15:13:26.625Z'
 text = '''For the `@tanstack/react-query` case I suppose we don't necessarily *need* to care about using the error state (as this is what the result is for), but still curious if there's a general pattern here for converting from Result land back into exception land 😄'''
