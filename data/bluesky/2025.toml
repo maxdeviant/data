@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4jzhxdo4c25'
+created_at = '2025-11-01T03:12:56.701Z'
+text = 'Oh good, even more reasons to hate Bun! Never got good vibes from them.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rkm6m4dsc4da2yzdlvxorhf3/app.bsky.feed.post/3m4jikdxj4227'
+author_did = 'did:plc:rkm6m4dsc4da2yzdlvxorhf3'
+author_handle = 'uncenter.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4inafzcsd2f'
 created_at = '2025-10-31T14:01:18.765Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
