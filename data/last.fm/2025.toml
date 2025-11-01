@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Emergence'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-11-01T13:54:09Z'
+
+[[tracks]]
+name = 'Soulburn'
+artist = 'Dayseeker'
+album = 'Creature In The Black Night'
+listened_at = '2025-11-01T13:50:43Z'
+
+[[tracks]]
+name = 'Look to Windward'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-11-01T13:46:23Z'
+
+[[tracks]]
 name = 'Shapeshift'
 artist = 'Dayseeker'
 album = 'Creature In The Black Night'
