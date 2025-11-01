@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'DYWTYLM'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2025-11-01T15:53:49Z'
+
+[[tracks]]
+name = 'The Apparition'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2025-11-01T15:46:14Z'
+
+[[tracks]]
+name = 'Hypnosis'
+artist = 'Sleep Token'
+album = 'This Place Will Become Your Tomb'
+listened_at = '2025-11-01T15:35:35Z'
+
+[[tracks]]
+name = 'Atlantic'
+artist = 'Sleep Token'
+album = 'This Place Will Become Your Tomb'
+listened_at = '2025-11-01T15:30:43Z'
+
+[[tracks]]
+name = 'Past Self'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2025-11-01T14:00:35Z'
+
+[[tracks]]
 name = 'Emergence'
 artist = 'Sleep Token'
 album = 'Even In Arcadia'
