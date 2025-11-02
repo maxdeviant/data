@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'The Dead Dance'
+artist = 'Lady Gaga'
+album = 'The Dead Dance'
+listened_at = '2025-11-02T16:51:41Z'
+
+[[tracks]]
+name = 'Rain'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2025-11-02T04:51:45Z'
+
+[[tracks]]
 name = 'DYWTYLM'
 artist = 'Sleep Token'
 album = 'Take Me Back to Eden'
