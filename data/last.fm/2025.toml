@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Nightingale'
+artist = 'Black Hill'
+album = 'The garden of crying birds'
+listened_at = '2025-11-04T01:19:19Z'
+
+[[tracks]]
+name = 'Tyrant of the wasteland'
+artist = 'Black Hill'
+album = 'The garden of crying birds'
+listened_at = '2025-11-04T01:17:09Z'
+
+[[tracks]]
+name = 'Swallows and sparrows'
+artist = 'Black Hill'
+album = 'The garden of crying birds'
+listened_at = '2025-11-04T01:14:32Z'
+
+[[tracks]]
+name = 'A lonesome robin'
+artist = 'Black Hill'
+album = 'The garden of crying birds'
+listened_at = '2025-11-04T01:12:33Z'
+
+[[tracks]]
+name = 'Tyrant of the wasteland'
+artist = 'Black Hill'
+album = 'The garden of crying birds'
+listened_at = '2025-11-03T18:35:52Z'
+
+[[tracks]]
 name = 'Swallows and sparrows'
 artist = 'Black Hill'
 album = 'The garden of crying birds'
