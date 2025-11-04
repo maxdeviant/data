@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4tej3rfhc2h'
+created_at = '2025-11-04T20:24:23.696Z'
+text = 'Go vote!'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4nkfejwyc2w'
 created_at = '2025-11-02T12:53:42.702Z'
 text = '''
