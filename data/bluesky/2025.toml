@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4v6gu47t22m'
+created_at = '2025-11-05T13:41:05.588Z'
+text = 'I’ve been running the preview release of rust-analyzer in Zed for a while, and it was like night and day getting the new trait solver!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mhy4crmq4dnugv4d5kuwetr7/app.bsky.feed.post/3m4uvtvvsfk2m'
+author_did = 'did:plc:mhy4crmq4dnugv4d5kuwetr7'
+author_handle = 'esmevane.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4uaqaio6k2n'
 created_at = '2025-11-05T04:49:28.303Z'
 text = 'You love to see it.'
