@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'LEARNING TO LET GO'
+artist = 'Lights'
+album = 'LEARNING TO LET GO'
+listened_at = '2025-11-07T14:23:14Z'
+
+[[tracks]]
+name = '''The woodpecker's woods'''
+artist = 'Black Hill'
+album = 'The garden of crying birds'
+listened_at = '2025-11-06T23:46:15Z'
+
+[[tracks]]
 name = 'Nightingale'
 artist = 'Black Hill'
 album = 'The garden of crying birds'
