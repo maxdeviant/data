@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4zc22qho22o'
+created_at = '2025-11-07T04:56:09.048Z'
+text = '''
+I ended up using Shiki (shiki.style), which took almost no time to add.
+
+This was something that I had seen @brandur.org mention using for his static site, so it seemed like a reasonable choice: brandur.org/fragments/sh...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4zbzzlly22o'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4zbzzlly22o'
+created_at = '2025-11-07T04:56:09.047Z'
+text = '''
+After putting it off for far too long, tonight I re-added syntax highlighting for code blocks to my website.
+
+This was something that got dropped during my site rebuild.
+
+While I would ultimately love to build something static and custom on top of Tree-sitter, this will do for now.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m4xrudl6ok2h'
 created_at = '2025-11-06T14:33:58.587Z'
 text = 'You’re right, that does sound more on-brand.'
