@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m53moezr5k2z'
+created_at = '2025-11-08T03:11:49.030Z'
+text = 'I’ve been snarfblatted and dinglehoppered!'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m52z7yrqw22o'
 created_at = '2025-11-07T21:23:45.329Z'
 text = 'Been using it for years now, and I love it!'
