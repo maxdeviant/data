@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m55ae6ynwc2g'
+created_at = '2025-11-08T18:36:41.733Z'
+text = 'Decoupling is a very good call. Nothing worse than being stuck in a state where you can’t publish because something else is in-flight 😮‍💨'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3m54yknkj5k2d'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m55abegfrs2g'
+created_at = '2025-11-08T18:35:06.763Z'
+text = '''
+Looking forward to reading about it!
+
+I rebuilt my website last year: maxdeviant.com/posts/2024/a...
+
+There are still some yaks that are in need of shaving that I ended up cutting from scope.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3m54w65mgps2j'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m53t67cxok2c'
 created_at = '2025-11-08T05:08:02.363Z'
 text = '''
