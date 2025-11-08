@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m53t67cxok2c'
+created_at = '2025-11-08T05:08:02.363Z'
+text = '''
+*motions towards the rack*
+
+“We just got in this new machine from the Middle Ages”'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3m53rcdbv4s26'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m53moezr5k2z'
 created_at = '2025-11-08T03:11:49.030Z'
 text = 'I’ve been snarfblatted and dinglehoppered!'
