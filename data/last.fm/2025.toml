@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Transgender'
+artist = 'Crystal Castles'
+album = '(III)'
+listened_at = '2025-11-07T21:46:19Z'
+
+[[tracks]]
+name = 'The Descent'
+artist = 'Nick DePirro'
+album = 'The Descent'
+listened_at = '2025-11-07T21:42:46Z'
+
+[[tracks]]
+name = 'Artificial Angels'
+artist = 'Grimes'
+album = 'Artificial Angels'
+listened_at = '2025-11-07T21:39:58Z'
+
+[[tracks]]
+name = 'Night Swim'
+artist = 'Home'
+album = 'Falling Into Place'
+listened_at = '2025-11-07T21:37:36Z'
+
+[[tracks]]
+name = 'Head First'
+artist = 'Home'
+album = 'Falling Into Place'
+listened_at = '2025-11-07T21:34:04Z'
+
+[[tracks]]
 name = 'LEARNING TO LET GO'
 artist = 'Lights'
 album = 'LEARNING TO LET GO'
