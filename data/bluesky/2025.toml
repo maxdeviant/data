@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m5aprdvv3s2w'
+created_at = '2025-11-10T03:50:28.435Z'
+text = '''
+Just published a new post on what I've been up to professionally for the past five months: maxdeviant.com/posts/2025/h...
+
+It's fairly high-level, but I'd love to do some more deep-dives on some of the learnings from rebuilding Zed's backend.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m55ae6ynwc2g'
 created_at = '2025-11-08T18:36:41.733Z'
 text = 'Decoupling is a very good call. Nothing worse than being stuck in a state where you can’t publish because something else is in-flight 😮‍💨'
