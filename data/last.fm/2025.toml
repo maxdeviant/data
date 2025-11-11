@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Luxury Apartments'
+artist = 'Courtesy Car'
+album = 'Luxury Apartments'
+listened_at = '2025-11-10T21:33:25Z'
+
+[[tracks]]
+name = 'I Feel Nothing (Laid-Back Sessions)'
+artist = 'Catnapp'
+album = 'I Feel Nothing (Laid-Back Sessions)'
+listened_at = '2025-11-10T21:30:39Z'
+
+[[tracks]]
+name = 'Les Horizons Mélancoliques - Brokendata Remix'
+artist = 'Verset Zero'
+album = 'Les Sanctuaires Oubliés'
+listened_at = '2025-11-10T21:26:49Z'
+
+[[tracks]]
+name = 'Enigma of my State'
+artist = 'Citizen Audrey'
+album = 'Enigma of my State'
+listened_at = '2025-11-10T21:23:34Z'
+
+[[tracks]]
+name = 'Oracle'
+artist = 'House & Home'
+album = 'Oracle'
+listened_at = '2025-11-10T21:14:15Z'
+
+[[tracks]]
+name = 'Serene'
+artist = 'ashn'
+album = 'Waves in Two'
+listened_at = '2025-11-10T21:10:48Z'
+
+[[tracks]]
 name = 'Fall'
 artist = 'Ogster'
 album = 'Fall'
