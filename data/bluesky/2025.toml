@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m5fe3zpquc2e'
+created_at = '2025-11-12T00:05:00.637Z'
+text = '''At the point where I'm vendoring a 4k LOC dependency just so I can make a 10 line change.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m5bs5dxhok2g'
 created_at = '2025-11-10T14:05:38.351Z'
 text = 'Loot from Discord:'
