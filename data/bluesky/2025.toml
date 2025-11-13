@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m5i7msbnfk2c'
+created_at = '2025-11-13T03:22:53.766Z'
+text = 'Making a strong case for Husband of the Year 2025'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3m5i7c7roe22z'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m5i6ivuwg224'
+created_at = '2025-11-13T03:02:49.584Z'
+text = '''We're building the editor we write the code in, does that count?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rxfz3hrx3feqrk5g6cuukfsj/app.bsky.feed.post/3m5i4m6vuu22r'
+author_did = 'did:plc:rxfz3hrx3feqrk5g6cuukfsj'
+author_handle = 'arturo182.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m5fgebu2tk2i'
 created_at = '2025-11-12T00:45:25.087Z'
 text = '''
