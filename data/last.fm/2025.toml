@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Beirut'
+artist = 'Mike Dawes'
+album = 'Era'
+listened_at = '2025-11-12T22:39:02Z'
+
+[[tracks]]
+name = 'Slow Dancing in a Burning Room (feat. Nick Johnston)'
+artist = 'Mike Dawes'
+album = 'Era'
+listened_at = '2025-11-12T22:33:55Z'
+
+[[tracks]]
+name = 'Encomium (Reverie)'
+artist = 'Mike Dawes'
+album = 'Era'
+listened_at = '2025-11-12T22:29:03Z'
+
+[[tracks]]
+name = 'Purr & Sway (feat. Jukka Backlund)'
+artist = 'Mike Dawes'
+album = 'Era'
+listened_at = '2025-11-12T02:56:57Z'
+
+[[tracks]]
 name = 'One'
 artist = 'Mike Dawes'
 album = 'Era'
