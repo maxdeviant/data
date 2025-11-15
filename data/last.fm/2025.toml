@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Welcome to the Internet'
+artist = 'Bo Burnham'
+album = 'Inside'
+listened_at = '2025-11-15T03:58:02Z'
+
+[[tracks]]
+name = 'All Eyes On Me (Song Only)'
+artist = 'Bo Burnham'
+album = 'Inside'
+listened_at = '2025-11-15T03:54:29Z'
+
+[[tracks]]
+name = 'Sailing'
+artist = 'Alan Walker'
+album = 'Sailing'
+listened_at = '2025-11-14T22:09:13Z'
+
+[[tracks]]
 name = 'Overload'
 artist = 'Mike Dawes'
 album = 'Era'
