@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Symbiosis'
+artist = 'Enrico Sangiuliano'
+album = 'Biomorph'
+listened_at = '2025-11-17T02:24:46Z'
+
+[[tracks]]
+name = 'Aphrodite'
+artist = 'Township Rebellion'
+album = 'Township Rebellion, Marc Holstege'
+listened_at = '2025-11-17T02:16:11Z'
+
+[[tracks]]
+name = 'Encomium (Reverie)'
+artist = 'Mike Dawes'
+album = 'Era'
+listened_at = '2025-11-17T02:12:48Z'
+
+[[tracks]]
 name = 'Welcome to the Internet'
 artist = 'Bo Burnham'
 album = 'Inside'
