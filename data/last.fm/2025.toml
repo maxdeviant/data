@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'SLEEP'
+artist = 'NRTHRN'
+album = 'Lithium'
+listened_at = '2025-11-17T21:11:09Z'
+
+[[tracks]]
+name = 'FeelFly'
+artist = 'Dayshell'
+album = 'FeelFly'
+listened_at = '2025-11-17T21:06:57Z'
+
+[[tracks]]
+name = 'What Fer?'
+artist = 'Ben Quad'
+album = 'Wisher'
+listened_at = '2025-11-17T18:30:56Z'
+
+[[tracks]]
 name = 'Armor'
 artist = 'Unwell'
 album = 'Allegoria'
