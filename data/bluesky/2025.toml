@@ -1,4 +1,40 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m62w26meus2r'
+created_at = '2025-11-20T13:52:00.466Z'
+text = 'What I would love is a tool that looks at a Postgres database and then dumps out SeaQuery structs for all of the tables, as that would help keep things aligned with the schema.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m62w26kr4k2r'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m62w26kr4k2r'
+created_at = '2025-11-20T13:52:00.465Z'
+text = '''
+Yea, I use the types on the query builder more for catching semantic issues (referencing a column that I just deleted).
+
+I do like the sqlx model where it checks directly against your database, but I think you end up with the same problems when writing dynamic queries in sqlx anyways.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3m62vidwb6k2h'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m62veuq5sk2r'
+created_at = '2025-11-20T13:40:05.513Z'
+text = '''
+It’s under the SeaORM umbrella, but I really like SeaQuery as a standalone query builder.
+
+I’m not a fan of ORMs, so SeaORM itself is out, but I do very much appreciate the level of abstraction SeaQuery sits at and that it can be used in isolation.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3m62pt7hwok2h'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m5ox6r4gzs26'
 created_at = '2025-11-15T19:40:31.019Z'
 text = '''
