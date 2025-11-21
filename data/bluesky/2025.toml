@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m65mg5fgqc2g'
+created_at = '2025-11-21T15:37:43.694Z'
+text = 'A WebSocket, of course!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3m65lqewyps2b'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m65gzb5kou25'
 created_at = '2025-11-21T14:01:02.163Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
