@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m65gzb5kou25'
+created_at = '2025-11-21T14:01:02.163Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m65gdt5hgk2z'
+created_at = '2025-11-21T13:49:03.386Z'
+text = 'Can’t wait for the announcement of the Wasm target for the Gleam compiler!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:k5vecqzf4d5mdvkcu3mx6l5g/app.bsky.feed.post/3m65234h3ms2g'
+author_did = 'did:plc:k5vecqzf4d5mdvkcu3mx6l5g'
+author_handle = 'gleam.run'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m65fjmojlk2z'
+created_at = '2025-11-21T13:34:24.189Z'
+text = 'They should create a type where you can’t get the value back out of it'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3lrl6qqcry222'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m62w26meus2r'
 created_at = '2025-11-20T13:52:00.466Z'
 text = 'What I would love is a tool that looks at a Postgres database and then dumps out SeaQuery structs for all of the tables, as that would help keep things aligned with the schema.'
