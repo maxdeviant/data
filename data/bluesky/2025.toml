@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m6hhyep7u22c'
+created_at = '2025-11-25T13:45:04.009Z'
+text = 'And that was the last anyone heard from Adam 🫡'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3m6gm7obfqs27'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m65mg5fgqc2g'
 created_at = '2025-11-21T15:37:43.694Z'
 text = 'A WebSocket, of course!'
