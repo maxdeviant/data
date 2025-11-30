@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m6uht7ztx225'
+created_at = '2025-11-30T17:46:47.940Z'
+text = 'This was one of the reasons I ended up rolling my own SSG, because I wanted to do custom stuff and there weren’t any viable options for extending an existing SSG (at least the ones I was interested in using).'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3m6txb3ck4c25'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m6rxv77m5s2x'
 created_at = '2025-11-29T17:56:14.844Z'
 text = 'I prefer “A”, with little to no exception.'
