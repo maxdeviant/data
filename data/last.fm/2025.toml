@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Like a Villain'
+artist = 'Bad Omens'
+album = 'THE DEATH OF PEACE OF MIND'
+listened_at = '2025-12-02T01:08:35Z'
+
+[[tracks]]
+name = 'Your Flowers'
+artist = 'Excide'
+album = 'Your Flowers'
+listened_at = '2025-12-01T21:50:53Z'
+
+[[tracks]]
 name = 'Retreat! Retreat!'
 artist = '65daysofstatic'
 album = 'The Fall of Math'
