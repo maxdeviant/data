@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Just Pretend'
+artist = 'Bad Omens'
+album = 'THE DEATH OF PEACE OF MIND'
+listened_at = '2025-12-02T17:16:36Z'
+
+[[tracks]]
+name = 'bad decisions'
+artist = 'Bad Omens'
+album = 'THE DEATH OF PEACE OF MIND'
+listened_at = '2025-12-02T17:12:14Z'
+
+[[tracks]]
+name = 'Like a Villain'
+artist = 'Bad Omens'
+album = 'THE DEATH OF PEACE OF MIND'
+listened_at = '2025-12-02T17:08:45Z'
+
+[[tracks]]
 name = 'Like a Villain'
 artist = 'Bad Omens'
 album = 'THE DEATH OF PEACE OF MIND'
