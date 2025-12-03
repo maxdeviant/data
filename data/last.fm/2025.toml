@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Haunted House'
+artist = 'Holly Humberstone'
+album = 'Can You Afford To Lose Me?'
+listened_at = '2025-12-03T18:16:48Z'
+
+[[tracks]]
+name = 'Deep End'
+artist = 'Holly Humberstone'
+album = 'Can You Afford To Lose Me?'
+listened_at = '2025-12-03T18:13:57Z'
+
+[[tracks]]
+name = '''Please Don't Leave Just Yet'''
+artist = 'Holly Humberstone'
+album = 'Can You Afford To Lose Me?'
+listened_at = '2025-12-03T18:10:07Z'
+
+[[tracks]]
+name = 'Scarlett'
+artist = 'Holly Humberstone'
+album = 'Can You Afford To Lose Me?'
+listened_at = '2025-12-03T18:06:51Z'
+
+[[tracks]]
 name = 'Overkill'
 artist = 'Holly Humberstone'
 album = 'Can You Afford To Lose Me?'
