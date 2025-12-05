@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m7anjep3dy2q'
+created_at = '2025-12-05T14:00:35.705Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m6zeitwcjs2h'
 created_at = '2025-12-02T16:30:37.163Z'
 text = 'Drives me up the wall when I see "id" in a sentence instead of "ID".'
