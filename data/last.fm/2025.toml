@@ -1,4 +1,64 @@
 [[tracks]]
+name = 'Silver Tongues'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-07T21:01:01Z'
+
+[[tracks]]
+name = 'The Sound of Breathing'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-07T20:56:33Z'
+
+[[tracks]]
+name = '111 Winchester'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-07T20:51:58Z'
+
+[[tracks]]
+name = 'Escapism'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-07T20:48:17Z'
+
+[[tracks]]
+name = 'Sleepwalker'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-07T20:44:24Z'
+
+[[tracks]]
+name = 'Symphony of Skin'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-07T20:40:39Z'
+
+[[tracks]]
+name = 'Where the Mind Wants to Go'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-07T20:36:47Z'
+
+[[tracks]]
+name = 'Chaos in Motion'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-07T20:33:32Z'
+
+[[tracks]]
+name = 'Pet Names'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-07T20:29:50Z'
+
+[[tracks]]
+name = 'Degenerates'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-07T20:24:37Z'
+
+[[tracks]]
 name = 'Dear True Love'
 artist = 'Sleeping at Last'
 album = 'Yearbook'
