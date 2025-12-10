@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'More Than Hate'
+artist = 'Bilmuri'
+album = 'More Than Hate'
+listened_at = '2025-12-10T02:14:29Z'
+
+[[tracks]]
+name = 'bad decisions'
+artist = 'Bad Omens'
+album = 'THE DEATH OF PEACE OF MIND'
+listened_at = '2025-12-10T02:07:44Z'
+
+[[tracks]]
+name = 'Like a Villain'
+artist = 'Bad Omens'
+album = 'THE DEATH OF PEACE OF MIND'
+listened_at = '2025-12-10T02:04:14Z'
+
+[[tracks]]
 name = 'Thumbs'
 artist = 'Sabrina Carpenter'
 album = 'EVOLution'
