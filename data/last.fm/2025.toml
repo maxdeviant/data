@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Thumbs'
+artist = 'Sabrina Carpenter'
+album = 'EVOLution'
+listened_at = '2025-12-09T22:18:23Z'
+
+[[tracks]]
 name = 'SYGNS'
 artist = 'Maranatha'
 album = 'SYGNS'
