@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Carmen Reginarum'
+artist = 'Tabernis'
+album = 'Vox Tenebris Alvum'
+listened_at = '2025-12-11T17:08:50Z'
+
+[[tracks]]
+name = 'Dark Hive'
+artist = 'Tabernis'
+album = 'Vox Tenebris Alvum'
+listened_at = '2025-12-11T17:04:52Z'
+
+[[tracks]]
+name = 'Alveus Umbrae'
+artist = 'Tabernis'
+album = 'Vox Tenebris Alvum'
+listened_at = '2025-12-11T17:01:56Z'
+
+[[tracks]]
+name = 'Carmen Reginarum'
+artist = 'Tabernis'
+album = 'Vox Tenebris Alvum'
+listened_at = '2025-12-11T16:58:51Z'
+
+[[tracks]]
 name = 'Gone Astray'
 artist = 'Currents'
 album = 'The Death We Seek'
