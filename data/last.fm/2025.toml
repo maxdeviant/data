@@ -1,4 +1,64 @@
 [[tracks]]
+name = '12 Days of Christmas'
+artist = 'Relient K'
+album = 'Let It Snow Baby...Let It Reindeer'
+listened_at = '2025-12-13T22:06:04Z'
+
+[[tracks]]
+name = 'Deck the Halls'
+artist = 'Relient K'
+album = 'Let It Snow Baby...Let It Reindeer'
+listened_at = '2025-12-13T22:04:43Z'
+
+[[tracks]]
+name = 'Angels We Have Heard on High'
+artist = 'Relient K'
+album = 'Let It Snow Baby...Let It Reindeer'
+listened_at = '2025-12-13T22:02:48Z'
+
+[[tracks]]
+name = '''Merry Christmas, Here's to Many More'''
+artist = 'Relient K'
+album = 'Let It Snow Baby...Let It Reindeer'
+listened_at = '2025-12-13T21:58:56Z'
+
+[[tracks]]
+name = 'Sleigh Ride'
+artist = 'Relient K'
+album = 'Let It Snow Baby...Let It Reindeer'
+listened_at = '2025-12-13T21:55:23Z'
+
+[[tracks]]
+name = 'Have Yourself a Merry Little Christmas'
+artist = 'Relient K'
+album = 'Let It Snow Baby...Let It Reindeer'
+listened_at = '2025-12-13T21:53:13Z'
+
+[[tracks]]
+name = 'O Come, O Come, Emmanuel'
+artist = 'Francesca Battistelli'
+album = 'Christmas'
+listened_at = '2025-12-13T21:48:21Z'
+
+[[tracks]]
+name = 'The Holly and the Ivy'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2025-12-13T21:42:42Z'
+
+[[tracks]]
+name = 'Have Yourself a Merry Little Christmas'
+artist = 'Phoebe Bridgers'
+album = 'So Much Wine'
+listened_at = '2025-12-13T21:39:43Z'
+
+[[tracks]]
+name = 'to each their dot'
+artist = 'Haley Heynderickx'
+album = 'to each their dot & This Morning I Am Born Again'
+listened_at = '2025-12-13T21:35:20Z'
+
+[[tracks]]
 name = 'Carmen Reginarum'
 artist = 'Tabernis'
 album = 'Vox Tenebris Alvum'
