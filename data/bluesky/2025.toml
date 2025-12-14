@@ -1,4 +1,58 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m7w5jmtu4c2l'
+created_at = '2025-12-14T03:12:59.517Z'
+text = '''
+Now if only I could convince them to port the Vitesse theme to Arborium for me...
+
+github.com/antfu/vscode...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m7w5edgipk2l'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m7w5edgipk2l'
+created_at = '2025-12-14T03:10:01.869Z'
+text = 'Finally able to use Tree-sitter for syntax highlighting for my website, and I got @fasterthanli.me to do 99% of the work for me.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m7w3gxbguc2l'
+created_at = '2025-12-14T02:35:42.301Z'
+text = '''
+Nevermind, I missed the part about how the custom elements don't require JavaScript.
+
+Will go with that approach 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m7w36yl7ak27'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m7w36yl7ak27'
+created_at = '2025-12-14T02:31:15.235Z'
+text = '''
+Does Arborium come with a base CSS file for use with the CSS class name output?
+
+I found the `base.css`, but it looks like the selectors are just for the custom elements.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3m7vycjjprc2y'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m7vxbqwtvs27'
+created_at = '2025-12-14T01:21:12.924Z'
+text = 'Time to go switch my website over to this!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3m7vwgn45sc2p'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m7tejau64k2a'
 created_at = '2025-12-13T00:40:03.919Z'
 text = 'Brewing a cup of balsamic vinaigrette? That does sound dire, indeed!'
