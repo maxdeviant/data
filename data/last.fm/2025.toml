@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'So Alone'
+artist = 'Currents'
+album = 'The Death We Seek'
+listened_at = '2025-12-15T18:39:31Z'
+
+[[tracks]]
+name = 'Unfamiliar'
+artist = 'Currents'
+album = 'The Death We Seek'
+listened_at = '2025-12-15T18:35:47Z'
+
+[[tracks]]
 name = '12 Days of Christmas'
 artist = 'Relient K'
 album = 'Let It Snow Baby...Let It Reindeer'
