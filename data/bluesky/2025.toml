@@ -1,4 +1,32 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ma4z6et3rk22'
+created_at = '2025-12-16T20:43:45.206Z'
+text = '''
+As a formerly-happy bincode user, I've been following along with the bincode saga with moderate dismay at the way things are being handled with next to zero communication.
+
+But doxxing someone over it? That's absolutely vile behavior.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3ma4pl2vn7c2x'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ma4yz5txck22'
+created_at = '2025-12-16T20:40:50.122Z'
+text = 'Time to take my performance-enchancing drugs (Excedrin, because I feel a migraine coming on)'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ma4xabdtyk22'
+created_at = '2025-12-16T20:09:01.187Z'
+text = 'GitHub, in a mob boss voice: "Those are some very nice self-hosted runners you have there. Would be a shame if anything were to happen to them... Luckily for you, I can keep them safe"'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3ma4prhtnnk25'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ma3cesb3bk2i'
 created_at = '2025-12-16T04:23:04.822Z'
 text = '''

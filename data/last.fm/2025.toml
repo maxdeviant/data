@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Unfamiliar'
+artist = 'Currents'
+album = 'The Death We Seek'
+listened_at = '2025-12-16T21:00:04Z'
+
+[[tracks]]
+name = 'Silent Night/Away In The Manger'
+artist = 'Relient K'
+album = 'Let It Snow Baby...Let It Reindeer'
+listened_at = '2025-12-16T03:28:21Z'
+
+[[tracks]]
+name = 'Beyond This Road'
+artist = 'Currents'
+album = 'The Death We Seek'
+listened_at = '2025-12-15T23:07:00Z'
+
+[[tracks]]
 name = 'Over And Over'
 artist = 'Currents'
 album = 'The Death We Seek'
