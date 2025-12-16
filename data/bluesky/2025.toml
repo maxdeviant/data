@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ma2tp75mic2g'
+created_at = '2025-12-16T00:00:27.752Z'
+text = 'I generally use `pretty_assertions`: docs.rs/pretty_asser...'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:bjqhlymlvkcc23duwmlkez5u/app.bsky.feed.post/3ma2np6e2322t'
+author_did = 'did:plc:bjqhlymlvkcc23duwmlkez5u'
+author_handle = 'aki.lethalbit.net'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3m7xph4edvk2d'
 created_at = '2025-12-14T18:06:22.210Z'
 text = 'Time for a new swath of “Is Elm Dead?” blog posts'
