@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mabekit4q22i'
+created_at = '2025-12-18T14:18:02.168Z'
+text = 'This is the way.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vt464ohreg6sglmnb4cuctmr/app.bsky.feed.post/3mabdkyuszs2q'
+author_did = 'did:plc:vt464ohreg6sglmnb4cuctmr'
+author_handle = 'eikopf.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3maaanefnqk2d'
 created_at = '2025-12-18T03:35:23.491Z'
 text = 'The 25th of December, 2025? You couldn’t ask for a more perfect date for it!'
