@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3maglyrzupc24'
+created_at = '2025-12-20T16:14:36.474Z'
+text = 'hit'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e2p7kehepodpkozranhvp56u/app.bsky.feed.post/3magl774wvyz2'
+author_did = 'did:plc:e2p7kehepodpkozranhvp56u'
+author_handle = 'bagder.mastodon.social.ap.brid.gy'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3madu2h2wif2m'
 created_at = '2025-12-19T14:00:41.965Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
