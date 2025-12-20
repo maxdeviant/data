@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'The devil wears converse'
+artist = 'LØLØ'
+album = 'me with no shirt on'
+listened_at = '2025-12-19T22:26:13Z'
+
+[[tracks]]
+name = 'american zombie'
+artist = 'LØLØ'
+album = 'me with no shirt on'
+listened_at = '2025-12-19T22:23:40Z'
+
+[[tracks]]
+name = 'me with no shirt on'
+artist = 'LØLØ'
+album = 'me with no shirt on'
+listened_at = '2025-12-19T22:20:53Z'
+
+[[tracks]]
+name = 'SOUL//SPLIT'
+artist = 'Iridium'
+album = 'SOUL//SPLIT'
+listened_at = '2025-12-19T21:17:32Z'
+
+[[tracks]]
 name = 'Evergreen Misery'
 artist = 'Mothica'
 album = 'Evergreen Misery'
