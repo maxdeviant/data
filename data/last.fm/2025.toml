@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Soldier, Poet, King'
+artist = 'The Oh Hellos'
+album = 'Dear Wormwood'
+listened_at = '2025-12-22T04:08:19Z'
+
+[[tracks]]
+name = 'Moon Song'
+artist = 'Phoebe Bridgers'
+album = 'Punisher'
+listened_at = '2025-12-22T02:51:26Z'
+
+[[tracks]]
 name = 'Chinese Satellite'
 artist = 'Phoebe Bridgers'
 album = 'Punisher'

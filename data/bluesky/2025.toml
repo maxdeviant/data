@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3makgy3kazc2q'
+created_at = '2025-12-22T04:55:23.137Z'
+text = '“You’ll rue the day you crossed me, Trebek!”'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:azy5dtqi56fxhgohal7ytb2a/app.bsky.feed.post/3mak4fvwi422r'
+author_did = 'did:plc:azy5dtqi56fxhgohal7ytb2a'
+author_handle = 'fake.koldinium.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3majgwje4vc26'
 created_at = '2025-12-21T19:21:50.768Z'
 text = 'One of my least favorite parts of starting a new game is when it is frontloaded with cutscenes.'
