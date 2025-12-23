@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'In the Bleak Midwinter'
+artist = 'Wolf Alice'
+album = 'in the bleak midwinter'
+listened_at = '2025-12-23T17:11:16Z'
+
+[[tracks]]
+name = 'Symphony of Skin'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-23T17:05:54Z'
+
+[[tracks]]
+name = 'Where the Mind Wants to Go'
+artist = 'I the Mighty'
+album = 'Where The Mind Wants To Go / Where You Let it Go'
+listened_at = '2025-12-23T17:02:03Z'
+
+[[tracks]]
+name = 'Bringing Down The Nation 2.0'
+artist = 'Crying Vessel'
+album = 'Bringing Down The Nation 2.0'
+listened_at = '2025-12-23T16:45:53Z'
+
+[[tracks]]
+name = 'It Takes Two'
+artist = 'Jutes'
+album = 'Dilworth'
+listened_at = '2025-12-23T16:42:44Z'
+
+[[tracks]]
+name = 'Backburner'
+artist = 'Firebrand'
+album = 'Backburner'
+listened_at = '2025-12-23T16:39:37Z'
+
+[[tracks]]
+name = 'Bringing Down The Nation 2.0'
+artist = 'Crying Vessel'
+album = 'Bringing Down The Nation 2.0'
+listened_at = '2025-12-23T16:36:10Z'
+
+[[tracks]]
 name = 'Demi Moore'
 artist = 'Phoebe Bridgers'
 album = 'Stranger in the Alps'
