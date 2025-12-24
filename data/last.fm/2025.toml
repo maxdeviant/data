@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Demi Moore'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2025-12-24T20:58:45Z'
+
+[[tracks]]
+name = 'Motion Sickness'
+artist = 'Phoebe Bridgers'
+album = 'Stranger in the Alps'
+listened_at = '2025-12-24T20:51:04Z'
+
+[[tracks]]
+name = 'Carol of the Bells'
+artist = 'George Winston'
+album = 'December'
+listened_at = '2025-12-24T15:50:32Z'
+
+[[tracks]]
 name = 'Prelude'
 artist = 'George Winston'
 album = 'December'
