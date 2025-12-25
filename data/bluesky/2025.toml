@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3matajbksb22g'
+created_at = '2025-12-25T16:53:41.324Z'
+text = 'Merry Christmas!'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3marp56btgk2e'
 created_at = '2025-12-25T02:10:01.871Z'
 text = 'Time for our annual Christmas Eve tradition.'
