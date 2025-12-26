@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Christmas Lights'
+artist = 'Yellowcard'
+album = 'Punk Goes Christmas'
+listened_at = '2025-12-26T00:42:17Z'
+
+[[tracks]]
+name = '''This Christmas (I'll Burn It to the Ground)'''
+artist = 'Set It Off'
+album = 'Punk Goes Christmas'
+listened_at = '2025-12-26T00:38:50Z'
+
+[[tracks]]
+name = 'Christmas (Baby Please Come Home)'
+artist = 'The Offspring'
+album = 'Bells Will Be Ringing (Please Come Home For Christmas)'
+listened_at = '2025-12-26T00:35:42Z'
+
+[[tracks]]
+name = 'Merry Christmas, Kiss My Ass'
+artist = 'All Time Low'
+album = 'Dirty Work'
+listened_at = '2025-12-26T00:32:22Z'
+
+[[tracks]]
+name = 'Xmas Time Of The Year'
+artist = 'Green Day'
+album = 'Xmas Time Of The Year'
+listened_at = '2025-12-26T00:30:04Z'
+
+[[tracks]]
+name = 'Happy Holidays, You Bastard'
+artist = 'blink-182'
+album = 'Take Off Your Pants and Jacket'
+listened_at = '2025-12-26T00:29:22Z'
+
+[[tracks]]
+name = 'December'
+artist = 'Neck Deep'
+album = '''Life's Not Out to Get You'''
+listened_at = '2025-12-25T18:01:25Z'
+
+[[tracks]]
 name = 'Christmas Saves the Year'
 artist = 'Twenty One Pilots'
 album = 'Christmas Saves the Year'
