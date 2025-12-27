@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mawy2ryi522z'
+created_at = '2025-12-27T04:33:04.252Z'
+text = 'An excellent choice!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uqu4mikntg2z5yboj6i2jxwx/app.bsky.feed.post/3mawqiai5ys2x'
+author_did = 'did:plc:uqu4mikntg2z5yboj6i2jxwx'
+author_handle = 'inyourculture.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mawxeardvs2z'
+created_at = '2025-12-27T04:20:27.994Z'
+text = '''
+You’ve just opened up a Star Trek-themed restaurant
+
+What are you calling it?
+
+BEAN ME UP, SCOTTY'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mavhcawyfo2e'
 created_at = '2025-12-26T14:00:21.109Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
