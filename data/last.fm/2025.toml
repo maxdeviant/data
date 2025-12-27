@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Mr. Winter'
+artist = 'The Maine'
+album = '…And A Happy New Year'
+listened_at = '2025-12-27T17:54:39Z'
+
+[[tracks]]
+name = 'Santa Stole My Girlfriend'
+artist = 'The Maine'
+album = '…And A Happy New Year'
+listened_at = '2025-12-27T17:51:36Z'
+
+[[tracks]]
+name = 'Ho Ho Hopefully'
+artist = 'The Maine'
+album = '…And A Happy New Year'
+listened_at = '2025-12-27T17:47:56Z'
+
+[[tracks]]
+name = 'Santa Stole My Girlfriend'
+artist = 'The Maine'
+album = '…And A Happy New Year'
+listened_at = '2025-12-27T17:43:28Z'
+
+[[tracks]]
+name = '12 Days of Christmas'
+artist = 'Relient K'
+album = 'Let It Snow Baby...Let It Reindeer'
+listened_at = '2025-12-27T17:39:49Z'
+
+[[tracks]]
+name = 'Nothing for Christmas'
+artist = 'New Found Glory'
+album = 'Punk Goes Christmas'
+listened_at = '2025-12-26T05:28:43Z'
+
+[[tracks]]
 name = 'Christmas Lights'
 artist = 'Yellowcard'
 album = 'Punk Goes Christmas'
