@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Sphinx'
+artist = 'Harmony Tales'
+album = 'Fantasy Ambient'
+listened_at = '2025-12-30T00:37:16Z'
+
+[[tracks]]
+name = 'Eternal Dream'
+artist = 'Harmony Tales'
+album = 'Eternal Dream'
+listened_at = '2025-12-30T00:36:03Z'
+
+[[tracks]]
+name = 'YOU DIED'
+artist = 'HEALTH'
+album = 'CONFLICT DLC'
+listened_at = '2025-12-29T04:15:08Z'
+
+[[tracks]]
 name = 'SHRED ENVY'
 artist = 'HEALTH'
 album = 'CONFLICT DLC'
