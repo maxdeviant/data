@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Scarlet'
+artist = 'Mike Dawes'
+album = 'Era'
+listened_at = '2025-12-31T20:37:57Z'
+
+[[tracks]]
+name = 'Sailing'
+artist = 'Alan Walker'
+album = 'Sailing'
+listened_at = '2025-12-31T20:34:08Z'
+
+[[tracks]]
+name = 'BELIEVE IN NOTHING BUT YOURSELF'
+artist = 'BR8'
+album = 'BELIEVE IN NOTHING BUT YOURSELF'
+listened_at = '2025-12-31T20:31:13Z'
+
+[[tracks]]
+name = 'Perfume'
+artist = 'Unprocessed'
+album = 'Angel'
+listened_at = '2025-12-31T02:38:45Z'
+
+[[tracks]]
 name = 'Like A Prayer'
 artist = 'LSR/CITY'
 album = 'Cyberpunk (original Motion Concert Soundtrack)'
