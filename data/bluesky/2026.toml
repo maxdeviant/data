@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbfbm26d4s2z'
+created_at = '2026-01-01T21:01:03.271Z'
+text = '''
+Had a similar experience recently where after not having used TypeScript in anger in a while, it was cool to play around with stuff like ArkType and TanStack Router.
+
+But the fundamental issue for me is that at the end of the day the language just feels too flimsy.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mbfbdmva2k2i'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbey5dyfsk27'
+created_at = '2026-01-01T18:11:46.570Z'
+text = '''
+Happy New Year!
+
+Here's my 2025 in Review:
+
+maxdeviant.com/posts/2025/i...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbelweg2ak2d'
 created_at = '2026-01-01T14:33:07.235Z'
 text = 'I think I’ll be sticking with Rust, thanks!'
