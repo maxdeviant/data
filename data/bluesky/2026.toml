@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbh7slab6223'
+created_at = '2026-01-02T15:34:14.480Z'
+text = 'Surely an `rm -rf ./~` won’t go awry 😰'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:h6a7qzjb4624q6a2ol2zc3ch/app.bsky.feed.post/3mbh3zdvti22o'
+author_did = 'did:plc:h6a7qzjb4624q6a2ol2zc3ch'
+author_handle = 'katafrakt.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbh6ubivb223'
+created_at = '2026-01-02T15:17:17.644Z'
+text = 'When I had kidney stones a number of years ago and had to go to the ER, the staff kept asking me if I was a med student by how I talked about my symptoms.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sgqw2zixdcjtjjhrm4bw64ny/app.bsky.feed.post/3mbh4y7iin22j'
+author_did = 'did:plc:sgqw2zixdcjtjjhrm4bw64ny'
+author_handle = 'mattkeeter.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbh35spbxk23'
 created_at = '2026-01-02T14:11:02.703Z'
 text = 'I’ve already used Haskell :)'

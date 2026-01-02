@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'The Rolling Stones'
+artist = 'Cameron Winter'
+album = 'Heavy Metal'
+listened_at = '2026-01-02T16:03:56Z'
+
+[[tracks]]
 name = 'BRAVE NEW WORLD'
 artist = 'Starset'
 album = 'SILOS'
