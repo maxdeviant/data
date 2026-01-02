@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbh35spbxk23'
+created_at = '2026-01-02T14:11:02.703Z'
+text = 'I’ve already used Haskell :)'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wscpul7wcm7dpt3ddte6u5qx/app.bsky.feed.post/3mbginbagvk2u'
+author_did = 'did:plc:wscpul7wcm7dpt3ddte6u5qx'
+author_handle = 'anka213.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbh2kxb3mz2c'
+created_at = '2026-01-02T14:00:29.720Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbfbm26d4s2z'
 created_at = '2026-01-01T21:01:03.271Z'
 text = '''
