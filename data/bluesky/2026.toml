@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbi6prxrfs25'
+created_at = '2026-01-03T00:47:26.874Z'
+text = '''
+It’s narratives like the one Yegge is pushing here that really left a bad taste in my mouth re: LLMs when I first started hearing about them.
+
+I’ve since come around to the position that LLMs are powerful tools that can give you a lot of leverage, but this way of applying them ain’t it.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbh7slab6223'
 created_at = '2026-01-02T15:34:14.480Z'
 text = 'Surely an `rm -rf ./~` won’t go awry 😰'
