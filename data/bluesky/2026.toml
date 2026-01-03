@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbjg4vhrn22f'
+created_at = '2026-01-03T12:32:42.684Z'
+text = 'Barely 3 days in and I see we’re already tracking for 2026 to be worse than 2025. Good, good.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbjf5ikigk2f'
+created_at = '2026-01-03T12:15:08.953Z'
+text = 'Oh, so *you’re* the reason I’m awake right now'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vt464ohreg6sglmnb4cuctmr/app.bsky.feed.post/3mbixx3pt4s22'
+author_did = 'did:plc:vt464ohreg6sglmnb4cuctmr'
+author_handle = 'eikopf.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbi6prxrfs25'
 created_at = '2026-01-03T00:47:26.874Z'
 text = '''
