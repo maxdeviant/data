@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbkscettd224'
+created_at = '2026-01-04T01:43:11.221Z'
+text = 'Go: Not even once.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbjg4vhrn22f'
 created_at = '2026-01-03T12:32:42.684Z'
 text = 'Barely 3 days in and I see we’re already tracking for 2026 to be worse than 2025. Good, good.'
