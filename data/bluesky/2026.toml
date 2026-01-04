@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbm3rd7p3s2e'
+created_at = '2026-01-04T14:05:16.243Z'
+text = 'The LLM READMEs drive me nuts. I feel like they’re worse than no README at all.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3mblyofk2qs2g'
+author_did = 'did:plc:fpruhuo22xkm5o7ttr2ktxdo'
+author_handle = 'danabra.mov'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbkscettd224'
 created_at = '2026-01-04T01:43:11.221Z'
 text = 'Go: Not even once.'
