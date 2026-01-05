@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbn6dxrzpc2u'
+created_at = '2026-01-05T00:24:09.017Z'
+text = '''Don't know why this has never occurred to me before, but I can feed the Zed Agent a link to a PR on GitHub and have it review the diff for me.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbmvpwz52k2g'
+created_at = '2026-01-04T21:49:47.179Z'
+text = '''
+Currently doing a big rename in a Rust codebase and am reminded that the ability to do this quickly and reliably is not something to be taken for granted.
+
+I remember that even when using TypeScript, the rename facilities of the language server would often fall over in a large codebase.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbm3rd7p3s2e'
 created_at = '2026-01-04T14:05:16.243Z'
 text = 'The LLM READMEs drive me nuts. I feel like they’re worse than no README at all.'
