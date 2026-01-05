@@ -1,4 +1,48 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbni247i5k2i'
+created_at = '2026-01-05T03:17:35.526Z'
+text = '''
+Here's a one-liner I like to use for turning any emoji into a favicon:
+
+```
+data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 16 16"><text x="0" y="14">🦋</text></svg>
+```
+
+Just slap that into a `<link rel="icon" href="{DATA_URI}">` and you're good to go!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbnhrqln6k2i'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbnhrqln6k2i'
+created_at = '2026-01-05T03:12:54.907Z'
+text = '''
+In September I built a whole new internal admin panel for Zed, but I didn't know what to use for the favicon.
+
+Ended up going with a "⚡️", with the rationale being:
+
+Zed Admin Panel = ZAP = ⚡️'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbnfbbf2gs2d'
+created_at = '2026-01-05T02:27:54.607Z'
+text = '''
+Depends on what I'm doing.
+
+Sometimes I'll follow along with it so I can course-correct, if needed.
+
+I'll usually go off and check GitHub to review PRs or check Slack.
+
+In Zed we have a system notification that we'll pop up when the agent finishes, so I can wait til that pops up to tab back to Zed.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4ur3d5pr3dlqyod4jtqn5c34/app.bsky.feed.post/3mbncjsmhxk2s'
+author_did = 'did:plc:4ur3d5pr3dlqyod4jtqn5c34'
+author_handle = 'ncameron.org'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbn6dxrzpc2u'
 created_at = '2026-01-05T00:24:09.017Z'
 text = '''Don't know why this has never occurred to me before, but I can feed the Zed Agent a link to a PR on GitHub and have it review the diff for me.'''
