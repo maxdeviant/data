@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbnmslso4c2p'
+created_at = '2026-01-05T04:42:52.157Z'
+text = 'Same, I was like “does failing CI really have to wake me up?”'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:76lquwhdt4obymroryesnjqo/app.bsky.feed.post/3mbnmmswcuk2a'
+author_did = 'did:plc:76lquwhdt4obymroryesnjqo'
+author_handle = 'segiddins.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbnkge2glk2x'
+created_at = '2026-01-05T04:00:13.886Z'
+text = '''
+Very cool to learn that you're working on Hardcover! I started using it this year as I was getting back into reading 😄
+
+Even cooler to see your posts and photos from Kunming. I lived there for 7 years and miss it terribly.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qdvlp23wdogo57pkc2r6yayi/app.bsky.feed.post/3mbdfjd35hd2u'
+author_did = 'did:plc:qdvlp23wdogo57pkc2r6yayi'
+author_handle = 'emgoto.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbni247i5k2i'
 created_at = '2026-01-05T03:17:35.526Z'
 text = '''
