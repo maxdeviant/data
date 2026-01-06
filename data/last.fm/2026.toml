@@ -2,6 +2,18 @@
 name = 'WASTED YEARS'
 artist = 'HEALTH'
 album = 'CONFLICT DLC'
+listened_at = '2026-01-06T20:49:44Z'
+
+[[tracks]]
+name = 'DON’T KILL YOURSELF'
+artist = 'HEALTH'
+album = 'CONFLICT DLC'
+listened_at = '2026-01-06T20:47:09Z'
+
+[[tracks]]
+name = 'WASTED YEARS'
+artist = 'HEALTH'
+album = 'CONFLICT DLC'
 listened_at = '2026-01-06T02:39:17Z'
 
 [[tracks]]
