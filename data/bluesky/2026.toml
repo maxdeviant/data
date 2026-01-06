@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbphybrz622f'
+created_at = '2026-01-05T22:21:53.744Z'
+text = 'I shall give this a try and report back 👨‍🍳'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mbpd37jves2j'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbpcebdlyk2b'
 created_at = '2026-01-05T20:41:13.473Z'
 text = 'This reply thread is the best explanation of Gas Town that I’ve seen so far.'
