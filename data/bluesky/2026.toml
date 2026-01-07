@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbsnzmeaw22w'
+created_at = '2026-01-07T04:48:00.048Z'
+text = 'Pulling some of their GPUs away to stage a new version of Claude for imminent release? 👀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3mbscbw6src2c'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbphybrz622f'
 created_at = '2026-01-05T22:21:53.744Z'
 text = 'I shall give this a try and report back 👨‍🍳'
