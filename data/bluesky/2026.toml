@@ -1,4 +1,52 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbwv5dkzwc25'
+created_at = '2026-01-08T21:06:00.198Z'
+text = 'Facet has made the big leagues!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mbwouhz3ns2z'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbwuqsfg7k2n'
+created_at = '2026-01-08T20:58:59.533Z'
+text = '''Can't make this stuff up.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbwrwohgts25'
+created_at = '2026-01-08T20:08:35.507Z'
+text = '''
+I'm still rocking Alacritty.
+
+Originally it was because I wanted to use the same terminal on macOS and Linux, but I don't do much development on Linux these days.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3mbwqk74juk2k'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbwrsnc3bc2a'
+created_at = '2026-01-08T20:06:20.066Z'
+text = '''Looks like we're all in good company!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mbwra7ajck2i'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbwqfr7alc2a'
+created_at = '2026-01-08T19:41:14.217Z'
+text = 'Now I want to know if Zed is on the list lol'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mbwm7q7bz22i'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mbwbrxfkhc22'
 created_at = '2026-01-08T15:19:37.234Z'
 text = 'Instagram ads getting a bit too real…'
