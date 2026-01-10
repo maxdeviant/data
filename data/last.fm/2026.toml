@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'The Gravity of You'
+artist = 'Mourn'
+album = 'No One Returns the Same'
+listened_at = '2026-01-10T01:59:49Z'
+
+[[tracks]]
+name = 'Voices Calling'
+artist = 'Inner Code'
+album = 'Voices Calling'
+listened_at = '2026-01-10T01:55:09Z'
+
+[[tracks]]
+name = 'Phantasmagorie'
+artist = 'Aara'
+album = 'Triade II : Hemera'
+listened_at = '2026-01-10T01:23:08Z'
+
+[[tracks]]
 name = 'Mitgift'
 artist = 'Aara'
 album = 'Triade II : Hemera'
