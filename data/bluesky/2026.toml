@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mc5pmyjnrk2u'
+created_at = '2026-01-11T14:16:01.204Z'
+text = '''
+The list seemed to originate as a way to specifically harass specific maintainers.
+
+Also, Kat was harassing Steve in the replies of one of the threads about it on here.
+
+So there was real harassment going on, it wasn’t just a theoretical.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ybis62fh2uwcfrb33pt5k6dc/app.bsky.feed.post/3mc5eycgomc2g'
+author_did = 'did:plc:ybis62fh2uwcfrb33pt5k6dc'
+author_handle = 'hjvt.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mc5okpjvhk2u'
+created_at = '2026-01-11T13:56:50.926Z'
+text = 'I’m crying at “fully loaded Elmo doll” 😂'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mc5oajdbdc2k'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mc4jvpmpzk2f'
 created_at = '2026-01-11T03:00:51.670Z'
 text = '''Don't think any of us did.'''
