@@ -2,6 +2,30 @@
 name = 'Magnolia'
 artist = 'Deafheaven'
 album = 'Lonely People With Power'
+listened_at = '2026-01-14T20:12:52Z'
+
+[[tracks]]
+name = 'Doberman'
+artist = 'Deafheaven'
+album = 'Lonely People With Power'
+listened_at = '2026-01-14T20:06:18Z'
+
+[[tracks]]
+name = 'Incidental I'
+artist = 'Deafheaven'
+album = 'Lonely People With Power'
+listened_at = '2026-01-14T20:05:23Z'
+
+[[tracks]]
+name = 'The Garden Route'
+artist = 'Deafheaven'
+album = 'Lonely People With Power'
+listened_at = '2026-01-14T04:10:44Z'
+
+[[tracks]]
+name = 'Magnolia'
+artist = 'Deafheaven'
+album = 'Lonely People With Power'
 listened_at = '2026-01-14T04:06:29Z'
 
 [[tracks]]
