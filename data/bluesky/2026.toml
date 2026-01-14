@@ -1,4 +1,60 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mce4o2opfc2k'
+created_at = '2026-01-14T03:25:14.097Z'
+text = '''
+In a previous model revision I tried driving both Opus and Sonnet and couldn't really tell the difference between the two.
+
+But maybe I should switch to Opus 4.5 to see if I notice a huge difference.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3mce4igzskc2n'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willmanduffy.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mce2vyufek2k'
+created_at = '2026-01-14T02:53:52.693Z'
+text = 'I was able to follow along and clean up errors in one of the files that Claude had already touched while it moved on to the next file.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mce2vygssc2k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mce2vygssc2k'
+created_at = '2026-01-14T02:53:52.692Z'
+text = '''
+Made quick work of the changes in one of the crates.
+
+Not a huge diff, but definitely would have taken me at least twice as long to do it all by hand.
+
+There were a few spots Claude missed or introduced errors by removing an import while adding another one, but overall pretty good.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mcdzzwi4zs2q'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mce2iw55y22q'
+created_at = '2026-01-14T02:46:34.072Z'
+text = 'Is "good agent" in this context Opus 4.5?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3mce2flyjls2i'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willmanduffy.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mcdzzwi4zs2q'
+created_at = '2026-01-14T02:38:11.116Z'
+text = '''
+Taking a stab at a large-scale refactoring with Sonnet 4.5.
+
+Let's see how it does... 👀'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mcboz4olts2r'
 created_at = '2026-01-13T04:15:33.428Z'
 text = 'JK Rowling-ass name'
