@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mclrvuhd6k23'
+created_at = '2026-01-17T04:34:02.746Z'
+text = '''
+Yea, that’s the way it goes.
+
+I feel bad when I see people having poor experiences—especially something as bad as a crash—with it, cause I know how good it can be.
+
+There’s a lot of work to be done and only so many hours in the day to do it 🥲'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qdu4g4n4eniupf5jf5yfsxo3/app.bsky.feed.post/3mclqy7gu622v'
+author_did = 'did:plc:qdu4g4n4eniupf5jf5yfsxo3'
+author_handle = 'erika.florist'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mclqvawexk23'
+created_at = '2026-01-17T04:15:48.523Z'
+text = '😭'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qdu4g4n4eniupf5jf5yfsxo3/app.bsky.feed.post/3mbyhqbbupc24'
+author_did = 'did:plc:qdu4g4n4eniupf5jf5yfsxo3'
+author_handle = 'erika.florist'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mclf4l2qpk2z'
 created_at = '2026-01-17T00:45:09.134Z'
 text = 'Not bad for a Friday afternoon:'
