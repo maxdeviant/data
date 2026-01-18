@@ -1,4 +1,22 @@
 [[tracks]]
+name = '''Sweet Child o' Mine'''
+artist = '''Guns N' Roses'''
+album = 'Appetite for Destruction'
+listened_at = '2026-01-18T01:11:35Z'
+
+[[tracks]]
+name = '''Shackler's Revenge'''
+artist = '''Guns N' Roses'''
+album = 'Chinese Democracy'
+listened_at = '2026-01-18T01:08:19Z'
+
+[[tracks]]
+name = 'Chinese Democracy'
+artist = '''Guns N' Roses'''
+album = 'Chinese Democracy'
+listened_at = '2026-01-18T01:03:37Z'
+
+[[tracks]]
 name = 'Revelator'
 artist = 'Deafheaven'
 album = 'Lonely People With Power'
