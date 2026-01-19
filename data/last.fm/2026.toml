@@ -1,4 +1,22 @@
 [[tracks]]
+name = '1914 (The Siege of Przemyśl)'
+artist = '1914'
+album = 'Viribus Unitis'
+listened_at = '2026-01-19T20:57:59Z'
+
+[[tracks]]
+name = 'War In (The Beginning of the Fall)'
+artist = '1914'
+album = 'Viribus Unitis'
+listened_at = '2026-01-19T20:55:30Z'
+
+[[tracks]]
+name = 'Welcome to the Jungle'
+artist = '''Guns N' Roses'''
+album = 'Appetite for Destruction'
+listened_at = '2026-01-18T04:08:25Z'
+
+[[tracks]]
 name = '''Sweet Child o' Mine'''
 artist = '''Guns N' Roses'''
 album = 'Appetite for Destruction'
