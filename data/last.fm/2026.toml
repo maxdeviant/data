@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Madonna'
+artist = 'Wayside'
+album = 'What Does Your Soul Look Like'
+listened_at = '2026-01-21T14:12:02Z'
+
+[[tracks]]
 name = 'Amethyst'
 artist = 'Deafheaven'
 album = 'Lonely People With Power'
