@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Live and Let Die'
+artist = '''Guns N' Roses'''
+album = 'Use Your Illusion I'
+listened_at = '2026-01-22T04:23:50Z'
+
+[[tracks]]
+name = 'Proud Of You'
+artist = 'Wayside'
+album = 'What Does Your Soul Look Like'
+listened_at = '2026-01-22T00:27:18Z'
+
+[[tracks]]
+name = 'Viaticum'
+artist = 'Harakiri for the Sky'
+album = 'III:Trauma'
+listened_at = '2026-01-22T00:11:43Z'
+
+[[tracks]]
 name = 'The Traces We Leave'
 artist = 'Harakiri for the Sky'
 album = 'III:Trauma'
