@@ -1,4 +1,47 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mcy3oimu7k25'
+created_at = '2026-01-22T02:00:49.742Z'
+text = '''Thanks! I'll pass that along and see if that does the trick.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:inqg622bfagfglt5xqbibd3x/app.bsky.feed.post/3mcy37swtbk24'
+author_did = 'did:plc:inqg622bfagfglt5xqbibd3x'
+author_handle = 'davidbarsky.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mcy2xiflq226'
+created_at = '2026-01-22T01:47:57.752Z'
+text = '''
+Okay, I think we are using `rust-project` (I'm relying things second-hand).
+
+Have you tried it in Zed, by any chance?
+
+Although I suspect it has something to do with our setup and not with rust-analyzer or Zed itself.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3mcxyyf4ues2m'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mcxyxu4rak26'
+created_at = '2026-01-22T01:12:22.563Z'
+text = '@steveklabnik.com In your explorations with Buck2, have you had any issues with getting rust-analyzer to work?'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mcxy2i6kcs24'
+created_at = '2026-01-22T00:55:56.955Z'
+text = '''
+I just had Claude write me an N+1 query.
+
+What was interesting is that I could see in the output that it was looking for a way of bulk-loading the data, but when it don’t find an existing function for it it did it the naive way with the N+1.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mcxvxxodik2m'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mcvpkaob3s2t'
 created_at = '2026-01-21T03:18:22.792Z'
 text = 'Oops, guess we have to pull Zed from Flathub…'
