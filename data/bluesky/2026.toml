@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3md6hxre3rk2z'
+created_at = '2026-01-24T14:56:44.208Z'
+text = 'Longing for the day when AFIT is all we need 🥲'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zzrxayhe546tzprc2bbw3yls/app.bsky.feed.post/3md63xzpfes2o'
+author_did = 'did:plc:zzrxayhe546tzprc2bbw3yls'
+author_handle = 'dpom.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3md4dd7y6fc2c'
 created_at = '2026-01-23T18:28:20.465Z'
 text = 'Oof.'
