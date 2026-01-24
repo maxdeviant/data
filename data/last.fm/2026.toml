@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'they hit the pentagon'
+artist = 'dj smoothbrain'
+album = 'they hit the pentagon'
+listened_at = '2026-01-23T23:40:07Z'
+
+[[tracks]]
+name = 'BLOODSHED'
+artist = 'BOD'
+album = 'BLOODSHED'
+listened_at = '2026-01-23T23:36:37Z'
+
+[[tracks]]
+name = 'DON’T KILL YOURSELF'
+artist = 'HEALTH'
+album = 'CONFLICT DLC'
+listened_at = '2026-01-23T23:34:01Z'
+
+[[tracks]]
+name = 'Sink Your Teeth'
+artist = 'Drop Dead, Gorgeous'
+album = 'Sink Your Teeth'
+listened_at = '2026-01-23T23:31:01Z'
+
+[[tracks]]
+name = 'Hidden Realms'
+artist = 'Valiant Hearts'
+album = 'Hidden Realms'
+listened_at = '2026-01-23T23:27:07Z'
+
+[[tracks]]
+name = 'Calling the Rain'
+artist = 'Harakiri for the Sky'
+album = 'III:Trauma'
+listened_at = '2026-01-23T21:31:08Z'
+
+[[tracks]]
 name = 'Bury Me'
 artist = 'Harakiri for the Sky'
 album = 'III:Trauma'
