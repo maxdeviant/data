@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Killing in the Name'
+artist = 'Rage Against the Machine'
+album = 'Rage Against The Machine - XX (20th Anniversary Special Edition)'
+listened_at = '2026-01-24T22:01:37Z'
+
+[[tracks]]
+name = 'Community Medley'
+artist = 'Ludwig Göransson'
+album = 'Community (Music from the Original Television Series)'
+listened_at = '2026-01-24T22:01:29Z'
+
+[[tracks]]
 name = 'Damn I Wish I Was Your Lover'
 artist = 'Sophie B. Hawkins'
 album = 'Tongues and Tails'
