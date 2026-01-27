@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mdglyenies26'
+created_at = '2026-01-27T20:29:57.320Z'
+text = 'Was very good! Realized after I had finished that I forgot the green onions, so will have to remember those next time.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mdglm6rfys2b'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mdglgkh5ks26'
+created_at = '2026-01-27T20:19:59.417Z'
+text = 'Having an @adamchalmers.com inspired lunch today.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mde33u43xk2o'
 created_at = '2026-01-26T20:22:21.093Z'
 text = 'Me flinging shovelfuls of snow across the yard'
