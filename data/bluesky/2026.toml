@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mdheowanlk25'
+created_at = '2026-01-28T03:52:03.769Z'
+text = '''
+hardcover.app/@maxdeviant
+
+I’m on it, but not much to see, at the moment'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wnakkpxj4ndea7yetar7y7zq/app.bsky.feed.post/3mdh7qzayts2g'
+author_did = 'did:plc:wnakkpxj4ndea7yetar7y7zq'
+author_handle = 'willmanduffy.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mdglyenies26'
 created_at = '2026-01-27T20:29:57.320Z'
 text = 'Was very good! Realized after I had finished that I forgot the green onions, so will have to remember those next time.'
