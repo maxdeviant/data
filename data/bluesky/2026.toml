@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mdq2cj4s5k2q'
+created_at = '2026-01-31T14:40:07.586Z'
+text = 'FOSDAMN'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nbfjoeficjzf3pejpontvril/app.bsky.feed.post/3mdpwul6zsc2u'
+author_did = 'did:plc:nbfjoeficjzf3pejpontvril'
+author_handle = 'astrra.space'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mdop5afp3k26'
 created_at = '2026-01-31T01:47:39.768Z'
 text = 'Can confirm.'
