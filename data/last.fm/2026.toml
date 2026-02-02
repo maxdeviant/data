@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Take Me Back to Eden'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2026-02-02T01:38:06Z'
+
+[[tracks]]
+name = 'Rain'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2026-02-02T01:33:55Z'
+
+[[tracks]]
+name = 'The Apparition'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2026-02-02T01:29:17Z'
+
+[[tracks]]
+name = 'Quicksand'
+artist = 'Hatchie'
+album = 'Giving the World Away'
+listened_at = '2026-02-01T23:26:45Z'
+
+[[tracks]]
 name = 'Scarlett'
 artist = 'Holly Humberstone'
 album = 'Can You Afford To Lose Me?'
