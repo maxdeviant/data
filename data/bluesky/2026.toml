@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mduxeyysr22u'
+created_at = '2026-02-02T13:31:08.808Z'
+text = 'Guess we forgot to mention in the releases notes that the latest version of Zed now has Lovecraftian horrors locked inside!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mdunxtzdbk2j'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mdtw3f6upc2n'
 created_at = '2026-02-02T03:35:12.569Z'
 text = 'Poirot: Bon. Très bon.'
