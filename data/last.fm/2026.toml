@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'The Mixed Tape - 2015 Remastered'
+artist = '''Jack's Mannequin'''
+album = 'Everything in Transit'
+listened_at = '2026-02-02T15:25:37Z'
+
+[[tracks]]
+name = 'Euclid'
+artist = 'Sleep Token'
+album = 'Take Me Back to Eden'
+listened_at = '2026-02-02T05:10:59Z'
+
+[[tracks]]
 name = 'Take Me Back to Eden'
 artist = 'Sleep Token'
 album = 'Take Me Back to Eden'
