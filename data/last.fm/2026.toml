@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'The Glory Days'
+artist = 'Michael Giacchino'
+album = 'The Incredibles (Original Motion Picture Soundtrack)'
+listened_at = '2026-02-04T05:12:34Z'
+
+[[tracks]]
+name = 'The James Bond Theme (From "Dr. No")'
+artist = 'John Barry'
+album = 'The Music Of John Barry'
+listened_at = '2026-02-04T04:17:25Z'
+
+[[tracks]]
+name = 'All The Way'
+artist = 'Hundredth'
+album = 'Faded Splendor'
+listened_at = '2026-02-04T04:17:15Z'
+
+[[tracks]]
+name = 'Found No Throne'
+artist = 'Bury Tomorrow'
+album = 'WILL YOU HAUNT ME, WITH THAT SAME PATIENCE'
+listened_at = '2026-02-04T04:06:44Z'
+
+[[tracks]]
+name = '''Silence Isn't Helping Us'''
+artist = 'Bury Tomorrow'
+album = 'WILL YOU HAUNT ME, WITH THAT SAME PATIENCE'
+listened_at = '2026-02-04T04:02:58Z'
+
+[[tracks]]
+name = 'Waiting'
+artist = 'Bury Tomorrow'
+album = 'WILL YOU HAUNT ME, WITH THAT SAME PATIENCE'
+listened_at = '2026-02-04T03:59:20Z'
+
+[[tracks]]
+name = 'Forever The Night'
+artist = 'Bury Tomorrow'
+album = 'WILL YOU HAUNT ME, WITH THAT SAME PATIENCE'
+listened_at = '2026-02-04T03:55:14Z'
+
+[[tracks]]
+name = 'What If I Burn'
+artist = 'Bury Tomorrow'
+album = 'WILL YOU HAUNT ME, WITH THAT SAME PATIENCE'
+listened_at = '2026-02-04T03:51:22Z'
+
+[[tracks]]
+name = 'Wasteland'
+artist = 'Bury Tomorrow'
+album = 'WILL YOU HAUNT ME, WITH THAT SAME PATIENCE'
+listened_at = '2026-02-04T03:47:24Z'
+
+[[tracks]]
 name = 'Villain Arc'
 artist = 'Bury Tomorrow'
 album = 'WILL YOU HAUNT ME, WITH THAT SAME PATIENCE'
