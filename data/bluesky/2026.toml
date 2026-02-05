@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3me4zm3gsas2t'
+created_at = '2026-02-05T18:32:11.639Z'
+text = 'Would there be public notice about the change, or is that also something that would need to be figured out?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ccxl3ictrlvtrrgh5swvvg47/app.bsky.feed.post/3me4umczgzc2o'
+author_did = 'did:plc:ccxl3ictrlvtrrgh5swvvg47'
+author_handle = 'lastnpcalex.agency'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3me4zf34gak2t'
+created_at = '2026-02-05T18:28:16.418Z'
+text = 'Happy Claude Day, to all those who observe.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3me4zbhfac22t'
+created_at = '2026-02-05T18:26:15.072Z'
+text = 'Welcome to Claude Town!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3me4xlcrpvs2c'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3me4xiorodc2l'
 created_at = '2026-02-05T17:54:30.218Z'
 text = 'Same price as Opus 4.5!'
