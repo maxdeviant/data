@@ -1,4 +1,34 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3me35eeguvk2c'
+created_at = '2026-02-05T00:34:08.135Z'
+text = 'But I just checked again and saw `kekw@` and `pog@`, so trolling seems likely.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3me35a2u2bk2c'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3me35a2u2bk2c'
+created_at = '2026-02-05T00:31:43.863Z'
+text = 'I’ve also seen `git@`, `discord@`, and `twitch@`.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:hil5bwbsgdxf4uz2onfpuxye/app.bsky.feed.post/3me2t4sunx22m'
+author_did = 'did:plc:hil5bwbsgdxf4uz2onfpuxye'
+author_handle = 'redbassett.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3me355hqbxs2c'
+created_at = '2026-02-05T00:30:16.704Z'
+text = 'I’m up to 838, so far.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4tfenpfog244rxry5uz4vtk/app.bsky.feed.post/3me2sr6ffwk2v'
+author_did = 'did:plc:i4tfenpfog244rxry5uz4vtk'
+author_handle = 'lizthegrey.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3me2ppn64ac2q'
 created_at = '2026-02-04T20:29:53.998Z'
 text = '''
