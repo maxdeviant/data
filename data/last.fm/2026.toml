@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Blinding Lights'
+artist = 'The Weeknd'
+album = 'After Hours'
+listened_at = '2026-02-06T03:24:38Z'
+
+[[tracks]]
+name = 'Backburner'
+artist = 'Firebrand'
+album = 'Backburner'
+listened_at = '2026-02-06T02:07:05Z'
+
+[[tracks]]
 name = 'Of Healing Part 2 - Anger'
 artist = 'Morphide'
 album = 'Mental'
