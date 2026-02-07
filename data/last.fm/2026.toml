@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Higher'
+artist = 'Sleep Token'
+album = 'Sundowning'
+listened_at = '2026-02-07T04:16:17Z'
+
+[[tracks]]
+name = 'Burn'
+artist = 'Haste The Day'
+album = 'Shallows'
+listened_at = '2026-02-07T03:57:02Z'
+
+[[tracks]]
+name = 'Nazareth'
+artist = 'Sleep Token'
+album = 'Two'
+listened_at = '2026-02-07T03:53:00Z'
+
+[[tracks]]
+name = 'Calcutta'
+artist = 'Sleep Token'
+album = 'Two'
+listened_at = '2026-02-07T03:48:48Z'
+
+[[tracks]]
+name = 'When the Bough Breaks'
+artist = 'Sleep Token'
+album = 'One'
+listened_at = '2026-02-07T03:41:04Z'
+
+[[tracks]]
 name = 'Shallows'
 artist = 'Haste The Day'
 album = 'Shallows'
