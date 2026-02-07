@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meaiyqzl3k25'
+created_at = '2026-02-07T03:45:42.270Z'
+text = '''I can't wait to see one of these in the wild so I can slap it out of the owner's hands and onto the pavement.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mea6faibzk2o'
+created_at = '2026-02-07T00:35:49.974Z'
+text = '''Nice! It's about time 😅'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2xau7wbgdq4phuou2ypwuen7/app.bsky.feed.post/3me7zl4cicsun'
+author_did = 'did:plc:2xau7wbgdq4phuou2ypwuen7'
+author_handle = 'tom.sherman.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3me7zizsudc27'
 created_at = '2026-02-06T23:08:28.487Z'
 text = 'Where you seeing this? 👀'
