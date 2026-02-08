@@ -1,4 +1,20 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meeolawpp22l'
+created_at = '2026-02-08T19:36:10.596Z'
+text = '''
+You mean we could have had @jj-vcs.dev this whole time??
+
+alt text: A picture of two very elongated lowercase "j"s on a book cover.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meeodo5hic2l'
+created_at = '2026-02-08T19:31:56.013Z'
+text = '''
+I really hope the adoption of LLMs brings more Rust code into the world.
+
+I find the current models to be quite good at writing Rust, and Rust's type system allows you to embed a lot of guarantees into the code that they're generating.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mee5kmwob22x'
 created_at = '2026-02-08T14:31:36.008Z'
 text = 'Don’t even know why I hang out in this Discord server anymore, tbh.'
