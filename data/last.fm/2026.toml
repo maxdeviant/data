@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Hit the Floor'
+artist = 'Bullet for My Valentine'
+album = 'The Poison'
+listened_at = '2026-02-08T04:16:40Z'
+
+[[tracks]]
+name = 'Suffocating Under Words of Sorrow (What Can I Do)'
+artist = 'Bullet for My Valentine'
+album = 'The Poison'
+listened_at = '2026-02-08T03:50:20Z'
+
+[[tracks]]
 name = '''Tears Don't Fall'''
 artist = 'Bullet for My Valentine'
 album = 'The Poison'
