@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Paper Tigers'
+artist = 'L.S. Dunes'
+album = 'Violet'
+listened_at = '2026-02-09T23:40:51Z'
+
+[[tracks]]
+name = 'Smile'
+artist = 'Resolve'
+album = 'Human (Extended Cut)'
+listened_at = '2026-02-09T23:36:51Z'
+
+[[tracks]]
+name = 'Calm'
+artist = 'Grayscale Season'
+album = 'Do You Like Violence'
+listened_at = '2026-02-09T22:01:19Z'
+
+[[tracks]]
+name = 'Under a Hollow Sky'
+artist = 'Capsize'
+album = 'Under a Hollow Sky'
+listened_at = '2026-02-09T21:57:50Z'
+
+[[tracks]]
+name = 'One True Prince'
+artist = 'Don Broco'
+album = 'Amazing Things'
+listened_at = '2026-02-09T21:53:51Z'
+
+[[tracks]]
+name = 'Self Inflicted'
+artist = 'Bite Down'
+album = 'Violent Playground'
+listened_at = '2026-02-09T21:51:04Z'
+
+[[tracks]]
+name = 'Oblivion - Deluxe Edition'
+artist = 'Softspoken'
+album = 'Oblivion (Deluxe Edition)'
+listened_at = '2026-02-09T21:47:12Z'
+
+[[tracks]]
+name = 'Catch Fire'
+artist = 'Periphery'
+album = 'Periphery III: Select Difficulty'
+listened_at = '2026-02-09T21:18:19Z'
+
+[[tracks]]
+name = '...and she was beautiful'
+artist = 'Before I Turn'
+album = 'Immoral and Malevolent Happenings'
+listened_at = '2026-02-09T21:13:59Z'
+
+[[tracks]]
 name = 'Second Sun'
 artist = 'Silent Planet'
 album = 'Iridescent'
