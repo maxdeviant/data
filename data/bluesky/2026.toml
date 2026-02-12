@@ -1,4 +1,122 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meom2uc5c322'
+created_at = '2026-02-12T18:17:50.369Z'
+text = '''
+I've actually read both of Brandur's posts on canonical log lines (and likely Charity's as well; I can't recall)!
+
+But it wasn't until reading through loggingsucks that it really stuck with me about *why* you'd need them.
+
+Could also be that I was actively dealing with the pain of not having them.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nqsmtem32y5uqc3cgp42hpda/app.bsky.feed.post/3meok4mbaes2n'
+author_did = 'did:plc:nqsmtem32y5uqc3cgp42hpda'
+author_handle = 'hodge.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meolriu6al22'
+created_at = '2026-02-12T18:12:36.387Z'
+text = '''
+And we end up with something like this:
+
+```
+{
+  "request": {
+    "method": "POST",
+    "path": "/client/llm_tokens"
+  },
+  "response": {
+    "duration_ms": 979,
+    "status": 500
+  },
+  "level": "log",
+  "sample_rate": 1,
+  "span_name": "http_request",
+  "timestamp": 1770919514756
+}
+```'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meolnvli5t22'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meolnvli5t22'
+created_at = '2026-02-12T18:10:35.096Z'
+text = '''
+And then we attach context at various points using some extension trait methods on `Span`:
+
+```
+tracing::Span::current().record_response_status(response.status.as_u16());
+            tracing::Span::current().record_response_duration(env.clock().now() - started_at);
+```'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meolnvli5s22'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meolnvli5s22'
+created_at = '2026-02-12T18:10:35.095Z'
+text = '''
+We're creating the wide event span when we start the request:
+
+```
+let span = tracing::info_span!("http_request",
+    request.method = %req.method,
+    request.path = req.url.path(),
+    // ...
+);
+```
+
+and then call `.instrument(span)` when calling into the routing layer.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meolnv6mzk22'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meolnv6mzk22'
+created_at = '2026-02-12T18:10:35.094Z'
+text = '''
+This is what it looks like right now, after a few rounds of refinement and adding new features (like tail sampling) with Opus: gist.github.com/maxdeviant/5...
+
+I haven't really used OTel much, but I would imagine this is probably more simplistic 😅'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:inqg622bfagfglt5xqbibd3x/app.bsky.feed.post/3meokqapokk26'
+author_did = 'did:plc:inqg622bfagfglt5xqbibd3x'
+author_handle = 'davidbarsky.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meojdzckoc2c'
+created_at = '2026-02-12T17:29:16.390Z'
+text = '''I'm still in the midst of tearing out more occurrences of ad-hoc logging and replacing them with wide events, but can already feel just how improved visibility into the system is with the logs that have already been moved over.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meoj5jvb4k2c'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meoj5jvb4k2c'
+created_at = '2026-02-12T17:25:38.899Z'
+text = 'I did some explorations about potential implementations with Opus 4.5, had it write up a plan, and then used said plan to have it write a custom `WideEventLayer` for `tracing` that we could integrate into our service.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meoj3epyvk2c'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meoj3epyvk2c'
+created_at = '2026-02-12T17:24:26.373Z'
+text = 'After coming across loggingsucks.com over the Christmas break and being inspired by it, I finally had the time yesterday to sit down and start moving Zed Cloud over to wide events.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mejc7cfupk2f'
 created_at = '2026-02-10T15:38:03.274Z'
 text = 'I don’t think he’s even that closeted. Was glazing Trump on X right after the election.'
