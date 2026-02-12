@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'House Of Cards'
+artist = 'The Amity Affliction'
+album = 'House of Cards'
+listened_at = '2026-02-11T21:29:12Z'
+
+[[tracks]]
+name = 'House Of Cards'
+artist = 'The Amity Affliction'
+album = 'House of Cards'
+listened_at = '2026-02-11T21:25:45Z'
+
+[[tracks]]
+name = 'House Of Cards'
+artist = 'The Amity Affliction'
+album = 'House of Cards'
+listened_at = '2026-02-11T21:22:18Z'
+
+[[tracks]]
+name = 'Curve'
+artist = 'Hundredth'
+album = 'Faded Splendor'
+listened_at = '2026-02-11T21:22:11Z'
+
+[[tracks]]
+name = 'Waste'
+artist = 'Hundredth'
+album = 'Faded Splendor'
+listened_at = '2026-02-11T21:14:23Z'
+
+[[tracks]]
 name = 'Blitz'
 artist = 'Hundredth'
 album = 'Faded Splendor'
