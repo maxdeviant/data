@@ -1,4 +1,54 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mer3mppkyc2c'
+created_at = '2026-02-13T18:01:35.149Z'
+text = '''I'm still in two minds about it, but I've been moving away from calling it "Twitter", since it really isn't anymore.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rvlyeda73kxm7l2weegk73pa/app.bsky.feed.post/3mequk2nbi22z'
+author_did = 'did:plc:rvlyeda73kxm7l2weegk73pa'
+author_handle = 'hillelwayne.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meqwbv7gs22f'
+created_at = '2026-02-13T16:26:03.070Z'
+text = '''In this case we're using `thiserror` and have `#[from]` on the error types that we know we can turn into an expected HTTP response (e.g., `EntityNotFoundError` would become a 404 with a JSON body), but purposely omitting the `#[from]` for errors like `anyhow::Error`.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meqwbv6dn22f'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meqwbv6dn22f'
+created_at = '2026-02-13T16:26:03.069Z'
+text = '''The idea I'm playing around with here is how to make it easy to turn service layer errors into nice HTTP responses, while making it explicit whenever you're propagating something that's going to end up as an HTTP 5xx.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meqvt2owik27'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meqvt2owik27'
+created_at = '2026-02-13T16:17:45.538Z'
+text = '''Don't want to speak too soon, but I think I might be cooking with this API design...'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meqvo7o5es27'
+created_at = '2026-02-13T16:15:02.984Z'
+text = '''
+Thanks for the recommendations!
+
+I was actually already considering using an `IndexMap` (my love 😍) for the fields, so will take this as confirmation.
+
+And all of this is executing in Wasm, mind you, so performance characteristics may be slightly different.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:inqg622bfagfglt5xqbibd3x/app.bsky.feed.post/3meonvep6uc5b'
+author_did = 'did:plc:inqg622bfagfglt5xqbibd3x'
+author_handle = 'davidbarsky.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meqs2cvtts25'
 created_at = '2026-02-13T15:10:14.068Z'
 text = 'GIVE IT TO MEEEE'
