@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3merxkcsouk2i'
+created_at = '2026-02-14T02:21:19.282Z'
+text = 'Only setting I use for merging PRs!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3meronm2tkc2p'
+author_did = 'did:plc:ctphcgyhnllfluywokibtrgb'
+author_handle = 'davidcrespo.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mer3mppkyc2c'
 created_at = '2026-02-13T18:01:35.149Z'
 text = '''I'm still in two minds about it, but I've been moving away from calling it "Twitter", since it really isn't anymore.'''
