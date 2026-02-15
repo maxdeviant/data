@@ -1,4 +1,55 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mevwkyeanc22'
+created_at = '2026-02-15T16:14:27.090Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:fhmb75wsl3bq7mtgpby7fxal/app.bsky.feed.post/3mevsnknohk2u'
+author_did = 'did:plc:fhmb75wsl3bq7mtgpby7fxal'
+author_handle = 'renice.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mevwfxwxyk22'
+created_at = '2026-02-15T16:11:38.882Z'
+text = '''
+Yet another reason why I think languages with strong, static type systems are a boon for using with LLMs.
+
+If you are able to embed more correctness into the type system and have it checked at compile-time, the LLM will not be able to violate those rules.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:brptsa5vnwnzgnujaauvt5x3/app.bsky.feed.post/3mevsgfrra22x'
+author_did = 'did:plc:brptsa5vnwnzgnujaauvt5x3'
+author_handle = 'th.alassa.pink'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mevvqt66g222'
+created_at = '2026-02-15T15:59:49.232Z'
+text = '''Until the tools offer the models a way to do these sorts of refactorings the same way I would—with a lot of mechanical cut and pasting—I feel like I'm better off doing those bits myself and then setting the model loose on "update all the broken imports" afterwards.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mevvoggu4222'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mevvoggu4222'
+created_at = '2026-02-15T15:58:28.777Z'
+text = '''Not to mention that there's the chance that some of the contents could get changed during the course of the rewrite, which means I have to more carefully review the changes than if I do the cut and paste myself.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mevvmbbgys22'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mevvmbbgys22'
+created_at = '2026-02-15T15:57:16.247Z'
+text = '''
+Still feel like LLMs are woefully underequipped to perform large "extraction" refactorings, where you're primarily moving code from one file to another.
+
+Doing it by reading the contents of one file and rewriting them in another without using copy/paste is not time nor token efficient.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meul4jppx22k'
 created_at = '2026-02-15T03:16:51.076Z'
 text = '''
