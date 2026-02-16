@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meyki3uz4k27'
+created_at = '2026-02-16T17:16:04.435Z'
+text = 'Nobody put in the newspapers that Adam is mad.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3meyiwfqu5k2b'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mevwkyeanc22'
 created_at = '2026-02-15T16:14:27.090Z'
 text = ''
