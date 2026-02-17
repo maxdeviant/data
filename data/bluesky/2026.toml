@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mez5ktheb22h'
+created_at = '2026-02-16T22:57:37.357Z'
+text = '''And you'll never guess what I'm doing right now...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mez5i3h63s2h'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mez5i3h63s2h'
+created_at = '2026-02-16T22:56:05.075Z'
+text = 'The problem with having a legacy service that changes infrequently is that it increases the risk that the deployment pipeline will be broken the next you need to do a deploy.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3meyki3uz4k27'
 created_at = '2026-02-16T17:16:04.435Z'
 text = 'Nobody put in the newspapers that Adam is mad.'
