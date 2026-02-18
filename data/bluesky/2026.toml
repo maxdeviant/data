@@ -1,4 +1,25 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mf3nu4upys2z'
+created_at = '2026-02-17T22:54:28.322Z'
+text = '''
+So I've deleted the actual code in one revision, and then chase down the compile errors in the tests that appear with the code deleted, fix those, and commit as another revision.
+
+Then I `jj rebase -r <deletion> -d <test-updates>` so I can land the test changes prior to the deletion of the code.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mf3nu4n7rc2z'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mf3nu4n7rc2z'
+created_at = '2026-02-17T22:54:28.321Z'
+text = '''
+I love the kinds of workflows that @jj-vcs.dev enables with being able to move changes around so easily.
+
+I'm currently prepping to delete some code, but have tests that need to get updated to not depend on the deleted functions.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mez5ktheb22h'
 created_at = '2026-02-16T22:57:37.357Z'
 text = '''And you'll never guess what I'm doing right now...'''
