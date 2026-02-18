@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mf5orsyi6k2u'
+created_at = '2026-02-18T18:16:24.313Z'
+text = '''
+What in the world...
+
+I've managed to get my GitHub pull request UI stuck in a state where a merged PR is stuck at the top and does not go away after a refresh of the page:'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mf3nu4upys2z'
 created_at = '2026-02-17T22:54:28.322Z'
 text = '''
