@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Rap God'
+artist = 'Eminem'
+album = 'The Marshall Mathers LP2 (Deluxe)'
+listened_at = '2026-02-19T01:37:21Z'
+
+[[tracks]]
+name = '大展鴻圖(Blueprint Supreme)'
+artist = '攬佬SKAI ISYOURGOD'
+album = '八方來財(Stacks from All Sides)'
+listened_at = '2026-02-19T01:31:02Z'
+
+[[tracks]]
+name = 'Piranha'
+artist = 'Lights'
+album = 'A6EXTENDED'
+listened_at = '2026-02-18T22:19:45Z'
+
+[[tracks]]
 name = 'The Other Side of the Door'
 artist = 'Lights'
 album = 'A6EXTENDED'
