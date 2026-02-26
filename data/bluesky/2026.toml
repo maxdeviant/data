@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mfs3sksnr22j'
+created_at = '2026-02-26T21:02:42.700Z'
+text = 'Always bet on Wasm!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mfryf7yes22t'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mfrtupll2c2t'
+created_at = '2026-02-26T18:40:44.884Z'
+text = ''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mfpicrt3p22x'
 created_at = '2026-02-25T20:08:32.605Z'
 text = 'In a just world you’d be nursing a bruised coccyx right now.'
