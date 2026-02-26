@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Myndhöggvari lífsins og dauðans'
+artist = 'Vosbúð'
+album = 'Heklugjá'
+listened_at = '2026-02-26T12:34:23Z'
+
+[[tracks]]
+name = 'Alptraum'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2026-02-26T04:44:08Z'
+
+[[tracks]]
 name = 'Grausig ist der Blick'
 artist = 'Aara'
 album = 'Eiger'
