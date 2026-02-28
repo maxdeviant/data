@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mfvdoiymek2a'
+created_at = '2026-02-28T04:01:35.730Z'
+text = 'Sam Altman continues to be the worst.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mfvbblivxk2b'
 created_at = '2026-02-28T03:18:34.670Z'
 text = 'Moonraker is such a weird film.'
