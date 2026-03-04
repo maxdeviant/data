@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgasykgals2d'
+created_at = '2026-03-04T17:34:56.019Z'
+text = 'Wouldn’t be a day that ends in “day” without one!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mg6irmpyx22r'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mg6lsx5xks2h'
 created_at = '2026-03-03T20:21:12.384Z'
 text = 'Anyone’s guess'
