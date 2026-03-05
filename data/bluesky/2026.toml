@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgbcxrap322a'
+created_at = '2026-03-04T22:20:49.492Z'
+text = 'github.com/zed-industri...'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgbcwkt3g22a'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgbcwkt3g22a'
+created_at = '2026-03-04T22:20:09.200Z'
+text = '''
+This was one of the earlier features I added to Zed.
+
+One day I decided I'd finally had enough of tracking down the lines I wanted to share somewhere in the GitHub UI when they were already right there in front of me.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:77aze6zegihuenovevaiqd6p/app.bsky.feed.post/3mgb5awqvsc2q'
+author_did = 'did:plc:77aze6zegihuenovevaiqd6p'
+author_handle = 'lucretiel.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgasykgals2d'
 created_at = '2026-03-04T17:34:56.019Z'
 text = 'Wouldn’t be a day that ends in “day” without one!'
