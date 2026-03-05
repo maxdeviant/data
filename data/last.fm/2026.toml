@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Axel F'
+artist = 'Harold Faltermeyer'
+album = 'Harold F'
+listened_at = '2026-03-05T01:24:48Z'
+
+[[tracks]]
+name = 'Adam and Eve'
+artist = 'Novelists'
+album = 'Coda'
+listened_at = '2026-03-05T00:10:11Z'
+
+[[tracks]]
 name = 'In Heaven'
 artist = 'Novelists'
 album = 'Coda'
