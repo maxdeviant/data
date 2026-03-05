@@ -2,6 +2,12 @@
 name = 'Shower'
 artist = 'Becky G'
 album = 'Shower'
+listened_at = '2026-03-05T21:09:02Z'
+
+[[tracks]]
+name = 'Shower'
+artist = 'Becky G'
+album = 'Shower'
 listened_at = '2026-03-05T14:20:02Z'
 
 [[tracks]]
