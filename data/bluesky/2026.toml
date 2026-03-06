@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mge65bwot22c'
+created_at = '2026-03-06T01:32:25.269Z'
+text = '''
+Seems my information may be outdated.
+
+It appears there is an endpoint for counting input tokens with the Responses API!
+
+developers.openai.com/api/referenc...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mge5c4d6e22c'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mge5c4d6e22c'
+created_at = '2026-03-06T01:17:13.417Z'
+text = '''Immensely annoying that OpenAI doesn't have an API endpoint for counting tokens the same way Anthropic or Google do.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgdnulozz22f'
 created_at = '2026-03-05T20:41:13.645Z'
 text = 'Oof, that’s a classic 😭'
