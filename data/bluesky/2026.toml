@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgfj2ao7rc2e'
+created_at = '2026-03-06T14:20:14.177Z'
+text = '''
+Yes, you can use Amazon Bedrock:
+
+zed.dev/docs/ai/llm-...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3hlv4ckpgfg4jw3apduhuruo/app.bsky.feed.post/3mgeqduj2w22b'
+author_did = 'did:plc:3hlv4ckpgfg4jw3apduhuruo'
+author_handle = 'kcrwfrd.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgfhwe3l762i'
+created_at = '2026-03-06T14:00:09.208Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mge65bwot22c'
 created_at = '2026-03-06T01:32:25.269Z'
 text = '''
