@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgo3mgg4xs25'
+created_at = '2026-03-10T00:13:49.442Z'
+text = '''
+I wonder if part of this is just the fact that it’s Haskell? Perhaps less well-represented in the training day.
+
+I’ve found Claude to be very good at Rust (especially Opus 4.6).
+
+Although I still don’t let it run loose and do a whole bunch of work unattended.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6ouaxjxgcbwzw6porooiafil/app.bsky.feed.post/3mgeb6ywcxc2k'
+author_did = 'did:plc:6ouaxjxgcbwzw6porooiafil'
+author_handle = 'fullmoon.id'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgnvmv73ok2y'
+created_at = '2026-03-09T22:26:42.491Z'
+text = '''Didn't you hear? All the cool kids are using @jj-vcs.dev these days.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:k4hstfvvvpj7befljr3bvcso/app.bsky.feed.post/3mgnviqwgek2u'
+author_did = 'did:plc:k4hstfvvvpj7befljr3bvcso'
+author_handle = 'searyanc.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgfj2ao7rc2e'
 created_at = '2026-03-06T14:20:14.177Z'
 text = '''
