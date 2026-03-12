@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgtbp4dauc2w'
+created_at = '2026-03-12T01:46:00.670Z'
+text = 'GitHub down again...'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgsnfnjmxs2s'
 created_at = '2026-03-11T19:42:48.322Z'
 text = 'You’re a shoo-in for gold, next time around.'
