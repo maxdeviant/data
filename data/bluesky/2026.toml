@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgx37mcf6w2x'
+created_at = '2026-03-13T14:00:36.535Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgwzri3yrk27'
+created_at = '2026-03-13T13:34:49.141Z'
+text = '“Have Mario’s warp pipes gone too far?”'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mgvbdssc3k22'
 created_at = '2026-03-12T20:45:01.051Z'
 text = 'Can’t believe it’s not in Tokyo, smh.'
