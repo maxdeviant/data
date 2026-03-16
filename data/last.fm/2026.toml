@@ -2,6 +2,54 @@
 name = 'beartrap'
 artist = 'Holywatr'
 album = 'red heifer'
+listened_at = '2026-03-16T20:07:23Z'
+
+[[tracks]]
+name = 'sweet child, wishes well'
+artist = 'Holywatr'
+album = 'red heifer'
+listened_at = '2026-03-16T20:02:58Z'
+
+[[tracks]]
+name = 'fade'
+artist = 'Holywatr'
+album = 'red heifer'
+listened_at = '2026-03-16T19:58:21Z'
+
+[[tracks]]
+name = 'notebook'
+artist = 'Holywatr'
+album = 'red heifer'
+listened_at = '2026-03-16T19:55:18Z'
+
+[[tracks]]
+name = '503'
+artist = 'Holywatr'
+album = 'red heifer'
+listened_at = '2026-03-16T19:54:13Z'
+
+[[tracks]]
+name = 'crowded room'
+artist = 'Holywatr'
+album = 'red heifer'
+listened_at = '2026-03-16T19:51:37Z'
+
+[[tracks]]
+name = 'lip service'
+artist = 'Holywatr'
+album = 'red heifer'
+listened_at = '2026-03-16T19:46:39Z'
+
+[[tracks]]
+name = 'ashes'
+artist = 'Holywatr'
+album = 'red heifer'
+listened_at = '2026-03-16T17:46:31Z'
+
+[[tracks]]
+name = 'beartrap'
+artist = 'Holywatr'
+album = 'red heifer'
 listened_at = '2026-03-16T17:43:53Z'
 
 [[tracks]]
