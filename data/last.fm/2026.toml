@@ -1,4 +1,10 @@
 [[tracks]]
+name = '''I'm Shipping Up to Boston'''
+artist = 'Dropkick Murphys'
+album = '''The Warrior's Code'''
+listened_at = '2026-03-18T13:11:22Z'
+
+[[tracks]]
 name = 'fade'
 artist = 'Holywatr'
 album = 'red heifer'
