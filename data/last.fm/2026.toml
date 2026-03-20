@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Von Hypnos und Thanatos'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-20T18:02:39Z'
+
+[[tracks]]
+name = 'Der kleinste König und sein Architekt'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-20T17:42:58Z'
+
+[[tracks]]
+name = 'Bamberg, 20. Juni'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-20T17:32:28Z'
+
+[[tracks]]
+name = 'Luminary'
+artist = 'Gaerea'
+album = 'Loss'
+listened_at = '2026-03-20T17:27:01Z'
+
+[[tracks]]
+name = 'Krähenpsalme'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-20T17:18:17Z'
+
+[[tracks]]
+name = 'Bamberg, 20. Juni'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-20T15:24:10Z'
+
+[[tracks]]
+name = 'Krähenpsalme'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-20T15:15:56Z'
+
+[[tracks]]
 name = '''Tamarack's Gold Returns'''
 artist = 'Panopticon'
 album = 'Autumn Eternal'
