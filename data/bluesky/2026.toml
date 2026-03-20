@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mhja6pgmfs2b'
+created_at = '2026-03-20T19:17:30.780Z'
+text = 'I really hope you’re calling this “Eaton with Phil”'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:pulwqklvmu4jhv7qc52wud47/app.bsky.feed.post/3mhj4fecrxc2s'
+author_did = 'did:plc:pulwqklvmu4jhv7qc52wud47'
+author_handle = 'eatonphil.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mhj7xrlcoc2b'
+created_at = '2026-03-20T19:13:38.148Z'
+text = 'Oh *hell* yea'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vlblikmsgpx2i7fvxinrsvzu/app.bsky.feed.post/3mhiyuptep22u'
+author_did = 'did:plc:vlblikmsgpx2i7fvxinrsvzu'
+author_handle = 'moll.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mhioidfn3m2i'
 created_at = '2026-03-20T14:00:45.953Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
