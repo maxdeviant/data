@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mhnuvesolk2y'
+created_at = '2026-03-22T15:38:45.183Z'
+text = '''
+I’ve heard people also say the controls are clunky on a controller.
+
+I think part of it is just the interaction model of the game.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e5djnkazrn2fiwxetqatigh4/app.bsky.feed.post/3mhmrhs32kk2h'
+author_did = 'did:plc:e5djnkazrn2fiwxetqatigh4'
+author_handle = 'brett.ooo'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mhmpkbaemk2h'
 created_at = '2026-03-22T04:30:23.891Z'
 text = '''
