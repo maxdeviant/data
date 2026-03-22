@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mhmpkbaemk2h'
+created_at = '2026-03-22T04:30:23.891Z'
+text = '''
+Have mostly been following the main quest line, but I did go on a little side quest where I picked a road and just followed it for a while.
+
+I eventually ended up in an area of the map filled with hostile knights who would attack me on sight, and at that point I decided to turn back.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mhmp7xzmcs2h'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mhmp7xzmcs2h'
+created_at = '2026-03-22T04:24:38.686Z'
+text = '''
+Picked up Crimson Desert today after watching a number of streamers play it.
+
+Have put 9 and a half hours into it so far, and am having a blast!
+
+The controls are a bit clunky (I’m using mouse and keyboard), but I’m slowly getting used to them.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mhja6pgmfs2b'
 created_at = '2026-03-20T19:17:30.780Z'
 text = 'I really hope you’re calling this “Eaton with Phil”'
