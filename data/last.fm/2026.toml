@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Der kleinste König und sein Architekt'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-23T15:48:34Z'
+
+[[tracks]]
+name = 'Bamberg, 20. Juni'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-23T15:38:03Z'
+
+[[tracks]]
+name = 'Krähenpsalme'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-23T15:29:50Z'
+
+[[tracks]]
 name = 'Lethe - Der Fluch des Schaffenden'
 artist = 'Waldgeflüster'
 album = 'Knochengesänge'
