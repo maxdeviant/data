@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Clint Eastwood'
+artist = 'Gorillaz'
+album = 'Gorillaz'
+listened_at = '2026-03-23T22:55:14Z'
+
+[[tracks]]
 name = 'Der kleinste König und sein Architekt'
 artist = 'Waldgeflüster'
 album = 'Knochengesänge'
