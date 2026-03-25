@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mhv6aowuuc25'
+created_at = '2026-03-25T13:14:46.749Z'
+text = '''
+Don’t understand how people can function with merge commits for PRs.
+
+Turns the history into a whole mess.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mhu6udzgxc2c'
 created_at = '2026-03-25T03:53:06.649Z'
 text = 'Hit 24 hours in Crimson Desert tonight, and I feel like I’ve barely scratched the surface of the game.'

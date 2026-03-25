@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Der kleinste König und sein Architekt'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-25T15:16:47Z'
+
+[[tracks]]
+name = 'Bamberg, 20. Juni'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-25T15:06:16Z'
+
+[[tracks]]
+name = 'Krähenpsalme'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-03-25T14:46:21Z'
+
+[[tracks]]
 name = 'Von Hypnos und Thanatos'
 artist = 'Waldgeflüster'
 album = 'Knochengesänge'
