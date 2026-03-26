@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Perennial'
+artist = 'Spiritbox'
+album = 'Singles Collection'
+listened_at = '2026-03-26T19:46:46Z'
+
+[[tracks]]
+name = 'Coexistence'
+artist = 'Breakdown of Sanity'
+album = 'Coexistence'
+listened_at = '2026-03-26T19:44:09Z'
+
+[[tracks]]
+name = 'The Sun Of Another World'
+artist = 'Caution Thieves'
+album = 'The Astronomer'
+listened_at = '2026-03-26T19:38:54Z'
+
+[[tracks]]
+name = '[wouldyoufollowme]'
+artist = 'Varials'
+album = 'Where the Light Leaves'
+listened_at = '2026-03-26T19:36:56Z'
+
+[[tracks]]
+name = 'Otherside'
+artist = 'Mirrorcell'
+album = 'Long Nights In Lovescape'
+listened_at = '2026-03-26T19:33:40Z'
+
+[[tracks]]
 name = 'The Parting Glass'
 artist = 'Waldgeflüster'
 album = 'Knochengesänge'
