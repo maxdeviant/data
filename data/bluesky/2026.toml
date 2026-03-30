@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3micbxrjag22v'
+created_at = '2026-03-30T18:25:59.024Z'
+text = '''
+Not that I think having "Copy Markdown" is a *bad* feature, but did they really have to put it in between the existing options?
+
+I keep hitting it when going to "Quote reply", which is probably my second most-used action (after "Copy link").'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mi2bplex5s26'
 created_at = '2026-03-27T14:00:05.589Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
