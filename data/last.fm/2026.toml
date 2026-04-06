@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Relapsing'
+artist = 'Beartooth'
+album = 'Disgusting'
+listened_at = '2026-04-05T23:47:34Z'
+
+[[tracks]]
+name = 'In Between'
+artist = 'Beartooth'
+album = 'Disgusting'
+listened_at = '2026-04-05T23:44:01Z'
+
+[[tracks]]
+name = 'Body Bag'
+artist = 'Beartooth'
+album = 'Disgusting'
+listened_at = '2026-04-05T23:40:10Z'
+
+[[tracks]]
+name = 'Beaten In Lips'
+artist = 'Beartooth'
+album = 'Disgusting'
+listened_at = '2026-04-05T23:36:38Z'
+
+[[tracks]]
+name = 'The Lines'
+artist = 'Beartooth'
+album = 'Disgusting'
+listened_at = '2026-04-05T23:32:51Z'
+
+[[tracks]]
+name = 'Cup Runneth Over'
+artist = 'Kiki Rockwell'
+album = 'Rituals On The Bank Of A Familiar River'
+listened_at = '2026-04-05T19:49:45Z'
+
+[[tracks]]
 name = 'From Persephone'
 artist = 'Kiki Rockwell'
 album = 'Rituals On The Bank Of A Familiar River'
