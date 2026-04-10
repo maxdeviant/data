@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'TWICE'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-10T17:26:24Z'
+
+[[tracks]]
+name = 'Freak Like Me'
+artist = 'Dead Pony'
+album = 'Freak Like Me'
+listened_at = '2026-04-10T17:18:35Z'
+
+[[tracks]]
 name = 'KINDA HARD'
 artist = 'Bilmuri'
 album = 'KINDA HARD'
