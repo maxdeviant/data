@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'TWICE'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-13T00:42:06Z'
+
+[[tracks]]
+name = 'KINDA HARD'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-13T00:40:47Z'
+
+[[tracks]]
 name = 'WHERE TO FIND ME (feat. NOVELISTS)'
 artist = 'Bilmuri'
 album = 'KINDA HARD'
