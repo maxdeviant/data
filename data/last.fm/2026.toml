@@ -2,6 +2,90 @@
 name = 'TWICE'
 artist = 'Bilmuri'
 album = 'KINDA HARD'
+listened_at = '2026-04-20T21:16:06Z'
+
+[[tracks]]
+name = 'KINDA HARD'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T21:14:46Z'
+
+[[tracks]]
+name = 'Waves'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T21:11:30Z'
+
+[[tracks]]
+name = 'HONEST'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T21:08:38Z'
+
+[[tracks]]
+name = 'BACK, THEN'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T21:05:53Z'
+
+[[tracks]]
+name = 'ALWAYS LET YOU DOWN (feat. A Day To Remember)'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T21:02:49Z'
+
+[[tracks]]
+name = 'SHYT FYST'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T20:59:41Z'
+
+[[tracks]]
+name = 'ST4RF1SH SPR34DR'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T20:59:10Z'
+
+[[tracks]]
+name = 'WHERE TO FIND ME (feat. NOVELISTS)'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T20:56:24Z'
+
+[[tracks]]
+name = 'HARD2TELL'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T20:53:25Z'
+
+[[tracks]]
+name = 'More Than Hate'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T20:49:57Z'
+
+[[tracks]]
+name = 'ROCK BOTTOM'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T20:47:10Z'
+
+[[tracks]]
+name = 'WORST PART OF YOU'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-20T20:44:16Z'
+
+[[tracks]]
+name = 'WORST PART OF YOU'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
+listened_at = '2026-04-15T03:39:50Z'
+
+[[tracks]]
+name = 'TWICE'
+artist = 'Bilmuri'
+album = 'KINDA HARD'
 listened_at = '2026-04-13T22:26:55Z'
 
 [[tracks]]
