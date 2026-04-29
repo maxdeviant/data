@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mknkd7fxw22h'
+created_at = '2026-04-29T16:45:13.008Z'
+text = 'The first step to recovery is admitting that I have a problem 😅'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:jwgnraovgs3eeenh23tlllyk/app.bsky.feed.post/3mknfmerr7k22'
+author_did = 'did:plc:jwgnraovgs3eeenh23tlllyk'
+author_handle = 'okk.moe'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mkndeqkzlc23'
 created_at = '2026-04-29T14:40:48.358Z'
 text = 'Zed 1.0, baby!'
