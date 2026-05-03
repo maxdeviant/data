@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mkxqcny7nk2u'
+created_at = '2026-05-03T17:58:54.566Z'
+text = '''
+@jamesmunns.com Would Postcard be a good fit for a network protocol for a game?
+
+I was using bincode previously, but am in the market for something new after everything that went down.
+
+I know it's specifically not self-describing, but that should be fine for my use-case.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mkuv5ut3p22g'
 created_at = '2026-05-02T14:47:43.460Z'
 text = 'I believe we do have a flag that can be used to uninstall from the CLI: zed.dev/docs/referen...'
