@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Cycles'
+artist = 'Haste The Day'
+album = 'Dissenter'
+listened_at = '2026-05-05T00:13:44Z'
+
+[[tracks]]
+name = 'Oblivion'
+artist = 'Haste The Day'
+album = 'Dissenter'
+listened_at = '2026-05-05T00:08:03Z'
+
+[[tracks]]
+name = 'Cycles'
+artist = 'Haste The Day'
+album = 'Dissenter'
+listened_at = '2026-05-04T22:16:53Z'
+
+[[tracks]]
+name = 'Oblivion'
+artist = 'Haste The Day'
+album = 'Dissenter'
+listened_at = '2026-05-04T22:11:12Z'
+
+[[tracks]]
 name = 'Grave'
 artist = 'Haste The Day'
 album = 'Dissenter'
