@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Grave'
+artist = 'Haste The Day'
+album = 'Dissenter'
+listened_at = '2026-05-05T21:16:31Z'
+
+[[tracks]]
+name = 'Shallows'
+artist = 'Haste The Day'
+album = 'Dissenter'
+listened_at = '2026-05-05T21:12:40Z'
+
+[[tracks]]
+name = 'Cycles'
+artist = 'Haste The Day'
+album = 'Dissenter'
+listened_at = '2026-05-05T21:11:23Z'
+
+[[tracks]]
+name = 'Oblivion'
+artist = 'Haste The Day'
+album = 'Dissenter'
+listened_at = '2026-05-05T21:05:41Z'
+
+[[tracks]]
+name = 'Teeth'
+artist = 'Haste The Day'
+album = 'Dissenter'
+listened_at = '2026-05-05T15:24:33Z'
+
+[[tracks]]
 name = 'Adrift'
 artist = 'Haste The Day'
 album = 'Dissenter'
