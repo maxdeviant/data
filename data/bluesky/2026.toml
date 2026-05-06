@@ -1,4 +1,31 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ml6p4oak3s2f'
+created_at = '2026-05-06T12:26:17.940Z'
+text = '''
+I didn't even recognize the `.sit` extension when I first saw it.
+
+And then I looked it up and the name "StuffIt" did have some vague name recognition. But I've never actually used it.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gttrfs4hfmrclyxvwkwcgpj7/app.bsky.feed.post/3ml6ob5vpcc2r'
+author_did = 'did:plc:gttrfs4hfmrclyxvwkwcgpj7'
+author_handle = 'aparker.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ml6lrtu6ec2n'
+created_at = '2026-05-06T11:26:33.500Z'
+text = '''
+Me: Hello, why did you switch from distributing ZIP files to StuffIt archives? StuffIt is discontinued.
+
+Them: Our internal tool is built around StuffIt.
+
+Me: But you already distribute .zip and .tar.gz files for other platforms?
+
+Them: 😐
+
+Me: 😐'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ml5gyjsqok2a'
 created_at = '2026-05-06T00:28:09.401Z'
 text = ''
