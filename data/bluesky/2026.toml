@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlbamnop5c23'
+created_at = '2026-05-07T12:44:47.313Z'
+text = '''
+Sometimes I’ll put the archive into a subdirectory first, just to be safe.
+
+And then I usually end up with two nested directories 🤦🏻‍♂️'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3mlbabgnpok2x'
+author_did = 'did:plc:wamidydbgu3u6fk3yckaglnz'
+author_handle = 'philpax.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ml7pqzf3bc2q'
 created_at = '2026-05-06T22:10:20.448Z'
 text = 'I love them.'
