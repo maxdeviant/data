@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ml7pqzf3bc2q'
+created_at = '2026-05-06T22:10:20.448Z'
+text = 'I love them.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ml75aqt5fc2n'
 created_at = '2026-05-06T16:39:07.250Z'
 text = 'Excited to share what myself and the other new members of the Zed Cloud team have been working on for the past few months!'
