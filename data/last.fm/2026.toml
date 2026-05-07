@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Mortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
+listened_at = '2026-05-07T15:40:36Z'
+
+[[tracks]]
+name = 'Immortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
+listened_at = '2026-05-07T15:35:35Z'
+
+[[tracks]]
+name = 'Mortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
+listened_at = '2026-05-07T15:31:57Z'
+
+[[tracks]]
 name = 'Beckoning'
 artist = 'Bow Church'
 album = 'Unknown Realms'
