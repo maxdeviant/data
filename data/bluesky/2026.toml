@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlejiwwo2c26'
+created_at = '2026-05-08T20:01:45.685Z'
+text = '''
+Not specifically a porting guide from VS Code, but there are some docs on developing extensions: zed.dev/docs/extensi...
+
+I would say your best bet would be to look at those and look at other existing extensions that provide language servers.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n2lxtqul5ie6fzpalkdv23q4/app.bsky.feed.post/3mledo5tk722s'
+author_did = 'did:plc:n2lxtqul5ie6fzpalkdv23q4'
+author_handle = 'rustyxyz.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mldvcebyux23'
 created_at = '2026-05-08T14:00:09.628Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
