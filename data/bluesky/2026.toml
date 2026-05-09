@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlfaq2lhes2f'
+created_at = '2026-05-09T02:57:20.455Z'
+text = '"Nah, man, you just gotta be good at writing C"'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:geozyv62fx63m7jhr4eraubc/app.bsky.feed.post/3mlf3wtbtv22q'
+author_did = 'did:plc:geozyv62fx63m7jhr4eraubc'
+author_handle = 'alilleybrinker.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlejiwwo2c26'
 created_at = '2026-05-08T20:01:45.685Z'
 text = '''
