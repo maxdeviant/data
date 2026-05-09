@@ -2,6 +2,30 @@
 name = 'Mortal'
 artist = 'Bow Church'
 album = 'Mortal / Immortal'
+listened_at = '2026-05-09T18:33:37Z'
+
+[[tracks]]
+name = 'Immortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
+listened_at = '2026-05-09T18:28:36Z'
+
+[[tracks]]
+name = 'Mortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
+listened_at = '2026-05-09T18:24:58Z'
+
+[[tracks]]
+name = 'Immortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
+listened_at = '2026-05-09T18:19:57Z'
+
+[[tracks]]
+name = 'Mortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
 listened_at = '2026-05-09T03:57:31Z'
 
 [[tracks]]
