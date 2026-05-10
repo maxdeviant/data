@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlhaiqrgtc2c'
+created_at = '2026-05-09T21:58:34.762Z'
+text = '''
+Been working on something new...
+
+#screenshotsaturday'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlg6viyhh225'
 created_at = '2026-05-09T11:57:15.589Z'
 text = 'You know what you must do: write a “just fucking use Gleam” blog post.'
