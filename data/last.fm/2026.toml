@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'BLACK_WAVE'
+artist = 'Moodring'
+album = 'BLACK_WAVE'
+listened_at = '2026-05-12T16:17:30Z'
+
+[[tracks]]
+name = 'Aurora'
+artist = 'The Narrator'
+album = 'Phosphor'
+listened_at = '2026-05-12T16:14:09Z'
+
+[[tracks]]
+name = 'Weeping Tones'
+artist = 'Poison the Well'
+album = 'Peace In Place'
+listened_at = '2026-05-12T16:11:10Z'
+
+[[tracks]]
+name = 'Initiatrix'
+artist = 'Junius'
+album = 'Initiatrix'
+listened_at = '2026-05-12T16:07:46Z'
+
+[[tracks]]
+name = 'Nautilus'
+artist = 'Karmanjakah'
+album = 'A Book About Itself'
+listened_at = '2026-05-12T16:03:14Z'
+
+[[tracks]]
+name = 'Salt And Sulfur'
+artist = 'Atlas'
+album = 'Sunder'
+listened_at = '2026-05-12T15:59:14Z'
+
+[[tracks]]
+name = 'Black Dove'
+artist = 'Levels'
+album = 'This Will Make You Feel Again'
+listened_at = '2026-05-12T15:55:57Z'
+
+[[tracks]]
+name = 'Clockwork'
+artist = 'Northlane'
+album = 'Obsidian'
+listened_at = '2026-05-12T15:51:59Z'
+
+[[tracks]]
 name = 'Carbonized'
 artist = 'Northlane'
 album = 'Obsidian'
