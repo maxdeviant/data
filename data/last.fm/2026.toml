@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Romantic Sadness'
+artist = 'GIRLI'
+album = '''it's just my opinion'''
+listened_at = '2026-05-14T14:39:34Z'
+
+[[tracks]]
+name = 'Lifestyle'
+artist = 'GIRLI'
+album = '''it's just my opinion'''
+listened_at = '2026-05-14T14:36:20Z'
+
+[[tracks]]
+name = 'Bones'
+artist = 'GIRLI'
+album = '''it's just my opinion'''
+listened_at = '2026-05-14T14:33:22Z'
+
+[[tracks]]
+name = '''Don't Make Me Cry'''
+artist = 'GIRLI'
+album = '''it's just my opinion'''
+listened_at = '2026-05-14T14:28:07Z'
+
+[[tracks]]
+name = 'Pedestal'
+artist = 'GIRLI'
+album = '''it's just my opinion'''
+listened_at = '2026-05-14T14:25:37Z'
+
+[[tracks]]
+name = 'Slap On The Wrist'
+artist = 'GIRLI'
+album = '''it's just my opinion'''
+listened_at = '2026-05-14T14:22:59Z'
+
+[[tracks]]
+name = 'Blue Sky'
+artist = 'GIRLI'
+album = '''it's just my opinion'''
+listened_at = '2026-05-14T14:19:59Z'
+
+[[tracks]]
+name = 'Secret Sun'
+artist = 'Invent Animate'
+album = 'Greyview'
+listened_at = '2026-05-14T02:38:56Z'
+
+[[tracks]]
 name = 'Fireside'
 artist = 'Invent Animate'
 album = 'Greyview'
