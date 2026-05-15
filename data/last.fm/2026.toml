@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Eden'
+artist = 'Invent Animate'
+album = 'Greyview'
+listened_at = '2026-05-15T18:34:35Z'
+
+[[tracks]]
 name = 'Secret Sun'
 artist = 'Invent Animate'
 album = 'Greyview'
