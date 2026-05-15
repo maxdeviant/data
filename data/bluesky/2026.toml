@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlvtyyltsc2d'
+created_at = '2026-05-15T17:24:57.270Z'
+text = '"Work, work."'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6ouaxjxgcbwzw6porooiafil/app.bsky.feed.post/3mlvqrtfj222p'
+author_did = 'did:plc:6ouaxjxgcbwzw6porooiafil'
+author_handle = 'fullmoon.id'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlvtrwln522d'
+created_at = '2026-05-15T17:21:00.285Z'
+text = '''
+I do remember this being a pretty big issue with the Godot language server when I was playing around with Godot and Rust: github.com/GDQuest/zed-...
+
+But it looks like there was an upstream change to the language server that fixed it: github.com/godotengine/... (merged in December).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ohmfeqhqe5uv42ed2h4uyhhc/app.bsky.feed.post/3ml5b5q3kas2u'
+author_did = 'did:plc:ohmfeqhqe5uv42ed2h4uyhhc'
+author_handle = 'nearlytobias.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlvimbrfig2b'
 created_at = '2026-05-15T14:00:58.432Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
