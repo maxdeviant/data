@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlvimbrfig2b'
+created_at = '2026-05-15T14:00:58.432Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlvfhov3ds2v'
+created_at = '2026-05-15T13:04:44.276Z'
+text = 'Yep, I love it when people exhibit very normal and reasonable behavior 🫠'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gttrfs4hfmrclyxvwkwcgpj7/app.bsky.feed.post/3mlveqm7tqk2j'
+author_did = 'did:plc:gttrfs4hfmrclyxvwkwcgpj7'
+author_handle = 'aparker.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlveootzx22v'
+created_at = '2026-05-15T12:50:45.380Z'
+text = '''
+Just got called a “pussy” because I stated that Zed abides by the Anthropic ToS and won’t masquerade as Claude Code to bypass Claude subscription limitations.
+
+Enjoy the ban, idiot.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mlvdhbmabk2v'
 created_at = '2026-05-15T12:28:42.870Z'
 text = 'What accident model(s) do you recommend?'
