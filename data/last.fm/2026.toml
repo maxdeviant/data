@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Gravity'
+artist = 'The Hate Club'
+album = 'Seraph'
+listened_at = '2026-05-16T21:01:36Z'
+
+[[tracks]]
+name = 'Your Way'
+artist = 'The Hate Club'
+album = 'Seraph'
+listened_at = '2026-05-16T20:57:28Z'
+
+[[tracks]]
+name = 'Seraph'
+artist = 'The Hate Club'
+album = 'Seraph'
+listened_at = '2026-05-16T20:52:34Z'
+
+[[tracks]]
+name = 'Bamberg, 20. Juni'
+artist = 'Waldgeflüster'
+album = 'Knochengesänge'
+listened_at = '2026-05-16T06:05:51Z'
+
+[[tracks]]
+name = 'Scatman (Ski-Ba-Bop-Ba-Dop-Bop)'
+artist = 'Scatman John'
+album = '''Scatman's World'''
+listened_at = '2026-05-16T06:03:28Z'
+
+[[tracks]]
 name = 'Dead In The Water'
 artist = 'Enter Shikari'
 album = 'Lose Your Self'
