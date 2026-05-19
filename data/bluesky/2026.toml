@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mm6j5nny3k2o'
+created_at = '2026-05-19T04:04:40.063Z'
+text = 'I hear LLMs can be used to quickly rewrite a codebase in a different language…'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:r73hlb2plsmmiuqen6zqhh6m/app.bsky.feed.post/3mm5wkifsc22o'
+author_did = 'did:plc:r73hlb2plsmmiuqen6zqhh6m'
+author_handle = 'sekun.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mm6ixcyluc2o'
+created_at = '2026-05-19T04:01:07.549Z'
+text = 'It’s bad enough on a good day, but to be dealing with that during an incident 😩'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3mm6ecqp4k7wb'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mm4rhytids2j'
 created_at = '2026-05-18T11:28:17.779Z'
 text = '“I want Rust with a GC”'
