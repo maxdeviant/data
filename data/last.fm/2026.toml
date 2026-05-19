@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Heathen'
+artist = 'Deafheaven'
+album = 'Lonely People With Power'
+listened_at = '2026-05-19T15:56:01Z'
+
+[[tracks]]
+name = 'The Garden Route'
+artist = 'Deafheaven'
+album = 'Lonely People With Power'
+listened_at = '2026-05-19T15:50:12Z'
+
+[[tracks]]
+name = 'Magnolia'
+artist = 'Deafheaven'
+album = 'Lonely People With Power'
+listened_at = '2026-05-19T15:45:58Z'
+
+[[tracks]]
+name = 'Doberman'
+artist = 'Deafheaven'
+album = 'Lonely People With Power'
+listened_at = '2026-05-19T15:39:24Z'
+
+[[tracks]]
+name = 'Incidental I'
+artist = 'Deafheaven'
+album = 'Lonely People With Power'
+listened_at = '2026-05-19T15:38:28Z'
+
+[[tracks]]
+name = 'Reflection Room'
+artist = 'Invent Animate'
+album = 'Greyview'
+listened_at = '2026-05-18T07:36:54Z'
+
+[[tracks]]
 name = 'Cloud Cascade'
 artist = 'Invent Animate'
 album = 'Greyview'
