@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmayllpxl22o'
+created_at = '2026-05-20T03:46:13.397Z'
+text = 'Ooof'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mmav4xjnhk22'
+author_did = 'did:plc:wlv2lek2tmwsfpob3r4mix7y'
+author_handle = 'konnorrogers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmatlajots25'
+created_at = '2026-05-20T02:16:32.947Z'
+text = 'Drives me absolutely nuts when I hear people pronounce "aesthetic" as "aes-tetic" (without the "th" sound).'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmabkfwbks2v'
 created_at = '2026-05-19T20:53:57.695Z'
 text = 'jj mentioned'
