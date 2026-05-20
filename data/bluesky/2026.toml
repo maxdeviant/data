@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmbqovusz22u'
+created_at = '2026-05-20T10:57:34.508Z'
+text = '''
+I had the same thought when I read it.
+
+Someone linked the regular X link in Slack and I had to switch to the Xcancel version just so I could see more than one tweet in the thread.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3mmb3pavekkgi'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmayllpxl22o'
 created_at = '2026-05-20T03:46:13.397Z'
 text = 'Ooof'
