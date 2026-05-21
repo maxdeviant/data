@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Meet The Reaper'
+artist = 'Dayseeker'
+album = 'Creature In The Black Night'
+listened_at = '2026-05-21T03:16:10Z'
+
+[[tracks]]
+name = 'Solitude'
+artist = 'Ater'
+album = 'Somber'
+listened_at = '2026-05-21T02:13:14Z'
+
+[[tracks]]
+name = 'Pale Moonlight'
+artist = 'Dayseeker'
+album = 'Creature In The Black Night'
+listened_at = '2026-05-21T01:52:11Z'
+
+[[tracks]]
 name = 'Forgotten Ghost'
 artist = 'Dayseeker'
 album = 'Creature In The Black Night'
