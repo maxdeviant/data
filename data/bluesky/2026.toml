@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmlxj56lmk2q'
+created_at = '2026-05-24T12:26:14.418Z'
+text = '''
+I used to long for the day that C# would support sum types, and it looks like I would still be longing (were I still writing C#).
+
+andrewlock.net/exploring-th...'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmkkwcbhyc2e'
 created_at = '2026-05-23T23:08:17.582Z'
 text = 'They should invent a kind of string that is cheap to send over the network.'
