@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmkkwcbhyc2e'
+created_at = '2026-05-23T23:08:17.582Z'
+text = 'They should invent a kind of string that is cheap to send over the network.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmkjpt3tes2d'
+created_at = '2026-05-23T22:46:46.600Z'
+text = '''
+Started work on the item system today, which naturally means we need somewhere to put them.
+
+#gamedev #screenshotsaturday'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmh3usgt5y2u'
 created_at = '2026-05-22T14:01:00.928Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
