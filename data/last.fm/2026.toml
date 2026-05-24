@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Bleed Out'
+artist = 'Within Temptation'
+album = 'Bleed Out'
+listened_at = '2026-05-24T14:37:00Z'
+
+[[tracks]]
+name = 'We Go To War'
+artist = 'Within Temptation'
+album = 'Bleed Out'
+listened_at = '2026-05-24T14:32:42Z'
+
+[[tracks]]
+name = 'Afterdark'
+artist = 'I See Stars'
+album = 'THE WHEEL'
+listened_at = '2026-05-24T13:27:15Z'
+
+[[tracks]]
+name = 'SMILE'
+artist = 'Iridium'
+album = 'HELL IS JUST A HALFWAY HOUSE'
+listened_at = '2026-05-24T13:22:16Z'
+
+[[tracks]]
+name = 'Sour Apple'
+artist = 'AVOID'
+album = 'Sour Apple'
+listened_at = '2026-05-24T13:19:07Z'
+
+[[tracks]]
+name = 'ANIMAL'
+artist = 'Austin Carlile'
+album = 'ANIMAL'
+listened_at = '2026-05-24T03:39:39Z'
+
+[[tracks]]
 name = 'The Burden'
 artist = 'Code: Pandorum'
 album = 'The Burden'
