@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'The Living Dead'
+artist = 'Dayseeker'
+album = 'Creature In The Black Night'
+listened_at = '2026-05-25T20:27:24Z'
+
+[[tracks]]
+name = 'Nocturnal Remedy'
+artist = 'Dayseeker'
+album = 'Creature In The Black Night'
+listened_at = '2026-05-25T20:23:45Z'
+
+[[tracks]]
+name = 'Cemetery Blues'
+artist = 'Dayseeker'
+album = 'Creature In The Black Night'
+listened_at = '2026-05-25T20:20:23Z'
+
+[[tracks]]
+name = 'Bloodlust'
+artist = 'Dayseeker'
+album = 'Creature In The Black Night'
+listened_at = '2026-05-25T20:16:54Z'
+
+[[tracks]]
 name = 'Bleed Out'
 artist = 'Within Temptation'
 album = 'Bleed Out'
