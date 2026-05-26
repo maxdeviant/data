@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmr7jw3l422p'
+created_at = '2026-05-26T14:33:09.160Z'
+text = 'I drink one every day for breakfast, what’s the problem?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mmr6o2e4dk22'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmr5cyqhlc2p'
+created_at = '2026-05-26T13:53:29.572Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mmr2f4m3as2f'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmpa4ap7a22x'
 created_at = '2026-05-25T19:38:04.793Z'
 text = 'Can’t believe we got an encyclical on AI from the pope before GTA 6.'
