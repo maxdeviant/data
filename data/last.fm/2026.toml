@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Pure Leaf'
+artist = 'Holywatr'
+album = 'Deo Gratias'
+listened_at = '2026-05-27T01:52:20Z'
+
+[[tracks]]
+name = 'Nightmares'
+artist = 'Holywatr'
+album = 'Deo Gratias'
+listened_at = '2026-05-27T01:48:41Z'
+
+[[tracks]]
+name = 'Give Me A Show'
+artist = 'Holywatr'
+album = 'Deo Gratias'
+listened_at = '2026-05-27T01:43:53Z'
+
+[[tracks]]
+name = 'Lonely God'
+artist = 'Fit For A King'
+album = 'Lonely God'
+listened_at = '2026-05-26T21:26:58Z'
+
+[[tracks]]
 name = 'Monolith'
 artist = 'Fit For A King'
 album = 'Lonely God'
