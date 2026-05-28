@@ -1,4 +1,40 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmwvxvh6qk2f'
+created_at = '2026-05-28T20:57:59.266Z'
+text = '''Here's to 2,000 more!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:geozyv62fx63m7jhr4eraubc/app.bsky.feed.post/3mmwvj7renc2a'
+author_did = 'did:plc:geozyv62fx63m7jhr4eraubc'
+author_handle = 'alilleybrinker.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmwrnvx54c2s'
+created_at = '2026-05-28T19:40:49.278Z'
+text = '''
+April 16, so a little over a month ago.
+
+Does feel like just yesterday, though.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:z4yzhhsdetqfkq6hneiwc3cv/app.bsky.feed.post/3mmwjd4buqs2v'
+author_did = 'did:plc:z4yzhhsdetqfkq6hneiwc3cv'
+author_handle = 'bruceroettgers.eu'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmwrk2zvtc2s'
+created_at = '2026-05-28T19:38:40.393Z'
+text = '''
+When they first announced fast mode at a 6x price markup, I figured it would have to come down eventually. This is a bit sooner than I expected.
+
+Wonder how long until fast mode is just the standard speed, at no additional markup?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mmwpcif6rs2z'
+author_did = 'did:plc:ckaz32jwl6t2cno6fmuw2nhn'
+author_handle = 'timkellogg.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmw3ilksms2n'
 created_at = '2026-05-28T13:04:08.295Z'
 text = 'Especially considering that prompt injection to get the LLM to stop/issue a refusal would be an equally effective—yet still just as childish—form of protest without doing something that could put you in legal trouble.'
