@@ -1,4 +1,53 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmw3ilksms2n'
+created_at = '2026-05-28T13:04:08.295Z'
+text = 'Especially considering that prompt injection to get the LLM to stop/issue a refusal would be an equally effective—yet still just as childish—form of protest without doing something that could put you in legal trouble.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5tlwm4ujvnudrzndqubefgiu/app.bsky.feed.post/3mmw2jawr6c2t'
+author_did = 'did:plc:5tlwm4ujvnudrzndqubefgiu'
+author_handle = 'danny.page'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmw3cf4xcs2n'
+created_at = '2026-05-28T13:00:40.224Z'
+text = '''
+Yep, exactly.
+
+As if running software on Windows wasn’t already a sufficient punishment.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:yfvwmnlztr4dwkb7hwz55r2g/app.bsky.feed.post/3mmw2k56ttk2p'
+author_did = 'did:plc:yfvwmnlztr4dwkb7hwz55r2g'
+author_handle = 'nonbinary.computer'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmw34uascs2n'
+created_at = '2026-05-28T12:57:34.731Z'
+text = 'jqwik maintainer be like'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmvzmdhnlc2n'
+created_at = '2026-05-28T12:30:26.538Z'
+text = '''
+I don’t care how you feel about LLMs, putting prompt injection into your library that intentionally attempts to get the LLM to do something destructive is not acceptable.
+
+The author claims they oppose LLMs for “ethical” reasons, yet is acting unethically here.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmvzc6lvjc2n'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmvzc6lvjc2n'
+created_at = '2026-05-28T12:24:45.889Z'
+text = '''
+Wow, this is a complete betrayal of trust for any users of their library.
+
+Absolutely shameful behavior by an open-source library maintainer.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmrm4ctg7k2y'
 created_at = '2026-05-26T18:18:11.407Z'
 text = '''Well I'm considerably high-strung and anxious all day afterwards, but I'm sure that's just a coincidence.'''
