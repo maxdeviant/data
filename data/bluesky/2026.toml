@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmx2tj2woc2y'
+created_at = '2026-05-28T22:25:00.773Z'
+text = 'SCONSIN!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nvflwun6ztxyktjsoue3cmva/app.bsky.feed.post/3mmwsembjx22u'
+author_did = 'did:plc:nvflwun6ztxyktjsoue3cmva'
+author_handle = 'myrrlyn.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmx2o2qjv22y'
+created_at = '2026-05-28T22:21:57.980Z'
+text = 'Weird that they don’t have anything posted on their site yet.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ucaezectmpny7l42baeyooxi/app.bsky.feed.post/3mmwhiwavys2g'
+author_did = 'did:plc:ucaezectmpny7l42baeyooxi'
+author_handle = 'sapphic.moe'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmwvxvh6qk2f'
 created_at = '2026-05-28T20:57:59.266Z'
 text = '''Here's to 2,000 more!'''
