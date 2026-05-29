@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmyiobnic223'
+created_at = '2026-05-29T12:05:17.345Z'
+text = 'maxdeviant.com/uses/'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:77nhxdei7vwjw5qdipxazguw/app.bsky.feed.post/3mmxvdavl2s2o'
+author_did = 'did:plc:77nhxdei7vwjw5qdipxazguw'
+author_handle = 'matuzo.at'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmyhlwig7c23'
+created_at = '2026-05-29T11:46:04.790Z'
+text = '🦉'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmygyzoiz223'
+created_at = '2026-05-29T11:35:30.603Z'
+text = '''
+While I was drifting through the liminal state of being asleep and awake this morning my brain told me it was Saturday.
+
+Imagine my dismay upon realizing today is, in fact, Friday.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmxkqiwysk25'
 created_at = '2026-05-29T03:09:39.850Z'
 text = '''
