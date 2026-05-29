@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Oblivion'
+artist = 'Haste The Day'
+album = 'Dissenter'
+listened_at = '2026-05-29T03:00:51Z'
+
+[[tracks]]
+name = 'Mortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
+listened_at = '2026-05-29T02:57:12Z'
+
+[[tracks]]
+name = 'Union'
+artist = 'Bow Church'
+album = 'Unknown Realms'
+listened_at = '2026-05-29T02:53:02Z'
+
+[[tracks]]
+name = 'Clockwork'
+artist = 'Northlane'
+album = 'Obsidian'
+listened_at = '2026-05-29T02:49:03Z'
+
+[[tracks]]
+name = 'Shapeshifter (feat. Garrett Russell)'
+artist = 'Invent Animate'
+album = 'Greyview'
+listened_at = '2026-05-29T02:19:01Z'
+
+[[tracks]]
+name = 'Crash'
+artist = 'Charli xcx'
+album = 'CRASH (Deluxe)'
+listened_at = '2026-05-29T01:55:25Z'
+
+[[tracks]]
+name = 'lip service'
+artist = 'Holywatr'
+album = 'red heifer'
+listened_at = '2026-05-29T01:55:19Z'
+
+[[tracks]]
 name = 'Krähenpsalme'
 artist = 'Waldgeflüster'
 album = 'Knochengesänge'

@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmxkqiwysk25'
+created_at = '2026-05-29T03:09:39.850Z'
+text = '''
+This is reassuring news, for me.
+
+I haven't had a chance to use it much yet, but I'm hoping I can finally upgrade from Opus 4.5.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mmwixmiin22z'
+author_did = 'did:plc:ckaz32jwl6t2cno6fmuw2nhn'
+author_handle = 'timkellogg.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmxhui2u6225'
+created_at = '2026-05-29T02:18:11.920Z'
+text = 'Absolutely fucking despicable.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mmx2tj2woc2y'
 created_at = '2026-05-28T22:25:00.773Z'
 text = 'SCONSIN!'
