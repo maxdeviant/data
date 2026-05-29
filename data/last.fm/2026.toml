@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Take Care'
+artist = 'City and Colour'
+album = 'The Hurry And The Harm'
+listened_at = '2026-05-29T17:28:36Z'
+
+[[tracks]]
+name = 'Freak Like Me'
+artist = 'Dead Pony'
+album = 'Freak Like Me'
+listened_at = '2026-05-29T17:24:51Z'
+
+[[tracks]]
+name = 'Oblivion'
+artist = 'Haste The Day'
+album = 'Dissenter'
+listened_at = '2026-05-29T17:19:09Z'
+
+[[tracks]]
+name = 'Mortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
+listened_at = '2026-05-29T17:15:29Z'
+
+[[tracks]]
+name = 'Union'
+artist = 'Bow Church'
+album = 'Unknown Realms'
+listened_at = '2026-05-29T17:11:19Z'
+
+[[tracks]]
+name = 'Clockwork'
+artist = 'Northlane'
+album = 'Obsidian'
+listened_at = '2026-05-29T17:07:21Z'
+
+[[tracks]]
 name = 'Mortal'
 artist = 'Bow Church'
 album = 'Mortal / Immortal'
