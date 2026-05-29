@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Mortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
+listened_at = '2026-05-29T15:56:32Z'
+
+[[tracks]]
+name = 'Immortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
+listened_at = '2026-05-29T15:51:31Z'
+
+[[tracks]]
+name = 'Mortal'
+artist = 'Bow Church'
+album = 'Mortal / Immortal'
+listened_at = '2026-05-29T15:47:53Z'
+
+[[tracks]]
 name = 'Oblivion'
 artist = 'Haste The Day'
 album = 'Dissenter'
