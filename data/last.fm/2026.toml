@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'The Great Hunter'
+artist = 'Yoth Iria'
+album = 'As the Flame Withers'
+listened_at = '2026-05-30T17:43:30Z'
+
+[[tracks]]
+name = 'Wrath'
+artist = 'gore.'
+album = 'Wrath'
+listened_at = '2026-05-30T17:40:14Z'
+
+[[tracks]]
+name = 'Sepsis'
+artist = 'gore.'
+album = 'Wrath'
+listened_at = '2026-05-30T17:36:44Z'
+
+[[tracks]]
+name = 'Wrath'
+artist = 'gore.'
+album = 'Wrath'
+listened_at = '2026-05-30T17:32:12Z'
+
+[[tracks]]
+name = 'RAINMAKER'
+artist = 'Broken Earth'
+album = 'RAINMAKER'
+listened_at = '2026-05-30T17:12:58Z'
+
+[[tracks]]
+name = 'Sick Silent America'
+artist = 'A Plea for Purging'
+album = 'The Marriage of Heaven and Hell'
+listened_at = '2026-05-30T17:10:01Z'
+
+[[tracks]]
+name = 'The Eternal Female'
+artist = 'A Plea for Purging'
+album = 'The Marriage of Heaven and Hell'
+listened_at = '2026-05-30T17:06:30Z'
+
+[[tracks]]
+name = 'West Hills'
+artist = 'The Killers'
+album = 'Pressure Machine'
+listened_at = '2026-05-30T16:54:54Z'
+
+[[tracks]]
+name = 'Quiet Town'
+artist = 'The Killers'
+album = 'Pressure Machine'
+listened_at = '2026-05-30T16:54:34Z'
+
+[[tracks]]
 name = 'West Hills'
 artist = 'The Killers'
 album = 'Pressure Machine'
