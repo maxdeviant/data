@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'West Hills'
+artist = 'The Killers'
+album = 'Pressure Machine'
+listened_at = '2026-05-30T15:17:13Z'
+
+[[tracks]]
+name = 'Glimmer'
+artist = 'Hundredth'
+album = 'Faded Splendor'
+listened_at = '2026-05-30T00:10:32Z'
+
+[[tracks]]
 name = 'Blur'
 artist = 'Hundredth'
 album = 'Faded Splendor'
