@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn47jbk22227'
+created_at = '2026-05-30T23:32:04.736Z'
+text = '''
+Free programming language idea for anyone who wants it:
+
+A Lisp that compiles to Python called “Lispstick”.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn3woeitik2t'
 created_at = '2026-05-30T20:53:51.938Z'
 text = '''
