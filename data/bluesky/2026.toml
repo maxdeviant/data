@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn76cmy3ns2s'
+created_at = '2026-06-01T03:48:27.324Z'
+text = 'I need this. I’ll tweet so many PR diff stats with zero context.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sfvpv6dfrug3rnjewn7gyx62/app.bsky.feed.post/3mn76aft7ck2j'
+author_did = 'did:plc:sfvpv6dfrug3rnjewn7gyx62'
+author_handle = 'buttplug.engineer'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6xsad4js23'
+created_at = '2026-06-01T01:51:54.732Z'
+text = 'Containment breach! 🚨'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mn6woqhdms26'
+author_did = 'did:plc:ckaz32jwl6t2cno6fmuw2nhn'
+author_handle = 'timkellogg.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6ur7buxk2v'
 created_at = '2026-06-01T00:57:38.862Z'
 text = '''
