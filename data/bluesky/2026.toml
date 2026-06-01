@@ -1,4 +1,98 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6ur7buxk2v'
+created_at = '2026-06-01T00:57:38.862Z'
+text = '''
+I've also been doing more on the game design side and realizing just how difficult it is. It's definitely an area that I'll need to grow in over the course of this project.
+
+#topd'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6udftrsk2v'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6udftrsk2v'
+created_at = '2026-06-01T00:49:55.979Z'
+text = '''
+Which brings us to week 4 and this weekend, where I added instances so that I could have somewhere to put the procedurally-generated dungeons.
+
+#topd'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6u4djgwc2v'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6u4djgwc2v'
+created_at = '2026-06-01T00:45:58.661Z'
+text = '''
+I didn't work on the game much during week 3, but I did get started on the item and inventory system.
+
+#topd'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6tyh6kpc2v'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6tyh6kpc2v'
+created_at = '2026-06-01T00:43:48.281Z'
+text = '''
+During the second week I added a static overworld map, some enemies with basic combat, and sketched in a HUD UI.
+
+I also realized that enemies needed to have a cooldown on how fast they could execute their actions...
+
+#topd'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6tqpxckc2v'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6tqpxckc2v'
+created_at = '2026-06-01T00:39:29.046Z'
+text = '''
+I have two separate commands in `mprocs` that will start up a client, generate an access token for a test user, and tile the windows next to each other on my screen.
+
+#topd'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6tjou4ls2v'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6tjou4ls2v'
+created_at = '2026-06-01T00:35:33.011Z'
+text = '''
+It's a multiplayer game, so the first week was spent setting up communication between the client and server.
+
+One thing I knew I wanted to do was have an incredibly streamlined development flow for firing up two authenticated clients to quickly test out multiplayer.
+
+#topd'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6tditm222v'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn6tditm222v'
+created_at = '2026-06-01T00:32:05.376Z'
+text = '''
+Been working on my game, Temple of Poor Decisions, for 4 weeks now.
+
+It's been slow going at times, but I've been doing my best to work on it a bit each day, even if it's not for very long.
+
+There have been some days I've skipped, but they are fewer than the days I worked on it.
+
+#topd'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mn47jbk22227'
 created_at = '2026-05-30T23:32:04.736Z'
 text = '''
