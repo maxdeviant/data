@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Weighed Down'
+artist = 'ColdState'
+album = 'Weighed Down'
+listened_at = '2026-06-01T19:05:01Z'
+
+[[tracks]]
+name = 'Fragile'
+artist = 'Levels'
+album = 'This Will Make You Feel Again'
+listened_at = '2026-06-01T19:01:05Z'
+
+[[tracks]]
 name = 'Will you cry?'
 artist = 'Gracie Abrams'
 album = 'Good Riddance (Deluxe)'
