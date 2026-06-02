@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mndb7wpcyc2k'
+created_at = '2026-06-02T18:51:17.037Z'
+text = '''
+A lot of people follow the free/subsidized money.
+
+But only so many greener pastures to switch between before all LLM providers are charging per token.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3mnd43j3hl22b'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnbhjwskxk2q'
 created_at = '2026-06-02T01:38:55.661Z'
 text = 'Carcinization comes for us all, in the end 🦀'
