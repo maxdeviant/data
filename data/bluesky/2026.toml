@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnfxsmxq7k22'
+created_at = '2026-06-03T20:40:46.159Z'
+text = 'Whenever an LLM decides to leave comments (particularly doc comments) in my code, I usually end up deleting most of them because the voice sounds so uncanny.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3mnfuuitgg2ak'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnfg4wkdb22r'
 created_at = '2026-06-03T15:24:24.396Z'
 text = 'You ever encounter those people where your initial impression of them is “I could go the rest of my life without hearing anything more this person has to say”?'
