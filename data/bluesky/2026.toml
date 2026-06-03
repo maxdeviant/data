@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnfg4wkdb22r'
+created_at = '2026-06-03T15:24:24.396Z'
+text = 'You ever encounter those people where your initial impression of them is “I could go the rest of my life without hearing anything more this person has to say”?'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mndt4sheu227'
 created_at = '2026-06-03T00:11:39.269Z'
 text = 'Rather fitting that a book on “Effective C” has Cthulhu on the front, because by writing C you will be faced with countless eldritch horrors.'
