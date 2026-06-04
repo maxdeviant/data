@@ -1,4 +1,94 @@
 [[tracks]]
+name = 'Swimming Pools'
+artist = 'Don Broco'
+album = 'Nightmare Tripping'
+listened_at = '2026-06-04T17:37:22Z'
+
+[[tracks]]
+name = 'Pacify Me'
+artist = 'Don Broco'
+album = 'Nightmare Tripping'
+listened_at = '2026-06-04T17:33:41Z'
+
+[[tracks]]
+name = 'Euphoria'
+artist = 'Don Broco'
+album = 'Nightmare Tripping'
+listened_at = '2026-06-04T17:30:15Z'
+
+[[tracks]]
+name = 'True Believers (feat. Sam Carter)'
+artist = 'Don Broco'
+album = 'Nightmare Tripping'
+listened_at = '2026-06-04T17:26:43Z'
+
+[[tracks]]
+name = 'Ghost In The Night'
+artist = 'Don Broco'
+album = 'Nightmare Tripping'
+listened_at = '2026-06-04T17:22:25Z'
+
+[[tracks]]
+name = 'Nightmare Tripping (Feat. Nickelback)'
+artist = 'Don Broco'
+album = 'Nightmare Tripping'
+listened_at = '2026-06-04T17:17:05Z'
+
+[[tracks]]
+name = 'Who of You Will Persevere?'
+artist = 'Eidola'
+album = 'Eviscerate'
+listened_at = '2026-06-04T17:10:33Z'
+
+[[tracks]]
+name = 'No Weapon Formed Shall Prosper'
+artist = 'Eidola'
+album = 'Eviscerate'
+listened_at = '2026-06-04T17:06:39Z'
+
+[[tracks]]
+name = 'A Bridge of Iron and Blood'
+artist = 'Eidola'
+album = 'Eviscerate'
+listened_at = '2026-06-04T17:02:57Z'
+
+[[tracks]]
+name = 'Atman: An Introduction To Suffering'
+artist = 'Eidola'
+album = 'Eviscerate'
+listened_at = '2026-06-04T17:01:15Z'
+
+[[tracks]]
+name = 'Ecclesiastes: The Burden of Wisdom'
+artist = 'Eidola'
+album = 'Eviscerate'
+listened_at = '2026-06-04T16:59:35Z'
+
+[[tracks]]
+name = 'Golgotha Compendium: Fifth Temple'
+artist = 'Eidola'
+album = 'Eviscerate'
+listened_at = '2026-06-04T16:51:29Z'
+
+[[tracks]]
+name = 'Kali Yuga'
+artist = 'Eidola'
+album = 'Eviscerate'
+listened_at = '2026-06-04T16:47:20Z'
+
+[[tracks]]
+name = 'Ashes In Gehinnom'
+artist = 'Eidola'
+album = 'Eviscerate'
+listened_at = '2026-06-04T16:42:47Z'
+
+[[tracks]]
+name = 'Ziggurat'
+artist = 'Eidola'
+album = 'Eviscerate'
+listened_at = '2026-06-04T03:13:42Z'
+
+[[tracks]]
 name = 'God Takes Away Everything'
 artist = 'Eidola'
 album = 'Eviscerate'
