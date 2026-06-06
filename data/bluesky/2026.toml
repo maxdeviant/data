@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnlj3kdga222'
+created_at = '2026-06-06T01:33:17.687Z'
+text = '''
+Glad to see someone put the practice I've been using for commit messages into words: scopedcommits.com
+
+I don't always include a prefix in my PR title/commit message, but when I do it always has to do with the scope of a change (usually the package/crate name).
+
+Never Conventional Commits.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnkcer6ztp2p'
 created_at = '2026-06-05T14:00:29.010Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
