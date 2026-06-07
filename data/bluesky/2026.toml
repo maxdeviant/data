@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnoawf7lp22q'
+created_at = '2026-06-07T03:45:13.829Z'
+text = '''
+We’ve been chasing down a number of similar issues with Git recently.
+
+If it’s still happening on latest Zed Preview and you have a repro, would you mind opening an issue so we can investigate?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ht4v7ms76njx5mlit7lwlrdw/app.bsky.feed.post/3mnnkh5bzzs2z'
+author_did = 'did:plc:ht4v7ms76njx5mlit7lwlrdw'
+author_handle = 'anglesideangle.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnoajtrgkc2q'
+created_at = '2026-06-07T03:38:12.886Z'
+text = 'Wow, Ruby really is slow!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6plb5bwcopgjjkmyhrkktrbr/app.bsky.feed.post/3mnnvzucils2u'
+author_did = 'did:plc:6plb5bwcopgjjkmyhrkktrbr'
+author_handle = 'goose.icu'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnnm4xjjg22j'
 created_at = '2026-06-06T21:33:05.775Z'
 text = '''
