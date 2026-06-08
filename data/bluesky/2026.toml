@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnsff4we5k2g'
+created_at = '2026-06-08T19:15:42.375Z'
+text = 'Can’t believe we get this level of entertainment for free on here.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3mnsatx7k6s2z'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnqg6m5qrc24'
 created_at = '2026-06-08T00:24:37.730Z'
 text = '''
