@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnxf7htpls2f'
+created_at = '2026-06-10T18:55:51.188Z'
+text = 'Begging people to think about the broader implications of their changes before they go and make them.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnxac4aoes24'
+created_at = '2026-06-10T17:27:50.984Z'
+text = 'You catch it writing any Perl yet?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vpkhqolt662uhesyj6nxm7ys/app.bsky.feed.post/3mnx6vt66ic2o'
+author_did = 'did:plc:vpkhqolt662uhesyj6nxm7ys'
+author_handle = 'why.bsky.team'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnvn5nwxnk22'
 created_at = '2026-06-10T02:12:40.935Z'
 text = 'This is a cognitohazard.'
