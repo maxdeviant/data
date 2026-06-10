@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnvn5nwxnk22'
+created_at = '2026-06-10T02:12:40.935Z'
+text = 'This is a cognitohazard.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3mnvcykzsls2x'
+author_did = 'did:plc:vszw3ess46odfhnzdsy4huae'
+author_handle = 'segyges.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnvgd7tcp22j'
 created_at = '2026-06-10T00:10:31.269Z'
 text = 'Missed opportunity to call the new model “Claude Encyclical”.'
