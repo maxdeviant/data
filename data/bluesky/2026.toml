@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnzmh47cnc2g'
+created_at = '2026-06-11T16:10:43.090Z'
+text = '''
+I *love* the Linear Slack bot.
+
+Get so much use out of it, and it certainly beats having to create issues by hand through the dialog in Slack.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:p2cp5gopk7mgjegy6wadk3ep/app.bsky.feed.post/3mnzk33hsjk2c'
+author_did = 'did:plc:p2cp5gopk7mgjegy6wadk3ep'
+author_handle = 'samuel.fm'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnyasr2uhk22'
 created_at = '2026-06-11T03:09:49.423Z'
 text = 'Looks like my cortisol levels will be back to normal just in time for me to go to bed.'
