@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnxqsihk3s24'
+created_at = '2026-06-10T22:23:20.531Z'
+text = 'Alright, I’m sold. Which state has the fastest-growing solar power?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mnxooc3xss2h'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnxpdmakhk2w'
+created_at = '2026-06-10T21:57:07.439Z'
+text = 'Having one of those days where every little thing I try to do results in me discovering something is broken (and then me having to go and fix it).'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mnxlwh4ubc24'
 created_at = '2026-06-10T20:56:04.641Z'
 text = '''
