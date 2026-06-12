@@ -2,6 +2,48 @@
 name = 'purple'
 artist = 'Olivia Rodrigo'
 album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T20:00:52Z'
+
+[[tracks]]
+name = 'my way'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T19:57:51Z'
+
+[[tracks]]
+name = 'u + me = <3'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T19:53:44Z'
+
+[[tracks]]
+name = 'maggots for brains'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T19:49:35Z'
+
+[[tracks]]
+name = 'honeybee'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T19:45:52Z'
+
+[[tracks]]
+name = 'stupid song'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T19:42:22Z'
+
+[[tracks]]
+name = 'drop dead'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T19:38:38Z'
+
+[[tracks]]
+name = 'purple'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
 listened_at = '2026-06-12T17:39:36Z'
 
 [[tracks]]
