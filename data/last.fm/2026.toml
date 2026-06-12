@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'purple'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T17:39:36Z'
+
+[[tracks]]
+name = 'my way'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T17:36:35Z'
+
+[[tracks]]
+name = 'u + me = <3'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T17:32:28Z'
+
+[[tracks]]
+name = 'maggots for brains'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T17:28:28Z'
+
+[[tracks]]
+name = 'honeybee'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T17:24:44Z'
+
+[[tracks]]
+name = 'stupid song'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T17:21:04Z'
+
+[[tracks]]
+name = 'drop dead'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-12T17:16:55Z'
+
+[[tracks]]
+name = 'Gethsemane'
+artist = 'Sleep Token'
+album = 'Even In Arcadia'
+listened_at = '2026-06-12T13:59:18Z'
+
+[[tracks]]
 name = 'Bad Influence'
 artist = 'Glimmers'
 album = 'The Art of Shattering'
