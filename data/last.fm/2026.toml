@@ -1,4 +1,10 @@
 [[tracks]]
+name = 'Bad Influence'
+artist = 'Glimmers'
+album = 'The Art of Shattering'
+listened_at = '2026-06-12T13:17:13Z'
+
+[[tracks]]
 name = 'Gethsemane'
 artist = 'Sleep Token'
 album = 'Even In Arcadia'
