@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Dislocated'
+artist = 'Midwinter'
+album = 'A Love I Hope Will Haunt Me Forever'
+listened_at = '2026-06-15T21:21:37Z'
+
+[[tracks]]
+name = 'Aurora'
+artist = 'The Narrator'
+album = 'Phosphor'
+listened_at = '2026-06-15T15:32:35Z'
+
+[[tracks]]
 name = 'Shapeshifter (feat. Garrett Russell)'
 artist = 'Invent Animate'
 album = 'Greyview'
