@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moofvfv3ps2f'
+created_at = '2026-06-19T22:39:21.315Z'
+text = 'Really regretting not doing a refresh of my rig (from 2017) sometime last year.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3moo5whmp6c2u'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3monawdaom22x'
 created_at = '2026-06-19T11:37:43.657Z'
 text = 'Someone should really make a build system that is good for monorepos…'
