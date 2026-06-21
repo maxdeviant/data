@@ -1,4 +1,54 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moskabl46c2z'
+created_at = '2026-06-21T14:07:39.794Z'
+text = 'So now I’m Spirit-less until I can find a 4 socket base as a drop, or farm up the materials to roll the sockets using the cube.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moskabl3722z'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moskabl3722z'
+created_at = '2026-06-21T14:07:39.793Z'
+text = '''
+The thing that stung more was messing up my Spirit.
+
+I had been saving my Act 5 quest reward to put 4 sockets onto a crystal sword.
+
+I finally got a crystal sword of the right item level, but it was a blue.
+
+I tried socketing it and ended up with… 1 socket.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moskabkzak2z'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moskabkzak2z'
+created_at = '2026-06-21T14:07:39.792Z'
+text = '''
+I’m leveling a Sorceress and have been using Nova up until now.
+
+I respecced into Blizzard, but misread the guide I’m following and put 3 extra points into an unnecessary skill.
+
+Not the end of the world, but means I’ll have to respec at least once more if I want those points elsewhere.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moskabkho22z'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moskabkho22z'
+created_at = '2026-06-21T14:07:39.791Z'
+text = '''
+I’ve been playing through Diablo II: Resurrected for the first time ever.
+
+I finally reached Nightmare—after, perhaps, the slowest Normal clear in history—and almost immediately made two big mistakes.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moofvfv3ps2f'
 created_at = '2026-06-19T22:39:21.315Z'
 text = 'Really regretting not doing a refresh of my rig (from 2017) sometime last year.'
