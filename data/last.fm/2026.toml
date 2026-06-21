@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'expectations'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-21T15:54:02Z'
+
+[[tracks]]
+name = 'less'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-21T15:50:48Z'
+
+[[tracks]]
+name = 'what’s wrong with me'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-21T15:47:04Z'
+
+[[tracks]]
+name = 'begged'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-21T15:43:26Z'
+
+[[tracks]]
+name = 'the cure'
+artist = 'Olivia Rodrigo'
+album = 'you seem pretty sad for a girl so in love'
+listened_at = '2026-06-21T15:38:06Z'
+
+[[tracks]]
 name = 'Pray For Silence'
 artist = 'Miss May I'
 album = 'Pray For Silence'
