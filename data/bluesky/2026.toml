@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3movkhnqwns2s'
+created_at = '2026-06-22T18:49:46.684Z'
+text = 'People are actually saying this??'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3movhz5oqb222'
+author_did = 'did:plc:oisofpd7lj26yvgiivf3lxsi'
+author_handle = 'hailey.at'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3motwfrlias2p'
 created_at = '2026-06-22T03:18:09.014Z'
 text = 'My wife and I saw you from across the library and we really dig your vibe. Do you want to join our LotR book club?'
