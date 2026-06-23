@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moy2qchz2222'
+created_at = '2026-06-23T18:46:16.191Z'
+text = '“SteamCube” would go pretty hard as a name, but I bet it would have the Nintendo IP lawyers rappelling into Valve HQ before you could say “Half-Life 3”.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3moxuy6jshc2n'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moxfpgsobs2h'
 created_at = '2026-06-23T12:29:58.602Z'
 text = '''
