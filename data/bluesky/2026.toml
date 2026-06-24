@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mp2hwnvs3c2q'
+created_at = '2026-06-24T17:47:47.626Z'
+text = '''
+Yea, it's pretty disappointing.
+
+On the bright side, it means I spend less time these days on Lobste.rs than I used to 😂'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:geozyv62fx63m7jhr4eraubc/app.bsky.feed.post/3mp26zdirx22b'
+author_did = 'did:plc:geozyv62fx63m7jhr4eraubc'
+author_handle = 'alilleybrinker.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mp2fdzxsi22f'
+created_at = '2026-06-24T17:01:35.257Z'
+text = 'Another win for Gemma 4 running on a toaster:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3mp2egmpoq22g'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3moyypeuwoc22'
 created_at = '2026-06-24T03:42:37.414Z'
 text = 'TELL ME ABOUT IT.'
