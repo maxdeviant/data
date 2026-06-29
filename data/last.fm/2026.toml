@@ -1,4 +1,22 @@
 [[tracks]]
+name = '''Whenever You're Ready'''
+artist = 'Alpha Wolf'
+album = 'Half Living Things'
+listened_at = '2026-06-29T21:26:15Z'
+
+[[tracks]]
+name = 'HEART'
+artist = 'Jakub Zytecki'
+album = 'Remind Me'
+listened_at = '2026-06-29T21:22:30Z'
+
+[[tracks]]
+name = 'sense'
+artist = 'Siamese'
+album = 'dissolution'
+listened_at = '2026-06-29T21:19:29Z'
+
+[[tracks]]
 name = 'Wake Up'
 artist = 'Sace6'
 album = 'Limerence'
