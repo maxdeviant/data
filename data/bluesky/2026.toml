@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mpixqltq322l'
+created_at = '2026-06-30T12:08:00.339Z'
+text = 'I’ll take “things that wouldn’t happen if you used a pinch bowl for your salt” for $400, Alex.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rnpkyqnmsw4ipey6eotbdnnf/app.bsky.feed.post/3mphmgjwopc2m'
+author_did = 'did:plc:rnpkyqnmsw4ipey6eotbdnnf'
+author_handle = 'pds.dad'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mphyy2xmxc2j'
 created_at = '2026-06-30T02:57:25.082Z'
 text = 'Seconding the “never mix functional and refactoring changes” rule!'
