@@ -1,4 +1,22 @@
 [[tracks]]
+name = '''Your Love I'll Never Need'''
+artist = 'Ocean Sleeper'
+album = '''Your Love I'll Never Need'''
+listened_at = '2026-06-30T15:48:55Z'
+
+[[tracks]]
+name = 'ROCKSTAR'
+artist = 'Banks Arcade'
+album = 'ROCKSTAR'
+listened_at = '2026-06-30T02:01:33Z'
+
+[[tracks]]
+name = 'Black Sheep'
+artist = 'Crown the Empire'
+album = 'DOGMA'
+listened_at = '2026-06-30T01:59:18Z'
+
+[[tracks]]
 name = 'Two-Headed Trout'
 artist = 'The Callous Daoboys'
 album = 'I Don’t Want to See You in Heaven'
