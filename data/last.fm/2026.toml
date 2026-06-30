@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Two-Headed Trout'
+artist = 'The Callous Daoboys'
+album = 'I Don’t Want to See You in Heaven'
+listened_at = '2026-06-30T01:55:25Z'
+
+[[tracks]]
+name = 'Bad Habit'
+artist = 'Volumes'
+album = 'Mirror Touch'
+listened_at = '2026-06-30T01:52:00Z'
+
+[[tracks]]
 name = 'Deadweight'
 artist = 'VOWER'
 album = 'Deadweight'
