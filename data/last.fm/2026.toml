@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Deadweight'
+artist = 'VOWER'
+album = 'Deadweight'
+listened_at = '2026-06-29T21:34:08Z'
+
+[[tracks]]
+name = 'A Fragile Flame'
+artist = '''The Wise Man's Fear'''
+album = 'A Fragile Flame'
+listened_at = '2026-06-29T21:30:29Z'
+
+[[tracks]]
 name = '''Whenever You're Ready'''
 artist = 'Alpha Wolf'
 album = 'Half Living Things'
