@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mpka5ergcc2b'
+created_at = '2026-07-01T00:10:58.799Z'
+text = 'Oh, we are so back!'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mpk7hwkomc2b'
+created_at = '2026-06-30T23:58:59.261Z'
+text = 'One of those days where I’m on the verge of losing it.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mpj3o5hi4c2l'
 created_at = '2026-06-30T13:18:13.117Z'
 text = 'Add a `__DO_NOT_USE_OR_YOU_WILL_BE_FIRED__` in there for good measure.'
