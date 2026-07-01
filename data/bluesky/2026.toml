@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mpkn7kyitc2g'
+created_at = '2026-07-01T04:04:51.082Z'
+text = '''
+I find I very quickly reach the point where I prefer writing a `cargo xtask` command over putting something in a justfile.
+
+My justfile limit is basically “running a command with a few flags and environment variables from a `.env` file”.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qxichs7jsycphrsmbujwqbfb/app.bsky.feed.post/3mpisx6xnol22'
+author_did = 'did:plc:qxichs7jsycphrsmbujwqbfb'
+author_handle = 'isabelroses.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mpkmvepco22g'
+created_at = '2026-07-01T03:59:08.945Z'
+text = 'You happen to take a look at Sublime Merge?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:di3xrpx4l3bsgmktdirfsxcv/app.bsky.feed.post/3mpkb7wlkqk2j'
+author_did = 'did:plc:di3xrpx4l3bsgmktdirfsxcv'
+author_handle = 'glassbottommeg.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mpka5ergcc2b'
 created_at = '2026-07-01T00:10:58.799Z'
 text = 'Oh, we are so back!'
