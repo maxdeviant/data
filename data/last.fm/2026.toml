@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Sink Into Me'
+artist = 'Wind Walkers'
+album = '''I Don't Belong Here'''
+listened_at = '2026-07-02T15:43:24Z'
+
+[[tracks]]
+name = 'The End Aesthetic'
+artist = 'Wind Walkers'
+album = '''I Don't Belong Here'''
+listened_at = '2026-07-02T15:39:31Z'
+
+[[tracks]]
+name = 'Hereditary'
+artist = 'Wind Walkers'
+album = '''I Don't Belong Here'''
+listened_at = '2026-07-02T15:36:08Z'
+
+[[tracks]]
+name = 'is_this_it?'
+artist = 'SUNBORN'
+album = 'LOVE IS GOD'
+listened_at = '2026-07-02T15:33:13Z'
+
+[[tracks]]
+name = 'DIGITAL_LOVE'
+artist = 'SUNBORN'
+album = 'LOVE IS GOD'
+listened_at = '2026-07-02T15:29:32Z'
+
+[[tracks]]
+name = 'LOTUS'
+artist = 'SUNBORN'
+album = 'LOVE IS GOD'
+listened_at = '2026-07-02T15:25:18Z'
+
+[[tracks]]
+name = 'LOVE IS GOD'
+artist = 'SUNBORN'
+album = 'LOVE IS GOD'
+listened_at = '2026-07-02T15:22:07Z'
+
+[[tracks]]
+name = 'KOI'
+artist = 'SUNBORN'
+album = 'LOVE IS GOD'
+listened_at = '2026-07-02T15:18:20Z'
+
+[[tracks]]
+name = 'BLISS'
+artist = 'SUNBORN'
+album = 'LOVE IS GOD'
+listened_at = '2026-07-02T15:13:58Z'
+
+[[tracks]]
 name = 'Lonely, Lonely'
 artist = 'Tapestry'
 album = 'The Pain You Desire, The Love You Deserve'
