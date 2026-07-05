@@ -2,6 +2,18 @@
 name = 'Hereditary'
 artist = 'Wind Walkers'
 album = '''I Don't Belong Here'''
+listened_at = '2026-07-03T23:50:03Z'
+
+[[tracks]]
+name = 'Dancer of the Boreal Valley'
+artist = 'Yuka Kitamura'
+album = 'Dark Souls 3 (Original Game Soundtrack)'
+listened_at = '2026-07-03T23:44:30Z'
+
+[[tracks]]
+name = 'Hereditary'
+artist = 'Wind Walkers'
+album = '''I Don't Belong Here'''
 listened_at = '2026-07-02T16:37:35Z'
 
 [[tracks]]
