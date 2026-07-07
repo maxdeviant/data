@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mpz3lrxtgs2u'
+created_at = '2026-07-06T21:59:29.775Z'
+text = '''
+Everyone I use a JWT, I ultimately live to regret it.
+
+JWTs: not even once.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mpyunrz3f22t'
 created_at = '2026-07-06T19:55:20.732Z'
 text = 'JOGR PANT is the best I got.'
