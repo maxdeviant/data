@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mq527q543c2k'
+created_at = '2026-07-08T11:45:30.409Z'
+text = '''
+I think the fact that they went so far as coining a catchy name for their exploit is really the icing on the cake.
+
+Not every security disclosure needs a name 🙄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mq4vjyorp22r'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mq3qhnurrk2i'
 created_at = '2026-07-07T23:18:19.318Z'
 text = 'So, when’s Gleam getting mutable state?'
