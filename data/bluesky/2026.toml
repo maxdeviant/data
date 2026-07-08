@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mq3qhnurrk2i'
+created_at = '2026-07-07T23:18:19.318Z'
+text = 'So, when’s Gleam getting mutable state?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3mq3doihtc22w'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mpzpjwtkac2j'
 created_at = '2026-07-07T03:56:22.606Z'
 text = '4.5'
