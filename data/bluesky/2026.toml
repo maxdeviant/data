@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mq7jw27c222u'
+created_at = '2026-07-09T11:31:44.768Z'
+text = '''
+Sorry for your loss.
+
+I had a similar experience a couple years ago where my best friend from childhood passed.
+
+Hadn’t spoken in over 20 years, but it still hit me in a way I wasn’t prepared for.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:jfmbqiqbtriq3jig6g7el2p7/app.bsky.feed.post/3mq6s5qpycc2p'
+author_did = 'did:plc:jfmbqiqbtriq3jig6g7el2p7'
+author_handle = 'anerdguy.now'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mq6nvcaiys2u'
 created_at = '2026-07-09T03:10:14.872Z'
 text = 'I am not looking forward to that day 😩'
