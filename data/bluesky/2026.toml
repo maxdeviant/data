@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mq6nvcaiys2u'
+created_at = '2026-07-09T03:10:14.872Z'
+text = 'I am not looking forward to that day 😩'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:bxmukjuf2e6z6tvpmklbbern/app.bsky.feed.post/3mq5hb5olz22j'
+author_did = 'did:plc:bxmukjuf2e6z6tvpmklbbern'
+author_handle = 'macwright.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mq527q543c2k'
 created_at = '2026-07-08T11:45:30.409Z'
 text = '''

@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Edin in Ashes'
+artist = 'Shylmagoghnar'
+album = 'Emergence'
+listened_at = '2026-07-09T00:52:23Z'
+
+[[tracks]]
+name = 'Emergence'
+artist = 'Shylmagoghnar'
+album = 'Emergence'
+listened_at = '2026-07-09T00:45:56Z'
+
+[[tracks]]
 name = 'I Am the Abyss'
 artist = 'Shylmagoghnar'
 album = 'Emergence'
