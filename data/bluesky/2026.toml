@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqawg2vnp22f'
+created_at = '2026-07-10T00:48:07.013Z'
+text = 'Someone should make a `/andrewrk` skill based on the Andrew Kelley blog post that personally attacks you when you ask it to review your code.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mq7phfg6ws23'
 created_at = '2026-07-09T13:10:55.663Z'
 text = '''
