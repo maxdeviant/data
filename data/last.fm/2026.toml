@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Bruised Sky'
+artist = 'Poppy'
+album = 'Empty Hands'
+listened_at = '2026-07-10T12:45:04Z'
+
+[[tracks]]
+name = 'Public Domain'
+artist = 'Poppy'
+album = 'Empty Hands'
+listened_at = '2026-07-10T12:41:05Z'
+
+[[tracks]]
 name = 'Guardian'
 artist = 'Poppy'
 album = 'Empty Hands'
