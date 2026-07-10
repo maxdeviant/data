@@ -1,4 +1,52 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqcz2d2bjc2p'
+created_at = '2026-07-10T20:40:33.602Z'
+text = 'Should we be concerned?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mqcym5ida223'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqcwsvay422p'
+created_at = '2026-07-10T20:00:36.704Z'
+text = '''
+However, if it's first-party code that I have to maintain, I think it is strictly better that it be in Rust, even if the whole thing is vibecoded slop.
+
+Even if the code is poorly written to start (not leveraging the type system, etc.), it can always be refactored by me driving an LLM.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqcwsv6ptk2p'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqcwsv6ptk2p'
+created_at = '2026-07-10T20:00:36.703Z'
+text = '''
+Expanding on this slightly:
+
+I think there's a difference here between first-party and third-party code.
+
+If it's third-party crates that I'm consuming, it is likely worse that more of them are vibecoded slop that have latent bugs. The quality of crates as a whole will likely trend downwards.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqcvhq3euc2f'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqcvhq3euc2f'
+created_at = '2026-07-10T19:36:28.510Z'
+text = 'The way I see it is I’d much rather have to deal with Rust slop than slop in some other language.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mqctzax5mk2b'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqcitghgv22f'
 created_at = '2026-07-10T15:50:22.429Z'
 text = 'And you have to roll a die to know whether a given tool supports it or not!'

@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Eat The Hate'
+artist = 'Poppy'
+album = 'Empty Hands'
+listened_at = '2026-07-10T18:39:17Z'
+
+[[tracks]]
+name = 'Time Will Tell'
+artist = 'Poppy'
+album = 'Empty Hands'
+listened_at = '2026-07-10T18:35:50Z'
+
+[[tracks]]
+name = 'Dying To Forget'
+artist = 'Poppy'
+album = 'Empty Hands'
+listened_at = '2026-07-10T18:32:17Z'
+
+[[tracks]]
 name = 'Unravel'
 artist = 'Poppy'
 album = 'Empty Hands'
