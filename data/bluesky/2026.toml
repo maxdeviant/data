@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqcitghgv22f'
+created_at = '2026-07-10T15:50:22.429Z'
+text = 'And you have to roll a die to know whether a given tool supports it or not!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rqm4qgf6jdmb35mxatuzi6cq/app.bsky.feed.post/3mqcigsu7rk2c'
+author_did = 'did:plc:rqm4qgf6jdmb35mxatuzi6cq'
+author_handle = 'jamesmunns.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqchzjjsl22f'
 created_at = '2026-07-10T15:35:53.237Z'
 text = '''It's top of mind for me, as we have a SQL seed file doing a bunch of bulk upserts that I had deleted some entries from yesterday, and today I ran into a problem because I had left a trailing comma 🫠'''
