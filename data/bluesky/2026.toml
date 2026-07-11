@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqfiyxwjas2j'
+created_at = '2026-07-11T20:31:27.734Z'
+text = 'We have a growing number of jj users on the team who feel the same way 🥲'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:k644h4rq5bjfzcetgsa6tuby/app.bsky.feed.post/3mqfdynos2s23'
+author_did = 'did:plc:k644h4rq5bjfzcetgsa6tuby'
+author_handle = 'natalie.sh'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqeo4pu66k2x'
 created_at = '2026-07-11T12:30:22.459Z'
 text = 'I already see enough cases of `Option` getting (mis)used where a custom type would be clearer, so I’m very glad we don’t have `Either` as well.'
