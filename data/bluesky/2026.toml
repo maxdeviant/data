@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqhkbuuruc2i'
+created_at = '2026-07-12T15:59:39.741Z'
+text = '''
+I was not prepared for the reveal of which language they’re moving to.
+
+Dropping Haskell for PYTHON?!?'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqfiyxwjas2j'
 created_at = '2026-07-11T20:31:27.734Z'
 text = 'We have a growing number of jj users on the team who feel the same way 🥲'
