@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Bloodlust'
+artist = 'Acres'
+album = 'The Host'
+listened_at = '2026-07-13T21:18:28Z'
+
+[[tracks]]
+name = 'Technicolor Blues'
+artist = 'Greyhaven'
+album = 'Keep It Quiet'
+listened_at = '2026-07-13T21:14:34Z'
+
+[[tracks]]
+name = 'Speed Freak'
+artist = 'Makari'
+album = 'Speed Freak'
+listened_at = '2026-07-13T21:10:53Z'
+
+[[tracks]]
+name = 'Out of The Blue'
+artist = 'Senna'
+album = 'Out of The Blue'
+listened_at = '2026-07-13T21:06:55Z'
+
+[[tracks]]
+name = 'Emerald Whisper'
+artist = 'Inertia'
+album = 'Emerald Whisper'
+listened_at = '2026-07-13T21:02:34Z'
+
+[[tracks]]
+name = 'Infinity Pool'
+artist = 'SUNBORN'
+album = 'Infinity Pool'
+listened_at = '2026-07-13T20:59:07Z'
+
+[[tracks]]
+name = 'Heat Waves'
+artist = 'Glass Animals'
+album = 'Dreamland'
+listened_at = '2026-07-13T03:17:57Z'
+
+[[tracks]]
 name = 'Off the Heezay - 2026 Repented'
 artist = 'Bring Me the Horizon'
 album = 'Count Your Blessings | Repented'
