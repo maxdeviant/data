@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'The Gravity of You'
+artist = 'Mourn'
+album = 'No One Returns the Same'
+listened_at = '2026-07-13T21:43:22Z'
+
+[[tracks]]
+name = 'Into The Dark'
+artist = 'Void of Vision'
+album = 'CHRONICLES'
+listened_at = '2026-07-13T21:39:40Z'
+
+[[tracks]]
+name = 'Sucker Punch'
+artist = 'Alt.'
+album = 'Sucker Punch'
+listened_at = '2026-07-13T21:35:49Z'
+
+[[tracks]]
+name = 'Dead Batteries'
+artist = 'Heartline'
+album = 'Dead Batteries'
+listened_at = '2026-07-13T21:32:27Z'
+
+[[tracks]]
+name = 'Thanatosis'
+artist = 'Reebz'
+album = 'Thanatosis'
+listened_at = '2026-07-13T21:28:26Z'
+
+[[tracks]]
+name = 'Resurge'
+artist = 'Future Palace'
+album = 'Resurge'
+listened_at = '2026-07-13T21:25:08Z'
+
+[[tracks]]
+name = 'Everything Is Fine'
+artist = 'Movements'
+album = 'Everything Is Fine'
+listened_at = '2026-07-13T21:21:41Z'
+
+[[tracks]]
 name = 'Bloodlust'
 artist = 'Acres'
 album = 'The Host'
