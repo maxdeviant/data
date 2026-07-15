@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqneduqsrs25'
+created_at = '2026-07-14T23:29:22.700Z'
+text = 'A month or so ago I had been rewatching all of the Star Wars movies, and I cannot bring myself to watch The Rise of Skywalker.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:77aze6zegihuenovevaiqd6p/app.bsky.feed.post/3mqmvaxe7fc2i'
+author_did = 'did:plc:77aze6zegihuenovevaiqd6p'
+author_handle = 'lucretiel.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqn3ue5ku22b'
 created_at = '2026-07-14T20:57:32.041Z'
 text = '*guillotine sounds intensify*'
