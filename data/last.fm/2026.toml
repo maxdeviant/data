@@ -1,4 +1,58 @@
 [[tracks]]
+name = 'Obscure Depths'
+artist = 'Enisum'
+album = 'Seasons of Desolation'
+listened_at = '2026-07-16T20:15:20Z'
+
+[[tracks]]
+name = 'Nameless Sadness'
+artist = 'Enisum'
+album = 'Seasons of Desolation'
+listened_at = '2026-07-16T20:10:17Z'
+
+[[tracks]]
+name = 'Balance of Insanity'
+artist = 'Enisum'
+album = 'Seasons of Desolation'
+listened_at = '2026-07-16T20:04:17Z'
+
+[[tracks]]
+name = 'Snow Storm'
+artist = 'Enisum'
+album = 'Seasons of Desolation'
+listened_at = '2026-07-16T20:00:32Z'
+
+[[tracks]]
+name = '...of Desolation'
+artist = 'Enisum'
+album = 'Seasons of Desolation'
+listened_at = '2026-07-16T19:51:48Z'
+
+[[tracks]]
+name = 'Seasons....'
+artist = 'Enisum'
+album = 'Seasons of Desolation'
+listened_at = '2026-07-16T19:50:10Z'
+
+[[tracks]]
+name = 'Road to my Home'
+artist = 'Enisum'
+album = 'Seasons of Desolation'
+listened_at = '2026-07-16T19:43:46Z'
+
+[[tracks]]
+name = 'Autumn of Melancholy'
+artist = 'Enisum'
+album = 'Seasons of Desolation'
+listened_at = '2026-07-16T19:34:57Z'
+
+[[tracks]]
+name = 'Nowhere'
+artist = 'Enisum'
+album = 'Autumn Embrace'
+listened_at = '2026-07-16T18:04:14Z'
+
+[[tracks]]
 name = 'Forest Breath'
 artist = 'Enisum'
 album = 'Autumn Embrace'
