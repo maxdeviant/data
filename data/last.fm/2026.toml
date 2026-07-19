@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Mouthpiece'
+artist = 'Protest the Hero'
+album = 'Within'
+listened_at = '2026-07-19T18:27:52Z'
+
+[[tracks]]
+name = 'Daughter From Hell'
+artist = 'Gracie Abrams'
+album = 'Daughter from Hell'
+listened_at = '2026-07-19T00:58:25Z'
+
+[[tracks]]
 name = 'The Knife'
 artist = 'Gracie Abrams'
 album = 'Daughter from Hell'
