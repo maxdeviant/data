@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'The Knife'
+artist = 'Gracie Abrams'
+album = 'Daughter from Hell'
+listened_at = '2026-07-19T00:54:49Z'
+
+[[tracks]]
+name = 'Death Wish'
+artist = 'Gracie Abrams'
+album = 'Daughter from Hell'
+listened_at = '2026-07-19T00:51:14Z'
+
+[[tracks]]
+name = 'Hit the Wall'
+artist = 'Gracie Abrams'
+album = 'Daughter from Hell'
+listened_at = '2026-07-19T00:48:00Z'
+
+[[tracks]]
 name = 'Death Wish'
 artist = 'Gracie Abrams'
 album = 'Daughter from Hell'
