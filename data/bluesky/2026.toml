@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mr2efgvvcc23'
+created_at = '2026-07-20T03:34:51.893Z'
+text = '''
+This was my experience as well. Found The Iliad more engaging as a kid and never got around to reading The Odyssey.
+
+Nolan's film still absolutely slapped.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sumw7ta65rrvd755ea37jlau/app.bsky.feed.post/3mr25mnjfm22b'
+author_did = 'did:plc:sumw7ta65rrvd755ea37jlau'
+author_handle = 'booman23.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mqzzknzyz22k'
 created_at = '2026-07-20T00:20:55.981Z'
 text = 'The Odyssey is a great film! Nolan has done it again.'
