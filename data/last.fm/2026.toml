@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Red Summer'
+artist = 'Thornhill'
+album = 'The Dark Pool'
+listened_at = '2026-07-23T17:22:46Z'
+
+[[tracks]]
+name = 'Lucid Love'
+artist = 'Holding Absence'
+album = 'Lucid Love'
+listened_at = '2026-07-23T17:19:15Z'
+
+[[tracks]]
+name = 'BLOODMONEY'
+artist = 'Poppy'
+album = 'I Disagree'
+listened_at = '2026-07-23T17:15:55Z'
+
+[[tracks]]
+name = 'Time Will Tell'
+artist = 'Poppy'
+album = 'Empty Hands'
+listened_at = '2026-07-22T17:53:10Z'
+
+[[tracks]]
 name = 'Dying To Forget'
 artist = 'Poppy'
 album = 'Empty Hands'
