@@ -1,4 +1,70 @@
 [[tracks]]
+name = 'This Ends With Us'
+artist = 'Blessthefall'
+album = 'Gallows'
+listened_at = '2026-07-23T22:01:01Z'
+
+[[tracks]]
+name = 'Full Send'
+artist = 'Spitting Glass'
+album = 'Full Send'
+listened_at = '2026-07-23T21:57:57Z'
+
+[[tracks]]
+name = 'Unravel'
+artist = 'Layen_'
+album = 'Unravel'
+listened_at = '2026-07-23T21:54:12Z'
+
+[[tracks]]
+name = 'Soothsayer'
+artist = 'Above, Below'
+album = 'I Guess It Was Nowhere'
+listened_at = '2026-07-23T21:50:06Z'
+
+[[tracks]]
+name = 'Third Shot'
+artist = 'Astronoid'
+album = 'Stargod'
+listened_at = '2026-07-23T21:44:54Z'
+
+[[tracks]]
+name = 'Hate Myself'
+artist = 'Advents'
+album = '''A Bitter Truth You Can't Undo'''
+listened_at = '2026-07-23T21:41:55Z'
+
+[[tracks]]
+name = 'Lightless'
+artist = 'Antimere'
+album = 'Lightless'
+listened_at = '2026-07-23T21:37:51Z'
+
+[[tracks]]
+name = 'Limerence'
+artist = 'Take The Name'
+album = 'Limerence'
+listened_at = '2026-07-23T21:34:05Z'
+
+[[tracks]]
+name = 'Facade'
+artist = 'Zero Signal'
+album = 'Facade'
+listened_at = '2026-07-23T21:30:40Z'
+
+[[tracks]]
+name = 'Bitter Dose'
+artist = 'Secrets'
+album = 'Bitter Dose'
+listened_at = '2026-07-23T21:27:16Z'
+
+[[tracks]]
+name = 'Preserve & Cherish'
+artist = 'Still In Love'
+album = 'Recovery Language'
+listened_at = '2026-07-23T21:24:27Z'
+
+[[tracks]]
 name = 'Why Becomes How'
 artist = 'Johnny Booth'
 album = 'Moments Elsewhere'
