@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mrhrti3ppc2b'
+created_at = '2026-07-25T11:39:58.138Z'
+text = 'You looking to double down on your Australian citizenship?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mrgr2hsc4c2m'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mrfjak2fvv26'
 created_at = '2026-07-24T14:00:52.878Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
