@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'My Reminder'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T19:53:55Z'
+
+[[tracks]]
+name = 'Eyes of the World featuring Sky Ferreira'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T19:50:11Z'
+
+[[tracks]]
+name = 'Altars'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T19:47:14Z'
+
+[[tracks]]
+name = 'Seeing Things'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T19:44:44Z'
+
+[[tracks]]
+name = 'Open Up'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T19:43:17Z'
+
+[[tracks]]
+name = 'Out of Myself'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T19:40:59Z'
+
+[[tracks]]
+name = 'Altars'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T15:57:44Z'
+
+[[tracks]]
 name = 'Seeing Things'
 artist = 'Charli xcx'
 album = 'Wuthering Heights'
