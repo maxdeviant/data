@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Seeing Things'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T15:55:14Z'
+
+[[tracks]]
+name = 'Open Up'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T15:53:47Z'
+
+[[tracks]]
+name = 'Out of Myself'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T15:51:28Z'
+
+[[tracks]]
+name = 'Chains of Love'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T15:48:37Z'
+
+[[tracks]]
+name = 'Always Everywhere'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-07-31T15:43:30Z'
+
+[[tracks]]
 name = 'Dying for You'
 artist = 'Charli xcx'
 album = 'Wuthering Heights'
