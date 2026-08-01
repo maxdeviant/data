@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mrzhvopbxs2z'
+created_at = '2026-08-01T12:30:10.052Z'
+text = '*car sales rep voice*: “What’s it going to take to get you into a new nemesis today?”'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mrypnm4tjk2b'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mry6f5vmls2v'
 created_at = '2026-08-01T00:07:12.148Z'
 text = 'But then how will I know if a game is dead or not?!?'
