@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ms7b3nihqs2w'
+created_at = '2026-08-03T19:44:12.343Z'
+text = '''
+Becoming increasingly radicalized against `pub(crate)` due to how much LLMs like to overuse it.
+
+If I have an entire module that is `pub(crate)`, DON'T MAKE EVERYTHING INSIDE OF IT ALSO `pub(crate)`!'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ms6rx44zgc2a'
 created_at = '2026-08-03T15:13:13.798Z'
 text = 'For a brief moment I read “AUS” as “Australia” instead of “Austin” and thought that was a very roundabout way of getting back to Australia from Sydney.'
