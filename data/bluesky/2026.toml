@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ms6rx44zgc2a'
+created_at = '2026-08-03T15:13:13.798Z'
+text = 'For a brief moment I read “AUS” as “Australia” instead of “Austin” and thought that was a very roundabout way of getting back to Australia from Sydney.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3ms6r4soa7223'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mrzhvopbxs2z'
 created_at = '2026-08-01T12:30:10.052Z'
 text = '*car sales rep voice*: “What’s it going to take to get you into a new nemesis today?”'
