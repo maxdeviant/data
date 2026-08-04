@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msbgw6saek2k'
+created_at = '2026-08-04T16:33:51.090Z'
+text = 'Like... what?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msbgqsdsjk2w'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msbgqsdsjk2w'
+created_at = '2026-08-04T16:30:50.263Z'
+text = '''There's this really bad bug with GitHub stacked PRs where if I merge a PR authored by someone else in a stack, the "Squash and Merge" confirmation will say that the resulting commit will be authored by them, but the actual commit that lands ends up being authored by me.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3ms7b3nihqs2w'
 created_at = '2026-08-03T19:44:12.343Z'
 text = '''
