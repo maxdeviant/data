@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msf3sqsoxs2b'
+created_at = '2026-08-06T03:25:43.556Z'
+text = 'Aly, write your own dotfiles manager (in Rust)'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3mseliopyp223'
+author_did = 'did:plc:zntngpowgd6rorjt3haywj36'
+author_handle = 'aly.codes'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msbgw6saek2k'
 created_at = '2026-08-04T16:33:51.090Z'
 text = 'Like... what?'
