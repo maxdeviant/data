@@ -1,4 +1,42 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msh4ixzel22t'
+created_at = '2026-08-06T22:43:28.788Z'
+text = 'I am going to turn into the joker.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msgqqljwrc2r'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msgqqljwrc2r'
+created_at = '2026-08-06T19:12:59.233Z'
+text = '''
+Refreshing the GitHub status page like there's no tomorrow.
+
+www.githubstatus.com/incidents/qc...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msgkyitmkc2a'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msgkyitmkc2a'
+created_at = '2026-08-06T17:30:02.389Z'
+text = '''It's really harshing the vibe right now 😭'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msgfxcvcbc2d'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msgfxcvcbc2d'
+created_at = '2026-08-06T15:59:53.890Z'
+text = 'Another day, another GitHub outage.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msf3sqsoxs2b'
 created_at = '2026-08-06T03:25:43.556Z'
 text = 'Aly, write your own dotfiles manager (in Rust)'
