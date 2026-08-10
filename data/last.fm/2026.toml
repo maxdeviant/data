@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Out of Myself'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-08-10T19:15:09Z'
+
+[[tracks]]
+name = 'Funny Mouth'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-08-08T13:39:37Z'
+
+[[tracks]]
 name = 'Doomed'
 artist = 'Bring Me the Horizon'
 album = '''That's the Spirit'''
