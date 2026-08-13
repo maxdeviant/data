@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'rage'
+artist = 'President'
+album = 'RAGE'
+listened_at = '2026-08-13T16:05:58Z'
+
+[[tracks]]
+name = 'dark heaven'
+artist = 'President'
+album = 'dark heaven'
+listened_at = '2026-08-13T16:02:02Z'
+
+[[tracks]]
+name = 'Angel Wings'
+artist = 'President'
+album = 'Angel Wings'
+listened_at = '2026-08-12T23:04:15Z'
+
+[[tracks]]
 name = 'You Feel it Too'
 artist = 'Moxy The Band'
 album = 'Dream Feeling'
