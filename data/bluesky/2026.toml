@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mszbkr4fo223'
+created_at = '2026-08-14T04:01:52.654Z'
+text = 'I know that the two modes exist, but I do not know what our bedroom ceiling fan is set to, nor do we ever change it 😅'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3msxwhuwbs223'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3msxmgfq6rs2e'
 created_at = '2026-08-13T12:10:58.176Z'
 text = 'That’s a lot of cucumbers.'
