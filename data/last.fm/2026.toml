@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'As Above'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-16T21:15:22Z'
+
+[[tracks]]
+name = 'I Can’t Wait'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-16T21:11:45Z'
+
+[[tracks]]
 name = 'Kill Me'
 artist = 'Phoebe Bridgers'
 album = 'Lost Weekend'
