@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Kill Me'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-17T15:19:48Z'
+
+[[tracks]]
+name = 'Lost Boys'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-17T15:15:33Z'
+
+[[tracks]]
+name = 'The Outside'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-17T03:40:06Z'
+
+[[tracks]]
 name = 'Lost Weekend (Reprise)'
 artist = 'Phoebe Bridgers'
 album = 'Lost Weekend'
