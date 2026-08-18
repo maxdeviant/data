@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'The Outside'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-18T15:59:45Z'
+
+[[tracks]]
+name = 'Lost Weekend (Reprise)'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-18T15:57:35Z'
+
+[[tracks]]
+name = 'As Above'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-18T15:53:11Z'
+
+[[tracks]]
+name = 'I Can’t Wait'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-18T15:49:34Z'
+
+[[tracks]]
 name = 'Still Standing'
 artist = 'Phoebe Bridgers'
 album = 'Lost Weekend'
