@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mteurtpcbk2p'
+created_at = '2026-08-18T18:45:08.470Z'
+text = 'The great tragedy of our time that someone with terrible takes is capable of making good games 😩'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sgqw2zixdcjtjjhrm4bw64ny/app.bsky.feed.post/3mterecwyas2a'
+author_did = 'did:plc:sgqw2zixdcjtjjhrm4bw64ny'
+author_handle = 'mattkeeter.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mteunuwrok2p'
+created_at = '2026-08-18T18:42:55.533Z'
+text = 'An optimal outcome, to be sure.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mtermbi7pk2y'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtbsyfiefc2o'
 created_at = '2026-08-17T13:35:01.745Z'
 text = 'GitHub having a case of the Mondays...'
