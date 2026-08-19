@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Bobby'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-19T14:13:58Z'
+
+[[tracks]]
+name = 'Tempest'
+artist = 'Ethel Cain'
+album = '''Willoughby Tucker, I'll Always Love You'''
+listened_at = '2026-08-19T14:10:05Z'
+
+[[tracks]]
 name = 'The Governor’s Waltz'
 artist = 'Phoebe Bridgers'
 album = 'Lost Weekend'
