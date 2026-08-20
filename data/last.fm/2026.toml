@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Poisonous Flowers Of Violence'
+artist = 'White Ward'
+album = 'Love Exchange Failure'
+listened_at = '2026-08-20T00:54:18Z'
+
+[[tracks]]
+name = 'Love Exchange Failure'
+artist = 'White Ward'
+album = 'Love Exchange Failure'
+listened_at = '2026-08-20T00:42:24Z'
+
+[[tracks]]
+name = 'Waco, Texas'
+artist = 'Ethel Cain'
+album = '''Willoughby Tucker, I'll Always Love You'''
+listened_at = '2026-08-19T19:25:47Z'
+
+[[tracks]]
 name = 'Bobby'
 artist = 'Phoebe Bridgers'
 album = 'Lost Weekend'
