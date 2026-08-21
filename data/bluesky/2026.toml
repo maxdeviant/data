@@ -1,4 +1,67 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtm2bsp4f22o'
+created_at = '2026-08-21T15:12:11.165Z'
+text = '''
+> You don't have to name branches
+
+This is one of my favorite features.
+
+As well as being able to just start making changes without having to think up a branch name.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:imksbos2p6x4gclontamkzcv/app.bsky.feed.post/3mtloaaoz5k2v'
+author_did = 'did:plc:imksbos2p6x4gclontamkzcv'
+author_handle = 'norman.life'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtlxmtmlhs2m'
+created_at = '2026-08-21T14:24:40.004Z'
+text = 'Have close contact with any lobster claws? 🦞'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mtlxizq23k2s'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtlx7y7sz22m'
+created_at = '2026-08-21T14:17:28.619Z'
+text = 'Sounds like you were patient zero…'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mtlwp6s4tk2s'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtlwcnlpau2k'
+created_at = '2026-08-21T14:01:03.887Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtlsqsdqac2z'
+created_at = '2026-08-21T12:57:24.174Z'
+text = 'Not yet, but would be a good thing to add!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:cr25qq5dwrugmeosbfstde6u/app.bsky.feed.post/3mtloqvha4k2m'
+author_did = 'did:plc:cr25qq5dwrugmeosbfstde6u'
+author_handle = 'l-u-l.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtlsphgvl22z'
+created_at = '2026-08-21T12:56:39.180Z'
+text = '''
+Yea, as much as I would love to just move everything over to a new forge, I’m definitely also feeling like I need to hedge my bets and take precautions.
+
+Even with GitHub’s downward trend in terms of stability, I still think it has a lot of staying power.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:eyb6qe3puqahushomaqxphkr/app.bsky.feed.post/3mtl5mi7bhc2v'
+author_did = 'did:plc:eyb6qe3puqahushomaqxphkr'
+author_handle = 'niklaskorz.eu'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtlscbh2jk2z'
 created_at = '2026-08-21T12:49:16.692Z'
 text = 'I suppose it depends on whether or not there are spreadsheets involved!'

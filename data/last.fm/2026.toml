@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Bobby'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-21T15:26:48Z'
+
+[[tracks]]
+name = 'The Governor’s Waltz'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-21T15:23:21Z'
+
+[[tracks]]
+name = 'Kill Me'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-21T15:18:39Z'
+
+[[tracks]]
+name = 'Lost Boys'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-21T15:14:25Z'
+
+[[tracks]]
+name = 'The Outside'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-21T15:10:28Z'
+
+[[tracks]]
+name = 'Lost Weekend (Reprise)'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-21T15:08:18Z'
+
+[[tracks]]
+name = 'As Above'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-21T14:49:15Z'
+
+[[tracks]]
+name = 'I Can’t Wait'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-21T02:44:13Z'
+
+[[tracks]]
 name = 'Lost Parade'
 artist = 'Phoebe Bridgers'
 album = 'Lost Weekend'
