@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'As Above'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-21T01:15:34Z'
+
+[[tracks]]
+name = 'I Can’t Wait'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-21T01:11:58Z'
+
+[[tracks]]
+name = 'Tempest'
+artist = 'Ethel Cain'
+album = '''Willoughby Tucker, I'll Always Love You'''
+listened_at = '2026-08-20T13:22:43Z'
+
+[[tracks]]
 name = 'Poisonous Flowers Of Violence'
 artist = 'White Ward'
 album = 'Love Exchange Failure'
