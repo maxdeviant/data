@@ -1,4 +1,34 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtmkqmf7rk24'
+created_at = '2026-08-21T20:06:47.734Z'
+text = 'LMAO, what in the world.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3mtmhs6elwc23'
+author_did = 'did:plc:zntngpowgd6rorjt3haywj36'
+author_handle = 'aly.codes'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtmhgy5vbs2m'
+created_at = '2026-08-21T19:07:43.308Z'
+text = 'Looks like a great place to build a fortress.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3mtmgfgkn4k2m'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtmg3tomv22m'
+created_at = '2026-08-21T18:43:35.773Z'
+text = 'Don’t think we could ever swing it due to backwards-compatibility concerns, but having that be the default and then adding `"use asi";` would be even better 😄'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i55fkgcwrczbj7edpucwl5mz/app.bsky.feed.post/3mtmepeh737pg'
+author_did = 'did:plc:i55fkgcwrczbj7edpucwl5mz'
+author_handle = 'chriskrycho.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtm2bsp4f22o'
 created_at = '2026-08-21T15:12:11.165Z'
 text = '''
