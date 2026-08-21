@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtlscbh2jk2z'
+created_at = '2026-08-21T12:49:16.692Z'
+text = 'I suppose it depends on whether or not there are spreadsheets involved!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4tfenpfog244rxry5uz4vtk/app.bsky.feed.post/3mtkuxs2d5s2n'
+author_did = 'did:plc:i4tfenpfog244rxry5uz4vtk'
+author_handle = 'lizthegrey.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtkskm7zis2e'
 created_at = '2026-08-21T03:21:16.695Z'
 text = '''
