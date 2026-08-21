@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtkskm7zis2e'
+created_at = '2026-08-21T03:21:16.695Z'
+text = '''
+Doing something long-overdue and backing up my GitHub repositories.
+
+Also looking to start migrating some of them over to @tangled.org.
+
+Wrote a little tool to help me with the process:'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtjndxore22l'
 created_at = '2026-08-20T16:15:25.385Z'
 text = 'I think it might be high time that I muted him too.'
