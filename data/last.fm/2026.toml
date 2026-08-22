@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Yeah'
+artist = 'Charli xcx'
+album = 'Music, Fashion, Film'
+listened_at = '2026-08-22T21:04:12Z'
+
+[[tracks]]
+name = 'I’m Afraid'
+artist = 'Charli xcx'
+album = 'Music, Fashion, Film'
+listened_at = '2026-08-22T21:02:01Z'
+
+[[tracks]]
+name = '2007'
+artist = 'Charli xcx'
+album = 'Music, Fashion, Film'
+listened_at = '2026-08-22T20:59:57Z'
+
+[[tracks]]
+name = 'Camera'
+artist = 'Charli xcx'
+album = 'Music, Fashion, Film'
+listened_at = '2026-08-22T20:57:25Z'
+
+[[tracks]]
+name = 'Card Declined'
+artist = 'Charli xcx'
+album = 'Music, Fashion, Film'
+listened_at = '2026-08-22T20:53:57Z'
+
+[[tracks]]
+name = 'SS26'
+artist = 'Charli xcx'
+album = 'Music, Fashion, Film'
+listened_at = '2026-08-22T20:51:11Z'
+
+[[tracks]]
+name = 'Chains of Love'
+artist = 'Charli xcx'
+album = 'Wuthering Heights'
+listened_at = '2026-08-22T16:37:11Z'
+
+[[tracks]]
 name = 'Always Everywhere'
 artist = 'Charli xcx'
 album = 'Wuthering Heights'
