@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtopqpoyok2w'
+created_at = '2026-08-22T16:41:39.387Z'
+text = 'I likely need to start enforcing my own pre-publishing checks so that this doesn’t happen.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6hekxfrgluropwqfpnwhn5y3/app.bsky.feed.post/3mtopjmny7k2a'
+author_did = 'did:plc:6hekxfrgluropwqfpnwhn5y3'
+author_handle = 'tobias.bieniek.cloud'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtoid4avtc2k'
 created_at = '2026-08-22T14:28:46.601Z'
 text = '''
