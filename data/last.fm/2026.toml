@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Lost Weekend (Reprise)'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-22T01:50:19Z'
+
+[[tracks]]
+name = 'As Above'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-22T01:45:54Z'
+
+[[tracks]]
+name = 'I Can’t Wait'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-22T01:42:18Z'
+
+[[tracks]]
 name = 'Still Standing'
 artist = 'Phoebe Bridgers'
 album = 'Lost Weekend'
