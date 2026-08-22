@@ -1,4 +1,43 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtoid4avtc2k'
+created_at = '2026-08-22T14:28:46.601Z'
+text = '''
+But makes me wish that crates.io made it easy to change a `-` to a `_` for a published crate.
+
+Or, even better: require that all crates use `_`!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtoibtrwes2k'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtoibtrwes2k'
+created_at = '2026-08-22T14:28:04.168Z'
+text = '''
+Had the sudden realization that I committed the cardinal sin of publishing a crate with a `-` in the name instead of a `_`.
+
+Thankfully I recognized my transgression soon enough to remedy it (crate has been deleted and is pending republishing).'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtoflnaggc2w'
+created_at = '2026-08-22T13:39:51.622Z'
+text = '''
+Whoa, no way! I saw that knot2 was written in Rust, but didn’t realize there was more to come.
+
+The stars certainly seem to be aligning.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qfpnj4og54vl56wngdriaxug/app.bsky.feed.post/3mtofac4qds2w'
+author_did = 'did:plc:qfpnj4og54vl56wngdriaxug'
+author_handle = 'oppi.li'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtoepyiwnk2w'
+created_at = '2026-08-22T13:24:23.907Z'
+text = 'Wish more of @tangled.org was written in Rust—or at the very least, not Go—so that I’d feel more inclined to contribute.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtn2s3whbs2p'
 created_at = '2026-08-22T00:53:57.452Z'
 text = '''
