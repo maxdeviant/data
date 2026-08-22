@@ -1,4 +1,35 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtn2s3whbs2p'
+created_at = '2026-08-22T00:53:57.452Z'
+text = '''
+Seems like not yet.
+
+`jj squash` it is!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtmxiy2poc2p'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtmxiy2poc2p'
+created_at = '2026-08-21T23:55:10.175Z'
+text = '''
+Does @tangled.org support squash merges?
+
+I was looking around for it, but didn’t see anything.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtmqzltfms2k'
+created_at = '2026-08-21T21:59:11.591Z'
+text = '''I see we're in stage 4 of your master CAD plan.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mtmpjueqgs2e'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtmkqmf7rk24'
 created_at = '2026-08-21T20:06:47.734Z'
 text = 'LMAO, what in the world.'
