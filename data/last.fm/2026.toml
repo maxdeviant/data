@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'I Can’t Wait'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-23T14:38:59Z'
+
+[[tracks]]
+name = 'Wink Wink'
+artist = 'Charli xcx'
+album = 'Music, Fashion, Film'
+listened_at = '2026-08-22T21:06:39Z'
+
+[[tracks]]
 name = 'Yeah'
 artist = 'Charli xcx'
 album = 'Music, Fashion, Film'
