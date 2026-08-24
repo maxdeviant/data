@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mttstjsfvs2t'
+created_at = '2026-08-24T17:20:13.787Z'
+text = '''
+The day that DHH fades into irrelevance and we never have to hear from him again cannot come soon enough.
+
+And the list of people who I feel that way about seems to be ever-growing 😩'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:geozyv62fx63m7jhr4eraubc/app.bsky.feed.post/3mttrwwcxvn2e'
+author_did = 'did:plc:geozyv62fx63m7jhr4eraubc'
+author_handle = 'alilleybrinker.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mttewrud3227'
 created_at = '2026-08-24T13:11:30.517Z'
 text = '''
