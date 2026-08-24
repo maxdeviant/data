@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mttewrud3227'
+created_at = '2026-08-24T13:11:30.517Z'
+text = '''
+I’m 32 today and, as usual, I wrote down some thoughts about how I’m feeling:
+
+maxdeviant.com/shards/2026/...
+
+Fair warning: it’s a bit of a downer post.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtsfig72dk27'
 created_at = '2026-08-24T03:48:42.522Z'
 text = 'So tempted to close his issue with “#wontfix”…'
