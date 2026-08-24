@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mts3tzebuc2n'
+created_at = '2026-08-24T00:56:14.302Z'
+text = '''My father-in-law gave me his old TRS-80 Color Computer 2, so naturally the first thing I'm doing is writing a new programming language that targets it.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtqzxei5bs2e'
 created_at = '2026-08-23T14:49:39.404Z'
 text = 'And all was right with the world 😌'
