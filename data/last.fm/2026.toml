@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'The Outside'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-25T16:40:28Z'
+
+[[tracks]]
+name = 'Lost Weekend (Reprise)'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-25T16:38:18Z'
+
+[[tracks]]
+name = 'As Above'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-25T16:31:55Z'
+
+[[tracks]]
+name = 'I Can’t Wait'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-25T16:28:18Z'
+
+[[tracks]]
+name = 'Falling Away From Heaven'
+artist = 'Nate Vickers'
+album = 'Falling Away From Heaven'
+listened_at = '2026-08-25T16:02:45Z'
+
+[[tracks]]
+name = 'The Outside'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-08-24T15:17:25Z'
+
+[[tracks]]
 name = 'Lost Weekend (Reprise)'
 artist = 'Phoebe Bridgers'
 album = 'Lost Weekend'
