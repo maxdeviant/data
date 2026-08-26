@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtyd5lyxqk2z'
+created_at = '2026-08-26T12:22:50.464Z'
+text = '🌎🧑‍🚀🔫🧑‍🚀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vw4e7blkwzdokanwp24k3igr/app.bsky.feed.post/3mtxe3ulywc2i'
+author_did = 'did:plc:vw4e7blkwzdokanwp24k3igr'
+author_handle = 'huwupy.kawaii.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtx6q3d6xk2n'
 created_at = '2026-08-26T01:31:02.062Z'
 text = 'Rode this one when I was at Dollywood in 2024. Was the first coaster we went on that day, and it did not disappoint!'
