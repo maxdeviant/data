@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Forlist'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2026-08-26T19:53:25Z'
+
+[[tracks]]
+name = 'Dødslængsel'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2026-08-26T19:44:39Z'
+
+[[tracks]]
 name = 'Delirium'
 artist = 'Sunken'
 album = 'Livslede'
