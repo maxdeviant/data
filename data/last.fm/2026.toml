@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Scapegoat'
+artist = 'Lo Rays'
+album = 'RE:BIRTH SEQUENCE'
+listened_at = '2026-08-27T02:41:02Z'
+
+[[tracks]]
+name = 'Ensomhed'
+artist = 'Sunken'
+album = 'Livslede'
+listened_at = '2026-08-26T19:54:58Z'
+
+[[tracks]]
 name = 'Forlist'
 artist = 'Sunken'
 album = 'Livslede'
