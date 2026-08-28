@@ -1,4 +1,47 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mu5mbpulss2d'
+created_at = '2026-08-28T14:49:31.102Z'
+text = 'Where’s the waterfall?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mu5lasc6ic25'
+author_did = 'did:plc:ctphcgyhnllfluywokibtrgb'
+author_handle = 'davidcrespo.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mu5jl4kpqf2o'
+created_at = '2026-08-28T14:01:04.035Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mu4iqf7wms2q'
+created_at = '2026-08-28T04:13:28.550Z'
+text = '''
+> It's very second class.
+
+I fear this sums up GitHub quite adequately.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mu4ggp37hk2t'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mu4e726cts2c'
+created_at = '2026-08-28T02:52:11.571Z'
+text = '''
+What's equally weird is that they let you view the force-push diff if you click the "force-pushed" link.
+
+But it's not exactly obvious (and was even less obvious up until somewhat recently when that link wasn't even underlined).
+
+github.com/oxidecompute...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mu4div6wqs2e'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mtziww2hkc2i'
 created_at = '2026-08-26T23:39:08.306Z'
 text = 'HELP'
