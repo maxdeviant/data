@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mu6ziy2gmk2c'
+created_at = '2026-08-29T04:18:52.944Z'
+text = '''
+Drives me absolutely crazy when it’s not perfectly clear which words are the human’s and which are the agent’s.
+
+If I feel the need to include the agent’s output, I’ve started putting it in a block quote.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3mu6vn5ck3c22'
+author_did = 'did:plc:zntngpowgd6rorjt3haywj36'
+author_handle = 'aly.codes'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mu6juae4yk2n'
 created_at = '2026-08-28T23:38:50.881Z'
 text = 'Congratulations! You’re going to make a great wife guy (laudatory).'
