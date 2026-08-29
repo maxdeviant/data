@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'True Friends'
+artist = 'Bring Me the Horizon'
+album = '''That's the Spirit'''
+listened_at = '2026-08-29T21:49:20Z'
+
+[[tracks]]
+name = 'Throne'
+artist = 'Bring Me the Horizon'
+album = '''That's the Spirit'''
+listened_at = '2026-08-29T21:46:09Z'
+
+[[tracks]]
+name = 'Happy Song'
+artist = 'Bring Me the Horizon'
+album = '''That's the Spirit'''
+listened_at = '2026-08-29T21:42:09Z'
+
+[[tracks]]
+name = 'Doomed'
+artist = 'Bring Me the Horizon'
+album = '''That's the Spirit'''
+listened_at = '2026-08-29T21:37:36Z'
+
+[[tracks]]
 name = 'ALWAYS LET YOU DOWN (feat. A Day To Remember)'
 artist = 'Bilmuri'
 album = 'KINDA HARD'
