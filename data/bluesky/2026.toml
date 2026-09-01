@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mughwz642s2n'
+created_at = '2026-09-01T03:25:54.431Z'
+text = '''And yet there are still people who will say "DHH isn't a fascist" or "DHH isn't a Nazi" 🙄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3mughogppwk2b'
+author_did = 'did:plc:zntngpowgd6rorjt3haywj36'
+author_handle = 'aly.codes'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mudwty7brk2m'
 created_at = '2026-08-31T03:14:39.670Z'
 text = 'GETs only, please and thank you.'
