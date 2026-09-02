@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3muj2epgyf22j'
+created_at = '2026-09-02T04:01:00.820Z'
+text = '''
+Very sad to see Rick get driven off of Bluesky by sharing a report of using Claude Code to do something cool and useful.
+
+The absolute vitriol towards software developers trying out LLMs—which are very good at writing code, mind you—is so tiresome.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mui4nukois2c'
 created_at = '2026-09-01T19:09:15.924Z'
 text = 'My favorite piece to put on as I’m driving down the highway.'
