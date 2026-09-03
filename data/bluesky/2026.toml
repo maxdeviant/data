@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mumgmdwykk22'
+created_at = '2026-09-03T12:18:01.321Z'
+text = 'Yea, it’s messed up.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:7x6rtuenkuvxq3zsvffp2ide/app.bsky.feed.post/3mulvnwkbx22t'
+author_did = 'did:plc:7x6rtuenkuvxq3zsvffp2ide'
+author_handle = 'plushie.holdings'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3muljc7zzqk2c'
 created_at = '2026-09-03T03:33:23.171Z'
 text = 'crates.io stonks up tremendous 📈'
