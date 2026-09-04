@@ -1,4 +1,22 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mupttq3p6s26'
+created_at = '2026-09-04T20:52:46.799Z'
+text = 'Ooh, an nginx-specific status code!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3muptggeoo225'
+author_did = 'did:plc:4vvaxwovyg4yo4n7dyyncaiu'
+author_handle = 'thebadcode.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mupspr3zvs26'
+created_at = '2026-09-04T20:32:39.899Z'
+text = '''
+When I'm in a "who can be the kinkiest on a plane" competition and my opponent is this guy.
+
+Alt text: A man on an airplane is duct-taped into his seat. His face is blurred.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mupr35t7422j'
 created_at = '2026-09-04T20:03:14.857Z'
 text = 'Is it a fun one?'
