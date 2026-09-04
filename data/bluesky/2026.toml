@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3munzivb6nc2v'
+created_at = '2026-09-04T03:28:46.096Z'
+text = '''
+I’ll have you know I almost hit the like out of habit (in general, not for these posts) 😬
+
+What’s the record for how long these have lasted without a like?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3munyto3o7s2p'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3munb7pabhk2n'
 created_at = '2026-09-03T20:14:07.982Z'
 text = 'Fighting the good fight 🫡'
