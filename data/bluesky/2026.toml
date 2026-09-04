@@ -1,4 +1,86 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mupr35t7422j'
+created_at = '2026-09-04T20:03:14.857Z'
+text = 'Is it a fun one?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mupk236lc224'
+author_did = 'did:plc:4vvaxwovyg4yo4n7dyyncaiu'
+author_handle = 'thebadcode.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mupqbwy55c24'
+created_at = '2026-09-04T19:49:08.817Z'
+text = '''
+I probably do, just haven't gone out of the way to check/try it.
+
+I was just leaning into the bit 😄'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3muppy45rb22l'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3muppxbcaes24'
+created_at = '2026-09-04T19:43:10.535Z'
+text = 'Do let the rest of us know what the AGI future is like.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3muppv74bxk2l'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mupprduuj224'
+created_at = '2026-09-04T19:39:51.916Z'
+text = 'Funnily enough two of my favorite alcoholic beverages—IPAs and gin and tonics—both have origins involving the British and India.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:623st67kkthivj4c6icvkqnq/app.bsky.feed.post/3mupp6sg3gk2b'
+author_did = 'did:plc:623st67kkthivj4c6icvkqnq'
+author_handle = 'ens0.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3muplsjkwkc24'
+created_at = '2026-09-04T18:28:56.470Z'
+text = '''
+Yea, was super confused when I read this one.
+
+I thought that maybe it was a usage of CFD that I was not familiar with, because I've always known it to refer to your definition.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nvflwun6ztxyktjsoue3cmva/app.bsky.feed.post/3mupcfirvsc2n'
+author_did = 'did:plc:nvflwun6ztxyktjsoue3cmva'
+author_handle = 'myrrlyn.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mupina56w22j'
+created_at = '2026-09-04T17:32:17.585Z'
+text = '''
+Just because the agent wrote all the code for you faster than you could have turned it around by hand, why does that mean this refactoring and API change to a core interface are included with the feature work that depends on them?
+
+Break that shit up!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mupijyfan22j'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mupijyfan22j'
+created_at = '2026-09-04T17:30:28.791Z'
+text = '''
+Even as someone who is pro-LLM, I still find it hard to deal with the onslaught of massive PRs from people who don’t care enough to break them up.
+
+And even when applying LLM review to a few-thousand line PR, it misses things that are caught upon breaking that PR into a stack of smaller PRs.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mupi367xpk2v'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mup4sthjis25'
 created_at = '2026-09-04T14:00:39.569Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
