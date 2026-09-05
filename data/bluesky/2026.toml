@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3muqgod6h3226'
+created_at = '2026-09-05T02:29:46.581Z'
+text = '''
+I would tend to agree.
+
+If I do need to present LLM prose to others, I always try to denote it as such (or at least, differently than my own words).
+
+Often this means putting it in a block quote (e.g., in PR descriptions, in Slack) or including a screenshot of the agent output.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:77aze6zegihuenovevaiqd6p/app.bsky.feed.post/3muqexa7aws2m'
+author_did = 'did:plc:77aze6zegihuenovevaiqd6p'
+author_handle = 'lucretiel.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mupttq3p6s26'
 created_at = '2026-09-04T20:52:46.799Z'
 text = 'Ooh, an nginx-specific status code!'
