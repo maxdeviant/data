@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3muz2alaz4k2j'
+created_at = '2026-09-08T12:41:18.034Z'
+text = 'I’m in the same boat. My poor rig is 10 years old at this point, and I am kicking myself for not upgrading it a year or two ago.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3muxpw5ikd22x'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3muxqlad7mk2g'
 created_at = '2026-09-08T00:15:38.515Z'
 text = 'Oof. I didn’t have any problems getting an Uber there at RustConf 2024, but perhaps I lucked out 😅'
