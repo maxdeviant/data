@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3muzmnlhwec2m'
+created_at = '2026-09-08T18:10:41.822Z'
+text = 'Bonza, mate!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3muzme4h2kk27'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3muz2alaz4k2j'
 created_at = '2026-09-08T12:41:18.034Z'
 text = 'I’m in the same boat. My poor rig is 10 years old at this point, and I am kicking myself for not upgrading it a year or two ago.'
