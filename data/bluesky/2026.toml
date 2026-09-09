@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mv3l7mj22s2l'
+created_at = '2026-09-09T12:50:18.875Z'
+text = 'That’s the neat part, you don’t! 🫠'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mv2mygsg2s2b'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3muzmnlhwec2m'
 created_at = '2026-09-08T18:10:41.822Z'
 text = 'Bonza, mate!'
