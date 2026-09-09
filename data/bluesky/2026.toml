@@ -1,4 +1,41 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mv4b5rer7c2g'
+created_at = '2026-09-09T19:22:59.194Z'
+text = 'WAIT, were they teasing the iPhone Duo with this shot?'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mv4aykedps2g'
+created_at = '2026-09-09T19:20:04.068Z'
+text = '''
+I’ve made a habit of checking the MacRumors Buyer’s Guide before making any Apple purchases.
+
+buyersguide.macrumors.com'''
+
+[posts.in_reply_to]
+uri = 'at://did:web:threddyrex.org/app.bsky.feed.post/3mv47ojjmfc2s'
+author_did = 'did:web:threddyrex.org'
+author_handle = 'threddyrex.org'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mv44mkxtac2o'
+created_at = '2026-09-09T18:01:47.085Z'
+text = '''
+I will not get baited by the iPhone Duo
+I will not get baited by the iPhone Duo
+I will not get baited by the iPhone Duo
+I will not get baited by the iPhone Duo'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mv446nvdhs2o'
+created_at = '2026-09-09T17:54:00.387Z'
+text = 'iFold time???'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mv3wjb4fps2o'
+created_at = '2026-09-09T16:12:33.633Z'
+text = 'Sure.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mv3l7mj22s2l'
 created_at = '2026-09-09T12:50:18.875Z'
 text = 'That’s the neat part, you don’t! 🫠'
