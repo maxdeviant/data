@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'The Governor’s Waltz'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-09-10T17:42:47Z'
+
+[[tracks]]
+name = 'Kill Me'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-09-10T17:38:06Z'
+
+[[tracks]]
+name = 'Lost Boys'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-09-10T17:33:51Z'
+
+[[tracks]]
+name = 'The Outside'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-09-10T17:29:54Z'
+
+[[tracks]]
+name = 'Lost Weekend (Reprise)'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-09-10T17:27:44Z'
+
+[[tracks]]
+name = 'As Above'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-09-10T17:23:20Z'
+
+[[tracks]]
+name = 'I Can’t Wait'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-09-10T17:19:43Z'
+
+[[tracks]]
 name = 'Lying on the Floor, Endlessly'
 artist = '''For When You Can't Breathe'''
 album = '''A Home That Doesn't Exist'''
