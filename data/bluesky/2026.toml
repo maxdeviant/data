@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvbaqlqamk2s'
+created_at = '2026-09-11T18:58:55.761Z'
+text = 'Yikes. Those Slack messages and tweets really paint a picture of a guy who needs some serious help.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:geozyv62fx63m7jhr4eraubc/app.bsky.feed.post/3mvb6mrlec22e'
+author_did = 'did:plc:geozyv62fx63m7jhr4eraubc'
+author_handle = 'alilleybrinker.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvaqbz5jls2s'
 created_at = '2026-09-11T14:04:26.642Z'
 text = 'I contain multitudes!'
