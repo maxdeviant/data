@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Bobby'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-09-11T14:26:32Z'
+
+[[tracks]]
+name = 'Escape'
+artist = 'Caskets'
+album = '''The Only Heaven You'll Know'''
+listened_at = '2026-09-11T14:26:31Z'
+
+[[tracks]]
 name = 'Archipelago'
 artist = 'Exploring Birdsong'
 album = 'Every House We Built'

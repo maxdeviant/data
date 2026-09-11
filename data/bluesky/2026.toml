@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvaqbz5jls2s'
+created_at = '2026-09-11T14:04:26.642Z'
+text = 'I contain multitudes!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6ll5xi67lyuyovt6fiv4fnjo/app.bsky.feed.post/3mvaq4m4b7k24'
+author_did = 'did:plc:6ll5xi67lyuyovt6fiv4fnjo'
+author_handle = 'geesawra.industries'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvaq3s5krv2g'
+created_at = '2026-09-11T14:00:56.936Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mv6zggdacs25'
 created_at = '2026-09-10T21:42:38.879Z'
 text = '''
