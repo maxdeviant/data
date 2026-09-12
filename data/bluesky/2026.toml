@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvbwv53hec2t'
+created_at = '2026-09-12T01:35:10.494Z'
+text = '''OpenAI not being open?! But it's right there in the name!'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3mvbupe62l25g'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvbaqlqamk2s'
 created_at = '2026-09-11T18:58:55.761Z'
 text = 'Yikes. Those Slack messages and tweets really paint a picture of a guy who needs some serious help.'
