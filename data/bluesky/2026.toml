@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mviinuqbk225'
+created_at = '2026-09-14T16:09:12.640Z'
+text = 'Good morning to set a new record.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mvih5yphsq2k'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mverixcvck2o'
 created_at = '2026-09-13T04:36:52.264Z'
 text = 'Sounds you need to get your P(doom) levels up.'
