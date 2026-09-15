@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvlbq3zl622w'
+created_at = '2026-09-15T18:43:10.414Z'
+text = '“No one gets promoted for preventing an incident”, etc.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:77aze6zegihuenovevaiqd6p/app.bsky.feed.post/3mvlawtftq22d'
+author_did = 'did:plc:77aze6zegihuenovevaiqd6p'
+author_handle = 'lucretiel.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvkzjpmr422j'
 created_at = '2026-09-15T16:16:26.152Z'
 text = 'I’ve been enjoying this one! Haven’t listened to much of her stuff before.'
