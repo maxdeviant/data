@@ -1,4 +1,37 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvkzjpmr422j'
+created_at = '2026-09-15T16:16:26.152Z'
+text = 'I’ve been enjoying this one! Haven’t listened to much of her stuff before.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mvkxpearp22m'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvkv4t6qi22c'
+created_at = '2026-09-15T14:57:38.712Z'
+text = 'Surely today will be the day...'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mvkuyevcrk2k'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvkpanswnc2p'
+created_at = '2026-09-15T13:12:24.843Z'
+text = '''
+Can’t believe Luke is staring down the business end of a lightsaber.
+
+Obi-Wan should have started with lightsaber safety.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3mvjwhtt4mk2d'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvjbperbjk2k'
 created_at = '2026-09-14T23:37:26.545Z'
 text = '''
