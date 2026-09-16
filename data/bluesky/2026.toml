@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvne7tsorc2f'
+created_at = '2026-09-16T14:33:05.627Z'
+text = 'Trying your hand at juggling too?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vzaxc2idqnxovkqscsa3tvvi/app.bsky.feed.post/3mvmybtur7227'
+author_did = 'did:plc:vzaxc2idqnxovkqscsa3tvvi'
+author_handle = 'giacomocavalieri.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvm5zdevi22z'
 created_at = '2026-09-16T03:09:24.882Z'
 text = 'He’s never going to look at a Sankey diagram the same way ever again.'
