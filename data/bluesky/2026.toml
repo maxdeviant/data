@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvm5zdevi22z'
+created_at = '2026-09-16T03:09:24.882Z'
+text = 'He’s never going to look at a Sankey diagram the same way ever again.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:d4p7now3a7trgmqkfwtb7sp4/app.bsky.feed.post/3mvlvge4eb22e'
+author_did = 'did:plc:d4p7now3a7trgmqkfwtb7sp4'
+author_handle = 'mgattozzi.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvlbq3zl622w'
 created_at = '2026-09-15T18:43:10.414Z'
 text = '“No one gets promoted for preventing an incident”, etc.'
