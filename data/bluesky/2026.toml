@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvoaagyq4c2f'
+created_at = '2026-09-16T22:54:30.525Z'
+text = '''
+Was able to watch your talk on the livestream recording and I thought it was great!
+
+It was cool getting to hear about the work you were doing at SI.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4filgs73k7oxroktdu5g2lk6/app.bsky.feed.post/3mvmygog3722g'
+author_did = 'did:plc:4filgs73k7oxroktdu5g2lk6'
+author_handle = 'nickgerace.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvnqybw2u223'
 created_at = '2026-09-16T18:21:30.630Z'
 text = 'Me watching the JJ Con livestream recording:'
