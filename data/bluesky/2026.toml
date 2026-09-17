@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvqbfukq3c2b'
+created_at = '2026-09-17T18:20:45.738Z'
+text = 'Forever spoiled by how fast Apple Silicon can compile Rust.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4filgs73k7oxroktdu5g2lk6/app.bsky.feed.post/3mvpud4ocq22e'
+author_did = 'did:plc:4filgs73k7oxroktdu5g2lk6'
+author_handle = 'nickgerace.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvpw6xc24c2b'
 created_at = '2026-09-17T15:00:02.557Z'
 text = 'Beta comes out today 👀'
