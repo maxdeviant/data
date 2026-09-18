@@ -1,4 +1,48 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvqvdn4y2k2q'
+created_at = '2026-09-18T00:17:25.675Z'
+text = '''
+From that linked forum post, it seems that "Secondary Lighting" may be the culprit.
+
+I'm back on my Linux machine now, and with the base graphics set to 6 on the slider but with "Secondary Lighting" set to "Fair", no more crash.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5tlwm4ujvnudrzndqubefgiu/app.bsky.feed.post/3mvqv4pxiks2e'
+author_did = 'did:plc:5tlwm4ujvnudrzndqubefgiu'
+author_handle = 'danny.page'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvquypuljk2l'
+created_at = '2026-09-18T00:11:19.340Z'
+text = '''
+I decided to try on my M4 Pro Mac mini, and my entire machine locked up at the exact same point!
+
+Apparently a lot of other people are having this issue on macOS: us.forums.blizzard.com/en/wow/t/wow...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvquypukkc2l'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvquypukkc2l'
+created_at = '2026-09-18T00:11:19.339Z'
+text = '''
+I was playing on my Linux desktop (which is an older machine) through Lutris. I've successfully played WoW Classic on this, so I figured I wouldn't have any issues.
+
+My game would crash as soon as I tried to enter the world with a character. Turning the graphics all the way down fixed it.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvquyprb3c2l'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvquyprb3c2l'
+created_at = '2026-09-18T00:11:19.338Z'
+text = '''Been trying out the WoW: Forever beta, and so far I've been plagued by hardware issues.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvqbfukq3c2b'
 created_at = '2026-09-17T18:20:45.738Z'
 text = 'Forever spoiled by how fast Apple Silicon can compile Rust.'
