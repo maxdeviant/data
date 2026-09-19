@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvurrghyfs2k'
+created_at = '2026-09-19T13:24:12.443Z'
+text = 'I think Oxidize Conf was also this week, in Berlin.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zviscnpwyvj6y32agi5davn5/app.bsky.feed.post/3mvune52ls22s'
+author_did = 'did:plc:zviscnpwyvj6y32agi5davn5'
+author_handle = 'isaaccorbrey.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvtvdma44s2k'
 created_at = '2026-09-19T04:55:23.944Z'
 text = 'Thank you for your correct usage of the phrase “coming down the pike”.'
