@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvteewidmk2k'
+created_at = '2026-09-18T23:51:54.632Z'
+text = 'They should also put each of the models in one of these:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:hsqwcidfez66lwm3gxhfv5in/app.bsky.feed.post/3mvswdf64ac2h'
+author_did = 'did:plc:hsqwcidfez66lwm3gxhfv5in'
+author_handle = 'goose.art'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvstyz7e5s2v'
 created_at = '2026-09-18T18:58:54.971Z'
 text = 'I, for one, am shocked at this news.'
