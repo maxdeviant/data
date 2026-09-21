@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvzxcvruuk2u'
+created_at = '2026-09-21T14:46:46.323Z'
+text = 'Congratulations!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:geozyv62fx63m7jhr4eraubc/app.bsky.feed.post/3mvlxbd7kv22l'
+author_did = 'did:plc:geozyv62fx63m7jhr4eraubc'
+author_handle = 'alilleybrinker.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvzwzchcss2u'
+created_at = '2026-09-21T14:41:24.058Z'
+text = 'Tim “Nuclear Family” Apple'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mvzqv2oz6k2k'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvxgg7xq2s2c'
 created_at = '2026-09-20T14:39:04.575Z'
 text = 'Doing some high-octane gaming (cleaning out my dump tabs in Path of Exile).'
