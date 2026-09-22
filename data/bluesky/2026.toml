@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mw36ztznxs2k'
+created_at = '2026-09-22T02:37:32.163Z'
+text = 'Clearly Jesus was telling Peter to put his sword away and pull out his AR-15.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:hbpefio3f5csc44msmbgioxz/app.bsky.feed.post/3mw2xljvtic2s'
+author_did = 'did:plc:hbpefio3f5csc44msmbgioxz'
+author_handle = 'sharonk.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mvzxcvruuk2u'
 created_at = '2026-09-21T14:46:46.323Z'
 text = 'Congratulations!'
