@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mw4ozwmevc2l'
+created_at = '2026-09-22T16:56:34.474Z'
+text = 'Congratulations on winning your first Technicali.e.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mw4lqmp6u22l'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mw3fb2idbs2a'
 created_at = '2026-09-22T04:28:56.265Z'
 text = 'This game is a banger!'
