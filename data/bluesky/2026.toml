@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mw3fb2idbs2a'
+created_at = '2026-09-22T04:28:56.265Z'
+text = 'This game is a banger!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rnpkyqnmsw4ipey6eotbdnnf/app.bsky.feed.post/3mw2moeupyc2v'
+author_did = 'did:plc:rnpkyqnmsw4ipey6eotbdnnf'
+author_handle = 'pds.dad'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mw36ztznxs2k'
 created_at = '2026-09-22T02:37:32.163Z'
 text = 'Clearly Jesus was telling Peter to put his sword away and pull out his AR-15.'
