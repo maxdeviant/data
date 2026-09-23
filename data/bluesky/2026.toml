@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mw5rqhqu5c2v'
+created_at = '2026-09-23T03:17:37.872Z'
+text = ''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mw5hg5dips2l'
+created_at = '2026-09-23T00:12:53.988Z'
+text = 'A large language model the size of a small language model.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3mw4q5jwbac2c'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mw5gp7ckac2b'
+created_at = '2026-09-23T00:00:04.301Z'
+text = 'And thus begins another week of this song being stuck in my head.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mw4ozwmevc2l'
 created_at = '2026-09-22T16:56:34.474Z'
 text = 'Congratulations on winning your first Technicali.e.'
