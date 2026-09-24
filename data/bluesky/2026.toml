@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwbp6suhy22l'
+created_at = '2026-09-24T16:42:37.017Z'
+text = 'After using it a bit, I was wondering if Opus 5.5 would be enough to draw you back in.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mwbnbg6f7c2l'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwbp4wx5ic2l'
+created_at = '2026-09-24T16:41:34.190Z'
+text = 'I know that watching the DHH keynote will deal immense psychic damage to me, so why am I still having to fight the urge to watch it??'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwaee5f7n22h'
 created_at = '2026-09-24T03:56:04.922Z'
 text = 'Your reply makes much more sense now 😂'
