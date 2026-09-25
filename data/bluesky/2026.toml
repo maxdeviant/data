@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwegg5zwqc23'
+created_at = '2026-09-25T18:43:39.136Z'
+text = 'Back in my day, we had to write boilerplate uphill both ways in the snow.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nvflwun6ztxyktjsoue3cmva/app.bsky.feed.post/3mwdxa26z3s2m'
+author_did = 'did:plc:nvflwun6ztxyktjsoue3cmva'
+author_handle = 'myrrlyn.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mweezmah4c2z'
+created_at = '2026-09-25T18:18:44.087Z'
+text = 'Wow, just @ me next time.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mwe7v5f3zk2s'
+author_did = 'did:plc:4vvaxwovyg4yo4n7dyyncaiu'
+author_handle = 'thebadcode.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwdx3ztxcs2u'
 created_at = '2026-09-25T14:09:33.088Z'
 text = 'In light of that, what does it say about me that idle games are my guilty pleasure? 😬'

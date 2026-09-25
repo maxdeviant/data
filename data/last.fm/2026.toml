@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'HOUDINI'
+artist = 'Deathpact'
+album = 'FROM DARKNESS, COMES LIGHT'
+listened_at = '2026-09-25T19:56:07Z'
+
+[[tracks]]
+name = 'LOW'
+artist = 'Deathpact'
+album = 'FROM DARKNESS, COMES LIGHT'
+listened_at = '2026-09-25T15:40:51Z'
+
+[[tracks]]
 name = 'Motivation'
 artist = 'Carly Rae Jepsen'
 album = 'Day and Night'
