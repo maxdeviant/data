@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwdx3ztxcs2u'
+created_at = '2026-09-25T14:09:33.088Z'
+text = 'In light of that, what does it say about me that idle games are my guilty pleasure? 😬'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:h2okxbr76w5522tailkxmidq/app.bsky.feed.post/3mwdcmutqd22n'
+author_did = 'did:plc:h2okxbr76w5522tailkxmidq'
+author_handle = 'jyn.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwdwnuyts52u'
+created_at = '2026-09-25T14:01:37.697Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwbwdjq4lc2l'
 created_at = '2026-09-24T18:50:31.402Z'
 text = 'I, for one, am SHOCKED at this revelation!'
