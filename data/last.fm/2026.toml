@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'WILD-FIRE'
+artist = 'PLUS+'
+album = 'WILD-FIRE'
+listened_at = '2026-09-26T22:48:38Z'
+
+[[tracks]]
+name = 'Of Course'
+artist = 'Father Of Peace'
+album = 'The Year Of Madness & The Mystery Century'
+listened_at = '2026-09-26T22:02:39Z'
+
+[[tracks]]
+name = 'The Chaos'
+artist = 'Father Of Peace'
+album = 'The Year Of Madness & The Mystery Century'
+listened_at = '2026-09-26T21:59:12Z'
+
+[[tracks]]
+name = 'CROSSROADS'
+artist = 'Deathpact'
+album = 'FROM DARKNESS, COMES LIGHT'
+listened_at = '2026-09-26T21:45:47Z'
+
+[[tracks]]
+name = 'On Video'
+artist = 'Phoebe Bridgers'
+album = 'On Video'
+listened_at = '2026-09-26T21:45:46Z'
+
+[[tracks]]
 name = 'HOUDINI'
 artist = 'Deathpact'
 album = 'FROM DARKNESS, COMES LIGHT'
