@@ -1,4 +1,40 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwlyjoeugc2v'
+created_at = '2026-09-28T18:56:22.470Z'
+text = '''
+I expect this to change a bit with the introduction of the plugin API to the official OSRS client.
+
+But that is an indeterminate amount of time away (and remains to be seen if this will be enough to get players to switch from RuneLite to the official client).
+
+secure.runescape.com/m=news/hd--p...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwly5f4ytc24'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwly5f4ytc24'
+created_at = '2026-09-28T18:49:30.116Z'
+text = '''
+Despite being a long-time OSRS player, I still have not yet dabbled in making RuneLite plugins. I just don’t want to have to deal with the Java ecosystem.
+
+Whereas this weekend I already built a a WoW addon for configuring my UI in WoW Forever.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwlxenirxs2v'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwlxenirxs2v'
+created_at = '2026-09-28T18:35:40.036Z'
+text = '''
+The barrier to entry for making WoW addons seems so much lower than making RuneLite plugins for OSRS.
+
+Being able to just write some Lua and symlink your addon into the `Interface/AddOns` directory is so much more lightweight than setting up a whole Java development environment.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwk4kxwxe22b'
 created_at = '2026-09-28T01:03:21.544Z'
 text = 'Congratulations!'
