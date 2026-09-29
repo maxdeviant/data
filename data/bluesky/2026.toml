@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwmwmucxg22s'
+created_at = '2026-09-29T03:55:01.606Z'
+text = 'First Balatro win 🃏'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwmfifte722s'
+created_at = '2026-09-28T22:48:18.589Z'
+text = 'Many people are saying this (because it’s true).'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwmdkj6tgs2w'
+created_at = '2026-09-28T22:13:41.743Z'
+text = '''
+Currently working on a little tool to use with WoW Forever.
+
+Right now it supports tracking items across multiple characters, including the ability to search for a particular item.
+
+There's a companion addon that I've built to dump the necessary data, which is then read in from the disk.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwlyjoeugc2v'
 created_at = '2026-09-28T18:56:22.470Z'
 text = '''
