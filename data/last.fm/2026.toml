@@ -1,4 +1,52 @@
 [[tracks]]
+name = 'Wish'
+artist = 'ERRA'
+album = 'Cure'
+listened_at = '2026-09-30T17:29:30Z'
+
+[[tracks]]
+name = 'Slow Sour Bleed'
+artist = 'ERRA'
+album = 'Cure'
+listened_at = '2026-09-30T17:25:23Z'
+
+[[tracks]]
+name = 'Blue Reverie'
+artist = 'ERRA'
+album = 'Cure'
+listened_at = '2026-09-30T17:20:21Z'
+
+[[tracks]]
+name = 'Idle Wild'
+artist = 'ERRA'
+album = 'Cure'
+listened_at = '2026-09-30T17:16:09Z'
+
+[[tracks]]
+name = 'Rumor Of Light'
+artist = 'ERRA'
+album = 'Cure'
+listened_at = '2026-09-30T17:12:06Z'
+
+[[tracks]]
+name = 'Metsys'
+artist = 'Lie Siu Pao'
+album = 'Metsys'
+listened_at = '2026-09-30T16:00:57Z'
+
+[[tracks]]
+name = 'Clouds'
+artist = 'Maria Healy'
+album = 'Clouds'
+listened_at = '2026-09-30T15:57:26Z'
+
+[[tracks]]
+name = 'One Simple Idea'
+artist = 'Hans Zimmer'
+album = 'Inception (Music from the Motion Picture)'
+listened_at = '2026-09-30T03:30:00Z'
+
+[[tracks]]
 name = 'Crestfallen'
 artist = 'Imminence'
 album = 'Crestfallen'
