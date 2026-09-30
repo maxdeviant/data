@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwqzwhkzh22i'
+created_at = '2026-09-30T19:04:43.972Z'
+text = 'Hanging this on my wall.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mwqzgw54fk2h'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwpfi2szok2a'
 created_at = '2026-09-30T03:26:06.266Z'
 text = 'Got some @turtleme.at in my bank.'
