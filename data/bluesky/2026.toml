@@ -1,4 +1,39 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwtig5lwdc2h'
+created_at = '2026-10-01T18:29:22.250Z'
+text = 'CEO, watching everyone else’s moats get breached: “Surely *our* moat is impregnable.”'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mwtfwdtnis23'
+author_did = 'did:plc:4vvaxwovyg4yo4n7dyyncaiu'
+author_handle = 'thebadcode.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwtgzaqcoc2h'
+created_at = '2026-10-01T18:04:15.590Z'
+text = 'Tell Opus 5.5 to stop slacking off.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rnpkyqnmsw4ipey6eotbdnnf/app.bsky.feed.post/3mwtgtnuhll2v'
+author_did = 'did:plc:rnpkyqnmsw4ipey6eotbdnnf'
+author_handle = 'pds.dad'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwta3xz5k22h'
+created_at = '2026-10-01T16:00:30.904Z'
+text = '''
+My official ranking is:
+
+1. Gleam
+2. Erlang
+3. Elixir'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3mwswizukk227'
+author_did = 'did:plc:zntngpowgd6rorjt3haywj36'
+author_handle = 'aly.codes'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwrps3bibs25'
 created_at = '2026-10-01T01:35:59.176Z'
 text = 'I’m waiting to see if XP stops at 99 or if you’ve implemented 200m for skills 😅'

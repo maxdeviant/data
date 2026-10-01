@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Mural'
+artist = 'Lupe Fiasco'
+album = 'Tetsuo & Youth'
+listened_at = '2026-10-01T15:02:10Z'
+
+[[tracks]]
+name = 'Crawl Backwards Out of Heaven'
+artist = 'ERRA'
+album = 'Cure'
+listened_at = '2026-10-01T04:22:43Z'
+
+[[tracks]]
+name = '''Cote d'Azur'''
+artist = 'Sean Mathews'
+album = '''Cote d'Azur'''
+listened_at = '2026-09-30T21:02:33Z'
+
+[[tracks]]
 name = 'Spotlight - Radion6 Remix'
 artist = 'Jorn van Deynhoven'
 album = 'Anthems (The Remixes, Pt. 1)'
