@@ -1,4 +1,73 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwrps3bibs25'
+created_at = '2026-10-01T01:35:59.176Z'
+text = 'I’m waiting to see if XP stops at 99 or if you’ve implemented 200m for skills 😅'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:f4h4tl43o4vx4hv2xps6siuz/app.bsky.feed.post/3mwrosydzhc2e'
+author_did = 'did:plc:f4h4tl43o4vx4hv2xps6siuz'
+author_handle = 'turtleme.at'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwriya5vdk2y'
+created_at = '2026-09-30T23:34:09.339Z'
+text = 'It feels like a lot of tools too eagerly make the jump from pure data (JSON, TOML, XML, etc.) to using a Turing complete language for configuration files (JS, TS, Lua) when something like CUE or Nickel is the ideal middle ground.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwriya2tok2y'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwriya2tok2y'
+created_at = '2026-09-30T23:34:09.338Z'
+text = '''
+I've used both Dhall and Nickel, but haven't tried CUE before.
+
+I do wish that these sorts of languages were more pervasive, as they really are quite useful.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4filgs73k7oxroktdu5g2lk6/app.bsky.feed.post/3mwqsdu6x7c2t'
+author_did = 'did:plc:4filgs73k7oxroktdu5g2lk6'
+author_handle = 'nickgerace.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwrh4rbtgs2y'
+created_at = '2026-09-30T23:00:54.121Z'
+text = 'I recently built a new PC and wanted to write a bit about it, but my self-imposed desire to post it *immediately* upon finishing the build has been detrimental to the writing process.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwrh4rbmm22y'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwrh4rbmm22y'
+created_at = '2026-09-30T23:00:54.120Z'
+text = '''
+Something I've noticed around my blogging habits is that I will very often end up imposing a bunch of pressure on myself in the form of timeliness in posting something.
+
+And then the pressure to get something written and posted weighs on me and makes me less likely to do it.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwrgextvi227'
+created_at = '2026-09-30T22:47:35.705Z'
+text = '''
+I've also had problems with WineHQ (and some other sites running Anubis) where it will routinely complain about cookies not being enabled when coming in from Google search results (even thought I definitely have cookies enabled).
+
+It's so annoying.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:isyzsugou6cdcsiiud5vni65/app.bsky.feed.post/3mwqvtnwhs22c'
+author_did = 'did:plc:isyzsugou6cdcsiiud5vni65'
+author_handle = 'finfet.sh'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwrfpye53c2d'
+created_at = '2026-09-30T22:35:51.592Z'
+text = 'I appreciate that @honeycomb.io sent this follow-up email, because my first assumption was that someone had tried to sign up for a Honeycomb account using my email.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mwqzwhkzh22i'
 created_at = '2026-09-30T19:04:43.972Z'
 text = 'Hanging this on my wall.'
