@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxh55od67f2n'
+created_at = '2026-10-09T14:01:00.249Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxepaqegpc2f'
 created_at = '2026-10-08T14:46:52.329Z'
 text = 'Will I find a “Merge (squash)” hiding behind that chevron? 👀'
