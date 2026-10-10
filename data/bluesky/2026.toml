@@ -1,4 +1,62 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxjsw4u4el2i'
+created_at = '2026-10-10T15:35:49.600Z'
+text = '''
+I think about what this would have been like in the pre-LLM times.
+
+I likely would have spent an inordinate amount of time trawling through Google searches and forum/Reddit posts to come up with a potential fix.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxjsw4kvh32i'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxjsw4kvh32i'
+created_at = '2026-10-10T15:35:49.599Z'
+text = '''
+After having Claude apply the change to my NixOS configuration and rebuilding it, I played all day yesterday without a single instance of the crash.
+
+github.com/maxdeviant/d...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxjsw4kvh22i'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxjsw4kvh22i'
+created_at = '2026-10-10T15:35:49.598Z'
+text = '''
+One issue that I was facing was a crash on the loading screen after teleporting somewhere.
+
+It wasn't super frequent, and seemed to only happen a few hours into a play session.
+
+I pointed Claude at the problem and it suggested trying out the `ntsync` kernel module:
+
+docs.kernel.org/userspace-ap...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxjsw4kuhs2i'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxjsw4kuhs2i'
+created_at = '2026-10-10T15:35:49.597Z'
+text = '''I'm running it on NixOS and so far the results have been quite good. It's an Unreal Engine 5 game, so performance is not the best (even on Windows, as I understand it), but it's felt smooth despite me not being able to pull 60 FPS at 4k.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxjsw4hpv22i'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxjsw4hpv22i'
+created_at = '2026-10-10T15:35:49.596Z'
+text = 'Been having a lot of fun playing AION 2 over the past few days!'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxh55od67f2n'
 created_at = '2026-10-09T14:01:00.249Z'
 text = 'Here are my top artists I listened to this last week! 🎸'
