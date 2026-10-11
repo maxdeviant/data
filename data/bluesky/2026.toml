@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxknw3l5lc2j'
+created_at = '2026-10-10T23:38:59.685Z'
+text = 'Need one of those puzzle travel cases and maybe a folding card table to put it on.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:h4qem3f3cz6yvs3r3xvs634g/app.bsky.feed.post/3mxkhwb4he22s'
+author_did = 'did:plc:h4qem3f3cz6yvs3r3xvs634g'
+author_handle = 'kyleshevl.in'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxjsw4u4el2i'
 created_at = '2026-10-10T15:35:49.600Z'
 text = '''
