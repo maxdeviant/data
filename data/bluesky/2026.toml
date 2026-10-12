@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxnnpueecs27'
+created_at = '2026-10-12T04:13:30.007Z'
+text = 'Unhappy with the landscape of AION 2 DPS meters on Linux, I am now building my own DPS meter using Ratatui.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxknw3l5lc2j'
 created_at = '2026-10-10T23:38:59.685Z'
 text = 'Need one of those puzzle travel cases and maybe a folding card table to put it on.'
