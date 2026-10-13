@@ -1,4 +1,60 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxrwjvcb2k2z'
+created_at = '2026-10-13T21:01:52.298Z'
+text = '''
+Could have an inverted background on the text to make it look like a redaction bar?
+
+So in dark mode it would be white text on white background, and black text on black background in light mode.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxrwcnmew22z'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxrwcnmew22z'
+created_at = '2026-10-13T20:57:49.360Z'
+text = '''They are certainly redacted, that's for sure 😂'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3wsti3ueoutbjdqpya5ey52s/app.bsky.feed.post/3mxrwan6t6s2u'
+author_did = 'did:plc:3wsti3ueoutbjdqpya5ey52s'
+author_handle = 'nicknoble.works'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxrvxviizs2z'
+created_at = '2026-10-13T20:51:48.522Z'
+text = 'Just noticed this on the colophon page:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxrvudi7w22z'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxrvudi7w22z'
+created_at = '2026-10-13T20:49:48.976Z'
+text = '''
+Dark mode! 🖤
+
+Overall, I think it looks good.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3wsti3ueoutbjdqpya5ey52s/app.bsky.feed.post/3mxrjifj64c26'
+author_did = 'did:plc:3wsti3ueoutbjdqpya5ey52s'
+author_handle = 'nicknoble.works'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxrqpnfva22r'
+created_at = '2026-10-13T19:17:42.902Z'
+text = 'Can’t wait to hear that OpenAI has also reinvented Mononoke.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mxrlqnqwgs27'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxrhpu5c7k2m'
 created_at = '2026-10-13T16:36:46.281Z'
 text = 'Could also have pushed send after “going to go insane if I see another theo t3 video”.'
