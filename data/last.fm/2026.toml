@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Sweet Misery'
+artist = 'Bear McCreary'
+album = 'The Singularity: Ekleipsis'
+listened_at = '2026-10-14T15:27:18Z'
+
+[[tracks]]
+name = 'Avalon'
+artist = 'Allt'
+album = 'Ataraxia'
+listened_at = '2026-10-14T15:22:46Z'
+
+[[tracks]]
+name = 'a n n 1 h 1 l a t 1 0 n'
+artist = 'Starset'
+album = 't r a n s f u s 1 0 n'
+listened_at = '2026-10-14T15:19:45Z'
+
+[[tracks]]
+name = 'thaw me out'
+artist = 'GRVNT'
+album = 'thaw me out'
+listened_at = '2026-10-14T15:19:44Z'
+
+[[tracks]]
+name = 't r a n s f u s 1 0 n'
+artist = 'Starset'
+album = 't r a n s f u s 1 0 n'
+listened_at = '2026-10-14T13:28:42Z'
+
+[[tracks]]
 name = 'Halo - Acoustic'
 artist = 'Starset'
 album = 'Transmissions (Deluxe Version)'
