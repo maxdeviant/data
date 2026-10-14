@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxu7a64qbs2b'
+created_at = '2026-10-14T18:42:49.163Z'
+text = 'One of the things that annoyed me after spending most of my time on Linux the past two weeks was not being able to press Opt+Shift+- to insert an em dash.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxu24ortpc2g'
+created_at = '2026-10-14T17:11:23.705Z'
+text = 'A lot of great stuff in this talk:'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxtxkfv2tk2b'
 created_at = '2026-10-14T16:25:22.909Z'
 text = 'Apropos, I really wish you could mute certain users on Lobste.rs.'
