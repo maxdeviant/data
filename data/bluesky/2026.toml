@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxwfo2b3jc2y'
+created_at = '2026-10-15T15:43:16.802Z'
+text = 'Trying something new in my PR descriptions...'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxuwsj6a322t'
 created_at = '2026-10-15T01:44:40.775Z'
 text = 'Close enough, welcome back Brian Jacques.'
