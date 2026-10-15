@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxwmqjzgkc2s'
+created_at = '2026-10-15T17:49:56.629Z'
+text = 'Gotta be IPmaxxing.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:un23dtmo4c2fqjmhcwhdk74k/app.bsky.feed.post/3mxwlx5jtak2g'
+author_did = 'did:plc:un23dtmo4c2fqjmhcwhdk74k'
+author_handle = 'stdlib.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxwfo2b3jc2y'
 created_at = '2026-10-15T15:43:16.802Z'
 text = 'Trying something new in my PR descriptions...'
