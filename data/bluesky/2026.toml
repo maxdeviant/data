@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxuwsj6a322t'
+created_at = '2026-10-15T01:44:40.775Z'
+text = 'Close enough, welcome back Brian Jacques.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3mxuufnwgh224'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxumrpqvws2s'
+created_at = '2026-10-14T22:45:16.719Z'
+text = '''Feels bad when you have a set of jj changes locally and one of them has multiple parents and thus can't open a PR on GitHub for it until some of the parent changes land 😭'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxu7a64qbs2b'
 created_at = '2026-10-14T18:42:49.163Z'
 text = 'One of the things that annoyed me after spending most of my time on Linux the past two weeks was not being able to press Opt+Shift+- to insert an em dash.'
