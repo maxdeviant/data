@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'The Governor’s Waltz'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-10-16T19:32:12Z'
+
+[[tracks]]
+name = 'Kill Me'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-10-16T19:27:30Z'
+
+[[tracks]]
+name = 'Lost Boys'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-10-16T18:24:34Z'
+
+[[tracks]]
+name = 'The Outside'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-10-16T18:20:37Z'
+
+[[tracks]]
+name = 'The Dublin Deluge - Live'
+artist = 'Native Echo'
+album = 'The Foxhole (Live)'
+listened_at = '2026-10-16T14:43:34Z'
+
+[[tracks]]
 name = 'Rain'
 artist = 'Sleep Token'
 album = 'Take Me Back to Eden'
