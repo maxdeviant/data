@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxzl7bqlys24'
+created_at = '2026-10-16T22:00:22.999Z'
+text = 'Good to know that the vibe of "this feels like Claude wrote it" I got when reading that was accurate.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mxzl2jv7ys2l'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxyzl5jncc27'
 created_at = '2026-10-16T16:44:53.877Z'
 text = 'Begrudgingly setting up GitHub Merge Queue on a repository and wishing that there was a better option.'
