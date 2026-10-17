@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Life In The Dark'
+artist = 'Phoebe Bridgers'
+album = 'Felice County Fair (A Celebration of The Felice Brothers)'
+listened_at = '2026-10-16T20:49:12Z'
+
+[[tracks]]
+name = 'Bobby'
+artist = 'Phoebe Bridgers'
+album = 'Lost Weekend'
+listened_at = '2026-10-16T19:35:39Z'
+
+[[tracks]]
 name = 'The Governor’s Waltz'
 artist = 'Phoebe Bridgers'
 album = 'Lost Weekend'
