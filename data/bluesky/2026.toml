@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my2bkqtibc2n'
+created_at = '2026-10-17T04:40:30.230Z'
+text = 'The Social Network for Tax Purposes'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mxzl7bqlys24'
 created_at = '2026-10-16T22:00:22.999Z'
 text = 'Good to know that the vibe of "this feels like Claude wrote it" I got when reading that was accurate.'
