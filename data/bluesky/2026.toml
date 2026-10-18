@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my6ar7ol5s25'
+created_at = '2026-10-18T18:36:52.348Z'
+text = 'Yea, I really hate the `vibecoding` tag, for the reasons that Andrew mentions:'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:hwevmowznbiukdf6uk5dwrrq/app.bsky.feed.post/3my67tkthzc2g'
+author_did = 'did:plc:hwevmowznbiukdf6uk5dwrrq'
+author_handle = 'anirudh.fi'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my66lpf3hs2v'
+created_at = '2026-10-18T17:58:00.001Z'
+text = 'Taking a break from fishing @turtleme.at and fishing karambwans.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my6625b57k25'
+created_at = '2026-10-18T17:48:10.575Z'
+text = '''What's funny is that when this picture came up in the search, I was like "whoa, where the heck did I take this??" before remembering it's a set piece at Tokyo DisneySea 😂'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:u77gyutvsyoa36kmz2wj4cmw/app.bsky.feed.post/3my65sfnrec22'
+author_did = 'did:plc:u77gyutvsyoa36kmz2wj4cmw'
+author_handle = 'anthonybecker.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my5sdpywl22w'
 created_at = '2026-10-18T14:18:47.299Z'
 text = 'Go to your camera roll and search "boat" and then post a pic of a boat you like'
