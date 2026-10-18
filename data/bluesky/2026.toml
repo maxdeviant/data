@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my5sdpywl22w'
+created_at = '2026-10-18T14:18:47.299Z'
+text = 'Go to your camera roll and search "boat" and then post a pic of a boat you like'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my5qnppdbk2z'
+created_at = '2026-10-18T13:48:35.057Z'
+text = 'I believe in megamerge supremacy.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zviscnpwyvj6y32agi5davn5/app.bsky.feed.post/3my5pkla3fs26'
+author_did = 'did:plc:zviscnpwyvj6y32agi5davn5'
+author_handle = 'isaaccorbrey.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my2bkqtibc2n'
 created_at = '2026-10-17T04:40:30.230Z'
 text = 'The Social Network for Tax Purposes'
