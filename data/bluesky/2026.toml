@@ -1,4 +1,32 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my7ar7e6rc2o'
+created_at = '2026-10-19T04:09:31.746Z'
+text = 'What is this, a boat for ants?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3my5uhw44cc2d'
+author_did = 'did:plc:565ebob5f6hw33hjdkxty6qj'
+author_handle = 'tedunderwood.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my7a44flik2o'
+created_at = '2026-10-19T03:57:44.002Z'
+text = '''Wife was away this weekend, which means my bedtime has drifted to 2am, but I'm feeling like I should not stay up til 2am when I have work in the morning 😓'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my77owahis2o'
+created_at = '2026-10-19T03:50:21.336Z'
+text = '''
+Another great show that I fell off of because I'm apparently—with few exceptions—unable to keep up with live-airing shows.
+
+I watched the first season, enjoyed it, and then promptly never picked it up by the time the next season aired.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3my6yvobf5c23'
+author_did = 'did:plc:ctphcgyhnllfluywokibtrgb'
+author_handle = 'davidcrespo.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my77drbcic2o'
 created_at = '2026-10-19T03:44:07.021Z'
 text = 'As someone who also RTs a lot (at lost, more than I post things myself), I do it for things that I find interesting that I think the people who follow me might also find interesting.'
