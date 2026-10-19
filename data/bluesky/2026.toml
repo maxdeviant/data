@@ -1,4 +1,65 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myatpf6gl22y'
+created_at = '2026-10-19T19:21:11.572Z'
+text = '''
+I wish Deadlock had come out in a different time in my life, because I just can’t do competitive PvP games anymore.
+
+I played it for a bit a year or so ago and thought it was a really good game, but just not what I’m interested in anymore.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:arpdnraecufe3efrmifyonni/app.bsky.feed.post/3myapqcmhfc2g'
+author_did = 'did:plc:arpdnraecufe3efrmifyonni'
+author_handle = 'overrrrrrr.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myate3nw6s2y'
+created_at = '2026-10-19T19:14:52.494Z'
+text = 'I caught Opus 5.5 validating instead of parsing this morning.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myascieass2y'
+created_at = '2026-10-19T18:56:04.960Z'
+text = 'Can’t tell if I should read this as a scream of agony or a contented sigh…'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:bvraa6gajy4tfr3eh2sisdkr/app.bsky.feed.post/3mya465jkwc24'
+author_did = 'did:plc:bvraa6gajy4tfr3eh2sisdkr'
+author_handle = 'jola.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myahlxgvd224'
+created_at = '2026-10-19T15:44:31.605Z'
+text = '''
+Yea, was being quite tongue-in-cheek there.
+
+At the end of the day you still have to have a handle on what's going on.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zviscnpwyvj6y32agi5davn5/app.bsky.feed.post/3myagix5hok2v'
+author_did = 'did:plc:zviscnpwyvj6y32agi5davn5'
+author_handle = 'isaaccorbrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myafsvbhbk2y'
+created_at = '2026-10-19T15:12:36.726Z'
+text = 'The trick is you have Claude write your Nix for you.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zviscnpwyvj6y32agi5davn5/app.bsky.feed.post/3my7af4kewc2o'
+author_did = 'did:plc:zviscnpwyvj6y32agi5davn5'
+author_handle = 'isaaccorbrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mya7du6li22t'
+created_at = '2026-10-19T13:16:49.813Z'
+text = 'VM Cooper'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3my7jzn44222a'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3my7ar7e6rc2o'
 created_at = '2026-10-19T04:09:31.746Z'
 text = 'What is this, a boat for ants?'
