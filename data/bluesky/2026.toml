@@ -1,4 +1,35 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myd47qffnc2j'
+created_at = '2026-10-20T16:58:49.479Z'
+text = '''
+Having Claude diagnose and fix some gnarly issue where Chrome would stop using hardware acceleration due to a crash caused by Chrome trying to send frames from the integrated GPU to the dedicated GPU was quite the experience.
+
+I'm all too familiar with the way I would have had to debug this by hand.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myd47qb4wc2j'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myd47qb4wc2j'
+created_at = '2026-10-20T16:58:49.478Z'
+text = '''
+This has been my experience as well.
+
+I've been a NixOS user for a while now, but when I recently rebuilt my NixOS desktop, I used Claude Code to set the whole thing up.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:fbc4bhrrzhoava2zkumhxfwj/app.bsky.feed.post/3myc4l4xihc25'
+author_did = 'did:plc:fbc4bhrrzhoava2zkumhxfwj'
+author_handle = 'paolobarbolini.it'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myd3ustyzk2j'
+created_at = '2026-10-20T16:52:43.094Z'
+text = 'Just waiting for the headline "TypeScript Compiler Rewritten from Go to Rust Using LLMs" to air sometime in the next 12 months.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mycrjseykc2q'
 created_at = '2026-10-20T13:47:36.082Z'
 text = '''
