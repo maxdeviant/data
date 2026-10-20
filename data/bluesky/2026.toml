@@ -1,4 +1,12 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mydhjpdch224'
+created_at = '2026-10-20T20:21:15.205Z'
+text = '''
+Great talk by @chrisrackauckas.bsky.social on using LLMs as an open-source maintainer.
+
+h/t to @haug.codes for putting this on my radar.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myd47qffnc2j'
 created_at = '2026-10-20T16:58:49.479Z'
 text = '''
