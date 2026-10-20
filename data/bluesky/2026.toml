@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mybd4peqy22o'
+created_at = '2026-10-19T23:57:04.600Z'
+text = 'Hell, I’ll even take the Perl that Claude likes to write instead.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2xmvrxnuga6tsz3ply3eatdz/app.bsky.feed.post/3mybbyksbzc2a'
+author_did = 'did:plc:2xmvrxnuga6tsz3ply3eatdz'
+author_handle = 'tech-val.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mybcryonws2o'
+created_at = '2026-10-19T23:51:05.261Z'
+text = 'A fellow NixOS gamer? 👀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:r5vna26rxavzyk5iuyqumdrg/app.bsky.feed.post/3myb2mq5ods2o'
+author_did = 'did:plc:r5vna26rxavzyk5iuyqumdrg'
+author_handle = 'hmans.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myatpf6gl22y'
 created_at = '2026-10-19T19:21:11.572Z'
 text = '''
