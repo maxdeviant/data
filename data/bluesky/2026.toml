@@ -1,4 +1,17 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mycrjseykc2q'
+created_at = '2026-10-20T13:47:36.082Z'
+text = '''
+> Well the main thing is ASD signaling
+
+I feel called out.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mycasxaq2s2f'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mybl674ruc2o'
 created_at = '2026-10-20T02:21:04.605Z'
 text = 'Reminds me I need to schedule mine.'
