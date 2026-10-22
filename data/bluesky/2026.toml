@@ -1,4 +1,68 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mygjtdcku22w'
+created_at = '2026-10-22T01:40:24.837Z'
+text = '*looks around at all the CVEs today caused by memory unsafe languages* Whatever you say, Andrew.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3mygjb5m5ps2o'
+author_did = 'did:plc:wamidydbgu3u6fk3yckaglnz'
+author_handle = 'philpax.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mygf2sd5u22b'
+created_at = '2026-10-22T00:15:06.750Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:77aze6zegihuenovevaiqd6p/app.bsky.feed.post/3mygblajwxk2y'
+author_did = 'did:plc:77aze6zegihuenovevaiqd6p'
+author_handle = 'lucretiel.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mygdllgbs22e'
+created_at = '2026-10-21T23:48:42.465Z'
+text = '''
+Working on something that I'm really excited about.
+
+More to come very soon!'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myg5tuvckk2x'
+created_at = '2026-10-21T22:05:58.379Z'
+text = '''*monkey's paw curls*'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:lpxtxymhlfbs5foxba7mfewt/app.bsky.feed.post/3myg4d37t6s2x'
+author_did = 'did:plc:lpxtxymhlfbs5foxba7mfewt'
+author_handle = 'pfy.ch'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myg53f4z7s2x'
+created_at = '2026-10-21T21:52:16.548Z'
+text = '''
+Oh yea, I've been a NixOS user since 2019!
+
+Have been spending more time on it recently, as I just rebuilt my rig last month.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:eyb6qe3puqahushomaqxphkr/app.bsky.feed.post/3myg3z4w6r22y'
+author_did = 'did:plc:eyb6qe3puqahushomaqxphkr'
+author_handle = 'niklaskorz.eu'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myg4v2tsnc2x'
+created_at = '2026-10-21T21:48:44.433Z'
+text = '''
+It's quite comfy!
+
+The text in the terminal definitely looks great. Ever since I switched to 4K a number of years ago, I haven't looked back.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:cei5hnhfxcivfiy3iil74hsx/app.bsky.feed.post/3myg3lzh22t2e'
+author_did = 'did:plc:cei5hnhfxcivfiy3iil74hsx'
+author_handle = 'ninepointlabs.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myfyjmo54c23'
 created_at = '2026-10-21T20:30:45.501Z'
 text = 'post fastfetch'
