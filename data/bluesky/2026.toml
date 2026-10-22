@@ -1,4 +1,33 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myhwnjhad22h'
+created_at = '2026-10-22T15:02:28.340Z'
+text = 'The Odyssey'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gwvh3frsmdih2zpol2holysc/app.bsky.feed.post/3myhnqlepac2b'
+author_did = 'did:plc:gwvh3frsmdih2zpol2holysc'
+author_handle = 'brennan.computer'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myhtxx66ek2h'
+created_at = '2026-10-22T14:14:37.043Z'
+text = 'Congratulations on your promotion to the new Viking spokesperson.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nvflwun6ztxyktjsoue3cmva/app.bsky.feed.post/3myhnxnbfls2y'
+author_did = 'did:plc:nvflwun6ztxyktjsoue3cmva'
+author_handle = 'myrrlyn.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myhslxv7ok2h'
+created_at = '2026-10-22T13:50:01.394Z'
+text = '''
+eMudhra: *joins the TLS certificate business*
+eMudhra: *generates a bunch of insecure private keys*
+The Internet: *everyones shit gets fucked*
+eMudhra: *exits the TLS certificate business*'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mygjtdcku22w'
 created_at = '2026-10-22T01:40:24.837Z'
 text = '*looks around at all the CVEs today caused by memory unsafe languages* Whatever you say, Andrew.'
