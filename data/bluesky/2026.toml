@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myidgut6522h'
+created_at = '2026-10-22T18:51:24.029Z'
+text = 'Same here.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:v46ojbiop5ebs5h7gaomixcc/app.bsky.feed.post/3myicvjyips2m'
+author_did = 'did:plc:v46ojbiop5ebs5h7gaomixcc'
+author_handle = 'brookie.blog'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myicftd6as2s'
+created_at = '2026-10-22T18:32:55.159Z'
+text = '''I fear it's going to take a while until I can immediately recognize the new profile pic when scrolling my feeds.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3myibyphhuk2q'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myhwnjhad22h'
 created_at = '2026-10-22T15:02:28.340Z'
 text = 'The Odyssey'
