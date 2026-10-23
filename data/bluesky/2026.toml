@@ -1,4 +1,39 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mykh3rlz3c2w'
+created_at = '2026-10-23T15:02:05.992Z'
+text = 'I was fine when the CVEs were eating PHP’s face, but now they’re eating Tailscale’s face?! What the hell!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mykggz3n4kqx'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mykfg6gn2c2x'
+created_at = '2026-10-23T14:32:07.504Z'
+text = 'Guess it’s going to be one of those days 😪'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mykdnawcsc2m'
+created_at = '2026-10-23T14:00:17.134Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mykdfryihs2u'
+created_at = '2026-10-23T13:56:06.978Z'
+text = 'Not me thinking that the response was from some random reply guy until I saw it was someone on the Bluesky team.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:h3wpawnrlptr4534chevddo6/app.bsky.feed.post/3myitku3ldl22'
+author_did = 'did:plc:h3wpawnrlptr4534chevddo6'
+author_handle = 'chaosgreml.in'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mykawlb5xs27'
+created_at = '2026-10-23T13:11:49.118Z'
+text = 'Side note: it is wild how much of an improvement this installment is over the first Harry Potter by Balenciaga.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myj7m4wetc2i'
 created_at = '2026-10-23T03:15:25.065Z'
 text = '''
