@@ -1,4 +1,30 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myj7m4wetc2i'
+created_at = '2026-10-23T03:15:25.065Z'
+text = '''
+Was pleasantly surprised when Opus 5.5 added this to a Cargo workspace it set up for me recently:
+
+```
+[workspace.lints.rust]
+unsafe_code = "deny"
+```'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:oq6rkprwln2i4rtv5gcignb6/app.bsky.feed.post/3myj6emyzu22e'
+author_did = 'did:plc:oq6rkprwln2i4rtv5gcignb6'
+author_handle = 'eigenvalue.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myipks3vk225'
+created_at = '2026-10-22T22:28:20.285Z'
+text = 'Congratulations, Steve!!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3myiob2vghs23'
+author_did = 'did:plc:3danwc67lo7obz2fmdg6jxcr'
+author_handle = 'steveklabnik.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myidgut6522h'
 created_at = '2026-10-22T18:51:24.029Z'
 text = 'Same here.'
