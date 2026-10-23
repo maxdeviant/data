@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mykwd5p6e22a'
+created_at = '2026-10-23T19:34:39.687Z'
+text = 'Is this not Rust?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3dq7pt3ueeedfxrpnpmeycvz/app.bsky.feed.post/3mykpohutbc2t'
+author_did = 'did:plc:3dq7pt3ueeedfxrpnpmeycvz'
+author_handle = 'nightshade.technology'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mykh3rlz3c2w'
 created_at = '2026-10-23T15:02:05.992Z'
 text = 'I was fine when the CVEs were eating PHP’s face, but now they’re eating Tailscale’s face?! What the hell!'
