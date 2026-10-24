@@ -1,4 +1,9 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mylcmk47nk2s'
+created_at = '2026-10-23T23:14:39.591Z'
+text = '''It's Friday night, might as well decompile Empire Earth.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mykwd5p6e22a'
 created_at = '2026-10-23T19:34:39.687Z'
 text = 'Is this not Rust?'
