@@ -1,4 +1,75 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mymvnw6va22n'
+created_at = '2026-10-24T14:28:05.436Z'
+text = '''
+I'm always a bit nervous when reporting/fixing issues using Claude in projects I haven't interacted with before, as I don't want to contribute to the problem of open-source maintainers unknowingly interacting with LLM output.
+
+So I have a personal rule of disclosing the use as much as possible.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mymvnvlf7c2n'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mymvnvlf7c2n'
+created_at = '2026-10-24T14:28:05.435Z'
+text = '''I also had Claude open a PR with the fix, that mirrors the same MR to GNOME's copy on GitLab:'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mymvnv22jc2n'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mymvnv22jc2n'
+created_at = '2026-10-24T14:28:05.434Z'
+text = '''Claude ended up finding a null pointer dereference in `libcvc`, and was able to confirm that GNOME's `libgnome-volume-control` has the same bug.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mymvnuzspc2n'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mymvnuzspc2n'
+created_at = '2026-10-24T14:28:05.433Z'
+text = '''
+Had another instance of Cinnamon going into fallback mode when I booted my computer up this morning.
+
+While previously I would have just ignored it (since it fixes itself after restarting Cinnamon), these days I point Claude at all the little papercuts I get while running Linux.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mymsgcct7s2t'
+created_at = '2026-10-24T13:30:09.700Z'
+text = 'Real.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:izc4epknbvpf2hk3gq7evk4k/app.bsky.feed.post/3mymouwn33c2d'
+author_did = 'did:plc:izc4epknbvpf2hk3gq7evk4k'
+author_handle = 'demigirlboss.win'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mymrsreqqk2t'
+created_at = '2026-10-24T13:19:14.402Z'
+text = 'It’s ‘coming down the pike’'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:l7mwn6iba72xsiayiac5222p/app.bsky.feed.post/3mymonw3jlc22'
+author_did = 'did:plc:l7mwn6iba72xsiayiac5222p'
+author_handle = 'merriam-webster.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mymqvqokd22t'
+created_at = '2026-10-24T13:03:00.592Z'
+text = 'Feeling generous today, are we?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mymeysxum22i'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mylcmk47nk2s'
 created_at = '2026-10-23T23:14:39.591Z'
 text = '''It's Friday night, might as well decompile Empire Earth.'''
