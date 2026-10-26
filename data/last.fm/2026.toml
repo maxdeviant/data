@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Foretold in Reflections'
+artist = 'Wolves in the Throne Room'
+album = 'Estuary'
+listened_at = '2026-10-26T20:06:34Z'
+
+[[tracks]]
+name = 'Knights of Tiamat'
+artist = 'Wolves in the Throne Room'
+album = 'Estuary'
+listened_at = '2026-10-26T19:57:57Z'
+
+[[tracks]]
+name = 'Estuary'
+artist = 'Wolves in the Throne Room'
+album = 'Estuary'
+listened_at = '2026-10-26T19:50:51Z'
+
+[[tracks]]
+name = 'DEAD EYES'
+artist = 'NOT A TOY'
+album = 'DEAD EYES'
+listened_at = '2026-10-26T14:03:09Z'
+
+[[tracks]]
+name = 'You Are the Scars'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2026-10-26T14:02:58Z'
+
+[[tracks]]
 name = '''The Graves We've Dug'''
 artist = 'Harakiri for the Sky'
 album = 'Arson'
