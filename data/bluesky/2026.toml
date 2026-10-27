@@ -1,4 +1,54 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mytdvinppc2s'
+created_at = '2026-10-27T03:58:51.705Z'
+text = 'I’ve always been an FP Sicko at heart.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mytdtkkhvs2s'
+created_at = '2026-10-27T03:57:46.588Z'
+text = 'xkcd.com/927/'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zviscnpwyvj6y32agi5davn5/app.bsky.feed.post/3mytdoznzp22d'
+author_did = 'did:plc:zviscnpwyvj6y32agi5davn5'
+author_handle = 'isaaccorbrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mytddtgmls2s'
+created_at = '2026-10-27T03:48:59.027Z'
+text = 'They’re NGMI.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zviscnpwyvj6y32agi5davn5/app.bsky.feed.post/3mytd22uuwk2d'
+author_did = 'did:plc:zviscnpwyvj6y32agi5davn5'
+author_handle = 'isaaccorbrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mytcjyc2hc2e'
+created_at = '2026-10-27T03:34:31.705Z'
+text = '🫡'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mytcdf6qjs2h'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mytcjea7fc2e'
+created_at = '2026-10-27T03:34:10.673Z'
+text = 'I love a good nerd-snipe.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myt5ytz2cs2g'
+created_at = '2026-10-27T02:13:21.823Z'
+text = 'You may not like it, but this is what the ideal function declaration looks like:'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myt24snkc22c'
+created_at = '2026-10-27T01:03:59.649Z'
+text = 'Need to teach Claude that I always want to be in a `jj new` state.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mysx6aao5s2s'
 created_at = '2026-10-27T00:11:06.232Z'
 text = 'The quotes for this post are already going *crazy* (I regret looking at them).'
