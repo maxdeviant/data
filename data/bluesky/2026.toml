@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mysx6aao5s2s'
+created_at = '2026-10-27T00:11:06.232Z'
+text = 'The quotes for this post are already going *crazy* (I regret looking at them).'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mysgk5bf5s22'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mys3iz2m622h'
 created_at = '2026-10-26T15:56:03.025Z'
 text = 'It should also not tell you whether the source post was already in that language, so then you have to gauge which language you should be replying in.'
