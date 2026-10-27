@@ -1,4 +1,43 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myuytnpkm22m'
+created_at = '2026-10-27T19:46:18.217Z'
+text = '''
+I had a moment the other day where I heard the sounds again, despite having turned them off on a different device.
+
+It seems like Discord updating on one computer was enough to re-enable it.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:uqrryaveb7djvaatfljbdhcb/app.bsky.feed.post/3myutxk6wik2q'
+author_did = 'did:plc:uqrryaveb7djvaatfljbdhcb'
+author_handle = 'joel.drapper.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myuvp7yvos2m'
+created_at = '2026-10-27T18:50:08.395Z'
+text = '''
+> GoAhead is a small, fast, and secure web server that is easy to embed in your products. It is used in millions of devices worldwide.
+
+Chat, is this good?'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myutvow67c2y'
+created_at = '2026-10-27T18:17:57.881Z'
+text = '''Same, except I didn't do the first step (Discord did it for me 💀).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3myurw45eql22'
+author_did = 'did:plc:oisofpd7lj26yvgiivf3lxsi'
+author_handle = 'hailey.at'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myurnsucgs2a'
+created_at = '2026-10-27T17:37:46.094Z'
+text = '''
+Lean coming to a Cloudflare Worker near you?
+
+NB: I'm still implementing more JS APIs, hence the presence of `JsValue`s.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myudua6pvc2b'
 created_at = '2026-10-27T13:30:49.005Z'
 text = 'gm Cooper!'
