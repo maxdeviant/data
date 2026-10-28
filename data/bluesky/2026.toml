@@ -1,4 +1,45 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myvsbhj4ec2a'
+created_at = '2026-10-28T03:21:25.022Z'
+text = 'This has been on a loop in my head (and my headphones) today.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myvrvrzwuc2c'
+created_at = '2026-10-28T03:14:53.405Z'
+text = '''This is one of those things that I keep running into and saying "I'd love to fix this, some day."'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3myvrhvqbzc2x'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myvkz4vblc2a'
+created_at = '2026-10-28T01:11:29.125Z'
+text = '''
+I set up NixOS again after rebuilding my desktop recently, and Claude was very helpful in the process (creating a modular config that unified NixOS + Home Manager configuration).
+
+Even if you don't want to let it configure everything, will be a very good learning resource/explainer.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myvkz4r6ps2a'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myvkz4r6ps2a'
+created_at = '2026-10-28T01:11:29.124Z'
+text = '''
+Been running NixOS on my personal machine since 2020. Use Nix on all my macOS machines, as well.
+
+I like using Home Manager for most of my config (some global stuff still goes in `configuration.nix`). Definitely recommend using flakes.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:hs22zme55gwbp5lgygsdtdll/app.bsky.feed.post/3myukwyycrs22'
+author_did = 'did:plc:hs22zme55gwbp5lgygsdtdll'
+author_handle = 'aub.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myuytnpkm22m'
 created_at = '2026-10-27T19:46:18.217Z'
 text = '''
