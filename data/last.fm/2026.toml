@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Juneau'
+artist = 'Floya'
+album = 'Juneau'
+listened_at = '2026-10-29T02:16:53Z'
+
+[[tracks]]
+name = 'Closure'
+artist = 'Duskhaven'
+album = 'Shapeshifter'
+listened_at = '2026-10-28T22:54:38Z'
+
+[[tracks]]
 name = 'Grey'
 artist = 'Northern Lights'
 album = 'Grey'
