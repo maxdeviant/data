@@ -1,4 +1,74 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz2hxigapc2t'
+created_at = '2026-10-30T00:00:11.706Z'
+text = 'Another win for having him muted!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:mmtjkssv6jeneahkgfdxuy7p/app.bsky.feed.post/3mz27roecw22g'
+author_did = 'did:plc:mmtjkssv6jeneahkgfdxuy7p'
+author_handle = 'mike10010100.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz2esvmf522j'
+created_at = '2026-10-29T23:03:56.540Z'
+text = '''But then how will I thought police my agent's thinking and press "stop" when it is having Illegal Thoughts?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3mz2eps4cj22j'
+author_did = 'did:plc:zntngpowgd6rorjt3haywj36'
+author_handle = 'aly.codes'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz2cwlo5hk2t'
+created_at = '2026-10-29T22:30:12.843Z'
+text = '👀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4filgs73k7oxroktdu5g2lk6/app.bsky.feed.post/3mz2ccn7afk2m'
+author_did = 'did:plc:4filgs73k7oxroktdu5g2lk6'
+author_handle = 'nickgerace.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz23k4rkgs2r'
+created_at = '2026-10-29T20:17:58.383Z'
+text = 'Duel of the Fates would be pretty sick to watch on the big screen.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qiknc4t5rq7yngvz7g4aezq7/app.bsky.feed.post/3mz23a3ral225'
+author_did = 'did:plc:qiknc4t5rq7yngvz7g4aezq7'
+author_handle = 'faineg.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz227y4g4k2q'
+created_at = '2026-10-29T19:54:24.210Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zviscnpwyvj6y32agi5davn5/app.bsky.feed.post/3myzzyz27bc2e'
+author_did = 'did:plc:zviscnpwyvj6y32agi5davn5'
+author_handle = 'isaaccorbrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myzzwotg422q'
+created_at = '2026-10-29T19:49:12.488Z'
+text = 'Why not Molag Bal?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rjhjcb3rgdsmdr6ykywuh63z/app.bsky.feed.post/3myzyxnxpenis'
+author_did = 'did:plc:rjhjcb3rgdsmdr6ykywuh63z'
+author_handle = 'zenfyr.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myzzom4chk2q'
+created_at = '2026-10-29T19:44:41.198Z'
+text = '"Good work deleting the Elder Scrolls VI source code, Agent 47. Now head to an exit."'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4filgs73k7oxroktdu5g2lk6/app.bsky.feed.post/3myzz3kzq7s2d'
+author_did = 'did:plc:4filgs73k7oxroktdu5g2lk6'
+author_handle = 'nickgerace.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3myznbifhak2r'
 created_at = '2026-10-29T16:02:36.194Z'
 text = 'Completely unrelated to the Tangled change, I also recently replaced htmx with Svelte in one of my side projects.'
