@@ -1,4 +1,27 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz5ghamuu22t'
+created_at = '2026-10-31T04:11:12.129Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mz5f2saqas2s'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz57veymb22x'
+created_at = '2026-10-31T02:13:50.283Z'
+text = '''
+I want permanent standard time purely because of the name.
+
+But yes, either way I just want to abolish the clock change.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:623st67kkthivj4c6icvkqnq/app.bsky.feed.post/3mz54xglirs23'
+author_did = 'did:plc:623st67kkthivj4c6icvkqnq'
+author_handle = 'ens0.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz4kjtt4dc2p'
 created_at = '2026-10-30T19:51:34.599Z'
 text = 'Just got access to Rex and I can confirm it is sick.'
