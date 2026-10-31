@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Niflheimr'
+artist = 'Eidola'
+album = 'Niflheimr'
+listened_at = '2026-10-31T14:34:57Z'
+
+[[tracks]]
+name = 'Cry For Me'
+artist = 'The Weeknd'
+album = 'Hurry Up Tomorrow'
+listened_at = '2026-10-30T18:34:36Z'
+
+[[tracks]]
+name = 'Parting Words'
+artist = 'Stepson'
+album = 'Parting Words'
+listened_at = '2026-10-30T18:34:32Z'
+
+[[tracks]]
 name = 'Your Own Grave'
 artist = 'Happy Hour'
 album = 'Your Own Grave'
