@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz7nmc74m22n'
+created_at = '2026-11-01T01:24:37.224Z'
+text = ''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz7gp5y5q22d'
+created_at = '2026-10-31T23:20:57.273Z'
+text = 'Current status: writing a custom JSON library in Lean since `Lean.Data.Json` blows up the binary size by 100MB (and is apparently not intended for consumption outside of the compiler).'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz7fthevts2d'
+created_at = '2026-10-31T23:05:27.599Z'
+text = 'I’m loving it so far (and wishing that I could use it on Linux).'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:jwdk5e6rj6hmkd2rmhkq4cnd/app.bsky.feed.post/3mz7fjcdadc2u'
+author_did = 'did:plc:jwdk5e6rj6hmkd2rmhkq4cnd'
+author_handle = 'texoport.in'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mz5ghamuu22t'
 created_at = '2026-10-31T04:11:12.129Z'
 text = ''
