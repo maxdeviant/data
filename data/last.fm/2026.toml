@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Cobra'
+artist = 'Lisa'
+album = 'Press Play'
+listened_at = '2026-11-01T16:11:20Z'
+
+[[tracks]]
+name = 'V12'
+artist = 'Lisa'
+album = 'Press Play'
+listened_at = '2026-11-01T16:08:29Z'
+
+[[tracks]]
+name = 'SaWaDiKa'
+artist = 'Lisa'
+album = 'Press Play'
+listened_at = '2026-11-01T15:53:34Z'
+
+[[tracks]]
+name = 'Cry For Me'
+artist = 'The Weeknd'
+album = 'Hurry Up Tomorrow'
+listened_at = '2026-11-01T15:49:36Z'
+
+[[tracks]]
 name = 'Niflheimr'
 artist = 'Eidola'
 album = 'Niflheimr'
