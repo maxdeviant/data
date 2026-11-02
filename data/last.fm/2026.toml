@@ -2,6 +2,48 @@
 name = 'Cobra'
 artist = 'Lisa'
 album = 'Press Play'
+listened_at = '2026-11-01T22:39:15Z'
+
+[[tracks]]
+name = 'V12'
+artist = 'Lisa'
+album = 'Press Play'
+listened_at = '2026-11-01T22:36:24Z'
+
+[[tracks]]
+name = 'SaWaDiKa'
+artist = 'Lisa'
+album = 'Press Play'
+listened_at = '2026-11-01T22:33:15Z'
+
+[[tracks]]
+name = 'Sweat'
+artist = 'Lisa'
+album = 'Press Play'
+listened_at = '2026-11-01T22:30:41Z'
+
+[[tracks]]
+name = 'Cut U Off'
+artist = 'Lisa'
+album = 'Press Play'
+listened_at = '2026-11-01T22:28:02Z'
+
+[[tracks]]
+name = 'Tarantino'
+artist = 'Lisa'
+album = 'Press Play'
+listened_at = '2026-11-01T22:25:11Z'
+
+[[tracks]]
+name = 'Tarantino'
+artist = 'Lisa'
+album = 'Press Play'
+listened_at = '2026-11-01T16:13:39Z'
+
+[[tracks]]
+name = 'Cobra'
+artist = 'Lisa'
+album = 'Press Play'
 listened_at = '2026-11-01T16:11:20Z'
 
 [[tracks]]
