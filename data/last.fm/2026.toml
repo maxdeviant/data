@@ -1,4 +1,34 @@
 [[tracks]]
+name = 'Good to Be Alive'
+artist = 'PVRIS'
+album = 'Use Me'
+listened_at = '2026-11-02T01:46:00Z'
+
+[[tracks]]
+name = 'Stay Gold'
+artist = 'PVRIS'
+album = 'Use Me'
+listened_at = '2026-11-02T01:42:00Z'
+
+[[tracks]]
+name = 'Dead Weight'
+artist = 'PVRIS'
+album = 'Use Me'
+listened_at = '2026-11-02T01:38:33Z'
+
+[[tracks]]
+name = 'Gimme a Minute'
+artist = 'PVRIS'
+album = 'Use Me'
+listened_at = '2026-11-02T01:35:03Z'
+
+[[tracks]]
+name = 'Tarantino'
+artist = 'Lisa'
+album = 'Press Play'
+listened_at = '2026-11-01T22:41:34Z'
+
+[[tracks]]
 name = 'Cobra'
 artist = 'Lisa'
 album = 'Press Play'

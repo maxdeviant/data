@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzcarux67k2i'
+created_at = '2026-11-02T02:13:05.226Z'
+text = 'But I was told I just need to invoke the magic words “property testing” and all my bugs would be gone!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mzc6i2nn2c2h'
+author_did = 'did:plc:qvywnipfiyrd6v4qdf4x27wy'
+author_handle = 'hikikomorphism.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzbtkxyj6s22'
 created_at = '2026-11-01T22:16:34.895Z'
 text = '''
