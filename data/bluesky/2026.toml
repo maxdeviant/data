@@ -1,4 +1,67 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzdgvakx3c2j'
+created_at = '2026-11-02T13:35:00.265Z'
+text = 'Go for it. What’s the worst that could happen?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sltfzlenl5uzybws5s4beypt/app.bsky.feed.post/3mzceolzdq22g'
+author_did = 'did:plc:sltfzlenl5uzybws5s4beypt'
+author_handle = 'thatisabigmood.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzdfrjbzck2j'
+created_at = '2026-11-02T13:15:01.450Z'
+text = 'Microsoft announces the release of their Windows XP reboot line Windows: Forever.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3mzcsrgo5es2z'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzdf3mw4nc2j'
+created_at = '2026-11-02T13:02:47.058Z'
+text = 'Did they like firing people just to feel something?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:klhtmrnregub7we7h6jwiljm/app.bsky.feed.post/3mzdda4rivc2p'
+author_did = 'did:plc:klhtmrnregub7we7h6jwiljm'
+author_handle = 'ed3d.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzdeq6bbhs2j'
+created_at = '2026-11-02T12:56:22.595Z'
+text = 'The editor trifecta.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:q7suwaz53ztc4mbiqyygbn43/app.bsky.feed.post/3mzcn6rvyds2z'
+author_did = 'did:plc:q7suwaz53ztc4mbiqyygbn43'
+author_handle = 'xan.lol'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzde3uqpys2j'
+created_at = '2026-11-02T12:45:01.528Z'
+text = 'Gotta keep watching with subs so that the kids can get some listening exposure to Japanese.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:m2sjv3wncvsasdapla35hzwj/app.bsky.feed.post/3mzcofacyuk2i'
+author_did = 'did:plc:m2sjv3wncvsasdapla35hzwj'
+author_handle = 'hipstersmoothie.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzddodxxts2j'
+created_at = '2026-11-02T12:37:27.728Z'
+text = '''
+This is the card I went with for my recent build too.
+
+Been quite happy with it, so far.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3mzd4nk5yxcct'
+author_did = 'did:plc:ia76kvnndjutgedggx2ibrem'
+author_handle = 'mary.my.id'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzcarux67k2i'
 created_at = '2026-11-02T02:13:05.226Z'
 text = 'But I was told I just need to invoke the magic words “property testing” and all my bugs would be gone!'
