@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzfynjahtc24'
+created_at = '2026-11-03T13:58:07.748Z'
+text = 'Permission granted, soldier. Lib all the way out 🫡'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mzfwzcdjxs2z'
+author_did = 'did:plc:ctphcgyhnllfluywokibtrgb'
+author_handle = 'davidcrespo.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzdgvakx3c2j'
 created_at = '2026-11-02T13:35:00.265Z'
 text = 'Go for it. What’s the worst that could happen?'

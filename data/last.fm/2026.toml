@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Fire, Walk with Me'
+artist = 'Harakiri for the Sky'
+album = 'Arson'
+listened_at = '2026-11-03T16:57:10Z'
+
+[[tracks]]
+name = 'Legend Has It'
+artist = 'Run the Jewels'
+album = 'Run the Jewels 3'
+listened_at = '2026-11-03T04:44:11Z'
+
+[[tracks]]
 name = 'Death of Me'
 artist = 'PVRIS'
 album = 'Use Me'
