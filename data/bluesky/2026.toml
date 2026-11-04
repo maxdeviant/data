@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mziyw3lqas26'
+created_at = '2026-11-04T18:40:54.647Z'
+text = '''He's the living embodiment of Gríma Wormtongue.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3mziyod5rss26'
+author_did = 'did:plc:nvfposmpmhegtyvhbs75s3pw'
+author_handle = 'jamellebouie.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzikkvfrl22z'
+created_at = '2026-11-04T14:24:06.666Z'
+text = 'When you realize Go is a terrible programming language.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzihqyjdy224'
+created_at = '2026-11-04T13:33:50.035Z'
+text = 'How’s it feel?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3mzihiusjos2r'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzhkmkd5gk2o'
 created_at = '2026-11-04T04:52:22.426Z'
 text = 'It’s been a pleasure libbing out with you all tonight 🫡'
