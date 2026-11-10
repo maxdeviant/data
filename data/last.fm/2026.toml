@@ -1,4 +1,28 @@
 [[tracks]]
+name = 'Moonlight, Ephemeral'
+artist = 'What Lies Below'
+album = 'I Let It Consume Me'
+listened_at = '2026-11-10T21:33:52Z'
+
+[[tracks]]
+name = 'Dove'
+artist = 'Karmanjakah'
+album = 'Diamond morning'
+listened_at = '2026-11-10T21:29:46Z'
+
+[[tracks]]
+name = 'Last to Know'
+artist = 'Balance and Composure'
+album = 'Too Quick to Forgive'
+listened_at = '2026-11-10T21:23:16Z'
+
+[[tracks]]
+name = 'in my body'
+artist = 'Heylu'
+album = 'in my body'
+listened_at = '2026-11-10T21:20:13Z'
+
+[[tracks]]
 name = 'Purity Ladder'
 artist = 'Eidola'
 album = 'Niflheimr'
