@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzyq5usoz22a'
+created_at = '2026-11-11T00:46:48.095Z'
+text = '''
+“Hope they can revert the change and redo it with human help”
+
+What are we doing here??
+
+Ah yes, let’s revert the 10 line bug fix that was already resistant to the human attempts at fixing and come up with an alternate solution (which might not exist) just because.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzxpyigujs2s'
 created_at = '2026-11-10T15:11:07.617Z'
 text = 'Good point, the IGF should be banning games made with Unity instead.'
