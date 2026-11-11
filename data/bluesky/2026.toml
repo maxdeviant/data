@@ -1,4 +1,29 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n22obn2vis2e'
+created_at = '2026-11-11T19:18:26.196Z'
+text = 'Thought this was a @why.bsky.world post, for a second.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n22jlkbb5c2e'
+created_at = '2026-11-11T17:54:30.092Z'
+text = 'To my continual dismay, rawdogging is entirely too common in our software systems.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3n22jdn6upc27'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n226rubauc2d'
+created_at = '2026-11-11T14:41:10.738Z'
+text = 'Depends. How much water does your devil consume?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3mzzduxsbys2s'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3mzyq5usoz22a'
 created_at = '2026-11-11T00:46:48.095Z'
 text = '''
