@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Stein auf Stein'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2026-11-12T02:27:06Z'
+
+[[tracks]]
+name = 'Arkanum'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2026-11-12T02:18:04Z'
+
+[[tracks]]
 name = 'Ensomhed'
 artist = 'Sunken'
 album = 'Livslede'
