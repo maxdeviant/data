@@ -1,4 +1,37 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n25j7f6bfk25'
+created_at = '2026-11-12T22:25:41.318Z'
+text = 'Admittedly a small part of the talk, but very refreshing to hear someone correctly referring to DHH as a "jackass" (perhaps even too generous a term for him).'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n25iebbsnk25'
+created_at = '2026-11-12T22:10:31.270Z'
+text = 'Another must-watch talk from @bcantrill.bsky.social:'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n25c6v36qs2p'
+created_at = '2026-11-12T20:20:08.247Z'
+text = 'MediClaude for All.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3dz4xvhdemciftzsaonk5gu5/app.bsky.feed.post/3n24z25ho5222'
+author_did = 'did:plc:3dz4xvhdemciftzsaonk5gu5'
+author_handle = 'cameroncorduroy.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n25bwdbfsc2p'
+created_at = '2026-11-12T20:15:21.137Z'
+text = '''
+We can model Jensen Huang’s affairs using Idris 2’s quantitative types.
+
+idris2.readthedocs.io/en/latest/tu...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3n25bkqxtbk2a'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n232n6qdm22f'
 created_at = '2026-11-11T22:59:38.722Z'
 text = '''
