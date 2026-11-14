@@ -1,4 +1,34 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2bqxvjgyk2q'
+created_at = '2026-11-14T14:55:18.914Z'
+text = 'I need to know: roughly what age/generation is the librarian?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zdm2syaeearfhitv7dxkg3zu/app.bsky.feed.post/3n2anow7jr22e'
+author_did = 'did:plc:zdm2syaeearfhitv7dxkg3zu'
+author_handle = 'boxelderdust.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2bqmr2tbk2q'
+created_at = '2026-11-14T14:49:05.135Z'
+text = 'I hope you saved some phở mì!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3n2bq3ylonc2r'
+author_did = 'did:plc:wamidydbgu3u6fk3yckaglnz'
+author_handle = 'philpax.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2bns2p5s22l'
+created_at = '2026-11-14T13:58:21.785Z'
+text = 'This better not be loss.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:hu35oubkccqrxl4ldgczpgw7/app.bsky.feed.post/3n2bjl6wqxs2b'
+author_did = 'did:plc:hu35oubkccqrxl4ldgczpgw7'
+author_handle = 'shibbi.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2anmgzgws2n'
 created_at = '2026-11-14T04:22:33.647Z'
 text = '"Caves of Qud has been down for 36 hours now, we need to call in Brian!"'
