@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'MOVE'
+artist = 'Banks Arcade'
+album = 'SECOND PLACE SUPERSTAR'
+listened_at = '2026-11-14T04:26:28Z'
+
+[[tracks]]
+name = 'HAVE FAITH'
+artist = 'Banks Arcade'
+album = 'SECOND PLACE SUPERSTAR'
+listened_at = '2026-11-14T04:22:47Z'
+
+[[tracks]]
+name = 'WAIT'
+artist = 'Banks Arcade'
+album = 'SECOND PLACE SUPERSTAR'
+listened_at = '2026-11-14T04:18:15Z'
+
+[[tracks]]
+name = 'LAST TIME'
+artist = 'Banks Arcade'
+album = 'SECOND PLACE SUPERSTAR'
+listened_at = '2026-11-14T04:07:20Z'
+
+[[tracks]]
+name = 'Felsensang'
+artist = 'Aara'
+album = 'Eiger'
+listened_at = '2026-11-14T02:57:28Z'
+
+[[tracks]]
+name = 'Stein auf Stein'
+artist = 'Aara'
+album = 'En Ergô Einai'
+listened_at = '2026-11-14T02:49:11Z'
+
+[[tracks]]
 name = 'Stein auf Stein'
 artist = 'Aara'
 album = 'En Ergô Einai'

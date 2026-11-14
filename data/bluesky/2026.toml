@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2anmgzgws2n'
+created_at = '2026-11-14T04:22:33.647Z'
+text = '"Caves of Qud has been down for 36 hours now, we need to call in Brian!"'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3n2anevcdis27'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2a6f5rudc2z'
+created_at = '2026-11-13T23:50:02.953Z'
+text = 'When your Druid tank overpulls in a dungeon.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n27ti6rons26'
 created_at = '2026-11-13T20:34:53.493Z'
 text = 'Wonder how long it will take post-release for someone to use an LLM to port GTA VI to PC?'
