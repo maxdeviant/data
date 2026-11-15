@@ -2,6 +2,18 @@
 name = 'Roses'
 artist = 'Banks Arcade'
 album = 'Roses'
+listened_at = '2026-11-15T16:09:57Z'
+
+[[tracks]]
+name = 'Roses'
+artist = 'Banks Arcade'
+album = 'Roses'
+listened_at = '2026-11-15T05:06:20Z'
+
+[[tracks]]
+name = 'Roses'
+artist = 'Banks Arcade'
+album = 'Roses'
 listened_at = '2026-11-15T05:02:28Z'
 
 [[tracks]]

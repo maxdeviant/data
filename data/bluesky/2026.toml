@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2ecsitbjk2d'
+created_at = '2026-11-15T15:19:44.662Z'
+text = 'I love your teapot!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zviscnpwyvj6y32agi5davn5/app.bsky.feed.post/3n2co3pe5v22j'
+author_did = 'did:plc:zviscnpwyvj6y32agi5davn5'
+author_handle = 'isaaccorbrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2ebior3v22d'
+created_at = '2026-11-15T14:56:21.592Z'
+text = 'I’m over here losing it at this NL bit 😂'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:vt464ohreg6sglmnb4cuctmr/app.bsky.feed.post/3n2e7gblec22l'
+author_did = 'did:plc:vt464ohreg6sglmnb4cuctmr'
+author_handle = 'eikopf.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2bqxvjgyk2q'
 created_at = '2026-11-14T14:55:18.914Z'
 text = 'I need to know: roughly what age/generation is the librarian?'
