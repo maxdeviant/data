@@ -2,6 +2,18 @@
 name = 'MOVE'
 artist = 'Banks Arcade'
 album = 'SECOND PLACE SUPERSTAR'
+listened_at = '2026-11-14T20:27:26Z'
+
+[[tracks]]
+name = 'BEND IT'
+artist = 'Fei-Fei'
+album = 'BEND IT'
+listened_at = '2026-11-14T20:23:58Z'
+
+[[tracks]]
+name = 'MOVE'
+artist = 'Banks Arcade'
+album = 'SECOND PLACE SUPERSTAR'
 listened_at = '2026-11-14T18:59:26Z'
 
 [[tracks]]
