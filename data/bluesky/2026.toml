@@ -1,4 +1,37 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2fnvdigyk2x'
+created_at = '2026-11-16T04:10:50.615Z'
+text = '🦈'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2fftsguz22f'
+created_at = '2026-11-16T01:46:49.052Z'
+text = 'So I suppose the question becomes “how likely is it that the average project will have zero external dependencies?”'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2fftsaivs2f'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2fftsaivs2f'
+created_at = '2026-11-16T01:46:49.051Z'
+text = '''
+At least in the case of something like jiff that becomes part of the public API, it would make sense that a library exists so that multiple crates can talk about time in a way they all understand.
+
+But if you vendor *all* dependencies then that does become less of an issue.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2ffe7ruyc2i'
+author_did = 'did:plc:ctphcgyhnllfluywokibtrgb'
+author_handle = 'davidcrespo.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2fefu2n522f'
+created_at = '2026-11-16T01:21:07.451Z'
+text = 'I thought this post was about Rust.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2ewihnlcs2o'
 created_at = '2026-11-15T21:12:02.720Z'
 text = 'Finally updated my /now page, after two years of neglect.'
