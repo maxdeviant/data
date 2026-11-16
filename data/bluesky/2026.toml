@@ -1,4 +1,47 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2ewihnlcs2o'
+created_at = '2026-11-15T21:12:02.720Z'
+text = 'Finally updated my /now page, after two years of neglect.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2evd33g5s2p'
+created_at = '2026-11-15T20:51:08.027Z'
+text = '''Thank you! I do wonder if I could get the seals to be even more stylized, but I suspect there's a limit on what is possible with just CSS.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:k644h4rq5bjfzcetgsa6tuby/app.bsky.feed.post/3n2eroc2r6c26'
+author_did = 'did:plc:k644h4rq5bjfzcetgsa6tuby'
+author_handle = 'natalie.sh'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2eudps4zc2o'
+created_at = '2026-11-15T20:33:36.001Z'
+text = 'I knew Zelda would have impeccable trigger discipline.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:p2cp5gopk7mgjegy6wadk3ep/app.bsky.feed.post/3n2ckof22ik2h'
+author_did = 'did:plc:p2cp5gopk7mgjegy6wadk3ep'
+author_handle = 'samuel.fm'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2er4xye4s2f'
+created_at = '2026-11-15T19:36:08.484Z'
+text = 'I’m torn between posting about some of my favorite design details vs letting people discover them themselves :)'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2eqqn6rpk2p'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2eqqn6rpk2p'
+created_at = '2026-11-15T19:29:14.509Z'
+text = '''
+Gave my website a design refresh this weekend: maxdeviant.com
+
+Will probably still be tweaking things ad infinitum, but am very happy with how it's turned out.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2ecsitbjk2d'
 created_at = '2026-11-15T15:19:44.662Z'
 text = 'I love your teapot!'
