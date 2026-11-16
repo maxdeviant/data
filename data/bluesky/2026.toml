@@ -1,4 +1,50 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2h7w4jjks2y'
+created_at = '2026-11-16T19:06:03.968Z'
+text = '''
+I haven't deleted the Bluesky app, but I do have schedules set up on my Brick (getbrick.com) to block the Bluesky and other social apps at certain times.
+
+I have a rule that kicks in each night so that I can't scroll on my phone in the morning without getting out of bed.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4filgs73k7oxroktdu5g2lk6/app.bsky.feed.post/3n2h5gdbcfs22'
+author_did = 'did:plc:4filgs73k7oxroktdu5g2lk6'
+author_handle = 'nickgerace.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2h75vkl5s2y'
+created_at = '2026-11-16T18:52:31.355Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4filgs73k7oxroktdu5g2lk6/app.bsky.feed.post/3n2h5gdbcfs22'
+author_did = 'did:plc:4filgs73k7oxroktdu5g2lk6'
+author_handle = 'nickgerace.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2h6trcg2c2y'
+created_at = '2026-11-16T18:46:51.349Z'
+text = 'No, they are generated procedurally.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dz4unyjluokpgtpydfis62cv/app.bsky.feed.post/3n2h6oop74k27'
+author_did = 'did:plc:dz4unyjluokpgtpydfis62cv'
+author_handle = 'shub.club'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2h6mljruk2y'
+created_at = '2026-11-16T18:42:50.418Z'
+text = '''
+The position of the sun and moon are based on the input seed, so there is variance between different images, but it doesn't reflect current time.
+
+The phases of the moon do change to reflect the date of the post they belong to :)'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dz4unyjluokpgtpydfis62cv/app.bsky.feed.post/3n2h6743ypk27'
+author_did = 'did:plc:dz4unyjluokpgtpydfis62cv'
+author_handle = 'shub.club'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2fnvdigyk2x'
 created_at = '2026-11-16T04:10:50.615Z'
 text = '🦈'

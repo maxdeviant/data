@@ -1,4 +1,40 @@
 [[tracks]]
+name = 'Purple Static'
+artist = 'Mirrors'
+album = '''The Ego's Weight'''
+listened_at = '2026-11-16T21:26:41Z'
+
+[[tracks]]
+name = 'Drowning Therapy'
+artist = 'Cane Hill'
+album = 'a piece of me i never let you find.'
+listened_at = '2026-11-16T21:23:09Z'
+
+[[tracks]]
+name = 'Roses'
+artist = 'Banks Arcade'
+album = 'Roses'
+listened_at = '2026-11-16T21:18:12Z'
+
+[[tracks]]
+name = 'Roses'
+artist = 'Banks Arcade'
+album = 'Roses'
+listened_at = '2026-11-16T18:42:04Z'
+
+[[tracks]]
+name = 'Roses'
+artist = 'Banks Arcade'
+album = 'Roses'
+listened_at = '2026-11-16T18:38:12Z'
+
+[[tracks]]
+name = 'HAVE FAITH'
+artist = 'Banks Arcade'
+album = 'SECOND PLACE SUPERSTAR'
+listened_at = '2026-11-15T20:29:28Z'
+
+[[tracks]]
 name = 'WAIT'
 artist = 'Banks Arcade'
 album = 'SECOND PLACE SUPERSTAR'
