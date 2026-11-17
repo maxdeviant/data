@@ -1,4 +1,16 @@
 [[tracks]]
+name = 'Roses'
+artist = 'SAINt JHN'
+album = 'Collection One'
+listened_at = '2026-11-17T17:44:10Z'
+
+[[tracks]]
+name = 'Revolution: Now'
+artist = 'Blind Channel'
+album = 'Painstream'
+listened_at = '2026-11-16T23:36:03Z'
+
+[[tracks]]
 name = 'Types of Killing'
 artist = 'Blind Channel'
 album = 'Painstream'
