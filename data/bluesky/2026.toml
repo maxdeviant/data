@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2hzohryqs23'
+created_at = '2026-11-17T02:47:04.627Z'
+text = 'Airborne Impalement'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2hwkvjnck2x'
+author_did = 'did:plc:4vvaxwovyg4yo4n7dyyncaiu'
+author_handle = 'thebadcode.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2h7w4jjks2y'
 created_at = '2026-11-16T19:06:03.968Z'
 text = '''
