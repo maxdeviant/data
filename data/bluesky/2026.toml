@@ -1,4 +1,32 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2mdcn6wg22m'
+created_at = '2026-11-18T19:50:04.013Z'
+text = 'Good luck, Amos!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3n2mdbrtmnk2y'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2mc5ahtzs2y'
+created_at = '2026-11-18T19:29:09.163Z'
+text = '''
+Just happened to me as well.
+
+Glad (?) to know it wasn't just me 😬'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4tfenpfog244rxry5uz4vtk/app.bsky.feed.post/3n2m7krfqpk25'
+author_did = 'did:plc:i4tfenpfog244rxry5uz4vtk'
+author_handle = 'lizthegrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2m35wrdtk2y'
+created_at = '2026-11-18T17:24:16.351Z'
+text = '''If your software development process is getting sloppier instead of more rigorous with LLMs, you're not leveraging the technology to its full potential.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2kdgdxxx22p'
 created_at = '2026-11-18T00:46:49.087Z'
 text = 'Average Mastodon user behavior 😪'
