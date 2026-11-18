@@ -1,4 +1,117 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2kdgdxxx22p'
+created_at = '2026-11-18T00:46:49.087Z'
+text = 'Average Mastodon user behavior 😪'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2k7pvlvbc2y'
+created_at = '2026-11-17T23:40:34.593Z'
+text = '''
+That's something that we were discussing in this other thread.
+
+I think there are features that could be added to Rust that would allow for more easily reusing the machinery around `Option` and `Result` for custom enums.
+
+But also, code duplication is not the end of the world.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:calb223buaochr7b4fq36ule/app.bsky.feed.post/3n2k7l3alnk2u'
+author_did = 'did:plc:calb223buaochr7b4fq36ule'
+author_handle = 'informatheux.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2k4mssaus2y'
+created_at = '2026-11-17T22:45:09.649Z'
+text = '''
+You could use `Result<T, ()>`, which would be functionally equivalent to an `Option<T>`, but to Rain's earlier point, this is less clear than defining our own enum.
+
+I see overuse of `Option<T>` as a form of primitive obsession: refactoring.guru/smells/primi...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2k4msolos2y'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2k4msolos2y'
+created_at = '2026-11-17T22:45:09.648Z'
+text = '''
+In this case there isn't an error. The `with_timeout` function this is used with races two futures—the operation and the timeout future—against each other and returns whichever one completes first.
+
+So in the case of the timeout, we just need to know it timed out.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:aucluiw4xt6xumph22g25dbq/app.bsky.feed.post/3n2k4gkzflk2j'
+author_did = 'did:plc:aucluiw4xt6xumph22g25dbq'
+author_handle = 'jdc.pub'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2k42cswe22y'
+created_at = '2026-11-17T22:34:49.032Z'
+text = '''
+Agreed!
+
+It would be great if there was an easier way to have custom enums opt-in to behaviors of `Option` (like automatically implementing `.map`, etc.).
+
+Like how in Haskell you would implement `Functor` for a custom type.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:nvflwun6ztxyktjsoue3cmva/app.bsky.feed.post/3n2k3toi5qc2m'
+author_did = 'did:plc:nvflwun6ztxyktjsoue3cmva'
+author_handle = 'myrrlyn.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2k3np4ipc2y'
+created_at = '2026-11-17T22:27:45.722Z'
+text = 'I also had to add "Use American English spelling everywhere." to the list, after Opus 5.5 decided it wanted to be British.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2k3mcwwdc2y'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2k3mcwwdc2y'
+created_at = '2026-11-17T22:26:59.401Z'
+text = '''
+This is why I have "Always use the Oxford comma." under the "Documentation" section of my AGENTS.md.
+
+That, and the other great rules borrowed from `cargo-nextest`:
+
+github.com/nextest-rs/n...'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2k36v5lv22y'
+created_at = '2026-11-17T22:19:28.733Z'
+text = '''
+Overuse of `Option` (and, heaven-forbid, `Result`) is definitely a pet peeve of mine.
+
+Here's a good example from Zed's Cloud codebase:
+
+```
+enum TimeoutOutcome<T> {
+    Ok(T),
+    Timeout,
+}
+```
+
+So much clearer to have `TimeoutOutcome<T>` as a return type than `Option<T>`.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3n2k2icqooc2d'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2jphwu7wk2y'
+created_at = '2026-11-17T18:49:47.611Z'
+text = '👀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4filgs73k7oxroktdu5g2lk6/app.bsky.feed.post/3n2jpfevuvc22'
+author_did = 'did:plc:4filgs73k7oxroktdu5g2lk6'
+author_handle = 'nickgerace.dev'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2jdtj4xy223'
 created_at = '2026-11-17T15:21:30.964Z'
 text = 'Sad day as a long-time `chrono` user/enjoyer.'
