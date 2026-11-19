@@ -1,4 +1,53 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2mpmdrbuk2m'
+created_at = '2026-11-18T23:30:14.577Z'
+text = 'Yea, I feel like it might be time for me to sit down with Claude for a few hours and build a new k8s ingress controller on top of Pingora (or something in Rust).'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2zmxikig2sj7gqaezl5gntae/app.bsky.feed.post/3n2mphypn722v'
+author_did = 'did:plc:2zmxikig2sj7gqaezl5gntae'
+author_handle = 'iame.li'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2mp7d5ct22m'
+created_at = '2026-11-18T23:22:57.716Z'
+text = '''
+Yea, HAProxy is another reverse proxy.
+
+Still written in C, though, so I feel like it would be a lateral move.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:k644h4rq5bjfzcetgsa6tuby/app.bsky.feed.post/3n2mownbkos24'
+author_did = 'did:plc:k644h4rq5bjfzcetgsa6tuby'
+author_handle = 'natalie.sh'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2mouu73gc2m'
+created_at = '2026-11-18T23:17:06.501Z'
+text = '''
+Wonder if Pingora would be a good option…
+
+blog.cloudflare.com/how-we-built...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2zmxikig2sj7gqaezl5gntae/app.bsky.feed.post/3n2mojq5ip222'
+author_did = 'did:plc:2zmxikig2sj7gqaezl5gntae'
+author_handle = 'iame.li'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2mnketuss2y'
+created_at = '2026-11-18T22:53:21.120Z'
+text = '''
+Was thinking this exact thing 😭
+
+Haven't looked into what the options are for replacements.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2zmxikig2sj7gqaezl5gntae/app.bsky.feed.post/3n2mk3ikml22s'
+author_did = 'did:plc:2zmxikig2sj7gqaezl5gntae'
+author_handle = 'iame.li'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2mdcn6wg22m'
 created_at = '2026-11-18T19:50:04.013Z'
 text = 'Good luck, Amos!'
