@@ -1,4 +1,92 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2osc3bpkc2y'
+created_at = '2026-11-19T19:23:30.838Z'
+text = '''
+Interestingly, when I'm having Claude write code for me, I don't notice this as much as a failure mode (and if I do see it, I try to correct accordingly).
+
+But it just seems to pop up *everywhere* when reviewing others' code.
+
+Difference in models (e.g., Claude vs GPT)?'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2orypf7ns2y'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2orypf7ns2y'
+created_at = '2026-11-19T19:18:16.380Z'
+text = '''
+Something I really hate is when code (especially LLM-authored code) has no breathing room.
+
+Every single line is just smooshed together after the last.'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2ordmxcks2y'
+created_at = '2026-11-19T19:06:29.183Z'
+text = 'Has been happening to a number of people (myself included):'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:e5nncb3dr5thdkjir5cfaqfe/app.bsky.feed.post/3n2oqrllnuc2s'
+author_did = 'did:plc:e5nncb3dr5thdkjir5cfaqfe'
+author_handle = 'xeiaso.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2oqet6e3k2y'
+created_at = '2026-11-19T18:49:15.517Z'
+text = ''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3n2oq2lbas224'
+author_did = 'did:plc:gq4fo3u6tqzzdkjlwzpb23tj'
+author_handle = 'dame.is'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2opnwzw4s2o'
+created_at = '2026-11-19T18:36:27.812Z'
+text = 'I’m hearing reports that $ANT is up to $500/share in response to this post.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3n2opktdje22r'
+author_did = 'did:plc:sl3g3nhnad34sfhjnqdivbzd'
+author_handle = 'sunshowers.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2ooccdgik2y'
+created_at = '2026-11-19T18:12:03.267Z'
+text = 'Starting the stopwatch...'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2ooab3nvk2y'
+created_at = '2026-11-19T18:10:54.855Z'
+text = '''How come Tolkien didn't write this??'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2onbrcvjc2l'
+author_did = 'did:plc:4vvaxwovyg4yo4n7dyyncaiu'
+author_handle = 'thebadcode.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2ocs5rtc22r'
+created_at = '2026-11-19T14:46:10.458Z'
+text = 'Wait, I’ve seen this one!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:7dudjk2uag3q4wb7l6vfe5yk/app.bsky.feed.post/3n2ocedhtkk2v'
+author_did = 'did:plc:7dudjk2uag3q4wb7l6vfe5yk'
+author_handle = 'apenwarr.ca'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2o5dmshr22s'
+created_at = '2026-11-19T13:08:34.184Z'
+text = 'This is bad news for my Amos Markov chain parody account.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3n2o45wziz22x'
+author_did = 'did:plc:dqrcz4py2hrv4lzcs6ygoagj'
+author_handle = 'fasterthanli.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2n2j7rags2y'
 created_at = '2026-11-19T02:45:20.879Z'
 text = 'What if I think this is very heartwarming and wholesome?'

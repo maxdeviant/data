@@ -1,4 +1,46 @@
 [[tracks]]
+name = 'Pressure'
+artist = '2hollis'
+album = 'Pirouette'
+listened_at = '2026-11-19T16:57:22Z'
+
+[[tracks]]
+name = 'The Lady in Red'
+artist = '2hollis'
+album = 'Pirouette'
+listened_at = '2026-11-19T16:51:24Z'
+
+[[tracks]]
+name = 'skin'
+artist = '2hollis'
+album = 'Pirouette'
+listened_at = '2026-11-19T16:49:02Z'
+
+[[tracks]]
+name = 'Spring (Love me)'
+artist = '2hollis'
+album = 'Pirouette'
+listened_at = '2026-11-19T16:45:05Z'
+
+[[tracks]]
+name = 'Nazareth'
+artist = 'Sleep Token'
+album = 'Two'
+listened_at = '2026-11-19T15:31:16Z'
+
+[[tracks]]
+name = 'Innocence'
+artist = 'Bow Church'
+album = 'Token'
+listened_at = '2026-11-19T15:31:16Z'
+
+[[tracks]]
+name = 'Eyes wide closed'
+artist = '2hollis'
+album = 'Pirouette'
+listened_at = '2026-11-19T05:09:24Z'
+
+[[tracks]]
 name = 'Æther'
 artist = 'Bow Church'
 album = 'Token'
