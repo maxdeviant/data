@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2n2j7rags2y'
+created_at = '2026-11-19T02:45:20.879Z'
+text = 'What if I think this is very heartwarming and wholesome?'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3n2n2hoshps2w'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2mpmdrbuk2m'
 created_at = '2026-11-18T23:30:14.577Z'
 text = 'Yea, I feel like it might be time for me to sit down with Claude for a few hours and build a new k8s ingress controller on top of Pingora (or something in Rust).'

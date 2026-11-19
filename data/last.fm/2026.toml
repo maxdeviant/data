@@ -1,4 +1,76 @@
 [[tracks]]
+name = 'Æther'
+artist = 'Bow Church'
+album = 'Token'
+listened_at = '2026-11-19T04:04:11Z'
+
+[[tracks]]
+name = 'Volatile'
+artist = 'Bow Church'
+album = 'Token'
+listened_at = '2026-11-19T04:01:45Z'
+
+[[tracks]]
+name = 'Vanishing Footprints'
+artist = 'Bow Church'
+album = 'Token'
+listened_at = '2026-11-19T03:58:11Z'
+
+[[tracks]]
+name = 'Transcendence'
+artist = 'Bow Church'
+album = 'Token'
+listened_at = '2026-11-19T03:50:42Z'
+
+[[tracks]]
+name = 'Possession'
+artist = 'Bow Church'
+album = 'Token'
+listened_at = '2026-11-19T03:46:57Z'
+
+[[tracks]]
+name = 'Winter Falls'
+artist = 'Bow Church'
+album = 'Token'
+listened_at = '2026-11-19T03:42:57Z'
+
+[[tracks]]
+name = 'Sacrifice'
+artist = 'Bow Church'
+album = 'Token'
+listened_at = '2026-11-19T03:38:25Z'
+
+[[tracks]]
+name = 'Migrate'
+artist = 'Bow Church'
+album = 'The Spirits In This Forest Are Older Than Your Gods'
+listened_at = '2026-11-19T03:31:23Z'
+
+[[tracks]]
+name = 'BLINK'
+artist = 'Lorn'
+album = 'Drown the Traitor Within'
+listened_at = '2026-11-19T03:28:51Z'
+
+[[tracks]]
+name = 'Mr. Know It All'
+artist = 'Teddy Swims'
+album = 'Mr. Know It All'
+listened_at = '2026-11-19T03:16:48Z'
+
+[[tracks]]
+name = 'In a Beautiful Place Out in the Country'
+artist = 'Boards of Canada'
+album = 'In a Beautiful Place Out in the Country'
+listened_at = '2026-11-19T03:11:13Z'
+
+[[tracks]]
+name = 'The Lady in Red'
+artist = '2hollis'
+album = 'Pirouette'
+listened_at = '2026-11-19T02:33:38Z'
+
+[[tracks]]
 name = 'Hurt'
 artist = '2hollis'
 album = 'Pirouette'
