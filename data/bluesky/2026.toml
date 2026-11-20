@@ -1,4 +1,67 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2r7akerxk2v'
+created_at = '2026-11-20T18:20:37.679Z'
+text = 'Darn, I was hoping for another catchy song!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:2k4dwow7fqauc2sysuzzj6qz/app.bsky.feed.post/3n2r6vldrvs2r'
+author_did = 'did:plc:2k4dwow7fqauc2sysuzzj6qz'
+author_handle = 'weiyen.net'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2r5b6ir222v'
+created_at = '2026-11-20T17:45:11.296Z'
+text = '''
+As an M2 MacBook Air owner, I can confirm the form factor is *incredible*.
+
+Also love the fact that it's dead silent.
+
+maxdeviant.com/uses/#m2-mac...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:4filgs73k7oxroktdu5g2lk6/app.bsky.feed.post/3n2r554ej6k2k'
+author_did = 'did:plc:4filgs73k7oxroktdu5g2lk6'
+author_handle = 'nickgerace.dev'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2r2tdlyes2t'
+created_at = '2026-11-20T17:01:39.400Z'
+text = '''
+I wish there were was a way to leave a note about *why* I’ve blocked someone, because that would give signal as to whether they may one day warrant and unblocking.
+
+But obviously would not want that data visible to everyone (so would have to be off-proto or stored privately).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:6eajdv6iytlolphtcsxcfh2o/app.bsky.feed.post/3n2r2765nvk2b'
+author_did = 'did:plc:6eajdv6iytlolphtcsxcfh2o'
+author_handle = 'tifaret.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2qxfw6jcc2t'
+created_at = '2026-11-20T16:00:27.888Z'
+text = 'In my country, when someone says “I’ve solved the Riemann Hypothesis” we reply “I think that’s worth -$80B”, and I think that’s beautiful.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2qvzbb7dk2z'
+author_did = 'did:plc:ctphcgyhnllfluywokibtrgb'
+author_handle = 'davidcrespo.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2qrp5a7z22c'
+created_at = '2026-11-20T14:18:14.820Z'
+text = 'GTA 6 7'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zviscnpwyvj6y32agi5davn5/app.bsky.feed.post/3n2pqbypxmc2a'
+author_did = 'did:plc:zviscnpwyvj6y32agi5davn5'
+author_handle = 'isaaccorbrey.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2qqpx2vi52c'
+created_at = '2026-11-20T14:00:47.529Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2pfb7gwys2u'
 created_at = '2026-11-20T01:03:02.744Z'
 text = 'Congratulations! That’s very exciting.'
