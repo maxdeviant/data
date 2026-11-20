@@ -1,4 +1,55 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2pfb7gwys2u'
+created_at = '2026-11-20T01:03:02.744Z'
+text = 'Congratulations! That’s very exciting.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:3ohd5nodgvayjdegkhzayr6q/app.bsky.feed.post/3n2pewhlnjs2l'
+author_did = 'did:plc:3ohd5nodgvayjdegkhzayr6q'
+author_handle = 'adamchalmers.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2pdb5acvc2u'
+created_at = '2026-11-20T00:27:12.931Z'
+text = 'I knew Anthropic had a lot of founders, but sheesh! I think we can all agree that 5,300 founders is a tad excessive.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2p6w6h36c2v'
+created_at = '2026-11-19T23:09:30.148Z'
+text = 'Based on his posts here, I feel like Rob Pike would sign *any* letter that is in opposition to an AI company.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2oxl2ftws2v'
+created_at = '2026-11-19T20:58:00.623Z'
+text = '''Maybe I'll put all the complainers on a moderation list and see how that goes over with them...'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:5tlwm4ujvnudrzndqubefgiu/app.bsky.feed.post/3n2ox3w27ns2r'
+author_did = 'did:plc:5tlwm4ujvnudrzndqubefgiu'
+author_handle = 'danny.page'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2oxhht4y22v'
+created_at = '2026-11-19T20:56:00.472Z'
+text = '''
+Great post! You hit on a lot of the things that I'm also thinking about right now.
+
+(also, I love your website's aesthetic)'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:55kp2u2cj32xojj2rokghg5v/app.bsky.feed.post/3n2ovgqmgz22l'
+author_did = 'did:plc:55kp2u2cj32xojj2rokghg5v'
+author_handle = 'iankduncan.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2owlxohh22y'
+created_at = '2026-11-19T20:40:37.573Z'
+text = '''
+Ah yes, it's time for everyone to be upset at the Bluesky team for adding new features that people have asked for.
+
+I don't get it.'''
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2osc3bpkc2y'
 created_at = '2026-11-19T19:23:30.838Z'
 text = '''
