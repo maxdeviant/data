@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2sbevbkek2r'
+created_at = '2026-11-21T04:31:30.543Z'
+text = 'I’m excited to play GTA VII in 2047!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3n2s5z2362c2o'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2rr3zgfg22t'
 created_at = '2026-11-20T23:40:13.040Z'
 text = 'I’m going to become the Joker.'
