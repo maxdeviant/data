@@ -1,4 +1,39 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2vu3ovcec2b'
+created_at = '2026-11-22T14:44:22.171Z'
+text = 'I hear about AI psychosis a lot, but I don’t think we’re talking enough about anti-AI psychosis.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2vtdt5bck2b'
+created_at = '2026-11-22T14:31:01.322Z'
+text = 'Joke’s on them, I have all my GitHub notification emails disabled.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:pdm7pn3gkyjdcmsmjqddd3vt/app.bsky.feed.post/3n2vps3bes22u'
+author_did = 'did:plc:pdm7pn3gkyjdcmsmjqddd3vt'
+author_handle = 'ddsboston.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2vt3aij322b'
+created_at = '2026-11-22T14:26:13.319Z'
+text = 'You’re going to have a great day!'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:msauhqa34ckvoct4rsdoijsy/app.bsky.feed.post/3n2vsc2wark2i'
+author_did = 'did:plc:msauhqa34ckvoct4rsdoijsy'
+author_handle = 'tft.io'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2vscwndik2b'
+created_at = '2026-11-22T14:12:37.692Z'
+text = 'I’m afraid it is just FOMO cope (I say, as someone also experiencing GTA VI FOMO).'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:623st67kkthivj4c6icvkqnq/app.bsky.feed.post/3n2v5yk5oac2h'
+author_did = 'did:plc:623st67kkthivj4c6icvkqnq'
+author_handle = 'ens0.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2us6ndgf22t'
 created_at = '2026-11-22T04:37:33.966Z'
 text = 'Wreathed in shadow.'
