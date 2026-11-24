@@ -1,4 +1,59 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2zs6twt6s2c'
+created_at = '2026-11-24T04:20:59.600Z'
+text = '''Wish he'd at least throw a few GPUs my way first.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:n4765ftlk5sxhgd5low6rqbd/app.bsky.feed.post/3n2zrp5yc7k2l'
+author_did = 'did:plc:n4765ftlk5sxhgd5low6rqbd'
+author_handle = 'unormal.bsky.social'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2zrycsb3c2c'
+created_at = '2026-11-24T04:17:20.295Z'
+text = '''
+And so, it begins...
+
+portwatch-vi.xyz'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2zrss4i6k2c'
+created_at = '2026-11-24T04:14:15.035Z'
+text = 'There is one option...'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3n2zrblcd322x'
+author_did = 'did:plc:wamidydbgu3u6fk3yckaglnz'
+author_handle = 'philpax.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2zjzbnao22c'
+created_at = '2026-11-24T01:54:42.704Z'
+text = 'I see how it is.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2zfxnqdk22m'
+created_at = '2026-11-24T00:42:13.313Z'
+text = '''
+Who would win?
+
+The most anticipated game of the decade, releasing on console with a PC launch date
+
+OR
+
+A small army of high schoolers armed with Claude and Codex subscriptions'''
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2zf3wwcuc2m'
+created_at = '2026-11-24T00:26:43.419Z'
+text = 'Mom and dad must have gotten the token bill from Anthropic.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3n2zczu74ds2j'
+author_did = 'did:plc:wamidydbgu3u6fk3yckaglnz'
+author_handle = 'philpax.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2z4m4osoc2n'
 created_at = '2026-11-23T21:54:42.661Z'
 text = 'Pour one out for a real one 🫡'
