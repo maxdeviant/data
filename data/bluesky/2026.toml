@@ -1,4 +1,37 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n33a7f2kms2n'
+created_at = '2026-11-24T18:04:29.672Z'
+text = '''About to start designing CLIs only with long flags so that people can't use the short ones even if they want to.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:77aze6zegihuenovevaiqd6p/app.bsky.feed.post/3n337vuzikc2m'
+author_did = 'did:plc:77aze6zegihuenovevaiqd6p'
+author_handle = 'lucretiel.me'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n334fonz7c2n'
+created_at = '2026-11-24T16:56:26.105Z'
+text = 'My sincerest condolences.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rnpkyqnmsw4ipey6eotbdnnf/app.bsky.feed.post/3n334cfx6nc2l'
+author_did = 'did:plc:rnpkyqnmsw4ipey6eotbdnnf'
+author_handle = 'pds.dad'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n332vcudyc2n'
+created_at = '2026-11-24T16:29:23.117Z'
+text = '''
+Nice! That's a big moment.
+
+Got my level 40 mount the other day, as well :)'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:ddcdpvayapxexb26u6z3zlac/app.bsky.feed.post/3n32svjswn224'
+author_did = 'did:plc:ddcdpvayapxexb26u6z3zlac'
+author_handle = 'socio-steve.bsky.social'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n2zs6twt6s2c'
 created_at = '2026-11-24T04:20:59.600Z'
 text = '''Wish he'd at least throw a few GPUs my way first.'''
