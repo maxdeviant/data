@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n356vyxulc2q'
+created_at = '2026-11-25T12:46:40.739Z'
+text = '👀'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:55kp2u2cj32xojj2rokghg5v/app.bsky.feed.post/3n34lx7ivbk2i'
+author_did = 'did:plc:55kp2u2cj32xojj2rokghg5v'
+author_handle = 'iankduncan.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n34fmrxmcc27'
+created_at = '2026-11-25T05:14:07.862Z'
+text = 'This is off topic, but why does the blonde woman in the center look so disproportionate??'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:623st67kkthivj4c6icvkqnq/app.bsky.feed.post/3n34f2itr7k2e'
+author_did = 'did:plc:623st67kkthivj4c6icvkqnq'
+author_handle = 'ens0.me'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n33yyphv2k27'
 created_at = '2026-11-25T01:28:09.258Z'
 text = 'The devs at Rockstar, watching the progress meter trend towards 100% playable: “Claude! Hurry it up with the PC port! They’re gaining on us!”'
