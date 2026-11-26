@@ -1,4 +1,24 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3664eupx22m'
+created_at = '2026-11-25T22:05:00.549Z'
+text = 'I thought this was a great talk, Armin! Really enjoyed it.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:yym5dkfbnzf6lspvh4hnstjg/app.bsky.feed.post/3n364sno22223'
+author_did = 'did:plc:yym5dkfbnzf6lspvh4hnstjg'
+author_handle = 'mitsuhiko.at'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n35vfmvbh22m'
+created_at = '2026-11-25T19:29:07.268Z'
+text = '''And he's so right for that.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3n35vbrledi22'
+author_did = 'did:plc:zntngpowgd6rorjt3haywj36'
+author_handle = 'aly.codes'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n356vyxulc2q'
 created_at = '2026-11-25T12:46:40.739Z'
 text = '👀'
