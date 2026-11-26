@@ -1,4 +1,19 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3a5mzxfxk2t'
+created_at = '2026-11-26T17:01:45.255Z'
+text = '*Tucker Carlson voice* “Sorry, kids, you don’t get a Thanksgiving parade this year. Commy Mamdani replaced all the men handling the balloons with the shes and thems. They’re so weak they can’t even handle a little breeze. Huh, interesting!”'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n37si62rck2n'
+created_at = '2026-11-26T13:42:10.632Z'
+text = 'It certainly sounds cool, but I haven’t had a chance to play around with it yet.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:qfpnj4og54vl56wngdriaxug/app.bsky.feed.post/3n37rxfr2is2n'
+author_did = 'did:plc:qfpnj4og54vl56wngdriaxug'
+author_handle = 'oppi.li'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n36weg4n2s2i'
 created_at = '2026-11-26T05:19:00.095Z'
 text = 'I am a duck.'
