@@ -1,4 +1,39 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3cmbzlbwk2w'
+created_at = '2026-11-27T16:29:21.371Z'
+text = 'That information would be a cognitohazard, I fear.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:rqm4qgf6jdmb35mxatuzi6cq/app.bsky.feed.post/3n3ckutwm522k'
+author_did = 'did:plc:rqm4qgf6jdmb35mxatuzi6cq'
+author_handle = 'jamesmunns.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3ck4d72sc2w'
+created_at = '2026-11-27T15:50:22.645Z'
+text = 'I literally just started installing a macOS update on my Mac mini and then the power went out.'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3cdxvtudd2r'
+created_at = '2026-11-27T14:00:31.633Z'
+text = 'Here are my top artists I listened to this last week! 🎸'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3cdiwyjus2w'
+created_at = '2026-11-27T13:52:09.860Z'
+text = 'Oh man, I’m a sucker for Flip 7.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:gfrmhdmjvxn2sjedzboeudef/app.bsky.feed.post/3n3bhqoxcug2c'
+author_did = 'did:plc:gfrmhdmjvxn2sjedzboeudef'
+author_handle = 'cameron.stream'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3c73ivtw22e'
+created_at = '2026-11-27T12:33:03.920Z'
+text = 'I’ve been read for absolute filth.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3b57mat2c2e'
 created_at = '2026-11-27T02:26:54.416Z'
 text = '''
