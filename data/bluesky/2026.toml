@@ -1,4 +1,84 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3b57mat2c2e'
+created_at = '2026-11-27T02:26:54.416Z'
+text = '''
+I’ve been following the porting process with interest, and will be curious to see what happens now.
+
+I’m mildly optimistic about their chances of success (based on the models’ aptitude for this sort of task).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:7dudjk2uag3q4wb7l6vfe5yk/app.bsky.feed.post/3n3b4qjsnks2s'
+author_did = 'did:plc:7dudjk2uag3q4wb7l6vfe5yk'
+author_handle = 'apenwarr.ca'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3atthqaol2n'
+created_at = '2026-11-26T23:39:03.354Z'
+text = '''
+They haven't announced a release date for the PC version at all yet.
+
+I'm just looking at the historical lag for the PC release for their other titles:
+
+- GTA V: Sep 17, 2013 → Apr 14, 2015 (~19 months)
+- RDR2: Oct 26, 2018 → Nov 5, 2019 (~12 months)'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:k644h4rq5bjfzcetgsa6tuby/app.bsky.feed.post/3n3atlmbf3l2l'
+author_did = 'did:plc:k644h4rq5bjfzcetgsa6tuby'
+author_handle = 'natalie.sh'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3atkevn5t2n'
+created_at = '2026-11-26T23:33:58.225Z'
+text = '''The outcome that I'm really hoping for is that these unofficial PC ports light a fire under Rockstar's ass and get them to pump the gas on releasing the PC port in a reasonable time frame (none of this 19 months nonsense).'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3atkevm6l2n'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3atkevm6l2n'
+created_at = '2026-11-26T23:33:58.224Z'
+text = '''
+The Rockstar developers have the advantage of having access to the source code and also understanding the engine and problem domain.
+
+That is the ideal case to employ LLMs in order to create a better product.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3atkevm6k2n'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3atkevm6k2n'
+created_at = '2026-11-26T23:33:58.223Z'
+text = '''And even if they don't have a PC build (or one that is at the quality level to release to consumers), if a bunch of people with no clue what they're doing have made this progress in 2 days by prompting LLMs, there's really no excuse why Rockstar can't do the same.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3atkevka22n'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3atkevka22n'
+created_at = '2026-11-26T23:33:58.222Z'
+text = '''
+I think it is very plausible that Rockstar already has a PC build, and is just withholding it for the purpose of getting players to buy the game twice, across multiple platforms.
+
+If that is the case, then it's a really bad look to be siding with Rockstar here.'''
+
+[posts.in_reply_to]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3atkeqe7k2n'
+author_did = 'did:plc:i4mpbrvmprmuyqwum2odtfhz'
+author_handle = 'maxdeviant.com'
+
+[[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3atkeqe7k2n'
+created_at = '2026-11-26T23:33:58.221Z'
+text = 'Seeing so many people upset about the GTA VI PC porting process, and it seems really odd to be defending Rockstar in this situation.'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3a5mzxfxk2t'
 created_at = '2026-11-26T17:01:45.255Z'
 text = '*Tucker Carlson voice* “Sorry, kids, you don’t get a Thanksgiving parade this year. Commy Mamdani replaced all the men handling the balloons with the shes and thems. They’re so weak they can’t even handle a little breeze. Huh, interesting!”'

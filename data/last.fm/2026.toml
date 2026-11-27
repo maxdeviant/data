@@ -1,4 +1,22 @@
 [[tracks]]
+name = 'Forever Yours'
+artist = 'Resolve'
+album = 'Between Me and The Machine'
+listened_at = '2026-11-26T22:23:09Z'
+
+[[tracks]]
+name = 'MR. nobody'
+artist = 'Jagwar Twin'
+album = 'MR. nobody'
+listened_at = '2026-11-26T22:20:00Z'
+
+[[tracks]]
+name = 'DEEPSEEK'
+artist = 'Grimes'
+album = '爱'
+listened_at = '2026-11-26T22:15:10Z'
+
+[[tracks]]
 name = 'Fuck Mon Ordinateur'
 artist = 'Ninajirachi'
 album = 'I Love My Computer, All My Friends Are Inside It'
