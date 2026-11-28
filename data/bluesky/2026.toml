@@ -1,4 +1,14 @@
 [[posts]]
+uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3exyugrk22j'
+created_at = '2026-11-28T15:04:18.364Z'
+text = 'They’re going to make a Wikipedia page out of this.'
+
+[posts.in_reply_to]
+uri = 'at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3n3excjfoa22u'
+author_did = 'did:plc:zntngpowgd6rorjt3haywj36'
+author_handle = 'aly.codes'
+
+[[posts]]
 uri = 'at://did:plc:i4mpbrvmprmuyqwum2odtfhz/app.bsky.feed.post/3n3cmbzlbwk2w'
 created_at = '2026-11-27T16:29:21.371Z'
 text = 'That information would be a cognitohazard, I fear.'
